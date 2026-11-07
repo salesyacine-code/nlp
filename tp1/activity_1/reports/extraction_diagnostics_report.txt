@@ -1,0 +1,68 @@
+==================================================================================
+           ACTIVITY I: JORADP TEXT EXTRACTION DIAGNOSTIC REPORT
+         Ecole Militaire Polytechnique - Natural Language Processing
+==================================================================================
+ Total Analyzed Documents : 50
+ Total Corpus Characters   : 5,324,347
+ Total Lines Scanned       : 192,205
+----------------------------------------------------------------------------------
+ PROGRAMMATIC ANOMALY AUDIT (QUANTITATIVE & SAMPLES):
+----------------------------------------------------------------------------------
+
+[a] Broken Line Breaks Inside Sentences (hard newlines breaking syntactic flow)
+    • Total Occurrences Detected : 45,328
+    • Affected Documents Count   : 50/50 (100.0%)
+    • Concrete Extraction Snippets (Sample Evidence):
+      [1] [F2024001] ...A ⏎ 2180,00 D.A ⏎ ETRANGER ⏎ (Pays autres ⏎ que le Maghreb) ⏎ 1 An ⏎ 2675,00 D.A ⏎ 53...
+      [2] [F2024001] ... relative à la conformité de la loi ⏎ organique modifiant et complétant l...
+      [3] [F2024001] ...iant et complétant la loi organique ⏎ n° 18-15 du 22 Dhou El Hidja 1439 c...
+
+[b] End-of-line Word Hyphenation Splits (e.g. 'admi- / nistration')
+    • Total Occurrences Detected : 195
+    • Affected Documents Count   : 39/50 (78.0%)
+    • Concrete Extraction Snippets (Sample Evidence):
+      [1] [F2024001] 'sous- programmes' -> [Reconstructed: sousprogrammes]
+      [2] [F2024001] 'sous- programmes' -> [Reconstructed: sousprogrammes]
+      [3] [F2024001] 'sous- programmes' -> [Reconstructed: sousprogrammes]
+
+[c] Repetitive Running Headers & Footers (official gazette stamps, banners)
+    • Total Occurrences Detected : 2,962
+    • Affected Documents Count   : 50/50 (100.0%)
+    • Concrete Extraction Snippets (Sample Evidence):
+      [1] [F2024001] JJOOUURRNNAALL  OOFFFFIICCIIEELL
+      [2] [F2024001] Edition originale, le numéro : 14,00 dinars. Edition originale et sa traduction, le numéro
+      [3] [F2024001] SECRETARIAT GENERAL
+DU GOUVERNEMENT
+
+[d] Isolated Pagination Numbers (standalone digits / 'Page X' lines)
+    • Total Occurrences Detected : 11,430
+    • Affected Documents Count   : 50/50 (100.0%)
+    • Concrete Extraction Snippets (Sample Evidence):
+      [1] [F2024001] Isolated page marker line: '6'
+      [2] [F2024001] Isolated page marker line: '7'
+      [3] [F2024001] Isolated page marker line: '8'
+
+[e] Multiple Consecutive Spaces and Non-Breaking Spaces (\xa0, \u202f)
+    • Total Occurrences Detected : 22,559
+    • Affected Documents Count   : 50/50 (100.0%)
+    • Concrete Extraction Snippets (Sample Evidence):
+      [1] [F2024001] Multi-space: ...␣2024
+JJOOUURRNNAALL␣␣OOFFFFIICCIIEELL
+DDE...
+      [2] [F2024001] Multi-space: ...OFFFFIICCIIEELL
+DDEE␣␣LLAA␣␣RREEPPUUBBLLII...
+      [3] [F2024001] Non-breaking space: ...toire
+Développement [\xa0_NBSP]et
+attractivité du t...
+
+[f] Two-Column Layout Interleaving & Reading Order Artifacts
+    • Total Occurrences Detected : 1,953
+    • Affected Documents Count   : 43/50 (86.0%)
+    • Concrete Extraction Snippets (Sample Evidence):
+      [1] [F2024001] [Col1: 'Fatiha BENABBOU, membre ;'] <==GAP==> [Col2: 'Abdelouahab KHERIEF, membre ;']
+      [2] [F2024001] [Col1: '647 028 780 000'] <==GAP==> [Col2: 'Titre 2 : Dépenses de']
+      [3] [F2024003] [Col1: 'coordonnées géographiques (WGS84) :'] <==GAP==> [Col2: 'P1 : X=0° 35' 1,65"0 ; Y=32° 44' 35,18"N']
+
+==================================================================================
+ END OF EXTRACTION DIAGNOSTICS REPORT
+==================================================================================

@@ -1,0 +1,68 @@
+==================================================================================
+        ACTIVITY II: CORPUS PREPROCESSING VISUAL INSPECTION REPORT
+       Ecole Militaire Polytechnique - Natural Language Processing
+==================================================================================
+ Below is concrete empirical evidence of raw PDF extraction problems and their
+ exact resolution through our basic preprocessing pipeline:
+
+[1] 1. HEADER AND FOOTER REMOVAL
+    • Source Document: F2024001
+    • [BEFORE - Raw Extracted]:
+      JOURNAL OFFICIEL DE LA REPUBLIQUE ALGERIENNE N° 01 25 Joumada Ethania 1445 7 janvier 20242
+    • [AFTER - Preprocessed]:
+      [COMPLETELY STRIPPED]
+    • Linguistic/Algorithmic Note: Running gazette masthead banner and date stamp eliminated to avoid skewed frequency counts.
+----------------------------------------------------------------------------------
+[2] 2. PAGE NUMBER REMOVAL
+    • Source Document: F2024001
+    • [BEFORE - Raw Extracted]:
+      Line: '6'
+    • [AFTER - Preprocessed]:
+      [COMPLETELY STRIPPED]
+    • Linguistic/Algorithmic Note: Isolated page digit removed so it does not pollute vocabulary or token frequency.
+----------------------------------------------------------------------------------
+[3] 3. PDF HYPHENATION DISAMBIGUATION (PRESERVED COMPOUND)
+    • Source Document: F2024001
+    • [BEFORE - Raw Extracted]:
+      sous- ⏎ programmes
+    • [AFTER - Preprocessed]:
+      sous-programmes
+    • Linguistic/Algorithmic Note: 'sous-programmes' recognized as legitimate French compound word; hyphen kept intact.
+----------------------------------------------------------------------------------
+[4] 4. APOSTROPHE NORMALIZATION
+    • Source Document: F2024001
+    • [BEFORE - Raw Extracted]:
+      ition des autorisations d’engagement et des crédits
+    • [AFTER - Preprocessed]:
+      ition des autorisations d'engagement et des crédits
+    • Linguistic/Algorithmic Note: Typographic/curly apostrophe ('’') normalized to standard ASCII apostrophe (''').
+----------------------------------------------------------------------------------
+[5] 5. QUOTATION MARKS NORMALIZATION
+    • Source Document: F2024001
+    • [BEFORE - Raw Extracted]:
+      s de finances, ainsi rédigé : « Art. 23. — Les crédits sont o
+    • [AFTER - Preprocessed]:
+      s de finances, ainsi rédigé :"Art. 23. — Les crédits sont o
+    • Linguistic/Algorithmic Note: French guillemets (« ») and curly quotes converted to uniform ASCII double quote (").
+----------------------------------------------------------------------------------
+[6] 6. LINE BREAKS NORMALIZATION (PARAGRAPH FLOW)
+    • Source Document: F2024001
+    • [BEFORE - Raw Extracted]:
+      Dimanche 25 Joumada Ethania 1445 ⏎ 
+  Correspondant au 7 janvier 2024 ⏎ 
+  JJOOUURRNNAALL  OOFFFFIICCIIEELL
+    • [AFTER - Preprocessed]:
+      Dimanche 25 Joumada Ethania 1445 Correspondant au 7 janvier 2024 JJOOUURRNNAALL  OOFFFFIICCIIEELL
+    • Linguistic/Algorithmic Note: PDF column-wrap line breaks joined into a fluent continuous sentence.
+----------------------------------------------------------------------------------
+[7] 3. PDF HYPHENATION DISAMBIGUATION (MERGED BROKEN WORD)
+    • Source Document: F2024005
+    • [BEFORE - Raw Extracted]:
+      vice- ⏎ recteurs
+    • [AFTER - Preprocessed]:
+      vicerecteurs
+    • Linguistic/Algorithmic Note: 'vicerecteurs' recognized as a split single word broken by column layout; recombined.
+----------------------------------------------------------------------------------
+==================================================================================
+ END OF PREPROCESSING INSPECTION REPORT
+==================================================================================

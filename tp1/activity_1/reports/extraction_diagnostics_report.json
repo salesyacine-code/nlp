@@ -1,0 +1,73 @@
+{
+  "total_documents": 50,
+  "total_characters": 5324347,
+  "total_lines": 192205,
+  "categories": {
+    "broken_line_breaks": {
+      "category_id": "broken_line_breaks",
+      "description": "Broken Line Breaks Inside Sentences (hard newlines breaking syntactic flow)",
+      "total_occurrences": 45328,
+      "affected_documents_count": 50,
+      "concrete_snippets": [
+        "[F2024001] ...A ⏎ 2180,00 D.A ⏎ ETRANGER ⏎ (Pays autres ⏎ que le Maghreb) ⏎ 1 An ⏎ 2675,00 D.A ⏎ 53...",
+        "[F2024001] ... relative à la conformité de la loi ⏎ organique modifiant et complétant l...",
+        "[F2024001] ...iant et complétant la loi organique ⏎ n° 18-15 du 22 Dhou El Hidja 1439 c..."
+      ]
+    },
+    "hyphenation_splits": {
+      "category_id": "hyphenation_splits",
+      "description": "End-of-line Word Hyphenation Splits (e.g. 'admi- / nistration')",
+      "total_occurrences": 195,
+      "affected_documents_count": 39,
+      "concrete_snippets": [
+        "[F2024001] 'sous- programmes' -> [Reconstructed: sousprogrammes]",
+        "[F2024001] 'sous- programmes' -> [Reconstructed: sousprogrammes]",
+        "[F2024001] 'sous- programmes' -> [Reconstructed: sousprogrammes]"
+      ]
+    },
+    "running_headers_footers": {
+      "category_id": "running_headers_footers",
+      "description": "Repetitive Running Headers & Footers (official gazette stamps, banners)",
+      "total_occurrences": 2962,
+      "affected_documents_count": 50,
+      "concrete_snippets": [
+        "[F2024001] JJOOUURRNNAALL  OOFFFFIICCIIEELL",
+        "[F2024001] Edition originale, le numéro : 14,00 dinars. Edition originale et sa traduction, le numéro",
+        "[F2024001] SECRETARIAT GENERAL\nDU GOUVERNEMENT"
+      ]
+    },
+    "isolated_pagination": {
+      "category_id": "isolated_pagination",
+      "description": "Isolated Pagination Numbers (standalone digits / 'Page X' lines)",
+      "total_occurrences": 11430,
+      "affected_documents_count": 50,
+      "concrete_snippets": [
+        "[F2024001] Isolated page marker line: '6'",
+        "[F2024001] Isolated page marker line: '7'",
+        "[F2024001] Isolated page marker line: '8'"
+      ]
+    },
+    "spaces_and_non_breaking": {
+      "category_id": "spaces_and_non_breaking",
+      "description": "Multiple Consecutive Spaces and Non-Breaking Spaces (\\xa0, \\u202f)",
+      "total_occurrences": 22559,
+      "affected_documents_count": 50,
+      "concrete_snippets": [
+        "[F2024001] Multi-space: ...␣2024\nJJOOUURRNNAALL␣␣OOFFFFIICCIIEELL\nDDE...",
+        "[F2024001] Multi-space: ...OFFFFIICCIIEELL\nDDEE␣␣LLAA␣␣RREEPPUUBBLLII...",
+        "[F2024001] Non-breaking space: ...toire\nDéveloppement [\\xa0_NBSP]et\nattractivité du t..."
+      ]
+    },
+    "two_column_interleaving": {
+      "category_id": "two_column_interleaving",
+      "description": "Two-Column Layout Interleaving & Reading Order Artifacts",
+      "total_occurrences": 1953,
+      "affected_documents_count": 43,
+      "concrete_snippets": [
+        "[F2024001] [Col1: 'Fatiha BENABBOU, membre ;'] <==GAP==> [Col2: 'Abdelouahab KHERIEF, membre ;']",
+        "[F2024001] [Col1: '647 028 780 000'] <==GAP==> [Col2: 'Titre 2 : Dépenses de']",
+        "[F2024003] [Col1: 'coordonnées géographiques (WGS84) :'] <==GAP==> [Col2: 'P1 : X=0° 35' 1,65\"0 ; Y=32° 44' 35,18\"N']"
+      ]
+    }
+  }
+}
