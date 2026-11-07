@@ -294,3 +294,4 @@ class AdvancedLegalPreprocessor:
         text = re.sub(r"[ \t]{2,}", " ", text)
         lines = [line.strip() for line in text.splitlines() if line.strip()]
         return "\n".join(lines)
+

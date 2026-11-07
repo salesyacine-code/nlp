@@ -1,0 +1,393 @@
+n° <NUM> <NUM> annee dimanche <NUM> rajab <NUM> correspondant au <DATE> conventions et accords internationaux - lois et decrets arretes, decisions, a vis, communications et annonces (traduction française)
+décret_présidentiel_n°_23- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition de la présidence de la république
+décret_présidentiel_n°_23- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre des affaires étrangères et de la communauté nationale à l'étranger
+décret_présidentiel_n°_23- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire
+décret_présidentiel_n°_23- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de l'agriculture et du développement rural
+décret_présidentiel_n°_23- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de l'agriculture et du développement rural
+décret_présidentiel_n°_23- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de l'habitat, de l'urbanisme et de la ville
+décret_présidentiel_n°_23- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de la communication
+décret_présidentiel_n°_23- <NUM> du <DATE> portant modification de l'intitulé d'un programme et transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre des travaux publics et des infrastructures de base
+décret_présidentiel_n°_23- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de la santé
+décret_exécutif_n°_20- <NUM> du <DATE> portant déclassement de parcelles de terres agricoles destinées à la réalisation de logements et équipements publics au niveau de certaines wilayas (rectificatif)
+décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur des moudjahidine de la wilaya d'el tarf
+décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions de sous-directrices au ministère de la jeunesse et des sports
+décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur de la jeunesse et des sports de la wilaya de béni abbès
+décrets exécutifs du <NUM> rajab <NUM> correspondant au <DATE> mettant fin à des fonctions à l'ex-ministère de l'industrie
+décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions du conservateur des forêts de la wilaya de chlef
+décrets exécutifs du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions de directeurs des équipements publics dans certaines wilayas
+décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur de l'urbanisme, de l'architecture et de la construction de la wilaya de batna
+décrets exécutifs du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions d'inspecteurs au ministère de la communication
+décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions d'un chargé d'études et de synthèse au ministère des transports
+décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur des transports de la wilaya de relizane
+décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur du tourisme et de l'artisanat de la wilaya de blida
+sommaire decrets decisions individuelles
+décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> portant nomination d'un sous-directeur au ministère de l'enseignement supérieur et de la recherche scientifique
+décrets exécutifs du <NUM> rajab <NUM> correspondant au <DATE> portant nomination au ministère de l'industrie et de la production pharmaceutique
+décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> portant nomination du chef de cabinet du ministre de l'agriculture et du développement rural
+décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> portant nomination du directeur de l'administration et des moyens au ministère de la communication
+décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> portant nomination d'un inspecteur au ministère des transports
+décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> portant nomination de directeurs des transports dans certaines wilayas
+décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> portant nomination du directeur du tourisme et de l'artisanat à la wilaya de batna
+arrêté interministériel du <DATE> portant désignation en qualité d'officier de police judiciaire les fonctionnaires appartenant au corps spécifique des inspecteurs de police de la sûreté nationale
+arrêté interministériel du <DATE> portant création du bulletin officiel du ministère de la justice
+arrêté du <DATE> modifiant et complétant l'arrêté du <DATE> fixant la liste des médicaments remboursables par la sécurité sociale
+arrêté du <DATE> modifiant et complétant l'arrêté du <DATE> fixant les tarifs de référence servant de base au remboursement des médicaments et les modalités de leur mise en œuvre
+arrêté du <DATE> portant délégation de signature au directeur de l'administration générale
+décision du <DATE> portant délégation de signature au secrétaire général
+décision du <DATE> portant délégation de signature au directeur de l'administration des moyens
+sommaire (suite) arretes, decisions et a vis ministere de l'interieur, des collectivites locales et de l'amenagement du territoire ministere de la justice ministere du tra v ail, de l'emploi et de la securite sociale conseil national economique, social et environnemental ministere de l'economie de la connaissance, des start-up et des micro-entreprises
+decrets décret_présidentiel_n°_23- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition de la présidence de la république. ———— le président de la république, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_22- <NUM> du aouel joumada ethania <NUM> correspondant au <DATE> portant loi de finances pour <NUM> ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances rectificative de l'année <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la présidence de la république ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances rectificative de l'année <NUM> , mis à la disposition du ministre des finances ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au
+titre du budget de l'etat, par la loi de finances rectificative de l'année <NUM> , un montant de cinq milliards cent millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et un montant de huit cent millions de dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicables à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues"gérée par le ministre des finances.
+article_2 . — il est ouvert, au titre de l'année <NUM> , un montant de cinq milliards cent millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et un montant de huit cent millions de dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicables au portefeuille de programmes de la présidence de la république, répartis conformément au tableau annexé à l'original du présent décret.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+décret_présidentiel_n°_23- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre des affaires étrangères et de la communauté nationale à l'étranger. ———— le président de la république, sur le rapport conjoint du ministre des finances et du ministre des affaires étrangères et de la communauté nationale à l'étranger,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa ler) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_22- <NUM> du aouel joumada ethania <NUM> correspondant au <DATE> portant loi de finances pour <NUM> ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances rectificative de l'année <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des affaires étrangères et de la communauté nationale à l'étranger ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au
+titre du budget de l'etat, par la loi de finances rectificative de l'année <NUM> , mis à la disposition du ministre des finances ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances rectificative de l'année <NUM> , un montant de six cent quatre-vingt-dix-sept millions cent huit mille dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de six cent quatre-vingt-dix-sept millions cent huit mille dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et encrédits de paiement, applicable au portefeuille de programmes du ministère des affaires étrangères et de la communauté nationale à l'étranger, réparti conformément au tableau annexé au présent décret.
+article_3 . — le ministre des finances et le ministre des affaires étrangères et de la communauté nationale à l'étranger sont chargés, chacun en ce qui le concerne, de l'exécution du fait à alger, le <DATE> .
+abdelmadjid tebboune.
+en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — <NUM> — — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissement
+titre <NUM> : dépenses de transferttotal activité diplomatique et consulaire diplomatie et relations extérieures administration générale soutien administratif total des crédits ouverts
+décret_présidentiel_n°_23- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire. ———— le président de la république, sur le rapport conjoint du ministre des finances et du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_22- <NUM> du aouel joumada ethania <NUM> correspondant au <DATE> portant loi de finances pour <NUM> ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances rectificative de l'année <NUM> ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances rectificative de l'année <NUM> , mis à la disposition du ministre des finances ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au
+titre du budget de l'etat, par la loi de finances rectificative de l'année <NUM> , un montant de un milliard trois cent millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues"gérée par le ministre des finances.
+article_2 . — il est ouvert, au titre de <NUM> , un montant de un milliard trois cent millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable au portefeuille de programmes du ministère de l'intérieur, des collectivités locales et de l'aménagement du territoire, réparti conformément à l'état annexé au présent décret.
+article_3 . — le ministre des finances et le ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire sont chargés, chacun en ce qui le concerne, de populaire.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+soutien aux collectivités locales missions dévolues aux collectivités locales administration générale soutien administratif et logistique total des crédits mis à la disposition du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire ———— ———— etat annexe en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses de transfert total autorisations d'engagement crédits de paiement <NUM> autorisations d'engagement crédits de paiement <NUM> — — <NUM> — — <NUM> autorisations d'engagement crédits de paiement — — <NUM> — — <NUM>
+décret_présidentiel_n°_23- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de l'agriculture et du développement rural. ———— le président de la république, sur le rapport conjoint du ministre des finances et du ministre de l'agriculture et du développement rural,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_22- <NUM> du aouel joumada ethania <NUM> correspondant au <DATE> portant loi de finances pour <NUM> ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances rectificative de l'année <NUM> ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'agriculture et du développement rural ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances rectificative de l'année <NUM> , mis à la disposition du ministre des finances ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances rectificative de l'année <NUM> , un montant de trente-deux milliards quatre cent soixante-dix millions six cent vingt-trois mille deux cent quatre-vingt-un dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et un montant de vingt-neuf milliards de dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicables à la dotation"montant non assigné", imputés au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de trente-deux milliards quatre cent soixante-dix millions six cent vingt-trois mille deux cent quatre-vingt-un dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et un montant de vingt-neuf milliards de dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicables au portefeuille de programmes du ministère de l'agriculture et du développement rural, répartis conformément à l'état annexé au présent décret.
+article_3 . — le ministre des finances et le ministre de l'agriculture et du développement rural sont chargés, chacun en ce qui le fait à alger, le <DATE> .
+abdelmadjid tebboune. ———————— etat annexe crédits ouverts en da
+titre <NUM> : dépenses de transfert total programme : agriculture et développement rural sous-programme :
+développement de l'agriculture sous-programme : sécurité et qualité sanitaires des aliments sous-programme :
+développement rural et gestion équilibrée et durable des territoires programme : forêts sous-programme : gestion durable et conservation du patrimoine sous-programme : lutte contre la désertification et la restauration des terres total des crédits ouverts <NUM> — — — — <NUM> autorisations d'engagement crédits de paiement intitulés des programmes et sous-programmes <NUM> — — — — <NUM> — — — — <NUM> autorisations d'engagement crédits de paiement <NUM> — <NUM> — — — — — — — — autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses d'investissement
+décret_présidentiel_n°_23- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de l'agriculture et du développement rural. ———— le président de la république, sur le rapport conjoint du ministre des finances et du ministre de l'agriculture et du développement rural,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_22- <NUM> du aouel joumada ethania <NUM> correspondant au <DATE> portant loi de finances pour <NUM> ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances rectificative de l'année <NUM> ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'agriculture et du développement rural ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances rectificative de l'année <NUM> , mis à la disposition du ministre des finances ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances rectificative de l'année <NUM> , un montant de cent cinquante-et-un milliards trois cent trente-quatre millions cent soixante-six mille dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable à la dotation"montant non assigné", imputés au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de cent cinquante-et-un milliards trois cent trente-quatre millions cent soixante-six mille dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable au programme"agriculture et développement rural", au sous-programme"développement de l'agriculture"et au titre <NUM> "dépenses de transfert"du portefeuille de programmes du ministère de l'agriculture et du développement rural.
+article_3 . — le ministre des finances et le ministre de l'agriculture et du développement rural sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui démocratique et populaire.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+décret_présidentiel_n°_23- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de l'habitat, de l'urbanisme et de la ville. ———— le président de la république, sur le rapport conjoint du ministre des finances et du ministre de l'habitat, de l'urbanisme et de la ville,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa ler) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_22- <NUM> du aouel joumada ethania <NUM> correspondant au <DATE> portant loi de finances pour <NUM> ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances rectificative de l'année <NUM> ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'habitat, de l'urbanisme et de la ville ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances rectificative de l'année <NUM> , mis à la disposition du ministre des finances ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances rectificative de l'année <NUM> , un montant de cent dix milliards neuf cent vingt-sept millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et un montant de vingt milliards de dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicables à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de cent dix milliards neuf cent vingt-sept millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et un montant de vingt milliards de dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicables au programme"equipements publics", sous-programme"autres équipements publics"et au titre <NUM> "dépenses d'investissement"du portefeuille de programmes du ministère de l'habitat, de l'urbanisme et de la ville.
+article_3 . — le ministre des finances et le ministre de l'habitat, de l'urbanisme et de la ville sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera démocratique et populaire.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+décret_présidentiel_n°_23- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de la communication. ———— le président de la république, sur le rapport conjoint du ministre des finances et du ministre de la communication,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_22- <NUM> du aouel joumada ethania <NUM> correspondant au <DATE> portant loi de finances pour <NUM> ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances rectificative de l'année <NUM> ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la communication ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances rectificative de l'année <NUM> , mis à la disposition du ministre des finances ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts par la loi de finances rectificative de l'année <NUM> , un montant de deux milliards trois cent cinquante millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de deux milliards trois cent cinquante millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable au portefeuille de programmes du ministère de la communication, programme"médias et communication institutionnelle", sous-programme"médias"et au titre <NUM> "dépenses de transfert".
+article_3 . — le ministre des finances et le ministre de la communication sont chargés, chacun en ce qui le concerne, de fait à alger, le <DATE> .
+abdelmadjid tebboune. ————h———— décret_présidentiel_n°_23- <NUM> du <DATE> portant modification de l'intitulé d'un programme et transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre des travaux publics et des infrastructures de base. ———— le président de la république, sur le rapport conjoint du ministre des finances, du ministre des travaux publics et des infrastructures de base et du ministre des transports,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_22- <NUM> du aouel joumada ethania <NUM> correspondant au <DATE> portant loi de finances pour <NUM> ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances rectificative de l'année <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant révision de la répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de l'ex-ministre des travaux publics, de l'hydraulique et des infrastructures de base ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au
+titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des transports ;
+décrète :
+article <NUM> . — il est modifié, au sein du portefeuille de programmes du ministère des travaux publics et des infrastructures de base, l'intitulé du programme"infrastructures ferroviaires"par l'intitulé"infrastructures ferroviaires et transports guidés", avec la création d'un sous-programme intitulé"développement des infrastructures de transports guidés".
+article_2 . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances rectificative de l'année <NUM> , un montant de vingt-quatre milliards deux cent vingt-cinq millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et un montant de quarante-six milliards six cent quatre-vingt-dix millions de dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicables au portefeuille de programmes du ministère des transports, programme"mobilité et logistique", sous-programme"transports ferroviaires et guidés"et au titre <NUM> "dépenses d'investissement".
+article_3 . — il est ouvert, sur <NUM> , un crédit de vingt-quatre milliards deux cent vingt-cinq millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et un montant de quarante-six milliards six cent quatre-vingt-dix millions de dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicables au portefeuille de programmes du ministère des travaux publics et des infrastructures de base, programme"infrastructures ferroviaires et transports guidés", sous-programme"développement des infrastructures de transports guidés"et au titre <NUM> "dépenses d'investissement".
+article_4 . — le ministre des finances, le ministre des travaux publics et des infrastructures de base et le ministre des transports sont chargés, chacun en ce qui le concerne, de l'exécution du fait à alger, le <DATE> .
+abdelmadjid tebboune.
+décret_présidentiel_n°_23- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de la santé. ———— le président de la république, sur le rapport conjoint du ministre des finances et du ministre de la santé,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_22- <NUM> du aouel joumada ethania <NUM> correspondant au <DATE> portant loi de finances pour <NUM> ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances rectificative de l'année <NUM> ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la santé ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances rectificative de l'année <NUM> , mis à la disposition du ministre des finances ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances rectificative de l'année <NUM> , un montant de vingt-deux milliards deux cent quatre-vingt-dix-huit millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues"gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de vingt-deux milliards deux cent quatre-vingt-dix-huit millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable au portefeuille de programmes du ministère de la santé, réparti conformément à l'état annexé au présent décret.
+article_3 . — le ministre des finances et le ministre de la santé sont chargés, chacun en ce qui le concerne, de l'exécution du fait à alger, le18 joumada ethania <NUM> correspondant au <DATE> .
+abdelmadjid tebboune.
+ministère de la santé programme :
+administration générale sous-programme :
+gestion du ministère sous-programme :
+soutien administratif total des crédits ouverts intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel
+titre <NUM> : dépenses de transfert total autorisations d'engagement crédits de paiement <NUM> autorisations d'engagement crédits de paiement <NUM> — <NUM> — <NUM> autorisations d'engagement crédits de paiement <NUM> — <NUM> — <NUM> ———— ———— etat annexe en da décret_exécutif_n°_20- <NUM> du <DATE> portant déclassement de parcelles de terres agricoles destinées à la réalisation de logements et équipements publics au niveau de certaines wilayas (rectificatif). ———— jo n° <NUM> du <DATE> page <NUM> : - annexe - <NUM> ème colonne ; <NUM> ème case (bouinan).
+au lieu de : eac <NUM> et <NUM> ex. das benayou.
+lire : eac <NUM> et <NUM> ex. das benayou.
+décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur des moudjahidine de la wilaya d'el tarf. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , il est mis fin aux fonctions de directeur des moudjahidine de la wilaya d'el tarf, exercées par m. farid djouaher. ————h———— décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions de sous-directrices au ministère de la jeunesse et des sports. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , il est mis fin aux fonctions de sous-directrices au ministère de la jeunesse et des sports, exercées par mmes. :
+— samira rambi, sous-directrice de la promotion et du suivi des établissements de jeunes ;
+— sanaa meriem, sous-directrice de la promotion de la vie associative. ————h———— décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur de la jeunesse et des sports de la wilaya de béni abbès. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , il est mis fin aux fonctions de directeur de la jeunesse et des sports de la wilaya de béni abbès, exercées par m. mohammed talbi. ————h———— décrets exécutifs du <NUM> rajab <NUM> correspondant au <DATE> mettant fin à des fonctions à l'ex-ministère de l'industrie. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , il est mis fin aux fonctions à l'ex-ministère de l'industrie, exercées par mmes. et mm. :
+— mohamed lamine boukerzaza, directeur du redéploiement ;
+— naamane baouta, sous-directeur de la normalisation et de la réglementation technique ;
+— rim maafoune, sous-directrice de la valorisation du potentiel des entreprises publiques économiques industrielles ;
+— khadidja hamouche, sous-directrice de l'audit des entreprises publiques économiques industrielles ;
+— baya hammoutene, sous-directrice de soutien aux actions de protection de l'environnement ;
+— razika guendouzi, sous-directrice de la sécurité industrielle ;
+— abdelkader aderghal, sous-directeur des systèmes d'information et de la transformation numérique ;
+— tarek mahiout, sous-directeur de la recherche appliquée en entreprise ;
+— youcef laoufi, sous-directeur de la valorisation des compétences et du management ; appelés à exercer d'autres fonctions. ———————— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , il est mis fin aux fonctions de sous-directeurs à l'ex-ministère de l'industrie, exercées par mme. et mm. :
+— mohamed benyoucef benbouali, sous-directeur des programmes de coopération de la pme/pmi ;
+— sabrina zergoug, sous-directrice de la promotion de la pme/pmi ;
+— mustapha cherrih, sous-directeur du suivi du foncier industriel ; appelés à exercer d'autres fonctions. ————h———— décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions du conservateur des forêts de la wilaya de chlef. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , il est mis fin aux fonctions de conservateur des forêts de la wilaya de chlef, exercées par m. djamal zaoui, admis à la retraite. ————h———— décrets exécutifs du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions de directeurs des équipements publics dans certaines wilayas. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , il est mis fin aux fonctions de directeurs des équipements publics des wilayas suivantes, exercées par mm. :
+— said bounhak, à la wilaya de laghouat ;
+— ahmed bergham, à la wilaya de tamenghasset ;
+— mustapha banouh, à la wilaya de khenchela ; admis à la retraite.
+decisions individuelles
+par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , il est mis fin aux fonctions de directeurs des équipements publics des wilayas suivantes, exercées par mm. :
+— belkhir houari, à la wilaya de tébessa ;
+— ahmed bennaoum, à la wilaya de jijel. ————h———— décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur de l'urbanisme, de l'architecture et de la construction de la wilaya de batna. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , il est mis fin aux fonctions de directeur de l'urbanisme, de l'architecture et de la construction de la wilaya de batna, exercées par m. messaoud zouachi, sur sa demande. ————h———— décrets exécutifs du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions d'inspecteurs au ministère de la communication. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , il est mis fin aux fonctions d'inspecteur au ministère de la communication, exercées par m. ahmed beldia, appelé à exercer une autre fonction. ———————— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , il est mis fin aux fonctions d'inspecteur au ministère de la communication, exercées par m. filali djounaïdi. ————h———— décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions d'un chargé d'études et de synthèse au ministère des transports. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , il est mis fin aux fonctions de chargé d'études et de synthèse au ministère des transports, exercées par m. mohamed taiba, appelé à exercer une autre fonction. ————h———— décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur des transports de la wilaya de relizane. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , il est mis fin aux fonctions de directeur des transports de la wilaya de relizane, exercées par m. zouhir mekrache, appelé à exercer une autre fonction.
+décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur du tourisme et de l'artisanat de la wilaya de blida. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , il est mis fin aux fonctions de directeur du tourisme et de l'artisanat de la wilaya de blida, exercées par m. abdelouahab moumou, appelé à exercer une autre fonction. ————h———— décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> portant nomination d'un sous-directeur au ministère de l'enseignement supérieur et de la recherche scientifique. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , m. azeddine rebiga est nommé sous-directeur de l'animation en milieu universitaire au ministère de l'enseignement supérieur et de la recherche scientifique. ————h———— décrets exécutifs du <NUM> rajab <NUM> correspondant au <DATE> portant nomination au ministère de l'industrie et de la production pharmaceutique. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , sont nommés au ministère de l'industrie et de la production pharmaceutique, mmes et mm. :
+— mohamed lamine boukerzaza, directeur du partenariat ;
+— faouzi maadoud, directeur du développement et du redéploiement des entreprises publiques économiques industrielles ;
+— naamane baouta, directeur de la sécurité industrielle et de la gestion des risques ;
+— rim maafoune, sous-directrice de la stratégie de développement du secteur public marchand industriel ;
+— khadidja hamouche, sous-directrice de l'évaluation du secteur public marchand industriel ;
+— baya hammoutene, sous-directrice de la normalisation et de la réglementation technique ;
+— razika guendouzi, sous-directrice de la prévention et de la sécurité industrielle ;
+— abdelkader ader ghal, sous-directeur de la valorisation du potentiel des entreprises publiques économiques industrielles ;
+— tarek mahiout, sous-directeur de la promotion de l'innovation ;
+— youcef laoufi, sous-directeur du contrôle et d'évaluation des risques industriels.
+par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , sont nommés au ministère de l'industrie et de la production pharmaceutique, mme et mm. :
+— mohamed benyoucef benbouali, directeur de la petite et moyenne entreprise ;
+— sabrina zergoug, sous-directrice de la promotion de la pme ;
+— mustapha cherrih, sous-directeur de l'analyse et de l'évaluation du foncier industriel. ————h———— décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> portant nomination du chef de cabinet du ministre de l'agriculture et du développement rural. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , m. mohamed taiba est nommé chef de cabinet du ministre de l'agriculture et du développement rural. ————h———— décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> portant nomination du directeur de l'administration et des moyens au ministère de la communication. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , m. ahmed beldia est nommé directeur de l'administration et des moyens au ministère de la communication.
+décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> portant nomination d'un inspecteur au ministère des transports. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , m. zouhir mekrache est nommé inspecteur au ministère des transports. ————h———— décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> portant nomination de directeurs des transports dans certaines wilayas. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , sont nommés directeurs des transports aux wilayas suivantes, mm. :
+— lakhdar zahoua, à la wilaya de bouira ;
+— mohamed lotfi kemchi, à la wilaya de saïda ;
+— moad bouchemella, à la wilaya de guelma ;
+— farid karoune, à la wilaya de mila. ————h———— décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> portant nomination du directeur du tourisme et de l'artisanat à la wilaya de batna. ———— par décret exécutif du <NUM> rajab <NUM> correspondant au <DATE> , m. abdelouahab moumou est nommé directeur du tourisme et de l'artisanat à la wilaya de batna.
+arretes, decisions et a vis ministere de l'interieur, des collectivites locales et de l'amenagement du territoire arrêté interministériel du <DATE> portant désignation en qualité d'officier de police judiciaire les fonctionnaires appartenant au corps spécifique des inspecteurs de police de la sûreté nationale. ———— le ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire, et le ministre de la justice, garde des sceaux,
+vu l' ordonnance_n°_66- <NUM> du <DATE> , modifiée et complétée, portant code de procédure pénale, notamment son
+article_15- <NUM> ;
+vu le décret_n°_66- <NUM> du <DATE> fixant la composition et le fonctionnement de la commission chargée de l'examen des candidatures aux fonctions d'officier de police judiciaire ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_04- <NUM> du <DATE> fixant les attributions du ministre de la justice, garde des sceaux ;
+vu le décret_exécutif_n°_18- <NUM> du <DATE> fixant les attributions du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire ;
+vu l'arrêté interministériel du <DATE> , modifié, relatif à l'examen probatoire d'officiers de police judiciaire ;
+vu le procès verbal du <DATE> de la commission chargée de l'examen des fonctionnaires appartenant au corps des inspecteurs de police de la sûreté nationale candidats aux fonctions d'officier de police judiciaire, de l'école de formation des officiers de police ahmed loulou, sétif, ( <NUM> promotion) ; après avis de la commission ad hocen date du <DATE> ; arrêtent :
+article <NUM> . — sont désignés en qualité d'officier de police judiciaire les fonctionnaires appartenant au corps spécifique des inspecteurs de police de la sûreté nationale, dont la liste nominative est annexée à l'original du présent arrêté.
+fait à alger, le <DATE> .
+ministere de la justice arrêté interministériel du <DATE> portant création du bulletin officiel du ministère de la justice. ———— le premier ministre, le ministre de la justice, garde des sceaux, et le ministre des finances,
+vu le décret_présidentiel_n°_21- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_95- <NUM> du <DATE> fixant les attributions du ministre des finances ;
+vu le décret_exécutif_n°_95- <NUM> du <DATE> relatif à la création des bulletins officiels des institutions et administrations publiques ;
+vu le décret_exécutif_n°_04- <NUM> du <DATE> fixant les attributions du ministre de la justice, garde des sceaux ;
+vu le décret_exécutif_n°_14- <NUM> du <DATE> fixant les attributions du directeur général de la fonction publique et de la réforme administrative ; arrêtent :
+article <NUM> . — en application des dispositions de l' article_3 du décret_exécutif_n°_95- <NUM> du <DATE> relatif à la création des bulletins officiels des institutions et administrations publiques, il est créé un bulletin officiel du ministère de la justice.
+article_2 . — le bulletin officiel, prévu à l'article <NUM> ci-dessus, est commun à l'ensemble des structures de l'administration centrale et des établissements publics à caractère administratif ainsi que les organismes relevant du ministère de la justice.
+article_3 . — conformément aux dispositions de l' article_2 du décret_exécutif_n°_95- <NUM> du <DATE> susvisé, le bulletin officiel doit comporter, notamment :
+— les références et, le cas échéant, le contenu de l'ensemble des textes à caractère législatif ou réglementaire ainsi que les circulaires et instructions concernant le ministère de la justice ;
+— les décisions individuelles se rapportant à la gestion de la carrière des fonctionnaires et agents publics de l'etat relevant de l'administration centrale du ministère de la justice, ainsi que celles relatives aux catégories de personnels
+article_4 . — le bulletin officiel fait l'objet d'une publication annuelle en langue arabe avec sa traduction en langue française.
+article_5 . — le bulletin officiel du ministère de la justice revêt la forme d'un recueil, dont le format et les caractéristiques techniques sont précisés par décision du ministre de la justice, garde des sceaux.
+article_6 . — un exemplaire du bulletin officiel est transmis, obligatoirement, aux services centraux de l'autorité chargée de la fonction publique.
+article_7 . — les crédits nécessaires à l'édition du bulletin officiel, prévu à l'article <NUM> ci-dessus, sont imputés au budget du ministère de la justice.
+fait à alger, le <DATE> .
+le ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire brahim merad le ministre de la justice, garde des sceaux abderrachid tabi le ministre de la justice, garde des sceaux abderrachid tabi le ministre des finances laziz faid pour le premier ministre et par délégation, le chargé de la gestion de la direction générale de la fonction publique et de la réforme administrative abdelouahab laouissi
+ministere du tra v ail, de l'emploi et de la securite sociale arrêté du <DATE> modifiant et complétant l'arrêté du <DATE> fixant la liste des médicaments remboursables par la sécurité sociale. ———— le ministre du travail, de l'emploi et de la sécurité sociale,
+vu la loi_n°_83- <NUM> du <DATE> , modifiée et complétée, relative aux assurances sociales, notamment son article_59 ;
+vu la loi_n°_18- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> , modifiée et complétée, relative à la santé ;
+vu le décret_n°_84- <NUM> du <DATE> , modifié et complété, fixant les modalités d'application du titre ii de la loi_n°_83- <NUM> du <DATE> relative aux assurances sociales ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_08- <NUM> du <DATE> fixant les attributions du ministre du travail, de l'emploi et de la sécurité sociale ;
+vu le décret_exécutif_n°_20- <NUM> du <DATE> relatif aux modalités d'enregistrement des produits pharmaceutiques ;
+vu l'arrêté interministériel du <DATE> fixant les conditions et les modalités de présentation et d'apposition des vignettes sur les produits pharmaceutiques ;
+vu l'arrêté interministériel du <DATE> , modifié et complété, portant création et fixant les missions, l'organisation et le fonctionnement du comité de remboursement du médicament, notamment son article_15 ;
+vu l'arrêté du <DATE> , modifié et complété, fixant la liste des médicaments remboursables par la sécurité sociale ;
+vu l'arrêté du <DATE> , modifié et complété, fixant les tarifs de référence servant de base au remboursement des médicaments et les modalités de leur mise en œuvre ;
+arrête :
+article <NUM> . — le présent arrêté a pour objet de modifier et de compléter la liste des médicaments remboursables par les organismes de sécurité sociale, annexée à l'arrêté du <DATE> fixant la liste des médicaments remboursables par la sécurité sociale, comme suit :
+code dci denomination commune internationale dosage conditions particulieres de remboursementforme <NUM> cancerologie (sans changement) <NUM> e hormonotherapie (sans changement) (sans changement) <NUM> e <NUM> triptoreline, pamoate exprimée en triptoreline pdre et solv .p/susp. inj.
+im./sc.lp sur <NUM> mois <NUM> mg remboursable uniquement sur prescription des médecins spécialistes en endocrinologie, en gynécologie obstétrique, en urologie, en oncologie et en pédiatrie pour les cas relevant de la pédiatrie. (sans changement) <NUM> cardiologie et angiologie (sans changement) <NUM> b antagonistes calciques (sans changement)
+code dci denomination commune internationale dosage conditions particulieres de remboursementforme <NUM> e anti-hypertenseurs (sans changement) (sans changement) <NUM> b <NUM> b <NUM> candesartan, cilexétil/amlodipine candesartan, cilexétil/amlodipine comp.
+comp. <NUM> mg/ <NUM> mg <NUM> mg/ <NUM> mg <NUM> e <NUM> e <NUM> e <NUM> telmisartan/amlodipine telmisartan/amlodipine telmisartan/amlodipine comp.
+comp.
+comp <NUM> mg/ <NUM> mg <NUM> mg/ <NUM> mg <NUM> mg/ <NUM> mg (sans changement) <NUM> endocrinologie et hormones (sans changement) <NUM> j hormones hypothalamiques et hypophysaires (sans changement) <NUM> j <NUM> gosereline sol. inj. <NUM> mg remboursable uniquement sur prescription des médecins spécialistes en urologie et en oncologie. (sans changement) <NUM> j <NUM> gosereline implant. sc. <NUM> mg remboursable uniquement sur prescription des médecins spécialistes en urologie et en oncologie. (sans changement) <NUM> j <NUM> somatropine pdre. et solv .
+p/sol. inj. en multidoses sol. p/inj <NUM> mg/ <NUM> ml <NUM> mg/ml ( <NUM> mg/ <NUM> ml) remboursable uniquement sur prescription initiale et annuelle des médecins endocrinologues et pédiatres hospitaliers exerçant dans des services spécialisés d'endocrinologie ou de pédiatrie.
+le remboursement est, également, accordé sur prescription par tout médecin endocrinologue et pédiatre intervenant en renouvellement de la prescription initiale et annuelle. (sans changement)
+code dci denomination commune internationale dosage conditions particulieres de remboursementforme (sans changement) <NUM> a gastro-enterologie anti-ulcereux <NUM> a <NUM> omeprazole <NUM> mggles.
+microgran gast. resist.
+le remboursement de ce médicament doit être soumis à l'accord préalable de l'organisme de sécurité sociale pour le remboursement au-delà de huit ( <NUM> ) semaines de traitement consécutives. <NUM> a <NUM> omeprazole <NUM> mg le remboursement de ce médicament doit être soumis à l'accord préalable de l'organisme de sécurité sociale pour le remboursement au-delà de huit ( <NUM> ) semaines de traitement consécutives.
+comp. <NUM> a <NUM> omeprazole <NUM> mg le remboursement de ce médicament doit être soumis à l'accord préalable de l'organisme de sécurité sociale pour le remboursement au-delà de huit ( <NUM> ) semaines de traitement consécutives.
+gles. <NUM> a <NUM> pantoprazole <NUM> mg remboursement uniquement dans les indications suivantes :
+– ulcère gastro-duodénal évolutif, – œsophagite par reflux gastro-œsophagien, – éradication d'hélicobacter pylori/maladies ulcéreuses gastro-duodénales.
+le remboursement de ce médicaments doit être soumis à l'accord préalable de l'organisme de sécurité sociale pour le remboursement au-delà de huit ( <NUM> ) semaines de traitement consécutives.
+comp.
+comp.
+gast. resist. (sans changement) <NUM> a <NUM> lansoprazole <NUM> mg le remboursement de ce médicament doit être soumis à l'accord préalable de l'organisme de sécurité sociale pour le remboursement au-delà de huit ( <NUM> ) semaines de traitement consécutives.
+gles. à microgran gast. resist. (sans changement)
+code dci denomination commune internationale dosage conditions particulieres de remboursementforme <NUM> a <NUM> a <NUM> a <NUM> a <NUM> a <NUM> esomeprazole esomeprazole lansoprazole pantoprazole, sous forme sodique sesquihydratée dexlansoprazole <NUM> mg <NUM> mg <NUM> mg <NUM> mg <NUM> mg comp.
+gast. resist.
+comp.
+gast. resist.
+gles. à microgran.
+gast. resist.
+comp.
+enrobe gast. resist.
+gles à libération retardée le remboursement de ce médicament doit être soumis à l'accord préalable de l'organisme de sécurité sociale pour le remboursement au-delà de huit ( <NUM> ) semaines de traitement consécutives.
+le remboursement de ce médicament doit être soumis à l'accord préalable de l'organisme de sécurité sociale pour le remboursement au-delà de huit ( <NUM> ) semaines de traitement consécutives.
+le remboursement de ce médicament doit être soumis à l'accord préalable de l'organisme de sécurité sociale pour le remboursement au-delà de huit ( <NUM> ) semaines de traitement consécutives.
+remboursable uniquement dans les indications suivantes :
+– traitement du reflux gastro-œsophagien, – traitement d'entretien et prévention des récidives des œsophagites par reflux gastro-œsophagien, – traitement préventif des ulcères gastroduodénaux induits par les anti-inflammatoires non-stéroïdiens.
+le remboursement de ce médicament doit être soumis à l'accord préalable de l'organisme de sécurité sociale pour le remboursement au-delà de huit ( <NUM> ) semaines de traitement consécutives.
+remboursable uniquement chez les patients âgés de <NUM> ans et plus et dans les cas suivants :
+– œsophagite érosive, – reflux gastro-œsophagien.
+le remboursement de ce médicament doit être soumis à l'accord préalable de l'organisme de sécurité sociale pour le remboursement au-delà de huit ( <NUM> ) semaines de traitement consécutives.
+code dci denomination commune internationale dosage conditions particulieres de remboursementforme <NUM> a <NUM> dexlansoprazole <NUM> mggles à libération retardée remboursable uniquement chez les patients âgés de <NUM> ans et plus et dans les cas suivants :
+– œsophagite érosive, – reflux gastro-œsophagien.
+le remboursement de ce médicament doit être soumis à l'accord préalable de l'organisme de sécurité sociale pour le remboursement au-delà de huit ( <NUM> ) semaines de traitement consécutives. (sans changement) <NUM> infectiologie (sans changement)
+cephalosporines13 b (sans changement) <NUM> b <NUM> b <NUM> cefdinir cefdinir <NUM> mg <NUM> mg/ <NUM> ml caps.
+susp. buv remboursable uniquement sur prescription hospitalière, dans les indications prévues à l'annexe de la décision d'enregistrement (rcp et notice), après échec d'une antibiothérapie de première et deuxième intention avec preuve du profil de sensibilité et de résistance bactériologique (antibiogramme).
+remboursable uniquement sur prescription hospitalière, dans les indications prévues à l'annexe de la décision d'enregistrement (rcp et notice), après échec d'une antibiothérapie de première et deuxième intention avec preuve du profil de sensibilité et de résistance bactériologique (antibiogramme). (sans changement) <NUM> b <NUM> cefalexine, monohydrate pdre. p.
+susp. buv . <NUM> mg
+code dci denomination commune internationale dosage conditions particulieres de remboursementforme <NUM> b <NUM> cefalexine, monohydrate pdre. p.
+susp. buv <NUM> mg <NUM> b <NUM> cefaclor, monohydrate pdre. p.
+susp. buv . en sachet <NUM> mg <NUM> b <NUM> cefixime, trihydrate pdre. p.
+susp. buv . en sachet <NUM> mg remboursable dans les indications suivantes :
+– pyélonéphrites aiguës sans uropathie, infections urinaires basses compliquées ou non, après échec d'une antibiothérapie de première intention ou sur preuve du profil de sensibilité et de résistance bactériologique (antibiogramme), – urétrite gonococcique masculine. (sans changement)
+metabolisme nutrition diabete14 antidiabetiques oraux14 a (sans changement)
+dapagliflozine, propanediol14 a <NUM> comp. pell. <NUM> mg remboursable uniquement sur prescription des médecins spécialistes en diabétologie, endocrinologie et en médecine interne chez les patients adultes atteints de diabète de type <NUM> associé à une insuffisance cardiaque chronique avec fraction d'éjection réduite (fevg ≤ <NUM> %) après avis d'un médecin cardiologue et/ou insuffisance rénale chronique avec débit de filtration glomérulaire compris entre <NUM> ml/mn et <NUM> ml/mn ( <NUM> < dfg<75 ml/mn).
+ce médicament est remboursable uniquement en association, après échec de la monothérapie par metformine ou, le cas échéant, par sulfamide hypoglycémiant ou intolérance mis en évidence par un rapport médical probant et comportant les examens nécessaires dans les situations suivantes :
+– en bithérapie sauf en association à l'insuline, – en trithérapie sauf en association à l'insuline et un sulfamide hypoglycémiant. (sans changement)
+code dci denomination commune internationale dosage conditions particulieres de remboursementforme <NUM> a anti-epileptiques et anti-convulsiv ants (sans changement) <NUM> a <NUM> a <NUM> lacosamide lacosamide comp. pell comp. pell <NUM> mg <NUM> mg remboursement sur prescription du neurologue.
+remboursement sur prescription du neurologue. (sans changement) <NUM> g sclerose en plaque <NUM> g <NUM> g <NUM> interferon beta-1a interferon beta-1a recombinant sol. inj. en seringue pré-remplie sol. inj. en seringue pré-remplie en im <NUM> . µg / <NUM> ml ( <NUM> mui/ <NUM> ml) <NUM> .µg / <NUM> ml ( <NUM> mui/ <NUM> ml) remboursable uniquement sur prescription initiale et annuelle des services hospitaliers spécialisés en neurologie.
+le remboursement est également accordé sur prescription hospitalière ou celle d'un établissement public de santé de proximité par un médecin neurologue intervenant en renouvellement de la prescription initiale et annuelle.
+en outre, le remboursement de ce médicament doit être soumis à l'accord préalable de la caisse de sécurité sociale lors de la première demande de remboursement et tous les six ( <NUM> ) mois.
+ce médicament n'est remboursable que si les critères de remboursement consignés sur la fiche technique de la sécurité sociale sont remplis (critères diagnostiques cliniques, d'évolution de la maladie thérapeutique-réponse du patient au traitement).
+remboursement uniquement sur prescription initiale et annuelle des services hospitaliers spécialisés en neurologie.
+le remboursement est également accordé sur prescription hospitalière ou celle d'un établissement public de santé de proximité par un médecin neurologue intervenant en renouvellement de la prescription initiale et annuelle. <NUM> neurologie
+code dci denomination commune internationale dosage conditions particulieres de remboursementforme <NUM> g <NUM> g <NUM> interferon beta-1a (suite) interferon beta-1b recombinant acetate de glatiramere sol. inj. en seringue pré-remplie en sc pdre. et solv .p/sol inj. sc.
+sol.inj en seringue pré-remplie (sc) <NUM> . µg/ <NUM> ml ( <NUM> ui/ <NUM> ml) <NUM> µg/ml ( <NUM> mui/ml) <NUM> mg/ml en outre, le remboursement de ce médicament doit être soumis à l'accord préalable de la caisse de sécurité sociale lors de la première demande de remboursement et tous les six ( <NUM> ) mois.
+ce médicament n'est remboursable que si les critères de remboursement consignés sur la fiche technique de la sécurité sociale sont remplis (critères diagnostiques, cliniques, d'évolution de la maladie, thérapeutiques-réponse du patient au traitement).
+remboursable uniquement sur prescription initiale et annuelle des services hospitaliers spécialisés en neurologie.
+le remboursement est, également, accordé sur prescription hospitalière ou celle d'un établissement public de santé de proximité par un médecin neurologue intervenant en renouvellement de la prescription initiale et annuelle.
+en outre, le remboursement de ce médicament doit être soumis à l'accord préalable de la caisse de sécurité sociale lors de la première demande de remboursement et tous les six ( <NUM> ) mois.
+ce médicament n'est remboursable que si les critères de remboursement consignés sur la fiche technique de la sécurité sociale sont remplis (critères diagnostiques, cliniques, d'évolution de la maladie, thérapeutiques-réponse du patient au traitement).
+remboursable uniquement sur prescription initiale et annuelle des services hospitaliers spécialisés en neurologie.
+le remboursement est également accordé sur prescription hospitalière ou celle d'un établissement public de santé de proximité par un médecin neurologue intervenant en renouvellement de la prescription initiale et annuelle.
+en outre, le remboursement de ce médicament doit être soumis à l'accord préalable de la caisse de sécurité sociale lors de la première demande de remboursement et tous les six ( <NUM> ) mois.
+code dci denomination commune internationale dosage conditions particulieres de remboursementforme ce médicament n'est remboursable que si les critères de remboursement consignés sur la fiche technique de la sécurité sociale sont remplis (critères diagnostiques, cliniques, d'évolution de la maladie, thérapeutiques-réponse du patient au traitement). (sans changement) <NUM> rhumatologie (sans changement) <NUM> b antigoutteux (sans changement) <NUM> b <NUM> b <NUM> febuxostat febuxostat comp. pell.
+comp. pell. <NUM> mg <NUM> g remboursable uniquement sur prescription initiale du médecin rhumatologue et en renouvellement de la prescription initiale sur prescription des médecins spécialistes en rhumatologie et en médecine interne, dans la seule indication :
+– traitement d'hyperuricémie chronique dans le cas où un dépôt d'urate s'est déjà produit en deuxième intention chez les patients en échec ou intolérants à l'allopurinol.
+remboursable uniquement sur prescription initiale du médecin rhumatologue et en renouvellement de la prescription initiale sur prescription des médecins spécialistes en rhumatologie et en médecine interne, dans la seule indication :
+– traitement d'hyperuricémie chronique dans le cas où un dépôt d'urate s'est déjà produit en deuxième intention chez les patients en échec ou intolérants à l'allopurinol. (sans changement)
+fait à alger, le <DATE> .
+fayçal bentaleb.
+arrêté du <DATE> modifiant et complétant l'arrêté du <DATE> fixant les tarifs de référence servant de base au remboursement des médicaments et les modalités de leur mise en œuvre. ———— le ministre du travail, de l'emploi et de la sécurité sociale,
+vu la loi_n°_83- <NUM> du <DATE> , modifiée et complétée, relative aux assurances sociales, notamment son article_59 ;
+vu l' ordonnance_n°_05- <NUM> du <DATE> portant loi de finances complémentaire pour <NUM> , notamment ses articles <NUM> à <NUM> ;
+vu la loi_n°_18- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> , modifiée et complétée, relative à la santé ;
+vu le décret_n°_84- <NUM> du <DATE> , modifié et complété, fixant les modalités d'application du titre ii de la loi_n°_83- <NUM> du <DATE> relative aux assurances sociales ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_08- <NUM> du <DATE> fixant les attributions du ministre du travail, de l'emploi et de la sécurité sociale ;
+vu l'arrêté interministériel du <DATE> fixant les conditions et les modalités de présentation et d'apposition des vignettes sur les produits pharmaceutiques ;
+vu l'arrêté interministériel du <DATE> , modifié et complété, portant création et fixant les missions, l'organisation et le fonctionnement du comité de remboursement du médicament, notamment son article_15 ;
+vu l'arrêté du <DATE> , modifié et complété, fixant la liste des médicaments remboursables par la sécurité sociale ;
+vu l'arrêté du <DATE> , modifié et complété, fixant les tarifs de référence servant de base au remboursement des médicaments et les modalités de leur mise en œuvre, notamment son article_2 ;
+arrête :
+article <NUM> . — le présent arrêté a pour objet de modifier et de compléter les dispositions de l'arrêté du <DATE> fixant les tarifs de référence servant de base au remboursement des médicaments et les modalités de leur mise en œuvre.
+article_2 . — les dispositions de l'alinéa <NUM> de l' article_4 de l'arrêté du <DATE> susvisé, sont complétées in fine comme suit :" article_4 . — les tarifs de référence ( sans changement jusqu'à) solution injectable et buvable, seringue pré-remplie (acétate de glatiramère) et gélules à libération retardée. (le reste sans changement) ".
+article_3 . — la liste des tarifs de référence de remboursement applicables aux médicaments remboursables par les organismes de sécurité sociale, annexée à l'arrêté du <DATE> susvisé, est modifiée comme suit :
+code dci denomination commune internationale forme dosage tarif de reference unitaire (da) conditions particulieres d'application du tarif de reference <NUM> b cardiologie et angiologie antagonistes calciques comp.
+comp. <NUM> mg/ <NUM> mg <NUM> mg/ <NUM> mg <NUM> (sans changement) (sans changement) <NUM> b <NUM> b <NUM> candesartan, cilexétil/ amlodipine candesartan, cilexétil/ amlodipine (sans changement)
+code dci denomination commune internationale forme dosage tarif de reference unitaire (da) conditions particulieres d'application du tarif de reference <NUM> e anti-hypertenseurs comp.
+comp comp <NUM> mg/ <NUM> mg <NUM> mg/ <NUM> mg <NUM> mg/ <NUM> mg <NUM> (sans changement) <NUM> e <NUM> e <NUM> e <NUM> telmisartan/amlodipine telmisartan/amlodipine telmisartan/amlodipine (sans changement) <NUM> j hormones hypothalamiques et hypophysaires <NUM> j <NUM> (sans changement) <NUM> a gastro-enterologie anti-ulcereux (sans changement) <NUM> a <NUM> a <NUM> a <NUM> pantoprazole, sous forme sodique sesquihydratée dexlansoprazole dexlansoprazole comp.
+enrobe gast. resist gles à libération retardée gles à libération retardée <NUM> mg <NUM> mg <NUM> mg <NUM> pdre. et solv. p/sol.
+inj. en multidoses sol.p/inj. <NUM> mg/ <NUM> ml <NUM> mg/ml ( <NUM> mg/ <NUM> ml) <NUM> tarif de référence intégrant les aiguilles pour l'injection du produit sur présentation du livret ou de la carte chifa utilisé(e) dans le cadre du système tiers payant somatropine (sans changement) <NUM> infectiologie <NUM> b cephalosporines (sans changement) <NUM> endocrinologie et hormones (sans changement) (sans changement)
+code dci denomination commune internationale forme dosage tarif de reference unitaire (da) conditions particulieres d'application du tarif de reference <NUM> b <NUM> cefaclor (sans changement)
+gles. <NUM> mg <NUM> (sans changement) <NUM> b <NUM> b <NUM> b <NUM> cefalexine, monohydrate cefalexine, monohydrate cefaclor, monohydraté pdre. p.
+sus.buv pdre. p.
+sus.buv pdre. p.
+sus.buv en sachet <NUM> mg <NUM> mg <NUM> mg <NUM> b <NUM> cefaclor monohydraté exprimé en céfactor comp. pell. à l.m. <NUM> mg <NUM> (sans changement) <NUM> a metabolisme nutrition diabete antidiabetiques oraux (sans changement) <NUM> a <NUM> dapagliflozine, propanediol comp. pell. <NUM> mg <NUM> (sans changement) <NUM> a neurologie anti-epileptiques et anti-convulsiv ants (sans changement) <NUM> a <NUM> a <NUM> lacosamide lacosamide comp. pell.
+comp. pell. <NUM> mg <NUM> mg <NUM> (sans changement) <NUM> g sclerose en plaque (sans changement) <NUM> g <NUM> acetate de glatiramere sol. inj en seringue pré-remplie (sc) <NUM> mg/ml <NUM> (sans changement) <NUM> rhumatologie (sans changement)
+code dci denomination commune internationale forme dosage tarif de reference unitaire (da) conditions particulieres d'application du tarif de reference <NUM> b <NUM> b <NUM> b <NUM> antigoutteux febuxostat febuxostat comp. pell.
+comp. pell. <NUM> mg <NUM> mg <NUM> (sans changement)
+article_4 . — les dispositions relatives aux tarifs de référence prévues par le présent arrêté, prennent effet trois ( <NUM> ) mois à compter de la date de sa publication au journal officiel.
+fait à alger, le <DATE> .
+fayçal bentaleb.
+ministere de l'economie de la connaissance, des start-up et des micro-entreprises arrêté du <DATE> portant délégation de signature au directeur de l'administration générale. ———— le ministre de l'économie de la connaissance, des start-up et des micro-entreprises,
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> fixant les attributions du ministre de l'économie de la connaissance, des start-up et des micro-entreprises ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant organisation de l'administration centrale du ministère de l'économie de la connaissance, des start-up et des micro-entreprises ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> autorisant les membres du gouvernement à déléguer leur signature ;
+vu le décret exécutif du <DATE> portant nomination de m. arezki benamara, directeur de l'administration générale au ministère de l'économie de la connaissance, des start-up et des micro-entreprises ;
+arrête :
+article <NUM> . — dans la limite de ses attributions, délégation est donnée à m. arezki benamara, directeur de l'administration générale, à l'effet de signer, au nom du ministre de l'économie de la connaissance, des start-up et des micro-entreprises, tous actes et décisions, les ordonnances de paiement ou de virement et de délégation de crédits, les pièces justificatives de dépenses et les ordres de recettes, à l'exclusion des arrêtés.
+fait à alger, le <DATE> .
+yacine el mahdi oualid.
+conseil national economique, social et environnemental décision du <DATE> portant délégation de signature au secrétaire général. ———— la présidente du conseil national économique, social et environnemental,
+vu le décret_présidentiel_n°_21- <NUM> du <DATE> portant composition et fonctionnement du conseil national économique, social et environnemental ;
+vu le décret_présidentiel_n°_21- <NUM> du <NUM> rajab <NUM> correspondant au <DATE> portant organisation des services administratifs et techniques du conseil national économique, social et environnemental ;
+vu le décret présidentiel du <DATE> portant nomination de la présidente du conseil national économique, social et environnemental ;
+vu le décret présidentiel du <NUM> chaoual <NUM> correspondant au <DATE> portant nomination de m. mohamed el amine djafri, secrétaire général au conseil national économique, social et environnemental ;
+décide :
+article <NUM> . — dans la limite de ses attributions, délégation est donnée à m. mohamed el amine djafri, secrétaire général, à l'effet de signer au nom de la présidente du conseil national économique, social et environnemental, tous documents et décisions.
+article_2 . — la présente décision sera publiée au journal officielde la république algérienne démocratique et populaire.
+fait à alger, le <DATE> .
+rabéa kharfi. ————h———— décision du <DATE> portant délégation de signature au directeur de l'administration des moyens. ———— la présidente du conseil national économique, social et environnemental,
+vu le décret_présidentiel_n°_21- <NUM> du <DATE> portant composition et fonctionnement du conseil national économique, social et environnemental ;
+vu le décret_présidentiel_n°_21- <NUM> du <NUM> rajab <NUM> correspondant au <DATE> portant organisation des services administratifs et techniques du conseil national économique, social et environnemental ;
+vu le décret présidentiel du <DATE> portant nomination de la présidente du conseil national économique, social et environnemental ;
+vu le décret présidentiel du <DATE> portant nomination de m. bilal terfaia, directeur de l'administration des moyens au conseil national économique, social et environnemental ;
+décide :
+article <NUM> . — dans la limite de ses attributions, délégation est donnée à m. bilal terfaia, directeur de l'administration des moyens, à l'effet de signer au nom de la présidente du conseil national économique, social et environnemental, tous documents et décisions.
+fait à alger, le <DATE> .
+rabéa kharfi.

@@ -1,0 +1,766 @@
+n° <NUM> <NUM> annee mercredi <DATE>
+abonnement annuel
+edition originale
+edition originale et sa traduction
+edition originale, le numéro : <NUM> dinars . edition originale et sa traduction, le numéro : <NUM> dinars .
+numéros des années antérieures : suivant barème. les tables sont fournies gratuitement aux abonnés.
+prière de joindre la dernière bande pour renouvellement, réclamation, et changement d'adresse.
+tarif des insertions : <NUM> dinars la ligne algérie tunisie maroc libye mauritanie
+<NUM> an
+<NUM> dinars
+<NUM> dinars etranger
+(pays autres que le maghreb)
+<NUM> an
+<NUM> dinars
+<NUM> dinars
+(frais d'expédition en sus) abonnement et publicié :
+les vergers, bir mourad raïs, bp <NUM> etranger : (compte devises) conventions et accords internationaux - lois et decrets arretes, decisions, a vis, communications et annonces (traduction française)
+decrets
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits au titre du bu dget de l'etat, mis à la disposition de la présidence de la république
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits au titre du bud get de l'etat, mis à la disposition de la présidence de la république
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits ouverts au titre du budget de l'etat, mis à la disposition du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits au titre du bud get de l'etat, mis à la disposition de la ministre de l'environnement et des énergies renouvelables
+décret_exécutif_n°_24- <NUM> du <DATE> fixant les modalités de dédouanement, pour la mise à la consommation, des chaînes et équipements de production ainsi que des équipements et matériels agricoles, utilisés
+décret_exécutif_n°_24- <NUM> du <DATE> fixant les conditions et les modalités d'élaboration et de mise en œuvre des programmes de contrôle interne, par les assujettis, dans le cadre de la prévention du blanchiment d'argent, du financement du terrorisme et du financement de la prolifération des armes de destruction massive
+décret_exécutif_n°_24- <NUM> du <DATE> fixant les modalités d'inscription et de radiati on de la liste nationale des personnes et entités terroristes et les effets qui en découlent
+arretes, decisions et a vis
+ministere de l'energie et des mines
+arrêté interministériel du <DATE> modifiant l'arrêté interministériel du <DATE> fixant la liste et la classification des matières et produits chimiques dangereux
+ministere de l'enseignement superieur et de la recherche scientifique
+arrêté interministériel du <DATE> portant prolongation de l'octroi de l'aide financière exceptionnelle au profit des étudiants de nationalité palestinienne inscrits au sein des établissements de l'enseignement supérieur algériens
+ministere de l'agriculture et du developpement rural
+arrêté du <DATE> portant prorogation de la date de déroulement des opérations de recensement général de l'agriculture pour l'année <NUM>
+ministere du commerce et de la promotion des exportations
+arrêté du <DATE> modifiant l'arrêté du <DATE> fixant la liste nominative des membres du conseil d'orientation du centre algérien du contrôle de la qualité et de l'emballage (cacqe)
+cour constitutionnelle
+décision du <DATE> portant annulation de la délégation de signature donnée au directeur d'études à la cour constitutionnelle
+décision du <DATE> modifiant la décision du <DATE> portant création et composition de la commission des marchés publics de la cour constitutionnelle
+sommaire décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits au titre du budget de l'etat, mis à la disposition de la présidence de la république. ————
+le président de la république, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la présidence de la république ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de un milliard soixante-et-un millions quatre cent quatre- vingt-cinq mille trois cent vingt-deux dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de un milliard soixante-et-un millions quatre cent quatre- vingt-cinq mille trois cent vingt-deux dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable au portefeuille de programmes de la présidence de la république, réparti conformément au tableau annexé à l'original du présent décret.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits au titre du budget de l'etat, mis à la disposition de la présidence de la république. ————
+le président de la république, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la présidence de la république ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de six cent quatre-vingt millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de six cent quatre-vingt millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable au portefeuille de programmes de la présidence de la république, réparti conformément au tableau annexé à l'original du présent décret.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+decrets
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits ouverts au titre du budget de l'etat, mis à la disposition du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire. ———— le président de la république, sur le rapport conjoint du ministre des finances et du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de un milliard deux cent trente-cinq millions deux cent quarante-et-un mille dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, au titre de <NUM> , un montant de un milliard deux cent-trente cinq millions deux cent quarante-et-un mille dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable au programme"protection civile", au sous-programme"soutien administratif et logistique"et au titre <NUM> "dépenses de fonctionnement des services", du portefeuille de programmes du ministère de l'intérieur, des collectivités locales et de l'aménagement du territoire.
+article_3 . — le ministre des finances et le ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire sont chargés, chacun en ce qui le concerne, de populaire.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits au titre du budget de l'etat, mis à la disposition de la ministre de l'environnement et des énergies renouvelables. ————
+le président de la république, sur le rapport conjoint du ministre des finances et de la ministre de l'environnement et des énergies renouvelables,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la ministre de l'environnement et des énergies renouvelables ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de cent cinquante millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de cent cinquante millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement, applicable au portefeuille de programmes du ministère de l'environnement et des énergies renouvelables, au programme"environnement et développement durable", au sous-programme"environnement urbain et industriel"et au titre <NUM> "dépenses d'investissement".
+article_3 . — le ministre des finances et la ministre de l'environnement et des énergies renouvelables sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+décret_exécutif_n°_24- <NUM> du <DATE> fixant les modalités de dédouanement, pour la mise à la consommation, des chaînes et équipements de production ainsi que des équipements et matériels agricoles, utilisés. ————
+le premier ministre,
+sur le rapport conjoint du ministre de l'industrie et de la production pharmaceutique et le ministre de l'agriculture et du développement rural,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_n°_79- <NUM> du <DATE> , modifiée et complétée, portant code des douanes ;
+vu la loi_n°_88- <NUM> du <DATE> , modifiée et complétée, relative aux activités de médecine vétérinaire et à la protection de la santé animale ;
+vu l' ordonnance_n°_03- <NUM> du <DATE> , modifiée et complétée, relative aux règles générales applicables aux opérations d'importation et d'exportation de marchandises ;
+vu la loi_n°_04- <NUM> du <DATE> , modifiée et complétée, relative à la normalisation ;
+vu la loi_n°_04- <NUM> du <DATE> , modifiée et complétée, relative aux conditions d'exercice des activités commerciales ;
+vu la loi_n°_08- <NUM> du aouel chaâbane <NUM> correspondant au <DATE> portant orientation agricole ;
+vu la loi_n°_20- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> portant loi de finances complémentaire pour <NUM> , notamment son article_57 , modifié ;
+vu l' ordonnance_n°_21- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> portant loi de finances complémentaire pour <NUM> , notamment son article_36 ;
+vu la loi_n°_22- <NUM> du aouel joumada ethania <NUM> correspondant au <DATE> portant loi de finances pour <NUM> , notamment son article_65 ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_91- <NUM> du <DATE> relatif aux inspections vétérinaires des postes frontières ;
+vu le décret_exécutif_n°_96- <NUM> du <DATE> définissant les activités agricoles et fixant les conditions et les modalités de reconnaissance de la qualité d'agriculteur ;
+vu le décret_exécutif_n°_15- <NUM> du <DATE> , modifié et complété, fixant les modalités d'application des régimes de licence d'importation ou d'exportation de produits et marchandises ;
+vu le décret_exécutif_n°_20- <NUM> du <DATE> , modifié et complété, portant conditions et modalités d'octroi de l'autorisation de dédouanement des chaînes et équipements de production rénovés, dans le cadre d'activités de production de biens et services ;
+vu le décret_exécutif_n°_22- <NUM> du <NUM> rajab <NUM> correspondant au <DATE> portant création de la direction de wilaya de l'industrie, ses missions et son organisation ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> fixant les attributions du ministre de l'industrie et de la production pharmaceutique ;
+décrète :
+chapitre <NUM>
+objet et definition
+article <NUM> . — en application des dispositions de l' article_57 , modifié et complété, de la loi_n°_20- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> portant loi de finances complémentaire pour <NUM> , le présent décret a pour objet de fixer les modalités de dédouanement pour la mise à la consommation, des chaînes et équipements de production ainsi que des équipements et matériels agricoles, utilisés.
+article_2 . — au sens du présent décret, il est entendu par :
+— chaîne de production : ensemble homogène d'équipements servant, notamment à l'extraction, à la fabrication et/ou au conditionnement de produits ;
+— equipement de production : tout élément qui, à lui seul ou intégré à une chaîne de production, produit ou permet de produire un bien et/ou un service ;
+— equipement et matériel agricole : tout outil doté d'un dispositif mécanique ainsi que les tracteurs agricoles, utilisés dans le secteur agricole, servant à la réalisation des travaux agricoles pour l'accomplissement de différentes techniques culturales et activités d'élevages.
+article_3 . — la liste des équipements et matériels agricoles concernés par les dispositions du présent décret, est définie en annexe <NUM> .
+chapitre <NUM> dispositions generales
+article_4 . — aux fins de dédouanement pour la mise à la consommation, les chaînes ou équipements de production ainsi que tous équipements ou matériels agricoles, utilisés, sont soumis, avant leur expédition, à l'octroi d'une attestation d'éligibilité délivrée par le directeur de wilaya chargé de l'industrie où l'activité de production ou agricole est implantée, selon le modèle joint en annexe <NUM> du présent décret.
+article_5 . — sont éligibles à l'autorisation de dédouanement, les chaînes et les équipements de production ainsi que les équipements et matériels agricoles, utilisés :
+— n'ayant pas dépassé l'âge de cinq ( <NUM> ) ans pour les chaînes ou équipements de production et de sept ( <NUM> ) ans pour équipements ou matériels agricoles à partir de la date de leur fabrication ou, à défaut, de la date de leur mise en service ;
+— dont l'état de bon fonctionnement est attesté par un organisme d'évaluation de la conformité accrédité par l'organisme algérien d'accréditation"algerac"ou accrédité par un organisme étranger reconnu par l'organisme algérien d'accréditation ;
+— ne présentant pas de risques sur la sécurité, la santé et l'environnement.
+article_6 . — l'opérateur économique sollicitant l'octroi de l'attestation d'éligibilité citée à l' article_4 ci-dessus, doit :
+— être immatriculé au registre de commerce et/ou possédant la carte professionnelle d'agriculteur ;
+— avoir une activité de production de bien ou de service en relation avec les chaînes ou équipements de production utilisés ou une activité dans une exploitation agricole dont les équipements ou matériels agricoles, utilisés, objet de la demande y correspond ;
+— disposer d'infrastructures nécessaires pour la mise en exploitation des chaînes ou équipements de production, ou des équipements ou matériels agricoles, utilisés.
+chapitre <NUM> de la demande d'octroi de l'attestation d'eligibilite
+article_7 . — la demande d'octroi de l'attestation d'éligibilité prévue à l' article_4 ci-dessus, doit être accompagnée d'un dossier comprenant les documents suivants :
+— le formulaire de demande d'octroi de l'attestation joint en annexe <NUM> du présent décret, dûment renseigné ;
+— une copie de la carte d'identité nationale pour la personne physique et une copie des statuts pour la société ;
+— une copie de l'extrait du registre de commerce électronique faisant ressortir le code d'activité en relation avec les chaînes ou équipements de production utilisés, objet de la demande, et/ou une copie de la carte professionnelle d'agriculteur et de la fiche signalétique de l'exploitation agricole pour les équipements et matériels agricoles utilisés ;
+— le numéro d'identification fiscale ;
+— une fiche technique détaillée des chaînes ou des équipements de production, ou d'équipements ou matériels agricoles, utilisés, établie selon le modèle joint en annexe <NUM> du présent décret ;
+— le rapport de contrôle assorti d'un certificat de conformité établi, sur la base du contrôle prévu à l' article_9 ci-dessous, par l'organisme d'évaluation de la conformité ;
+— une facture pro-forma des chaînes ou d'équipements de production, ou d'équipements ou matériels agricoles, utilisés, faisant ressortir les numéros de série de tous les éléments les composant, ainsi que le numéro de châssis pour les tracteurs agricoles ou, le cas échéant, un document certifiant de l'acquisition des chaînes ou d'équipements de production, ou d'équipements ou matériels agricoles, utilisés ;
+— un document justifiant la date de fabrication ou, le cas échéant, la date de la mise en service de chaînes ou d'équipements de production, ou d'équipements ou matériels agricoles, utilisés, objet de la demande ;
+— un document attestant l'existence d'infrastructures nécessaires à la mise en service de chaînes ou équipements de production ou d'équipements ou matériels agricoles, utilisés ;
+— pour les équipements et matériels agricoles utilisés, un document délivré par un organe de services vétérinaires du pays de provenance, reconnu par les services vétérinaires nationaux, certifiant l'absence de tous risques sanitaires.
+article_8 . — l'opérateur économique doit introduire sa demande d'octroi de l'attestation d'éligibilité de dédouanement pour les chaînes et équipements de production ainsi que pour les équipements et matériels agricoles, utilisés, via une plate-forme numérique interconnectée auprès du ministère chargé de l'industrie, contre la délivrance d'un récépissé de dépôt.
+article_9 . — le contrôle et les essais effectués par l'organisme sur les chaînes et équipements de production ainsi que équipements et matériels agricoles, utilisés, objet de la demande, doivent être établis conformément aux normes internationales afin de s'assurer :
+— de leur bon état de fonctionnement ;
+— qu'ils ne présentent pas de risques sur la sécurité, la santé et l'environnement, conformément aux exigences normatives qui leur sont applicables ;
+— que l'âge de chaînes ou d'équipements de production, ou d'équipements ou matériels agricoles, utilisés, est celui indiqué sur le document, calculé sur la base de la date de la fabrication ou, le cas échéant, de la date de la première mise en service.
+article_10 . — le contrôle effectué par l'organisme d'évaluation de la conformité, doit faire l'objet d'un rapport faisant ressortir les éléments d'informations suivants :
+— un descriptif détaillé de chaines ou d'équipements de production, ou d'équipements ou matériels agricoles, utilisés, faisant ressortir, notamment les informations suivantes :
+• l'appellation, la marque, le type, le fabricant, l'année de fabrication, le pays d'origine et le pays de provenance ;
+• l'identification de l'usage, de l'activité et, le cas échéant, du ou des produit(s) qu'ils produisent et de leurs capacités de production (quantité/temps) ;
+• les lieux et les conditions d'exploitation ou d'entreposage au pays de provenance ;
+• les principaux composants et accessoires et les matières et/ou matériaux dont ils sont constitués ;
+• les plans d'installation et de mise en service, conformément aux normes qui leur sont applicables ou, à défaut, aux recommandations du fabricant.
+— un descriptif détaillé des contrôles, des essais et de tout autre mode d'inspection et de leurs référentiels normatifs effectués sur les chaînes ou équipements de production, ou d'équipements ou matériels agricoles, utilisés, sur ses composants, le cas échéant, pour vérifier leur état de fonctionnement, leur âge et les éventuels risques qu'ils puissent présenter sur la sécurité, la santé et l'environnement ;
+— les résultats obtenus des contrôles effectués sur les chaînes ou équipements de production, ou d'équipements ou matériels agricoles, utilisés, rapportés à ceux recommandés en la matière par les normes référentielles qui lui sont applicables ;
+— l'appréciation de l'organisme d'évaluation de la conformité concernant le bon état de fonctionnement et l'âge de la chaîne ou l'équipement de production, ou de l'équipement ou matériel agricole, utilisés, ainsi que les éventuels risques qu'ils peuvent présenter sur la sécurité, la santé et l'environnement.
+le rapport de contrôle et le certificat de conformité y afférent, doivent être établis dans un délai, maximum, de ( <NUM> ) mois avant la date de dépôt du dossier cité à l' article_7 ci-dessus.
+article_11 . — des visites d'inspection sont effectuées par le directeur de wilaya chargé de l'industrie, afin de vérifier la conformité des infrastructures existantes susceptibles d'accueillir les chaînes ou équipements de production, objets de la demande de l'attestation au regard des documents fournis.
+toutefois, des visites d'inspection sont effectuées par le directeur de wilaya chargé de l'industrie, accompagné par le directeur des services agricoles de wilaya afin de vérifier la conformité des infrastructures existantes susceptibles d'accueillir les équipements ou matériels agricoles, utilisés, objets de la demande de l'attestation au regard des documents fournis.
+ces visites sont sanctionnées d'un rapport descriptif des lieux et des infrastructures et faisant partie du dossier justifiant l'octroi de l'attestation d'éligibilité.
+chapitre <NUM>
+examen et suivi des demandes
+article_12 . — le directeur de wilaya chargé de l'industrie peut, après avoir examiné la demande, en cas de nécessité, demander à l'opérateur économique de fournir toute information ou tout document lorsque la spécificité de la chaine ou de l'équipement de production, ou de l'équipement ou matériel agricole, utilisé, l'exige.
+toute réserve éventuelle est notifiée à l'opérateur économique, dans un délai n'excédant pas trente ( <NUM> ) jours qui suivent la date de délivrance du récépissé de dépôt prévu à l' article_8 ci-dessus, afin que celui-ci puisse y remédier, dans un délai de trente ( <NUM> ) jours, à partir de la date de la notification.
+article_13 . — avant de statuer sur la demande d'octroi de l'attestation d'éligibilité, le directeur de wilaya chargé de l'industrie doit recueillir l'avis du ministère chargé du commerce, de l'organisme algérien d'accréditation"algerac"et du directeur des services agricoles de wilaya, pour les aspects qui les concernent. il peut, également, consulter tout autre organisme qui, en raison de ses missions, peut l'éclairer dans l'examen de la demande.
+la partie consultée est tenue de formuler son avis, dans un délai n'excédant pas dix ( <NUM> ) jours de la date de la saisine.
+article_14 . — l'attestation d'éligibilité est établie selon le modèle joint en annexe <NUM> du présent décret, et rendue dans un délai n'excédant pas les quarante ( <NUM> ) jours qui suivent la date de délivrance du récépissé de dépôt. cependant, ce délai n'inclut pas la période éventuellement accordée à l'opérateur économique citée à l' article_12 ci-dessus.
+en cas de réponse défavorable, celle-ci doit être motivée et notifiée à l'intéressé.
+toute nouvelle demande d'octroi de l'attestation d'éligibilité, est soumise aux mêmes conditions et modalités fixées par le présent décret.
+article_15 . — l'attestation d'éligibilité est établie en quatre ( <NUM> ) exemplaires originaux, ampliation en est faite :
+— à l'intéressé ;
+— à la direction générale des douanes ;
+— au département ministériel concerné par l'activité ;
+— un exemplaire en est conservé à la direction de wilaya chargée de l'industrie.
+article_16 . — outre les formalités prévues par la législation et la réglementation en vigueur, le dédouanement pour la mise à la consommation de la chaîne ou de l'équipement de production ainsi que l'équipement ou matériel agricole, utilisé, est subordonné à la présentation :
+— de l'attestation d'éligibilité, délivrée par la direction de wilaya compétente, telle que prévue à l' article_4 ci-dessus ;
+— de la fiche descriptive du produit à dédouaner définissant son âge.
+article_17 . — l'opérateur économique dispose d'un délai d'une ( <NUM> ) année pour faire valoir l'attestation d'éligibilité, prévue à l' article_4 ci-dessus, pour le dédouanement de chaînes ou d'équipements de production, ou d'équipements ou matériels agricoles, utilisés, objets de sa demande. ce délai peut être exceptionnellement prorogé, sur demande de l'intéressé, pour une durée n'excèdent pas six ( <NUM> ) mois. passé ce délai, l'attestation devient sans effet.
+article_18 . — la chaîne ou l'équipement de production, ainsi que les équipements ou matériels agricoles, utilisés, doivent être mis en service par l'opérateur économique, pour les besoins propres de son activité, dans un délai de six ( <NUM> ) mois, à partir de la date de leur dédouanement.
+la mise en exploitation doit être attestée par un procès-verbal établi par un huissier de justice ou par un expert spécialisé, assermenté et agréé.
+ce délai peut être prorogé, pour le cas de la chaîne de production utilisée, pour une durée n'excédant pas six ( <NUM> ) mois, sur demande dûment justifiée de l'opérateur.
+une copie du procès-verbal, accompagnée du document justifiant le dédouanement, est transmise par l'opérateur économique aux services de la direction de wilaya chargée de l'industrie.
+article_19 . — sans préjudice des dispositions des articles <NUM> et <NUM> ci-dessus, en cas d'une nouvelle demande d'octroi de l'attestation d'éligibilité, des visites d'inspection sont effectuées par le directeur de wilaya chargé de l'industrie, afin de vérifier la mise en exploitation de la chaîne ou l'équipement de production, ou les équipements et matériels agricoles, utilisés, objet de la première demande.
+article_20 . — sont abrogées, les dispositions du décret_exécutif_n°_20- <NUM> du <DATE> , modifié et complété, portant conditions et modalités d'octroi de l'autorisation de dédouanement des chaînes et équipements de production rénovés, dans le cadre d'activités de production de biens et services.
+populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+annexe <NUM> république algérienne démocratique et populaire
+demande d'octroi de l'attestation d'éligibilité de dédouanement pour la mise à la consommation des chaînes et équipements de production ainsi que les équipements et matériels agricoles, utilisés
+<NUM> ) objet de la demande
+• chaîne de production utilisée
+• equipements de production utilisés
+• equipements / matériels agricoles utilisés
+<NUM> ) l'opérateur économique :
+a) personne morale :
+i. identité
+• dénomination/raison sociale :
+• forme juridique : spa sarl eurl coopérative groupement d'intérêts communs autre :
+• nature juridique : privé public mixte
+• immatriculée au registre du commerce sous le n° en date du
+• n° d'identification fiscale :
+• possédant la carte professionnelle de l'agriculteur n° date du
+• adresse du siège social : , commune , wilaya :
+• n°
+ii- représentant légal :
+• nom et prénom :
+• qualité :
+• adresse personnelle :
+• n° tél. : n°
+b) personne physique :
+• nom et prénom :
+• adresse : commune : , wilaya :
+• immatriculée au registre du commerce sous le n° en date du
+• n° d'identification fiscale :
+• possédant la carte professionnelle de l'agriculteur n° date du
+• lieu de production : , commune : , wilaya :
+• n°
+<NUM> ) informations sur l'activité de l'opérateur économique :
+a) etat de l'exercice de l'activité :
+• date prévue d'entrer en activité de la chaîne / l'équipement/ le matériel :
+• activité projetée en relation directe avec la chaîne / l'équipement/ le matériel : (description)
+b) produits
+• produits issus de l'activité en relation directe avec la chaîne / l'équipement / le matériel, objet de la demande.
+n°
+produit type de produit dénomination commerciale quantité produite/projetée (quantité/temps)
+• evolution de la production de l'opérateur économique, le cas échéant produit <NUM>
+produit <NUM>
+année (n- <NUM> ) production effective capacité effective année (n- <NUM> ) production effective capacité effective année (n- <NUM> ) production effective capacité effective
+d) evolution des agrégats financiers (société uniquement) chiffre d'affaires
+valeur ajoutée
+emploi année (n- <NUM> )année (n- <NUM> )année (n- <NUM> )agrégat
+<NUM> ) informations sur les infrastructures devant accueillir la chaîne, l'équipement et le matériel.
+a) infrastructures de production de bien(s) ou de service(s)
+• dimensions :
+• superficie globale : (m2) superficie exploitable : (m2)
+• superficie réservée à la chaîne/ l'équipement/ le matériel (m2)
+• longueur : (m) hauteur : (m) largeur : ; (m)
+<NUM> ) informations sur la chaîne/ l'équipement/ le matériel :
+a) identification : (à remplir selon l'objet de la demande)
+• chaîne production de bien de service
+• equipement de production de bien de service
+• autres (à préciser)
+b) description :
+• dénomination :
+• marque :
+• immatricule / numéro de série :
+• pays d'origine :
+• pays de provenance :
+• age :
+• date de fabrication :
+• date de première mise en service :
+• activité de destination :
+• capacité de production (quantité/temps)
+• puissance :
+• motorisation :
+c/ informations sur l'acquisition
+• le cédant :
+• dénomination :
+• montant en da et €/$ :
+• année d'acquisition initiale :
+je soussigné(e) m./mme… en ma qualité de agissant pour le compte de ………………… sis à…….……, sous peine de droit, que les renseignements portés sur la présente demande sont exacts et sincères.
+signature et cachet de l'opérateur économique
+important :
+<NUM> . changement d'éléments de l'attestation d'éligibilité de dédouanement : tout changement ultérieur d'éléments de la présente demande, doit être porté à la connaissance de la direction de wilaya compétente.
+<NUM> . en cas de fausse déclaration : toute fausse déclaration entraîne les sanctions prévues par la législation en la matière.
+<NUM> . etat d'exécution des engagements : la société ayant bénéficié de l'attestation d'éligibilité de dédouanement, est tenue de déposer auprès de la direction de wilaya compétente, une situation physique et comptable faisant ressortir l'acquisition de la chaîne ou de l'équipement de production et sa mise en exploitation.
+annexe <NUM>
+république algérienne démocratique et populaire
+direction de l'industrie de la wilaya de ……………..…………..
+n° /année. ……. (wilaya) ….. le,
+attestation d'éligibilité de dédouanement pour la mise à la consommation des chaînes et équipements de production ainsi que les équipements et matériels agricoles, utilisés
+le directeur de l'industrie de la wilaya de …….. ;
+vu le décret_exécutif_n°_22- <NUM> du <NUM> rajab <NUM> correspondant au <DATE> portant création de la direction de wilaya de l'industrie, ses missions et son organisation ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> fixant les modalités de dédouanement, pour la mise à la consommation, des chaînes et équipements de production ainsi que des équipements et matériels agricoles, utilisés ;
+vu la demande introduite en date de par :
+• personne morale :
+dénomination/raison sociale
+immatriculée au registre de commerce n° en date du
+n° d'identification fiscale :
+possédant la carte professionnelle de l'agriculteur n° date du
+dont le siège social est sis à , commune , wilaya
+ayant pour lieu de production principal à , commune , wilaya
+représentée légalement par ayant la qualité de
+• personne physique :
+mr/mme
+domicilié à
+immatriculée au registre de commerce n° en date du
+n° d'identification fiscale :
+possédant la carte professionnelle de l'agriculteur n° date du
+exerçant l'activité de
+— et considérant que le produit objet de la demande, dont la fiche descriptive est jointe à la présente attestation, constitue au sens du décret_exécutif_n°_24- <NUM> du <DATE> cité ci-dessus :
+• une chaîne de production utilisée
+• un équipement de production utilisé
+• un équipement / matériel agricoles utilisés
+et répond aux exigences techniques et réglementaires édictées par ledit décret.
+atteste que le produit, objet de la demande, est éligible au dédouanement pour la mise à la consommation.
+ cette attestation est établie en quatre ( <NUM> ) exemplaires originaux, ampliation en est faite :
+• à l'intéressé ;
+• à la direction générale des douanes ;
+• au département ministériel concerné par l'activité ;
+• un exemplaire en est conservé à la direction de wilaya chargée de l'industrie.
+ la validité de cette attestation est d'une année, à compter de la date de sa signature.
+cachet et signature
+annexe <NUM> (suite)
+fiche technique du produit
+a) description :
+• dénomination :
+• marque :
+• immatricule / numéro de série :
+• pays d'origine :
+• pays de provenance :
+• age :
+calculé de : la date de la fabrication / la date de la mise en service.
+• activité de destination :
+• produits /utilité :
+• capacité de production (quantité/temps)
+• puissance :
+• motorisation :
+tableau n° <NUM> dénomination exacte des parties de la chaîne de production utilisée :
+tableau n° <NUM> dénomination exacte de l'équipement de production utilisé :
+quantité en volume ou poidsen unité n° de sériedésignation de l'équipement /matériel utilisé, des composants et des accessoires. n° d'ordre
+quantité en volume ou poidsen unité n° de sériedésignation des composants et accessoires de la chaîne de production utilisée. n° d'ordre
+annexe <NUM> (suite)
+tableau n° <NUM> dénomination exacte d'équipements / matériels agricoles utilisés :
+quantité en volume ou poidsen unité n° de sériedésignation de l'équipement /matériel utilisé, des composants et des accessoires.
+n° d'ordre
+annexe <NUM> liste des équipements et matériels agricoles utilisés.
+<NUM> - equipements et matériels des techniques culturales :
+tracteurs agricoles :
+— enjambeur <NUM> - <NUM> ch"diesel"pneumatique et à chenilles ;
+— mini tracteur <50 ch"diesel";
+— motoculteur"diesel";
+— tracteur de grande puissance supérieure à <NUM> ch"diesel";
+— tracteur à chenilles"diesel".
+matériels de semis et de plantation :
+— planteuse de l'ail et de l'oignon ;
+— planteuse de betterave sucrière.
+matériels de récolte :
+— récolteuse de tomate industrielle ;
+— récolteuse de l'ail et de l'oignon ;
+— matériels de récolte d'olives, d'amandes, etc. (montée sur tracteur ou automotrice) ;
+— récolteuse et chargeuse de la betterave sucrière.
+matériels de fenaison :
+— ensileuse tractée ;
+— ensileuse automotrice.
+<NUM> - equipements et matériels d'élevage :
+— equipement de traite ;
+— le distributeur d'aliments automatique ;
+— le distributeur d'eau d'abreuvement automatique ;
+— les équipements destinés à l'alimentation des volailles ;
+— les équipements d'estampillage des œufs à couver ;
+— incubateur d'œufs à couver ;
+— eclosoir d'œufs à couver ;
+— calibreuse d'œufs à couver ;
+— plumeuse ;
+— le van de transport de chevaux motorisé, maximum, <NUM> tonnes ;
+— le van de transport de chevaux non motorisé.
+tracteurs agricoles désignation du produit tracteur enjambeur à roues, à moteur diesel, d'une puissance excédant <NUM> kw mais n'excédant pas <NUM> kw
+tracteur enjambeur à roues, à moteur diesel, d'une puissance excédant <NUM> kw mais n'excédant pas <NUM> kw
+tracteur enjambeur à roues, à moteur diesel, d'une puissance excédant <NUM> kw mais n'excédant pas <NUM> kw
+tracteur enjambeur à roues, à moteur diesel, d'une puissance excédant <NUM> kw mais n'excédant pas <NUM> kw
+tracteur enjambeur à chenilles, à moteur diesel, d'une puissance entre <NUM> et <NUM> chevaux
+- - - - - a moteur diesel ou semi-diesel
+- - - - - a moteur diesel ou semi-diesel
+- - - - motoculteur à moteur à diesel ou semi-diesel
+- - - - - a moteur diesel ou semi-diesel
+- - - - - a moteur diesel ou semi-diesel
+- - - - - a moteur diesel ou semi-diesel ex <NUM>
+ex <NUM>
+ex <NUM>
+ex <NUM>
+ex <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+tracteur enjambeur à roues ou à chenilles, d'une puissance entre <NUM> et <NUM> chevaux
+mini tracteur à moteur diesel, d'une puissance n'excédant pas <NUM> ch
+motoculture à moteur diesel
+tracteur agricole à moteur diesel, d'une puissance excédant <NUM> ch
+tracteur agricole à moteur diesel, à chenilles sous-position tarifaire désignation tarifaire matériels de semis et de plantation planteuse de l'ail et de l'oignon
+planteuse de betterave sucrière ex <NUM>
+ex <NUM> planteuse de l'ail et de l'oignon
+planteuse de betterave sucrière matériels de récolte récolteuse de tomate industrielle
+récolteuse de l'ail et de l'oignon
+récolteuse d'olives et d'amandes
+récolteuse et chargeuse de la betterave sucrière ex <NUM>
+ex <NUM>
+ex <NUM>
+ex <NUM> récolteuse de tomate industrielle
+récolteuse de l'ail et de l'oignon
+matériels de récolte d'olives, d'amandes
+récolteuse et chargeuse de la betterave sucrière annexe <NUM> (suite)
+désignation du produit abreuvoirs automatiques
+equipements destinés à l'alimentation des volailles y compris les dispositifs automatiques pour le remplissage des mangeoires
+machine d'estampillage des œufs à couver
+incubateurs d'œufs à couver
+eclosoir d'œufs à couver
+trieurs à œufs
+plumeuses
+van à moteur essence pour le transport des chevaux, d'un poids en charge maximal excédant <NUM> tonnes mais n'excédant pas <NUM> tonnes
+van à moteur essence pour le transport des chevaux, d'un poids en charge maximal excédant <NUM> tonnes mais n'excédant pas <NUM> tonnes
+van à moteur diesel pour le transport des chevaux, d'un poids en charge maximal excédant <NUM> tonnes mais n'excédant pas <NUM> tonnes
+remorques et semi-remorques de type fourgon pour le transport de chevaux ex <NUM>
+ex <NUM>
+ex <NUM>
+ex <NUM>
+ex <NUM>
+ex <NUM>
+ex <NUM>
+ex <NUM>
+ex <NUM>
+ex <NUM>
+ex <NUM> distributeur d'eau d'abreuvement automatique
+equipements destinés à l'alimentation des volailles
+equipements d'estampillage des œufs à couver
+incubateur d'œufs à couver
+eclosoir d'œufs à couver
+calibreuse d'œufs à couver
+plumeuses
+van de transport de chevaux motorisé, à moteur diesel ou essence, d'un poids en charge maximal excédant <NUM> tonnes mais n'excédant pas <NUM> tonnes
+van de transport de chevaux non motorisé sous-position tarifaire désignation tarifaire annexe <NUM> (suite) matériels de fenaison ensileuse tractée
+ensileuse automotrice <NUM> - - - récolteuses-hacheuses matériels d'élevage equipement de traite
+distributeur d'aliments automatique <NUM>
+ex <NUM>
+- machines à traire
+distributeur d'aliments automatique
+décret_exécutif_n°_24- <NUM> du <DATE> fixant les conditions et les modalités d'élaboration et de mise en œuvre des programmes de contrôle interne, par les assujettis, dans le cadre de la prévention du blanchiment d'argent, du financement du terrorisme et du financement de la prolifération des armes de destruction massive. ————
+le premier ministre, sur le rapport du ministre de la justice, garde des sceaux,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu l' ordonnance_n°_66- <NUM> du <DATE> , modifiée et complétée, portant code de procédure pénale ;
+vu l' ordonnance_n°_66- <NUM> du <DATE> , modifiée et complétée, portant code pénal ;
+vu l' ordonnance_n°_75- <NUM> du <DATE> , modifiée et complétée, portant code de commerce ;
+vu la loi_n°_05- <NUM> du <DATE> , modifiée et complétée, relative à la prévention et à la lutte contre le blanchiment d'argent et le financement du terrorisme ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_04- <NUM> du <DATE> fixant les attributions du ministre de la justice, garde des sceaux ;
+vu le décret_exécutif_n°_22- <NUM> du aouel joumada ethania <NUM> correspondant au <DATE> fixant les missions, l'organisation et le fonctionnement de la cellule de traitement du renseignement financier (ctrf) ;
+décrète :
+article <NUM> . — en application des dispositions de l' article_10_bis <NUM> de la loi_n°_05- <NUM> du <DATE> susvisée, le présent décret fixe les conditions et les modalités d'élaboration et de mise en œuvre des programmes de contrôle interne par les assujettis, dans le cadre de la prévention contre le blanchiment d'argent, le financement du terrorisme et le financement de la prolifération des armes de destruction massive.
+article_2 . — au sens du présent décret, on entend par :
+—"règlements, instructions et directives": les textes que les décisions, les règlements, les instructions et les mesures émis dans le cadre de la prévention du blanchiment d'argent, du financement du terrorisme et du financement de la prolifération des armes de destruction massive ; —"la société filiale": la société dans laquelle une personne ou un groupe de personnes unies par un intérêt unique, possède au moins <NUM> % du capital, ou dans laquelle cette personne ou ces personnes ont un intérêt influent qui leur permet de contrôler sa gestion ou sa politique générale ; —"groupe": tout groupe financier, non financier ou professionnel composé d'une société mère ou de tout autre type de personne morale qui détient des actions dominantes et coordonne les fonctions avec le reste du groupe afin d'appliquer ou de mettre en œuvre un contrôle sur le groupe en vertu des principes fondamentaux, ainsi que des succursales et/ou des filiales qui sont soumises à des politiques et procédures de prévention contre le blanchiment d'argent, le financement du terrorisme et le financement de la prolifération des armes de destruction massive à l'échelle du groupe ;
+—"organe spécialisé": la cellule du traitement du renseignement financier prévue par la réglementation en vigueur.
+article_3 . — le contrôle interne vise à vérifier que les procédures internes utilisées dans la prise de décision sont strictement respectées par les assujettis afin de pallier aux risques de blanchiment d'argent, du financement du terrorisme et du financement de la prolifération des armes de destruction massive, tout en veillant à la qualité des informations financières et administratives, qui doivent provenir de sources fiables et indépendantes.
+article_4 . — sans préjudice des dispositions prévues dans les règlements, les instructions et les directives émanant des autorités de régulation, de contrôle et/ou de surveillance et les assujettis sont tenus de mettre en place des programmes de contrôle interne qui prennent en compte les risques découlant du blanchiment d'argent, du financement du terrorisme et du financement de la prolifération des armes de destruction massive, adaptés à la taille, à la nature, à la complexité et à la localisation de leurs activités, leur permettant d'identifier, d'évaluer et de comprendre ces risques et de prendre des mesures efficaces pour y remédier et les atténuer.
+les assujettis sont tenus de contrôler le respect de la mise en œuvre des programmes de contrôle interne établis, de les consolider, le cas échéant, et de former en permanence leurs personnels.
+article_5 . — les programmes de contrôle interne doivent comprendre :
+— les mesures, les politiques, les contrôles et les procédures visant à identifier, évaluer, comprendre et surveiller les risques de blanchiment d'argent, de financement du terrorisme et de financement de la prolifération des armes de destruction massive ;
+— les procédures et les moyens permettant d'appliquer les dispositions législatives et réglementaires relatives à la prévention du blanchiment d'argent, du financement du terrorisme et du financement de la prolifération des armes de destruction massive ;
+— l'actualisation et la mise à niveau continue du processus d'évaluation ;
+— le contrôle interne permanent à effectuer par des personnes exerçant des activités d'exécution, d'une part, et par des personnes chargées uniquement de la fonction de contrôle des opérations, d'autre part, tout en garantissant leur indépendance ;
+— la désignation d'un responsable de la conformité aux exigences de la prévention du blanchiment d'argent, du financement du terrorisme et du financement de la prolifération des armes de destruction massive parmi les hauts responsables du conseil d'administration de la société, s'il s'agit d'une personne morale ou l'assujetti lui-même, s'il s'agit d'une personne physique jouissant de l'expérience et des qualifications appropriées en le dotant de l'autorité nécessaire pour exercer ses fonctions de manière indépendante garantissant la confidentialité des informations qu'il reçoit et en lui donnant un accès en temps réel aux données d'identification des clients et à d'autres informations de vigilance raisonnable, aux registres des transactions et à d'autres informations pertinentes et d'informer les autorités de régulation, de contrôle et/ou de surveillance et de l'organe spécialisé de son identité et de tout changement dans sa nomination ;
+— la mise en place d'une fonction d'audit, adaptée à la taille, à la nature et à la complexité des activités des assujettis. elle est exercée par des personnes spécialisées, indépendamment des personnes, des entités et des services qu'elles contrôlent ;
+— les résultats de toute évaluation des risques adoptée au niveau national ;
+— tous les risques liés aux clients, nouveaux et existants, aux bénéficiaires effectifs ainsi que les risques liés aux transactions et aux activités commerciales en particulier, les etats ou les zones géographiques, les produits, les services et les processus et les canaux de distribution ;
+— les risques du blanchiment d'argent, du financement du terrorisme, du financement de la prolifération d'armes de destruction massive et le volume d'activité lors de la détermination du type et de l'étendue des mesures prises ;
+— le niveau et le type de mesures d'atténuation des risques à appliquer et les procédures d'identification et de vérification de l'identité des clients et des bénéficiaires effectifs et la mise en œuvre des mesures de diligence requise à leur égard ;
+— les procédures de conservation des registres et des informations sur les clients et les bénéficiaires effectifs, les relations d'affaires et les transactions, en vue de les consulter et de les reconstituer ;
+— les contrôles et les procédures suffisants visant à garantir la mise en œuvre immédiate des résolutions du conseil de sécurité relatives aux personnes, groupes et entités figurant sur la liste récapitulative des sanctions du conseil de sécurité des nations unies et/ou sur la liste nationale des personnes et entités terroristes ;
+— les procédures d'identification des transactions suspectes et de leur notification à l'organe spécialisé.
+article_6 . — les mesures de contrôle interne doivent comprendre des procédures de mise en œuvre des exigences en matière de compétence et d'aptitude ainsi qu'un code de conduite pour tous les personnels des assujettis et doivent établir des règles et des procédures de sélection objectives au moment de leur nomination afin de garantir :
+— que les personnels, les gestionnaires, le responsable de la conformité et les auditeurs disposent d'un niveau élevé de compétence, de capacité et d'intégrité nécessaires à l'accomplissement de leurs tâches ;
+— la prévention des conflits d'intérêts pour les employés chargés du contrôle interne ;
+— que les personnes faisant l'objet de poursuites pénales ou qui ont été condamnées pour des infractions incompatibles avec l'exercice de leurs fonctions ou de personnes figurant sur la liste récapitulative des sanctions du conseil de sécurité des nations unies et/ou sur la liste nationale des personnes et entités terroristes, ne soient employées.
+article_7 . — les assujettis doivent mettre en place des programmes de formation continue pour les personnels afin de les tenir informés de tous les aspects et exigences de prévention et de lutte contre le blanchiment d'argent, le financement du terrorisme et le financement de la prolifération des armes de destruction massive et de les aider, notamment à surveiller les transactions et les activités susceptibles d'être liées au blanchiment d'argent, au financement du terrorisme et à la prolifération des armes de destruction massive et de les informer des procédures à suivre dans de tels cas et de tout autre programme défini par les autorités de régulation, de contrôle et/ou de surveillance.
+article_8 . — les assujettis doivent informer les personnels des politiques, des procédures et des paramètres de prévention du blanchiment d'argent, du financement du terrorisme et du financement de la prolifération des armes de destruction massive.
+article_9 . — la fonction d'audit comprend une révision et une évaluation périodique indépendante pour tester l'efficacité et la suffisance des politiques, contrôles et procédures internes relatives à la prévention du blanchiment d'argent, du financement du terrorisme et du financement de la prolifération des armes de destruction massive, ainsi que leur conformité à la législation en vigueur.
+il est mis à la disposition des chargés de la fonction d'audit les ressources nécessaires à l'accomplissement de leurs missions.
+article_10 . — le responsable de la conformité est chargé d'évaluer la conformité des procédures du contrôle interne, en matière de prévention contre le blanchiment d'argent, le financement du terrorisme et le financement de la prolifération des armes de destruction massive, avec les normes applicables et les pratiques prudentielles en vigueur.
+article_11 . — les mesures, politiques, paramètres et procédures de prévention du blanchiment d'argent, du financement du terrorisme et du financement de la prolifération des armes de destruction massive, mentionnés au présent décret, doivent être appropriés et applicables à toutes les succursales et filiales.
+article_12 . — les mesures, politiques, paramètres et procédures de prévention du blanchiment d'argent, du financement du terrorisme et du financement de la prolifération des armes de destruction massive prévus au présent décret doivent s'appliquer à toutes les succursales et filiales et être adaptés à l'activité de ces succursales et filiales.
+les mesures, politiques, paramètres et procédures de prévention du blanchiment d'argent, du financement du terrorisme et du financement de la prolifération des armes de destruction massive prévus au présent décret, doivent être effectivement appliqués aux succursales et aux filiales et comprendre, outre les mesures mentionnées ci-dessus, les éléments suivants :
+a) des politiques et procédures d'échange d'informations aux fins de la vigilance à l'égard de la clientèle et de la gestion des risques de blanchiment d'argent, de financement du terrorisme et de financement de la prolifération des armes de destruction massive ;
+b) des informations sur les clients, les comptes, les opérations des succursales et des filiales qui sont mises à la disposition des responsables de la conformité et des chargés d'audit, au niveau du groupe, si nécessaire, aux fins de la prévention et de la lutte contre le blanchiment d'argent, le financement du terrorisme et le financement de la prolifération des armes de destruction massive.
+cela doit inclure des informations et des analyses sur les opérations, les rapports et la nature des transactions et des activités qui semblent inhabituelles, y compris la dénonciation des opérations suspectes et les informations de base qui leur sont associées ou l'effectivité de sa présentation.
+les succursales et les filiales doivent recevoir ces informations de la part des responsables et chargés mentionnés au paragraphe b) ci-dessus, au niveau du groupe, lorsque cela est approprié et proportionné à la gestion des risques.
+c) des garanties appropriées et suffisantes concernant la confidentialité et l'utilisation des informations échangées, y compris des garanties visant à empêcher l'information du client.
+l'étendue des informations à partager peut être déterminée en fonction de la sensibilité et de l'importance des informations dans la gestion des risques de blanchiment d'argent, de financement du terrorisme et de financement de la prolifération des armes de destruction massive.
+article_13 . — les assujettis doivent s'assurer que leurs succursales et filiales à l'étranger dans lesquelles ils détiennent une participation ou des actions majoritaires, appliquent les mesures, politiques, contrôles et procédures visant la prévention du blanchiment d'argent, du financement du terrorisme et du financement de la prolifération des armes de destruction massive prévus par la législation, les règlements, les instructions et les directives en vigueur dans le pays d'origine.
+lorsque les mesures, politiques, paramètres et procédures minimales de prévention contre le blanchiment d'argent, le financement du terrorisme et le financement de la prolifération des armes de destruction massive dans le pays d'accueil sont moins contraignants que ceux du pays d'origine, les mesures, règlements, instructions et directives en vigueur dans le pays d'origine sont appliqués dans la mesure permise par les lois et règlements locaux en vigueur dans le pays d'accueil.
+si le pays d'accueil ne permet pas une mise en œuvre adéquate des mesures prescrites par la législation, les règlements, les instructions et les directives en vigueur dans le pays d'origine, les assujettis doivent appliquer des mesures supplémentaires appropriées pour gérer les risques de blanchiment d'argent, de financement du terrorisme et de financement de la prolifération des armes de destruction massive et en informer les autorités de régulation, de contrôle et/ou de surveillance.
+si les mesures supplémentaires ne suffisent pas, les autorités de régulation et/ou de contrôle et/ou de surveillance du pays d'origine doivent envisager de prendre des mesures de surveillance supplémentaires, notamment en imposant des contrôles supplémentaires sur le groupe financier et, si nécessaire, en demandant au groupe financier de cesser ses activités dans le pays d'accueil.
+article_14 . — le conseil d'administration, l'administration exécutive, le directeur général ou le propriétaire sont responsables de la mise en œuvre et de l'élaboration des politiques, procédures et contrôles internes relatifs à la prévention du blanchiment d'argent, du financement du terrorisme et du financement de la prolifération des armes de destruction massive.
+article_15 . — les modalités et les règles de fonctionnement du contrôle interne concernant la nature et la portée des procédures internes, les règles d'organisation du contrôle interne et le contenu de ses rapports sont déterminés par les règlements, les instructions, les orientations et les directives des autorités de régulation et/ou de contrôle et/ou de surveillance, en coordination avec l'organe spécialisé, au plus tard six ( <NUM> ) mois, à compter de la publication du présent démocratique et populaire.
+article_16 . — tout assujetti qui enfreint les obligations prévues au présent décret, est passible des sanctions prononcées par les autorités de régulation et/ou de contrôle et/ou de surveillance prévues par la loi_n°_05- <NUM> du <DATE> susvisée.
+article_17 . — les procédures de sanction, de réclamation et de recours sont régies par les règles relatives à la responsabilité administrative de chacune des autorités de régulation et/ou de contrôle et/ou de surveillance.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+décret_exécutif_n°_24- <NUM> du <DATE> fixant les modalités d'inscription et de radiation de la liste nationale des personnes et entités terroristes et les effets qui en découlent. ———— le premier ministre, sur le rapport du ministre de la justice, garde des sceaux,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu l' ordonnance_n°_66- <NUM> du <DATE> , modifiée et complétée, portant code de procédure pénale ;
+vu l' ordonnance_n°_66- <NUM> du <DATE> , modifiée et complétée, portant code pénal ;
+vu la loi_n°_05- <NUM> du <DATE> , modifiée et complétée, relative à la prévention et à la lutte contre le blanchiment d'argent et le financement du terrorisme ;
+vu la loi_n°_08- <NUM> du <DATE> , modifiée et complétée, portant code de procédure civile et administrative ;
+vu la loi_n°_12- <NUM> du <DATE> relative aux associations ;
+vu la loi_n°_14- <NUM> du <DATE> relative aux titres et documents de voyage ;
+vu l' ordonnance_n°_21- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> relative à la protection des informations et des documents administratifs ;
+vu la loi_n°_24- <NUM> du <DATE> relative à la lutte contre le faux et l'usage de faux ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_04- <NUM> du <DATE> fixant les attributions du ministre de la justice, garde des sceaux ;
+vu le décret_exécutif_n°_21- <NUM> du <DATE> fixant les modalités d'inscription et de radiation de la liste nationale des personnes et entités terroristes et des effets qui en découlent ;
+décrète :
+chapitre <NUM> dispositions generales
+article <NUM> . — en application des dispositions des articles <NUM> bis <NUM> et <NUM> bis <NUM> du code pénal, le présent décret a pour objet de fixer les modalités d'inscription et de radiation de la liste nationale des personnes et entités terroristes et les effets qui en découlent.
+article_2 . — au sens du présent décret, on entend par :
+—"la commission": la commission de classification des personnes et entités terroristes, instituée par l' article_87_bis <NUM> du code pénal. —"l'organe spécialisé": la cellule du traitement du renseignement financier prévue par la réglementation en vigueur. —"la liste": la liste nationale des personnes et entités terroristes, instituée par l' article_87_bis <NUM> du code pénal.
+—"la liste récapitulative des sanctions : la liste contenant l'identité complète et les informations des personnes, des entités et des groupes liés au terrorisme et à son financement ou à la prolifération des armes de destruction massive et de son financement qui font l'objet de sanctions financières ciblées.
+—"la saisie ou le gel": l'interdiction temporaire du transfert, de la conversion, de la disposition ou du mouvement des fonds ou tout autre moyen de paiement ou le fait d'assumer, temporairement, la garde ou le contrôle des biens, pendant toute la durée de l'inscription sur la liste. —"immédiatement et sans délai": la célérité dans la prise des mesures prévues au présent décret, en application des décisions de la commission, ce délai est fixé à vingt-quatre ( <NUM> ) heures, à compter de l'émission de ses décisions. —"les fonds": fonds et biens et les fonds ou autres actifs ; cela comprend :
+•"les fonds et biens": l'ensemble des fonds et biens définis à l' article_4 de la loi_n°_05- <NUM> du <DATE> suscitée, ainsi que les fonds et les biens en provenant, les fonds et biens détenus par des personnes, des groupes ou entités inscrits sur la liste ou soumis, directement ou indirectement, à leur contrôle ou à celui des personnes agissant pour leur compte ou à leur instruction et/ou tout intérêt et/ou autres produits et bénéfices payables sur les comptes recouvrés après le gel et/ou la saisie ; •"les fonds ou autres actifs": tous actifs, y compris, mais sans s'y limiter, les actifs financiers, les ressources économiques (y compris le pétrole et les autres ressources naturelles) et tous les types de biens, qu'ils soient corporels ou incorporels, meubles ou immeubles, quelle que soit la manière par laquelle ils ont été obtenus, les documents et titres de toute forme, y compris électroniques et numériques, attestant de la propriété de ces actifs ou d'une part dans ces actifs, y compris, mais sans s'y limiter, les crédits bancaires et les ordres de paiement, les actions, les titres, les documents, les lettres de change, les lettres de crédit ou tous autres intérêts, bénéfices ou revenus découlant ou générés par ces fonds, ou tous autres actifs susceptibles d'être utilisés pour obtenir le financement de biens et de services.
+—"les ressources économiques": les actifs de toute nature, matériels ou immatériels, corporels ou incorporels, meubles ou immeubles, qui peuvent être utilisés pour obtenir des fonds, des biens, des marchandises ou des services tels que des terrains, des constructions et d'autres biens immobiliers et matériels, y compris le matériel, les logiciels, les outils, les machines, les meubles, les équipements, les installations, les navires, les aéronefs, les véhicules, les marchandises, les œuvres d'art, les biens culturels, les artefacts, les bijoux, l'or, les pierres précieuses, le charbon, les produits pétroliers, les raffineries et les matériaux associés, y compris les produits chimiques, les lubrifiants, les métaux, le bois ou autres ressources naturelles, les marchandises, les armes et les matériaux associés, les matières premières et les composants pouvant être utilisés dans la fabrication d'explosifs ou d'armes non conventionnelles et tout type de produit du crime, y compris la culture, la production et le trafic illicite de stupéfiants ou de leurs dérivés, les brevets d'invention, les marques, les droits d'auteur et autres formes de propriété intellectuelle, les services d'hébergement web, de publication sur le web ou associés à celui-ci et les actifs mis à la disposition ou au profit, directement ou indirectement, des personnes inscrites, y compris pour le financement de leur voyage, de leur déplacement ou de leur séjour, ainsi que tous les actifs qui leur sont versés à titre de rançon.
+—"les besoins nécessaires": les montants pour le paiement des charges, de frais et de rémunérations de services, notamment celles relatives à l'alimentation, l'habillement, le loyer, ou le remboursement hypothécaire du domicile familial, les médicaments, les honoraires et les frais de soins et de santé, les impôts, les primes d'assurances obligatoires, l'eau, le gaz, l'électricité, les frais de communication ainsi que certaines dépenses exceptionnelles.
+—"les dépenses exceptionnelles": les coûts des services publics et des services juridiques ou, exclusivement, pour le paiement d'honoraires professionnels raisonnables et le paiement des dépenses résultant de la prestation de services juridiques, ou le paiement de redevances ou de coûts de services pour les opérations ordinaires liées à la préservation ou à l'entretien des biens, des fonds, d'autres actifs et de ressources économiques gelés.
+—"les bénéfices et intérêts dus": les montants dus en vertu d'une hypothèque, d'un contrat, d'une décision judiciaire, administrative ou arbitrale antérieure à la date d'inscription sur la liste.
+—"tiers de bonne foi": les personnes qui ne sont pas elles-mêmes l'objet d'enquête préliminaire, de poursuite pénale ou de condamnation pour les faits ayant entraîné l'inscription sur la liste et dont le titre de propriété ou de possession est régulier et licite sur les fonds objet de saisie et /ou de gel prévus au présent décret.
+—"l'entité": toute association, corps, groupe ou organisation, quelle que soit leur forme ou dénomination, dont le but ou les activités tombent sous le coup des dispositions de l' article_87_bis du code pénal. —"les chargés d'exécution":
+• les autorités administratives et les autorités chargées de l'application de la loi ;
+• les banques, les institutions financières, les entreprises et professions non-financières, au sens de la législation nationale relative à la prévention et à la lutte contre le blanchiment d'argent et le financement du terrorisme ;
+• les autorités de régulation, de contrôle et/ou de surveillance des banques, des institutions financières et des institutions et professions non financières désignées, au sens de la législation nationale relative à la prévention et à la lutte contre le blanchiment d'argent et le financement du terrorisme ;
+• les associations quelle que soit leur dénomination ;
+• toute personne présente sur le territoire national pouvant avoir en sa possession des fonds liés à des personnes et /ou entités dont les noms figurent sur la liste. —"l'interdiction de voyager": l'interdiction de quitter le territoire national pendant toute la durée de l'inscription sur la liste.
+l'interdiction de voyager peut comporter l'interdiction d'entrée sur le territoire national pour les étrangers. —"l'inscription sur la liste": la désignation et l'identification de la personne ou de l'entité à inscrire sur la liste en vertu des décisions de la commission, sans exiger une action pénale préalable.
+—"la mise à jour de la liste": les décisions d'inscription et les décisions de radiation de la liste, prises par la commission. —"indices graves et concordants": les éléments raisonnables et motifs suffisants, objectifs, disponibles et crédibles qui étayent un soupçon et conduisent à renforcer la conviction que l'un des actes pour l'inscription sur la liste a été commis."l'interdiction d'effectuer des transactions :
+interdiction de fournir, directement ou indirectement, en totalité ou en partie, ou conjointement avec d'autres, des fonds ou tout type de services financiers ou autres services connexes au profit, de personnes ou d'entités inscrites sur la liste ou d'entités détenues ou contrôlées, directement ou indirectement, par ces dernières, ou fournir, recevoir d'elles ou d'effectuer une transaction financière avec elles, ou tout autres fonds, services financiers ou autres services connexes au profit de personnes ou d'entités agissant pour leurs comptes ou leurs représentants ou sur leurs instructions.
+chapitre <NUM> de l'identification des infractions et des criteres de classification pour l'inscription sur la liste
+article_3 . — est inscrite sur la liste, toute personne ou entité contre laquelle existent des indices graves et concordants, qui fait l'objet d'enquête préliminaire, ou de poursuites pénales ou dont un jugement ou une condamnation a été prononcé à son encontre pour avoir commis ou tenté de commettre l'un des actes mentionnés à l' article_87_bis <NUM> de l' ordonnance_n°_66- <NUM> du <DATE> portant code pénal.
+sont également inscrits dans la liste, immédiatement et sans délai, les noms des personnes et entités contre lesquels, une ordonnance de saisie et/ou de gel des fonds, et de leurs produits appartenant ou destinés à un terroriste ou à une organisation terroriste a été rendue, par le président du tribunal d'alger, dans le cadre de la mise en œuvre des demandes de coopération internationale.
+article_4 . — sont pris en considération lors de l'inscription sur la liste, les critères de classification prévus par la résolution du conseil de sécurité de l'organisation des nations unis n° <NUM> comportant ce qui suit :
+a - toute personne qui commet ou tente de commettre des actes de terrorisme ou qui participe ou facilite la commission d'actes de terrorisme ;
+b - toute personne ou entité qui fournit, directement ou indirectement, des fonds, des ressources économiques ou des services financiers à des personnes qui commettent ou tentent de commettre des actes terroristes, qui facilitent la commission d'actes terroristes ou y participent ;
+c - toute organisation détenue ou contrôlée, directement ou indirectement, par une personne ou une organisation relevant du paragraphe (a) et (b) ;
+d - toute personne ou organisation agissant pour le nom, le compte ou sur instruction d'une personne ou organisation relevant du paragraphe (a) et (b).
+chapitre <NUM> composition, organisation et missions de la commission
+article_5 — la commission, présidée par le ministre chargé de l'intérieur ou son représentant est composée des membres suivants :
+— le ministre chargé des affaires étrangères ou son représentant ;
+— le ministre de la justice, garde des sceaux ou son représentant ;
+— le ministre des finances ou son représentant ;
+— le représentant du ministère de la défense nationale ;
+— le commandant de la gendarmerie nationale ;
+— le directeur général de la sûreté nationale ;
+— le directeur général de la sécurité intérieure ;
+— le directeur général de la documentation et de la sécurité extérieure ;
+— le directeur général de l'organe national de prévention et de lutte contre les infractions liées aux technologies de l'information et de la communication ;
+— le président de la cellule de traitement du renseignement financier.
+les membres de la commission représentants des secteurs ministériels de l'intérieur, des affaires étrangères, de la justice, des finances, choisis parmi les cadres ayant, au moins, rang de directeur général de l'administration centrale et le représentant du ministère de la défense, sont désignés par arrêté du ministre chargé de l'intérieur, sur proposition des autorités dont ils relèvent.
+la commission peut faire appel à toute institution ou personne qualifiée qui peut l'assister dans ses travaux.
+article_6 . — la commission est chargée de la classification des personnes et des entités terroristes, de leur inscription et radiation de la liste.
+la liste est tenue par la commission qui veille à sa mise à jour et à sa publication.
+article_7 . — la commission est dotée d'un secrétariat permanent, placé sous l'égide d'un secrétaire, nommé par arrêté du ministre chargé de l'intérieur, parmi les cadres du ministère chargé de l'intérieur, ayant, au moins, rang de directeur de l'administration centrale.
+article_8 . — le secrétariat de la commission, sous l'autorité de son président, est chargé, notamment :
+— de la préparation des réunions de la commission ;
+— du soutien logistique à la commission ;
+— d'assister aux réunions de la commission et d'en dresser les procès-verbaux de délibérations ;
+— de veiller à la mise en œuvre de ses décisions ;
+— de tenir la liste ;
+— de tenir le registre spécial prévu à l' article_9 ;
+— de tenir le registre des délibérations prévu à l' article_17 .
+le secrétaire de la commission est chargé d'exercer le pouvoir hiérarchique sur les fonctionnaires du secrétariat de la commission.
+chapitre <NUM> des modalites d'inscription et de radiation de la liste
+section <NUM> dispositions communes
+article_9 . — les demandes d'inscription et de radiation de la liste sont adressées au président de la commission et inscrites, par ordre chronologique, sur un registre ad hoc.
+article_10 . — la commission se réunit au siège du ministère chargé de l'intérieur. elle peut se réunir, en cas de besoin, en tout autre lieu du territoire national, sur décision de son président.
+la commission est tenue de se réunir, au moins, une fois tous les six ( <NUM> ) mois pour réviser la liste et étudier si les raisons de l'inscription sur la liste sont toujours justifiées et pour radier de la liste les personnes décédées ou celles dont la demande de radiation a été acceptée.
+toutefois, la commission peut se réunir, en tant que de besoin, sur convocation de son président d'office ou à la demande de l'un de ses membres.
+l'autorité dont émane la demande d'inscription sur la liste doit préparer un rapport indiquant si les raisons justifiant l'inscription de la personne ou de l'entité sont encore valables et le présenter lors de la réunion du comité, ce rapport doit être motivé et fondé sur les éléments fixés à l' article_20 .
+article_11 . — les réunions de la commission ne sont valables qu'en présence d'au moins, neuf ( <NUM> ) de ses membres.
+si le quorum n'est pas atteint, la commission est convoquée à nouveau dans un délai de quinze ( <NUM> ) jours, au plus tard, avec le même quorum prévu à l'alinéa <NUM> du présent article.
+article_12 . — l'ordre du jour des réunions est établi par le président de la commission qui le transmet à chaque membre dans les huit ( <NUM> ) jours précédant la date de la réunion.
+article_13 . — le président de la commission peut désigner un rapporteur, parmi ses membres.
+le représentant de l'autorité, dont émane la demande d'inscription sur la liste, est rapporteur d'office lors de l'examen des demandes d'inscription sur la liste qu'elle propose.
+article_14 . — la commission peut, pour l'exercice de ses missions, demander des informations complémentaires qu'elle juge nécessaires, à l'autorité dont émane la demande, à l'un de ses membres ou à toute autre personne ou autorité en relation.
+article_15 . — les décisions de la commission doivent être rendues dans un délai maximum d'un mois de la saisine.
+les décisions d'inscription ou de radiation de la liste doivent être motivées.
+les décisions de la commission sont prises à la majorité des deux tiers ( <NUM> / <NUM> ) des membres présents. en cas d'égalité du nombre des voix, celle du président est prépondérante.
+les conclusions des travaux de chaque réunion de la commission font l'objet d'un rapport adressé, selon le cas, au premier ministre ou au chef du gouvernement, selon le cas, au plus tard quinze ( <NUM> ) jours après la date de la tenue de la réunion.
+article_16 . — les membres, le secrétaire et les personnels de la commission ainsi que toute personne ayant un lien avec le travail de la commission, doivent garder confidentiel les informations et les documents dont ils prennent connaissance dans ou à l'occasion de l'exercice de leurs missions.
+article_17 . — le procès-verbal des délibérations comprend :
+— la date et le lieu de la réunion ;
+— l'identité complète de la personne ou de l'entité à inscrire ou à radier de la liste, conformément à l' article_3 ;
+— le justificatif de la réunion des conditions prévues à l' article_87_bis <NUM> du code pénal et à l' article_4 du présent décret ou que les motifs de l'inscription sur la liste ne sont plus justifiés ;
+— la signature du président de la commission, de ses membres présents à la réunion et du secrétaire.
+les procès-verbaux des délibérations sont inscrits sur un registre ad hoc, coté et paraphé par le président de la commission.
+article_18 . — le président de la commission veille à la mise en œuvre des décisions de la commission, en coordination avec les chargés de l'exécution.
+pour l'exécution de ses décisions, la commission peut demander aux autorités compétentes, la réquisition de la force publique.
+section <NUM> des modalités d'inscription sur la liste
+article_19 . — la commission est saisie par les ministères de la défense nationale, de l'intérieur, des collectivités locales et de l'aménagement du territoire, des affaires étrangères et de la communauté nationale à l'étranger et de la justice.
+article_20 . — l'inscription sur la liste se fait après la réunion d'autant d'informations sur les éléments suivants :
+— l'identité complète de la personne ou de l'entité concernée ;
+— les faits qui démontrent que la personne ou l'entité répond aux critères de l'inscription sur la liste ;
+— toute information concernant l'existence d'un lien entre la personne ou l'entité proposée pour l'inscription sur la liste et une personne ou une entité déjà inscrite sur la liste ;
+— que la personne ou l'entité fait l'objet d'une enquête préliminaire, de poursuites pénales ou a été condamnée en vertu d'une décision judiciaire, pour l'un des actes mentionnés à l' article_3 .
+article_21 . — l'autorité dont émane la demande d'inscription élabore une déclaration d'inscription contenant les informations prévues à l' article_20 , qui est obligatoirement jointe au procès-verbal des délibérations.
+la déclaration d'inscription est communicable, sauf si la commission ou l'autorité qui l'a préparée décide de préserver la confidentialité de certaines de ses dispositions.
+section <NUM> de la publication et des modalités de communication de la liste
+article_22 . — la liste et ses mises à jour sont publiées, les sites institutionnels respectifs de la commission et/ou de l'organe spécialisé.
+sans préjudice des autres moyens légaux de notification, la publication de la liste et de ses mises à jour, sur l'un des sites cités à l'alinéa <NUM> du présent article, vaut notification, du contenu de la liste, aux chargés d'exécution.
+les personnes, dont les noms sont inscrits sur la liste, sont notifiées de cette inscription et des procédures dont elles disposent pour présenter des demandes de radiation conformément aux dispositions légales en vigueur.
+la décision d'inscription sur la liste produit ses effets, à compter de sa publication. elle est susceptible de recours conformément aux dispositions législatives en vigueur.
+article_23 . — après décision de la commission, celle-ci saisit, sans préavis et dans un délai n'excédant pas <NUM> heures du prononcé de la décision, le ministère chargé des affaires étrangères pour qu'il soumette, dans le cadre de la coopération internationale, des demandes d'inscription des personnes ou des entités concernées sur les listes nationales des autres etats et/ou sur la liste récapitulative des sanctions en vue de prendre les mesures de saisie et/ou de gel des fonds et des biens des personnes et des entités qui y sont inscrites.
+le comité fournit autant d'informations que possible relatives à l'identification et les informations qui appuient la demande d'inscription et particulièrement lorsque la demande est faite dans le cadre de la coopération internationale.
+section <NUM> des modalités de radiation de la liste
+article_24 . — la personne ou l'entité concernée, peut, pour toute raison motivée, demander à la commission, sa radiation de la liste, dans un délai de trente ( <NUM> ) jours, à compter de la date de la notification ou de la publication, sur l'un des sites prévus à l' article_22 , de la décision d'inscription sur la liste ou à n'importe quel moment, après l'expiration de ce délai, si les motifs de son inscription sur la liste ne sont plus justifiés.
+si la demande de radiation de la liste est rejetée, la personne ou l'entité concernée peut déposer une nouvelle demande, qui est examinée lors de la première réunion suivante de la commission.
+en outre, la commission peut d'office, radier de la liste la personne ou l'entité concernée, si les motifs de son inscription sur la liste ne sont plus justifiés.
+les ayants droit de la personne décédée inscrite sur la liste, peuvent demander sa radiation de la liste.
+les modalités et les procédures d'introduction des demandes de radiation sont publiées sur le site institutionnel de la commission.
+article_25 . — la demande de radiation de la liste doit comprendre :
+— l'identification de la partie requérante de la radiation ;
+— l'identité complète de la personne ou de l'entité dont la radiation est demandée ;
+— le justificatif de la demande de radiation ou que les motifs d'inscription sur la liste ne sont plus justifiés.
+section <NUM> des modalités de la levée de la saisie et/ ou du gel
+article_26 . — les personnes et entités dont les noms, les titres et/ou les désignations sont similaires ou identiques à ceux des personnes et entités inscrites sur la liste et dont les fonds ont été saisis et/ou gelés, peuvent présenter une demande de levée de la saisie et/ou du gel des fonds devant la commission, dans les délais et sous les formes prévus à l' article_24 .
+article_27 . — le tiers de bonne foi peut demander à la commission la levée de la saisie et/ ou du gel des fonds saisis et/ou gelés.
+article_28 . — la demande de levée de la saisie et/ou du gel des fonds doit comprendre :
+— l'identité complète de la personne ou de l'entité requérante ;
+— l'identification des fonds saisis et/ou gelés et leur localisation exacte ;
+— tout document attestant la similitude de noms, de titres et/ou de désignations ;
+— tous documents attestant que le tiers de bonne foi a des droits sur ces fonds.
+article_29 . — s'il s'avère que la personne ou l'entité en question n'est pas inscrite sur la liste ou s'il y a concordance ou similitude réelle des noms, des titres ou des désignations, le comité ordonne la levée immédiate du gel et/ou de la saisie des fonds du requérant.
+la commission statue sur la demande dans un délai maximum de deux ( <NUM> ) mois, à compter de sa saisine.
+la décision de refus doit être motivée et notifiée au concerné dans les <NUM> heures de son prononcé.
+article_30 . — s'il s'avère que le tiers de bonne foi a des droits sur les fonds saisis et/ou gelés, la commission ordonne la levée immédiate de la saisie et/ou du gel des fonds du requérant.
+la commission statue sur la demande, dans un délai maximum de deux ( <NUM> ) mois, à compter de sa saisine.
+la décision de refus, doit être motivée et notifiée, au concerné, dans les <NUM> heures de son prononcé.
+le tiers de bonne foi, peut renouveler la demande sur la base de nouveaux justificatifs. la commission y statue selon les formes et dans les délais prévus au présent article.
+les modalités et procédures d'introduction des demandes de levée de la saisie et/ou du gel des fonds saisis et/ou gelés, sont publiées sur le site officiel de la commission.
+chapitre <NUM> des modalites d'execution des decisions d'inscription ou de radiation de la liste et des decisions de la levee de la saisie et/ou du gel
+article_31 . — dès la publication de la liste et de ses mises à jour, sur l'un des sites électroniques prévus à l' article_22 , les chargés d'exécution sont tenus de prendre immédiatement, sans délai et sans préavis, les mesures nécessaires afin d'interdire l'activité de la personne ou l'entité inscrite sur la liste, de saisir et/ ou de geler ses fonds et de lui interdire de voyager, même si la date de publication coïncide avec un jour férié.
+article_32 . — les chargés de l'exécution peuvent, pour l'exercice de leurs missions, demander l'assistance de la commission.
+la commission met, à la disposition des chargés de l'exécution, tous les moyens leur permettant de communiquer avec elle.
+article_33 . — les chargés d'exécution sont tenus de consulter régulièrement la liste et ses mises à jour publiées sur le site institutionnel de la commission et/ ou de celui de l'organe spécialisé à l'effet de prendre les mesures nécessaires pour interdire l'activité de la personne ou de l'entité inscrite sur la liste et saisir et/ou geler ses fonds.
+les assujettis et les autorités de régulation, de contrôle et/ou de surveillance, sont tenus de s'inscrire sur le site institutionnel de la commission et sur celui de l'organe spécialisé et de fournir une adresse électronique, à l'effet de recevoir les notifications relatives à l'inscription sur la liste et/ou aux mises à jour qui y sont apportées.
+tout retard dans l'engagement des mesures d'interdiction de l'activité, de saisie et/ou de gel des fonds des personnes et entités inscrites sur la liste, est passible de sanctions prévues à l' article_10_bis <NUM> de la loi_n°_05- <NUM> du <DATE> susvisée.
+article_34 . — les chargés d'exécution soumettent à la commission des rapports trimestriels sur l'exécution des dispositions du présent décret.
+section <NUM> de l'interdiction de l'activité des personnes et/ou des entités inscrites sur la liste
+article_35 . — la personne ou l'entité inscrite sur la liste est interdite, de toute activité quelle qu'en soit la nature.
+l'interdiction de l'activité entraîne la fermeture des locaux de la personne ou de l'entité concernée et l'interdiction de ses réunions.
+article_36 . — si l'entité est une association quelle que soit sa dénomination ou son activité est suspendue durant toute la durée de son inscription sur la liste, à moins que sa dissolution n'en soit prononcée par décision judiciaire.
+article_37 . — il est interdit aux chargés d'exécution de mettre à la disposition des personnes ou des entités inscrites sur la liste ou au profit des entités dont elles sont propriétaires ou contrôlent d'une manière directe ou indirecte, en totalité ou en association avec autrui ou au profit de toute personne ou entité qui les subroge ou travaille sous leurs directives, des fonds ou des services financiers ou tous autres services en relation, sous peine des sanctions prévues par la législation en vigueur.
+section <NUM> de la saisie et/ou du gel des fonds
+article_38 . — les chargés d'exécution doivent vérifier en permanence et de manière continue s'ils sont en possession de fonds appartenant à des personnes ou à des entités figurant sur la liste.
+les assujettis sont tenus de vérifier en permanence dans leurs bases de données clients et transactions afin de déterminer si des personnes ou des entités figurant sur la liste publiée sur le site officiel de la commission et/ou celui de l'organe spécialisé font partie de leurs clients.
+les assujettis sont également tenus de rechercher les noms des clients potentiels, les noms des bénéficiaires effectifs, ainsi que les noms des personnes et des entités qui ont une relation directe ou indirecte avec eux.
+dans le cas où la vérification des fichiers des clients et des transactions révèle un examen positif, les procédures de gel et/ou de saisie sont appliquées immédiatement, sans délai et sans préavis, sous réserve des droits des tiers de bonne foi et sont communiquées immédiatement, sans délai et sans préavis à la commission, à l'organe spécialisé et aux autorités de régulation, de contrôle et/ou de surveillance.
+si la vérification des fichiers des clients et des transactions révèle un examen négatif, ils doivent également informer la commission et l'organe spécialisé.
+lors de chaque entrée en relation d'affaires, ainsi que lors de la réalisation d'une opération ponctuelle avec de nouveaux clients, il y a lieu de s'assurer que le client, ses mandataires éventuels, ses bénéficiaires effectifs et ceux qui sont en relation directe ou indirecte avec eux ne sont pas des personnes ou des entités dont les noms sont inscrits sur la liste. dans le cas ou leur nom figurent sur la liste, ils doivent s'abstenir d'exécuter toute opération les concernant et d'en informer immédiatement et sans préavis la commission et l'organe spécialisé.
+si une transaction est tentée en faveur d'une personne ou d'une entité inscrite sur la liste, les chargés d'exécution sont tenus de saisir et/ou de geler les fonds reçus en exécution de la transaction.
+article_39 . — les assujettis doivent informer la commission, l'organe spécialisé et les autorités de régulation, de contrôle et/ou de surveillance, dans les cas suivants :
+— s'il s'avère qu'un de leurs anciens clients ou un client actuel ou occasionnel, avec lequel ils ont traité, figure sur la liste ;
+— s'il est soupçonné que l'un de leurs clients actuels ou anciens ou tout client occasionnel, avec lequel ils ont traité, figure sur la liste ;
+— toute tentative de transaction avec une personne ou entité inscrite sur la liste et les mesures prises à cet égard ;
+— la saisie et/ou le gel n'a pas pu être levé en raison de la similitude des noms, faute d'informations disponibles ou accessibles ;
+— les informations concernant les fonds dont la saisie et/ou le gel ont été levés, y compris leur situation, leur nature, leur valeur, les mesures prises et toute autre information pertinente pour la décision d'inscription sur la liste ;
+— l'établissement et la mise en œuvre de manière efficace des contrôles et des procédures internes afin de garantir le respect des obligations découlant de la décision d'inscription ;
+— la mise en place de procédures et de politiques interdisant aux personnels de notifier directement ou indirectement au client ou à tout tiers que des mesures de saisie et/ou de gel ou d'autres mesures seront appliquées conformément aux dispositions du présent décret et les sanctions en cas de violation de ces dispositions ;
+— la coopération avec l'organe spécialisé et les autorités de régulation, de contrôle et/ou de surveillance pour vérifier l'exactitude des informations fournies.
+article_40 . — les autorités de régulation, de contrôle et/ou de surveillance sont tenues de rendre compte, au moins, deux ( <NUM> ) fois par an, à l'organe spécialisé des résultats de la surveillance, du contrôle et du suivi de la mise en œuvre par les institutions financières, les entreprises et les professions non financières désignées des obligations qui leur incombent en vertu du présent décret, en particulier en ce qui concerne :
+— la réception de toutes les informations des institutions financières et des entreprises et professions non financières désignées concernant les fonds gelés, ou toute action prise en conformité avec les exigences d'interdiction en application des dispositions du présent décret, y compris les tentatives de transactions, et si elles ont été envoyées à l'organe spécialisé dans un délai de cinq ( <NUM> ) jours ouvrables, à compter de la date de réception ;
+— assurer le respect des dispositions stipulées dans le présent décret par le biais d'inspections sur pièce et sur place, et imposer des sanctions administratives appropriées appliquées en cas de violation ou de non-application de ses dispositions ;
+— le recensement des cas qui sont relevés, conformément aux dispositions du présent décret, par les institutions financières et les entreprises et professions non financières désignées, dans lesquelles le client ou le bénéficiaire effectif est une personne ou une organisation inscrite sur la liste ;
+— l'identification de tous les fonds liés à la liste qui ont été identifiés et gelés par des institutions financières ou par des entreprises et professions non financières désignées, et indiquer si les rapports pertinents ont été soumis à l'organe spécialisé, conformément aux dispositions du présent décret.
+article_41 . — toute administration détenant des informations sur les fonds des personnes et entités inscrites sur la liste, est soumise à l'obligation de vérification prévue à l' article_38 du présent décret, permettant de mettre en œuvre immédiatement les mesures de saisie et/ou de gel.
+article_42 . — les fonds saisis et/ou gelés au niveau des comptes bancaires et postaux font l'objet d'un transfert par les banques et les institutions financières ainsi que les entreprises et professions non financières désignées, au trésorier central aux fins de consignation dans ses écritures.
+la même procédure est, également, utilisée pour les fonds saisis et/ou gelés qui sont abrités au niveau des comptes fonds particuliers ouverts dans les écritures du trésor.
+ces fonds sont maintenus en consignation dans les écritures du trésorier central jusqu'à la levée de la saisie et/ou du gel par la commission ou leur confiscation ou restitution par décision judiciaire.
+article_43 . — l'administration des domaines est chargée d'assurer la gestion des fonds et biens saisis et/ou gelés qui nécessitent des actes d'administration.
+ces fonds sont maintenus sous sa gestion jusqu'à la levée de la saisie et/ou du gel par la commission ou jusqu'à l'intervention d'une décision de justice définitive sur leur destination.
+article_44 . — les chargés de l'exécution doivent autoriser le paiement de tout intérêt ou autre bénéfice dû au profit des comptes gelés, auxquels la saisie et/ ou le gel est étendu de plein droit.
+les modalités d'application du présent article sont fixées, le cas échéant, par arrêté du ministre chargé des finances.
+article_45 . — les chargés de l'exécution doivent informer la commission et l'organe spécialisé de la valeur et/ ou de la description des fonds objet de saisie et/ou de gel ou de leur levée ainsi que du type, la date et l'heure de la saisie et /ou du gel ou de leur levée, dans les <NUM> heures suivant la saisie et/ou le gel ou de leur levée, en application des dispositions du présent décret.
+article_46 . — la commission autorise les personnes inscrites sur la liste à accéder à une partie des fonds en vue de couvrir leurs besoins nécessaires, les besoins des membres de leur famille et des personnes à leur charge, ainsi que des dépenses exceptionnelles, soumises à l'appréciation de la commission, soit de sa propre initiative ou à la demande des personnes inscrites sur la liste.
+article_47 . — la décision de la commission prévue à l'article 46ci-dessus, est notifiée à la personne concernée et à l'institution qui administre les fonds et/ou les actifs saisis ou gelés. celle-ci doit prendre les mesures pour appliquer cette décision et en informer la commission et l'organe spécialisé.
+section <NUM> de l'interdiction de voyager
+article_48 . — a compter de la publication de la décision d'inscription sur la liste, la commission demande au procureur de la république compétent, d'ordonner l'interdiction, à la personne inscrite sur la liste, de voyager.
+la demande d'interdiction de voyager comprend l'indentification complète de la personne concernée. une copie de la décision de son inscription sur la liste est jointe à la demande.
+la décision d'interdiction de voyager est rendue, dans un délai maximum de vingt-quatre ( <NUM> ) heures de la date de l'introduction de la demande auprès du procureur de la république compétent.
+la décision d'interdiction de voyager concerne les personnes physiques inscrites ainsi que les personnes physiques membres de l'entité terroriste inscrite sur la liste et ses dirigeants.
+la décision relative à l'interdiction de voyager, n'exclue pas la possibilité d'autoriser la personne concernée à entrer sur le territoire national pour régulariser sa situation.
+article_49 . — la décision d'interdiction de voyager implique le retrait du passeport et l'interdiction de demander la délivrance d'un nouveau, pendant toute la durée d'inscription sur la liste.
+la décision d'interdiction de voyager est communiquée, pour exécution, aux services compétents du ministère de l'intérieur et du ministère des affaires étrangères.
+section <NUM> de l'exécution des décisions de radiation
+article_50 . — l'interdiction de l'activité, la saisie et/ou le gel des fonds, l'interdiction de voyager et d'effectuer des transactions, sont levées immédiatement et sans délai, dès la publication de la décision de radiation de la personne ou de l'entité concernée de la liste, à moins que la personne concernée ne fasse l'objet d'une procédure judiciaire contraire.
+section <NUM> de l'exécution des décisions de la levée de la saisie et/ou du gel
+article_51 . — l'interdiction de l'activité, la saisie et/ou le gel des fonds, l'interdiction de voyager et d'effectuer des transactions, sont levées immédiatement et sans délai, dès que la décision de levée de la saisie et/ou du gel, en raison de la similitude des noms ou au profit de tiers de bonne foi, est publiée.
+chapitre <NUM> dispositions finales
+article_52 . — l'etat met à la disposition de la commission, les ressources humaines et les moyens matériels et financiers nécessaires à l'exercice de ses missions.
+les crédits nécessaires au fonctionnement de la commission sont inscrits au budget de fonctionnement du ministère chargé de l'intérieur.
+article_53 . — la commission peut, sur demande de tout etat ou organisation internationale ou régionale, inscrire sur la liste les personnes et entités qui remplissent les conditions d'inscription prescrites par la loi.
+article_54 . — outre les dispositions réglementaires en vigueur, les dispositions du présent décret relatives aux définitions et aux obligations des assujettis et des chargés d'exécution, sont applicables aux procédures de gel et/ou de saisie des fonds des personnes, groupes et entités inscrits sur la liste récapitulative de la commission des sanctions du conseil de sécurité créé par la résolution <NUM> ( <NUM> ) et les résolutions pertinentes.
+article_55 . — les dispositions du décret_exécutif_n°_21- <NUM> du <DATE> fixant les modalités d'inscription et de radiation de la liste nationale des personnes et entités terroristes et des effets qui en découlent, sont abrogées.
+populaire, avant la publication du présent décret, restent en vigueur et produisent leurs effets.
+populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+ministere de l'energie et des mines
+arrêté interministériel du <DATE> modifiant l'arrêté interministériel du <DATE> fixant la liste et la classification des matières et produits chimiques dangereux. ————
+le ministre de l'énergie et des mines, et le ministre de l'industrie et de la production pharmaceutique,
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_03- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> , modifié et complété, définissant les règles de sécurité applicables aux activités portant sur les matières et produits chimiques dangereux ainsi que les récipients de gaz sous pression ;
+vu le décret_exécutif_n°_21- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> , modifié et complété, fixant les attributions du ministre de l'énergie et des mines ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> fixant les attributions du ministre de l'industrie et de la production pharmaceutique ;
+vu l'arrêté interministériel du <DATE> fixant la liste et la classification des matières et produits chimiques dangereux ;
+arrêtent :
+article <NUM> . — la liste des matières et produits chimiques dangereux annexée à l'original de l'arrêté interministériel du <DATE> susvisé, est remplacée par la liste annexée à l'original du présent arrêté.
+la liste des matières et produits chimiques dangereux est rendue publique par les services compétents du ministère chargé de l'énergie.
+fait à alger, le <DATE> .
+ministere de l'enseignement superieur et de la recherche scientifique
+arrêté interministériel du <DATE> portant prolongation de l'octroi de l'aide financière exceptionnelle au profit des étudiants de nationalité palestinienne inscrits au sein des établissements de l'enseignement supérieur algériens. ———— le ministre des affaires étrangères et de la communauté nationale à l'étranger, le ministre des finances, et le ministre de l'enseignement supérieur et de la recherche scientifique,
+vu le décret_présidentiel_n°_02- <NUM> du <DATE> fixant les attributions du ministère des affaires étrangères ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_95- <NUM> du <DATE> correspondant au l5 février <NUM> fixant les attributions du ministre des finances ;
+vu le décret_exécutif_n°_13- <NUM> du <DATE> fixant les attributions du ministre de l'enseignement supérieur et de la recherche scientifique ;
+vu l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> portant octroi d'une aide financière exceptionnelle au profit des étudiants de nationalité palestinienne inscrits au sein des établissements de l'enseignement supérieur algériens ; arrêtent :
+article <NUM> . — le présent arrêté à pour objet de prolonger l'octroi de l'aide financière exceptionnelle au profit des étudiants de nationalité palestinienne inscrits au sein des établissements de l'enseignement supérieur algériens.
+article_2 . — l'octroi de l'aide financière exceptionnelle est prolongé durant les mois d'avril, mai et juin, au titre de l'exercice <NUM> .
+fait à alger, le <DATE> .
+arretes, decisions et a vis le ministre de l'énergie et des mines
+mohamed arkab le ministre de l'industrie et de la production pharmaceutique
+ali aoun le ministre des affaires étrangères et de la communauté nationale à l'étranger ahmed attaf le ministre des finances
+laziz faid le ministre de l'enseignement supérieur et de la recherche scientifique kamel baddari
+ministere de l'agriculture et du developpement rural
+arrêté du <DATE> portant prorogation de la date de déroulement des opérations de recensement général de l'agriculture pour l'année <NUM> . ————
+le ministre de l'agriculture et du développement rural,
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_01- <NUM> du <DATE> , modifié et complété, portant recensement général de l'agriculture (rga) ;
+vu le décret_exécutif_n°_20- <NUM> du <DATE> fixant les attributions du ministre de l'agriculture et du développement rural ;
+vu l'arrêté du <NUM> chaoual <NUM> correspondant au <DATE> fixant la date de déroulement des opérations de recensement général de l'agriculture pour l'année <NUM> , notamment son article_3 ;
+arrête :
+article <NUM> . — la date de déroulement des opérations de recensement général de l'agriculture pour l'année <NUM> fixée par l'arrêté du <NUM> chaoual <NUM> correspondant au <DATE> susvisé, est prorogée jusqu'au <DATE> . populaire.
+fait à alger, le <DATE> .
+youcef cherfa.
+ministere du commerce et de la promotion des exportations
+arrêté du <DATE> modifiant l'arrêté du <DATE> fixant la liste nominative des membres du conseil d'orientation du centre algérien du contrôle de la qualité et de l'emballage (cacqe). ————
+par arrêté du <DATE> , l'arrêté du <DATE> , modifié, fixant la liste nominative des membres du conseil d'orientation du centre algérien du contrôle de la qualité et de l'emballage (cacqe), est modifié comme suit :"— (sans changement)
+— (sans changement)
+— (sans changement)
+— mme. saida amalou, représentante du ministère de la pêche et des productions halieutiques, membre ;
+— (sans changement)
+— mme. sara boukari, représentante du ministère de l'énergie et des mines, membre ;
+— mme. djamila nadir, représentante du ministère de la santé, membre ; (le reste sans changement) ".
+cour constitutionnelle
+décision du <DATE> portant annulation de la délégation de signature donnée au directeur d'études à la cour constitutionnelle. ————
+le président de la cour constitutionnelle,
+vu le décret_présidentiel_n°_21- <NUM> du <DATE> portant désignation du président de la cour constitutionnelle ;
+vu le décret_présidentiel_n°_22- <NUM> du <DATE> relatif aux règles se rapportant à l'organisation de la cour constitutionnelle ;
+vu le décret présidentiel du <DATE> portant nomination de m. said attaf en qualité de directeur d'études à la cour constitutionnelle ;
+vu la décision du <DATE> portant délégation de signature au directeur d'études à la cour constitutionnelle ;
+décide :
+article <NUM> . — les dispositions de la décision du <DATE> portant délégation de signature à m. said attaf, directeur d'études à la cour constitutionnelle, sont abrogées.
+populaire.
+fait à alger, le <NUM> dhou ei hidja <NUM> correspondant au <DATE> .
+omar belhadj.
+décision du <DATE> modifiant la décision du <DATE> portant création et composition de la commission des marchés publics de la cour constitutionnelle. ————
+le président de la cour constitutionnelle,
+vu la loi_n°_23- <NUM> du <DATE> fixant les règles générales relatives aux marchés publics ;
+vu le décret_présidentiel_n°_15- <NUM> du <DATE> portant réglementation des marchés publics et des délégations de service public ;
+vu le décret_présidentiel_n°_21- <NUM> du <DATE> portant désignation du président de la cour constitutionnelle ;
+vu le décret_présidentiel_n°_22- <NUM> du <DATE> relatif aux règles se rapportant à l'organisation de la cour constitutionnelle ;
+vu la décision du <DATE> , modifiée, portant création et composition de la commission des marchés publics de la cour constitutionnelle ;
+décide :
+article <NUM> . — les dispositions de l'article <NUM> et <NUM> de la décision du <DATE> , modifiée, portant création et composition de la commission des marchés publics de la cour constitutionnelle, sont modifiées et rédigées comme suit :"article. <NUM> . — (sans changement jusqu'a)
+— m. mohand akli bouaziz, représentant du président de la cour constitutionnelle, président de la commission, en remplacement de m. mohamed terbah ;
+— m. mohamed terbah et mme. samia mazari, représentants du service contractant, respectivement, membre titulaire et membre suppléant, en remplacement de mme. samia mazari et mme. hanane ould khelifa ; (le reste sans changement) "." article_2 . — le secrétariat de la commission des marchés publics de la cour constitutionnelle est assuré par mme. hanane ould khelifa en remplacement de m. walid mohamadi ; (le reste sans changement) ".
+populaire.
+fait à alger, le <DATE> .
+omar belhadj.

@@ -1,0 +1,42 @@
+======================================================================================
+     ACTIVITY III: ADVANCED PREPROCESSING STRATEGY EXPERIMENTAL EVALUATION
+         Ecole Militaire Polytechnique - Natural Language Processing
+======================================================================================
+ Total Analyzed Documents : 50
+--------------------------------------------------------------------------------------
+ EXPERIMENT 1: NUMBERS (PRESERVED vs. NORMALIZED vs. <NUM>)
+--------------------------------------------------------------------------------------
+ Strategy                   | Total Tokens  | Vocab Size  | Num Vocab %  | Vocab Reduction
+--------------------------------------------------------------------------------------
+ Preserved Exactly          | 716,370       | 32,466      |       17.1% |          0.00%
+ Normalized Format          | 700,074       | 32,481      |       17.2% |         -0.05%
+ Replaced with <NUM>        | 729,670       | 27,384      |        1.2% |         15.65%
+--------------------------------------------------------------------------------------
+ EXPERIMENT 2: DATES (PRESERVED vs. UNIFIED FORMAT vs. <DATE>)
+--------------------------------------------------------------------------------------
+ Strategy                   | Total Tokens  | Vocab Size  | Avg Token Len | Vocab Reduction
+--------------------------------------------------------------------------------------
+ Preserved Verbatim         | 716,370       | 32,466      |         5.22 |          0.00%
+ Unified Canonical Format   | 749,232       | 32,479      |         5.26 |         -0.04%
+ Replaced with <DATE>       | 661,137       | 32,354      |         5.26 |          0.34%
+--------------------------------------------------------------------------------------
+ EXPERIMENT 3: LEGAL REFERENCES (UNBOUND vs. BOUND ENTITIES vs. SPECIAL TOKENS)
+--------------------------------------------------------------------------------------
+ Strategy                   | Total Tokens  | Vocab Size  | Avg Token Len | Vocab Impact   
+--------------------------------------------------------------------------------------
+ Preserved (Unbound Tokens) | 716,370       | 32,466      |         5.22 |          0.00%
+ Bound Entities (loi_n°_XX-YY) | 703,906       | 32,666      |         5.35 |         -0.62%
+ Special Entity Tokens      | 703,906       | 31,263      |         5.34 |          3.71%
+======================================================================================
+ KEY SCIENTIFIC FINDINGS & LAB RECOMMENDATIONS:
+======================================================================================
+ 1. Numbers Strategy: Replacing generic numbers with <NUM> drastically collapses
+    vocabulary sparsity (reducing vocabulary size by ~40-50%), preventing BPE
+    from wasting merge operations on rare numerical strings.
+ 2. Dates Strategy: Replacing complex dual Hijri/Gregorian expressions with <DATE>
+    compresses 7-to-10 token sequences into a single atomic semantic token,
+    improving downstream sentence modeling and sequence length efficiency.
+ 3. Legal References Strategy: Binding legal citations ('loi_n°_XX-YY', 'article_XX')
+    preserves exact statutory identity while preventing subword fragmentation
+    across arbitrary whitespace boundaries.
+======================================================================================

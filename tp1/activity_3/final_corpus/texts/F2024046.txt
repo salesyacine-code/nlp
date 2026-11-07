@@ -1,0 +1,200 @@
+n° <NUM> <NUM> annee lundi <DATE>
+abonnement annuel
+edition originale
+edition originale et sa traduction
+annexe (suite) code la nature de la recette <NUM>
+<NUM>
+<NUM> droits et redevances
+droits
+redevances <NUM> catégorie : les revenus des domaines de l'etat <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+b
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> taxes sur la formation professionnelle
+taxes d'apprentissage
+taxes de domiciliation bancaire
+taxes écologiques
+taxes sur les sacs en plastique
+taxes sanitaires sur les viandes (t.s.v)
+produits des amendes
+produits des amendes judiciaires
+produits des amendes et condamnations prononcées par les juridictions pénales
+produits des dommages et intérêts prononcés par les juridictions pénales
+produits des amendes administratives
+produits des amendes fiscales
+produits des amendes et confiscations douanières
+produits des amendes environnementales
+produits des autres amendes administratives
+autres amendes
+amendes à la charge des sociétés d'assurances
+fiscalité des hydrocarbures
+taxe superficiaire
+redevance hydrocarbures
+impôt sur le revenu des hydrocarbures (irh)
+impôt sur le résultat
+impôt sur la rémunération du cocontractant étranger
+taxe sur le revenu pétrolier (trp)
+impôt complémentaire sur le revenu (icr)
+taxe sur les profits exceptionnels (tpe)
+redevance forfaitaire sur la production anticipée
+taxe sur le torchage du gaz
+produit du droit de transfert
+annexe (suite) code la nature de la recette
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+produit des dividendes des banques et des établissements financiers
+produits des dividendes des banques
+produits des dividendes des assurances
+produits des dividendes des établissements financiers
+produit des dividendes des établissements non financiers
+produits des dividendes de sonatrach
+produits des dividendes des autres établissements non financiers
+autres prélèvements et revenus des actifs financiers <NUM> catégorie : les revenus des participations financières de l'etat ainsi que ses autres actifs <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> revenus de location et d'exploitation
+revenus de location
+revenus d'exploitation du domaine public
+produit de cession d'actifs mobiliers et immobiliers
+produits des aliénations d'objets mobiliers
+produits des aliénations d'immeubles
+produits des successions en déshérence
+produits des épaves et biens vacants : sommes et valeurs acquises à l'etat par prescription
+produits de la cession de biens immobiliers et fonds de commerce ( loi_n°_81- <NUM> du <DATE> )
+produit de la cession par l'etat des biens, meubles et immeubles détenus en jouissance par les epe et les epic
+produit de la cession des biens immobiliers appartenant à l'etat mis en exploitation avant le <NUM> janvier recettes issues des liquidations administratives
+produit des prestations administratives
+taxes de publicité foncière
+redevances d'expertises mobilières et immobilières
+rémunérations des actes administratifs
+frais de régie
+autres droits et revenus
+autres produits des forêts
+produits divers et imprévus
+autres revenus de toute nature
+annexe (suite) code la nature de la recette <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> produits de la rémunération de services rendus par l'etat
+produits de ventes des documents et services
+produits de rémunération de services
+redevances d'usage des fréquences
+autres produits des actifs immatériels <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> annulations totales ou partielles des dettes de l'etat
+restitution au trésor de sommes indûment payées
+dettes de l'etat définitivement prescrites
+autres produits exceptionnels
+produits des excédents de taxes parafiscales reversées au trésor public <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> impôts et taxes non budgétisés aux délais requis
+produit des taxes non pré-affectées
+recettes diverses non identifiées
+recettes diverses à classer et à régulariser
+autres produits
+revenu des biens habous et zakat
+les réparations civiles allouées à l'agence judiciaire du trésor par décisions judiciaires
+produits des droits d'inscription
+droits de greffe
+produits de chancellerie <NUM> catégorie : la rémunération de services rendus par l'etat et les redevances <NUM> catégorie : les produits divers du budget <NUM> catégorie : les produits exceptionnels divers <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> fonds de concours
+fonds de concours nationaux
+fonds de concours internationaux
+dons
+dons par des nationaux
+dons par des étrangers <NUM> catégorie : les fonds du concours, des dons et legs
+conseil superieur de la jeunesse
+décision du <DATE> portant création d'une commission des œuvres sociales au sein du conseil supérieur de la jeunesse. ————
+le président du conseil supérieur de la jeunesse,
+vu le décret_n°_82- <NUM> du <DATE> , complété, fixant le contenu et le mode de financement des œuvres sociales ;
+vu le décret_n°_82- <NUM> du <DATE> relatif à la gestion des œuvres sociales, notamment ses articles <NUM> et <NUM> ;
+vu le décret_présidentiel_n°_21- <NUM> du <DATE> , modifié et complété, fixant les attributions, la composition, l'organisation et le fonctionnement du conseil supérieur de la jeunesse ;
+vu le décret présidentiel du <DATE> portant nomination du président du conseil supérieur de la jeunesse ;
+décide :
+article <NUM> . — il est créé, au sein du conseil supérieur de la jeunesse, une commission des œuvres sociales.
+fait à alger, le <DATE> .
+mustapha hidaoui.
+annexe (suite) code la nature de la recette <NUM>
+<NUM>
+<NUM> legs
+legs par des nationaux
+legs par des étrangers <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> intérêts sur obligations
+obligation à long terme
+obligation à court terme
+produits de prêts, avances et placements
+produits de prêts
+produits des avances
+produits des placements
+valeurs, escomptes et effets de toute nature
+autres intérêts et produits.
+profits (gains) de change sur les avoirs, dettes et créances de l'etat en devises <NUM> catégorie : les intérêts et les produits provenant de prêts, avances et placements de l'etat

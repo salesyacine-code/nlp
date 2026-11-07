@@ -1,0 +1,956 @@
+n° <NUM> <NUM> annee dimanche <DATE>
+abonnement annuel
+edition originale
+edition originale et sa traduction
+edition originale, le numéro : <NUM> dinars . edition originale et sa traduction, le numéro : <NUM> dinars .
+numéros des années antérieures : suivant barème. les tables sont fournies gratuitement aux abonnés.
+prière de joindre la dernière bande pour renouvellement, réclamation, et changement d'adresse.
+tarif des insertions : <NUM> dinars la ligne algérie tunisie maroc libye mauritanie
+<NUM> an
+<NUM> dinars
+<NUM> dinars etranger
+(pays autres que le maghreb)
+<NUM> an
+<NUM> dinars
+<NUM> dinars
+(frais d'expédition en sus) abonnement et publicié :
+les vergers, bir mourad raïs, bp <NUM> etranger : (compte devises) conventions et accords internationaux - lois et decrets arretes, decisions, a vis, communications et annonces (traduction française)
+sommaire
+decrets
+décret_exécutif_n°_24- <NUM> du <DATE> modifiant et complétant le décret_exécutif_n°_94- <NUM> du <DATE> portant création du centre national d'études et de recherche sur le mouvement national et la révolution du <DATE> et changeant sa dénomination
+décret_exécutif_n°_24- <NUM> du <DATE> modifiant et complétant le décret_exécutif_n°_13- <NUM> du <DATE> portant réaménagement du statut des centres de repos des moudjahidine.
+décret_exécutif_n°_24- <NUM> du <DATE> portant changement de la dénomination de la direction des moudjahidine de wilaya
+décret_exécutif_n°_24- <NUM> du <DATE> portant plafonnement des marges bénéficiaires au stade de conditionnement et de distribution en gros et au détail des légumes secs et du riz
+décret_exécutif_n°_24- <NUM> du <DATE> portant déclaration d'utilité publique l'opération relative à la réalisation d'un système d'alimentation en eau dessalée des communes des wilayas d'alger et de blida, à partir de la station de dessalement d'eau de mer de fouka
+decisions individuelles
+décret présidentiel du <DATE> mettant fin aux fonctions d'un sous-directeur à la direction des télécommunications à la présidence de la république
+décrets présidentiels du <DATE> mettant fin aux fonctions de chefs de surêté de wilayas
+décret présidentiel du <DATE> mettant fin aux fonctions du directeur général de l'insti tut algérien des mines
+décret présidentiel du <DATE> portant nomination de chefs de surêté de wilayas
+décret présidentiel du <DATE> portant nomination du directeur général du centre de recherche juridique et judiciaire
+décret présidentiel du <DATE> portant nomination de la directrice générale de l'investissement et du foncier agricoles au ministère de l'agriculture et du développement rural
+décret présidentiel du <DATE> portant nomination du directeur général de l'école nationale supérieure du tourisme
+décret exécutif du <DATE> mettant fin aux fonctions de la directrice de la programmation et de l'appui économique au ministère de l'agriculture et du développement rural
+décret exécutif du <DATE> portant nomination du directeur du centre algérien du patrimoine culturel bati en terre
+arretes, decisions et a vis
+ministere des finances
+arrêté du <DATE> modifiant et complétant l'arrêté du <DATE> fixant la compétence territoriale des centres des impôts (c.d.i)
+arrêté du <DATE> modifiant et complétant l'arrêté du <DATE> fixant la compétence territoriale des centres de proximité des impôts (c.p.i)
+arrêté du <DATE> fixant la compétence territoriale des inspections de la garantie..
+ministere de l'education nationale
+arrêté du <DATE> modifiant l'arrêté du <DATE> fixant la liste nominative des membres du comité sectoriel permanent de la recherche scientifique et du développement technologique du ministère de l'éducation nationale
+ministere de la culture et des arts
+arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> portant ouverture de la filière"musique", spécialité"musicologie", domaine"arts"et fixant son programme pédagogique ainsi que les modalités d'évaluation, de progression et d'orientation en vue de l'obtention du diplôme de master professionnalisant à l'institut national de formation supérieure de musique
+ministere de l'hydraulique
+arrêté du <DATE> portant approbation de l'organisation interne de l'agence nationale de dessalement de l'eau
+sommaire (suite)
+decrets décret_exécutif_n°_24- <NUM> du <DATE> modifiant et complétant le décret_exécutif_n°_94- <NUM> du <DATE> portant création du centre national d'études et de recherche sur le mouvement national et la révolution du <DATE> et changeant sa dénomination. ————
+le premier ministre, sur le rapport du ministre des moudjahidine et des ayants-droit,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_n°_99- <NUM> du <DATE> relative au moudjahid et au chahid ;
+vu le décret_n°_86- <NUM> du <DATE> , modifié, portant statut-type des travailleurs du secteur de la recherche scientifique et technique ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_94- <NUM> du <DATE> , modifié et complété, portant création du centre national d'études et de recherche sur le mouvement national et la révolution du <DATE> ;
+vu le décret_exécutif_n°_11- <NUM> du <DATE> fixant le statut-type de l'établissement public à caractère scientifique et technologique ;
+vu le décret_exécutif_n°_21- <NUM> du <DATE> fixant les attributions du ministre des moudjahidine et des ayants-droit ;
+décrète :
+article <NUM> . — le présent décret a pour objet de modifier et de compléter certaines dispositions du décret_exécutif_n°_94- <NUM> du <DATE> portant création du centre national d'études et de recherche sur le mouvement national et la révolution du <DATE> et changeant sa dénomination.
+article_2 . — les dispositions des articles <NUM> , <NUM> , <NUM> et <NUM> bis du décret_exécutif_n°_94- <NUM> du <DATE> susvisé, sont modifiées, complétées et rédigées comme suit :"article <NUM> . — il est créé un centre national d'études et de recherche sur la résistance populaire, le mouvement national et la révolution du <DATE> , régi par les dispositions du décret_exécutif_n°_11- <NUM> du <DATE> fixant le statut-type de l'établissement public à caractère scientifique et technologique, et celles du présent décret, désigné ci-après le"centre"."." article_3 . — outre les missions fixées par l' article_7 du décret_exécutif_n°_11- <NUM> du <DATE> susvisé, le centre est chargé d'élaborer des programmes de recherche scientifique et de développement technologique dans les domaines d'études et de recherche sur la mémoire nationale liées à la résistance populaire, au mouvement national et à la révolution du <DATE> .
+dans les domaines relevant de ses compétences, le centre est chargé, notamment :
+— de mener des études et des recherches liées à la résistance populaire, au mouvement national et à la révolution du <DATE> ;
+— de collecter, de conserver et de traiter les informations, les documents et les objets liés à la résistance populaire, au mouvement national et à la révolution du <DATE> ;
+— d'enregistrer, de conserver et d'exploiter les témoignages vivants liés à la résistance populaire, au mouvement national et à la révolution du <DATE> ;
+— de réaliser des œuvres audiovisuelles relatives à la résistance populaire, au mouvement national et à la révolution du <DATE> et à leurs évènements ;
+— de superviser, du point de vue scientifique et historique, la production de films historiques long métrage et des films documentaires y afférents ;
+— d'enrichir le système éducatif, de formation, culturel et médiatique de la matière historique ;
+— de participer à la publication d'études et de recherches scientifiques par l'impression de périodiques, d'ouvrages et de projets de recherche ;
+— d'organiser des séminaires et des forums scientifiques locaux, nationaux et internationaux sur la résistance populaire, le mouvement national et la révolution du <DATE> ;
+— de constituer une banque numérique d'informations sur l'histoire nationale liée à la résistance populaire, le mouvement national et la révolution du <DATE> ;
+— d'apporter le conseil, l'expertise et les informations historiques à la tutelle et aux différents secteurs concernés par l'histoire de la résistance populaire, du mouvement national et de la révolution du <DATE> ;
+— de rechercher et d'exploiter les documents et les archives relatifs au patrimoine historique et culturel liés à la résistance populaire, au mouvement national et à la révolution du <DATE> , aux niveaux national et international ;
+— de traduire les documents, les études, les recherches, les publications et les ouvrages y afférents ;
+— d'assurer la coopération et la coordination avec les laboratoires de recherche de l'enseignement supérieur et de la recherche scientifique spécialisés dans le domaine de la résistance populaire, du mouvement national et de la révolution du <DATE> ;
+— d'échanger les expériences avec différents centres et organismes scientifiques nationaux et étrangers."." article_4 . — outre les membres prévus à l' article_13 du décret_exécutif_n°_11- <NUM> du <DATE> susvisé, le conseil d'administration du centre comprend les membres suivants :
+— un représentant du ministère de la défense nationale ;
+— un représentant du ministre chargé de l'enseignement supérieur et de la recherche scientifique ;
+— un représentant du ministre chargé de l'éducation nationale ;
+— un représentant du ministre chargé de la culture et des arts.
+le conseil d'administration peut, dans le cadre de ses missions, faire appel à toute personne, institution et organisation susceptible de l'aider dans ses travaux.
+les membres du conseil d'administration sont désignés par arrêté du ministre chargé des moudjahidine et des ayants-droit, sur proposition des autorités dont ils relèvent, pour une durée de quatre ( <NUM> ) ans, renouvelable une seule fois.
+en cas d'interruption du mandat d'un membre du conseil d'administration, il est remplacé dans les mêmes formes, pour la durée restante du mandat.
+les services du centre assurent le secrétariat du conseil d'administration."." article_4_bis . — le conseil scientifique du centre comprend dix-huit ( <NUM> ) membres, conformément aux dispositions de l' article_21 du décret_exécutif_n°_11- <NUM> du <DATE> susvisé.
+la liste nominative des membres du conseil scientifique est fixée par arrêté du ministre chargé des moudjahidine et des ayants-droit, pour une durée de quatre ( <NUM> ) ans.
+en cas d'interruption du mandat d'un membre du conseil scientifique, il est remplacé dans les mêmes formes, pour la durée restante du mandat.
+le conseil scientifique peut, dans le cadre de ses attributions, se faire assister de toute compétence ou organisme pour l'aider dans ses travaux, et il peut constituer des comités scientifiques spécialisés dont les membres sont nommés par décision du directeur du centre.
+la direction du centre assure le secrétariat du conseil scientifique.".
+article_3 . — la dénomination de"centre national d'études et de recherche sur le mouvement national et la révolution du <DATE> "est remplacée par celle de"centre national d'études et de recherche sur la résistance populaire, le mouvement national et la révolution du <DATE> "dans l'intitulé et les dispositions du décret_exécutif_n°_94- <NUM> du <DATE> susvisé, ainsi que dans toutes les dispositions des textes subséquents.
+populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+décret_exécutif_n°_24- <NUM> du <DATE> modifiant et complétant le décret_exécutif_n°_13- <NUM> du <DATE> portant réaménagement du statut des centres de repos des moudjahidine. ———— le premier ministre, sur le rapport du ministre des moudjahidine et des ayants-droit,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_n°_99- <NUM> du <DATE> relative au moudjahid et au chahid ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_13- <NUM> du <DATE> portant réaménagement du statut des centres de repos des moudjahidine ;
+vu le décret_exécutif_n°_21- <NUM> du <DATE> fixant les attributions du ministre des moudjahidine et des ayants-droit ;
+décrète :
+article <NUM> . — le présent décret a pour objet de modifier et de compléter certaines dispositions du décret_exécutif_n°_13- <NUM> du <DATE> portant réaménagement du statut des centres de repos des moudjahidine.
+article_2 . — les dispositions des articles <NUM> , <NUM> et <NUM> du décret_exécutif_n°_13- <NUM> du <DATE> susvisé, sont modifiées, complétées et rédigées comme suit :" article_6 . — les centres ont pour mission de permettre aux moudjahidine, aux ayants droit, aux victimes civiles et aux victimes d'engins explosifs cités à l' article_9 ci-dessous, de bénéficier gratuitement des prestations en matière de repos, de soins et de rééducation fonctionnelle, selon leur état de santé. (le reste sans changement ) "." article_7 . — les moudjahidine, les ascendants et les veuves de chouhada, les veuves et les conjoints des moudjahidine, les fils de chouhada handicapés, les fils de moudjahidine handicapés, les victimes civiles et les victimes d'engins explosifs sont admis dans les centres, sur la base d'un formulaire renseigné, indiquant le type de traitement demandé et le centre de repos choisi, et déposé au niveau des directions des moudjahidine de wilayas."." article_9 . — bénéficient des prestations prévues à l' article_6 ci-dessus, conformément aux lois et règlements en vigueur et dans les conditions fixées par le présent décret, les moudjahidine, les ascendants et les veuves de chouhada, les veuves et les conjoints des moudjahidine, les fils de chouhada handicapés, les fils de moudjahidine handicapés, les victimes civiles et les victimes d'engins explosifs.".
+article_3 . — la dénomination"ministre des moudjahidine"est remplacée par celle de"ministre des moudjahidine et des ayants-droit"dans l'intitulé et les dispositions du décret_exécutif_n°_13- <NUM> du <DATE> susvisé, ainsi que dans toutes les dispositions des textes subséquents.
+populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui. ————h————
+décret_exécutif_n°_24- <NUM> du <DATE> portant changement de la dénomination de la direction des moudjahidine de wilaya. ———— le premier ministre, sur le rapport du ministre des moudjahidine et des ayants-droit,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_n°_99- <NUM> du <DATE> relative au moudjahid et au chahid ;
+vu l' ordonnance_n°_06- <NUM> du <DATE> , complétée, portant statut général de la fonction publique ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_91- <NUM> du <DATE> portant création de direction des moudjahidine de wilayas ;
+vu le décret_exécutif_n°_19- <NUM> du <DATE> portant organisation de la direction des moudjahidine de wilaya ;
+vu le décret_exécutif_n°_21- <NUM> du <DATE> fixant les attributions du ministre des moudjahidine et des ayants-droit ;
+décrète :
+article <NUM> . — la dénomination"direction des moudjahidine de wilaya"est remplacée par celle de"direction des moudjahidine et des ayants droit de wilaya"dans l'intitulé et les dispositions du décret_exécutif_n°_91- <NUM> du <DATE> susvisé, ainsi que dans toutes les dispositions des autres textes subséquents.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+légumes secs et riz conditionnés :
+article_3 . — les marges bénéficiaires plafonnées sont appliquées au stade :
+— de conditionnement sur la base du prix de revient ;
+— de la distribution en gros sur la base du coût d'achat ;
+— de la distribution au détail sur la base du prix d'achat.
+article_4 . — toute infraction aux dispositions du présent décret est constatée et sanctionnée, conformément aux dispositions législatives et réglementaires en vigueur, notamment les dispositions de la loi_n°_04- <NUM> du <DATE> , modifiée et complétée, susvisée.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+marges bénéficiaires plafonds au stade de conditionnement marges bénéficiaires plafonds au stade de la distribution en gros marges bénéficiaires plafonds au stade de la distribution au détail
+<NUM> %
+<NUM> %
+<NUM> %
+désignation du produit
+légumes secs et riz unité de mesure <NUM> kg
+<NUM> g légumes secs et riz en vrac :
+marges bénéficiaires plafonds au stade de la distribution en gros marges bénéficiaires plafonds au stade de la distribution au détail <NUM> % <NUM> % désignation du produit légumes secs et riz unité de mesure le kilogramme décret_exécutif_n°_24- <NUM> du <DATE> portant plafonnement des marges bénéficiaires au stade de conditionnement et de distribution en gros et au détail des légumes secs et du riz. ———— le premier ministre, sur le rapport conjoint du ministre du commerce et de la promotion des exportations et du ministre de l'agriculture et du développement rural,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu l' ordonnance_n°_03- <NUM> du <DATE> , modifiée et complétée, relative à la concurrence, notamment son article_5 ;
+vu la loi_n°_04- <NUM> du <DATE> , modifiée et complétée, fixant les règles applicables aux pratiques commerciales ;
+vu la loi_n°_04- <NUM> du <DATE> , modifiée et complétée, relative aux conditions d'exercice des activités commerciales ;
+vu la loi_n°_09- <NUM> du <DATE> , modifiée et complétée, relative à la protection du consommateur et à la répression des fraudes ;
+vu la loi_n°_21- <NUM> du <DATE> relative à la lutte contre la spéculation illicite ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_97- <NUM> du <DATE> fixant le statut de l'office algérien interprofessionnel des céréales (o.a.i.c) ;
+vu le décret_exécutif_n°_05- <NUM> du <DATE> fixant les conditions et les modalités d'établissement de la facture, du bon de transfert, du bon de livraison et de la facture récapitulative ;
+décrète :
+article <NUM> . — en application des dispositions de l' article_5 de l' ordonnance_n°_03- <NUM> du <DATE> , modifiée et complétée, susvisée, le présent décret a pour objet de plafonner les marges bénéficiaires au stade de conditionnement et de distribution en gros et au détail des légumes secs et du riz.
+article_2 . — les marges bénéficiaires appliquées aux produits mentionnés à l'article <NUM> ci-dessus, au stade de conditionnement et de la distribution en gros et au détail, sont plafonnées comme suit :
+décret_exécutif_n°_24- <NUM> du <DATE> portant déclaration d'utilité publique l'opération relative à la réalisation d'un système d'alimentation en eau dessalée des communes des wilayas d'alger et de blida, à partir de la station de dessalement d'eau de mer de fouka. ————
+le premier ministre, sur le rapport du ministre de l'hydraulique,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_n°_90- <NUM> du <DATE> , modifiée et complétée, portant loi domaniale ;
+vu la loi_n°_91- <NUM> du <DATE> , complétée, fixant les règles relatives à l'expropriation pour cause d'utilité publique ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_93- <NUM> du <DATE> , complété, déterminant les modalités d'application de la loi_n°_91- <NUM> du <DATE> , complétée, fixant les règles relatives à l'expropriation pour cause d'utilité publique ;
+décrète :
+article <NUM> . — en application des dispositions de l' article_12_bis de la loi_n°_91- <NUM> du <DATE> , complétée, susvisée, et conformément aux dispositions de l' article_10 du décret_exécutif_n°_93- <NUM> du <DATE> , complété, susvisé, le présent décret a pour objet de déclarer d'utilité publique, l'opération relative à la réalisation d'un système d'alimentation en eau dessalée des communes des wilayas d'alger et de blida, à partir de la station de dessalement d'eau de mer de fouka, ainsi que les travaux de raccordement y afférents, en raison du caractère d'infrastructure d'intérêt général et d'envergure nationale et stratégique.
+article_2 . — la superficie des biens immobiliers et/ou droits réels immobiliers servant d'emprise à la réalisation de l'opération visée à l'article <NUM> ci-dessus, telle que délimitée, conformément au plan annexé à l'original du présent décret, est de trente-quatre ( <NUM> ) hectares, cinquante-huit ( <NUM> ) ares et quatre-vingt-quatre ( <NUM> ) centiares, située dans les territoires des wilayas de tipaza, d'alger et de blida, répartie comme suit :
+wilaya de tipaza : quatre ( <NUM> ) hectares, quarante-cinq ( <NUM> ) ares et soixante-quatorze ( <NUM> ) centiares, répartis comme suit :
+— commune de fouka : quatre-vingt-et-un ( <NUM> ) ares et trente-trois ( <NUM> ) centiares ;
+— commune de douaouda : trois ( <NUM> ) hectares, soixante-quatre ( <NUM> ) ares et quarante-et-un ( <NUM> ) centiares.
+wilaya d'alger : dix ( <NUM> ) hectares, trente-sept ( <NUM> ) ares et quarante-six ( <NUM> ) centiares, répartis comme suit :
+— commune de zéralda : quatre ( <NUM> ) hectares, soixante-et-un ( <NUM> ) ares et onze ( <NUM> ) centiares ;
+— commune de tassala el merdja : cinq ( <NUM> ) hectares, trente-et-un ( <NUM> ) ares et trente-cinq ( <NUM> ) centiares ;
+— commune de ouled chebel : quarante-cinq ( <NUM> ) ares.
+wilaya de blida : dix-neuf ( <NUM> ) hectares, soixante-quinze ( <NUM> ) ares et soixante-quatre ( <NUM> ) centiares, répartis comme suit :
+— commune de ben khellil : deux ( <NUM> ) hectares, cinquante-huit ( <NUM> ) ares et soixante-dix-neuf ( <NUM> ) centiares ;
+— commune de boufarik : six ( <NUM> ) hectares, trente-six ( <NUM> ) ares et quatre-vingts ( <NUM> ) centiares ;
+— commune de chebli : cinq ( <NUM> ) hectares, quatre-vingt-quatre ( <NUM> ) ares et cinquante ( <NUM> ) centiares ;
+— commune de bouinan : quatre-vingt-six ( <NUM> ) ares et soixante-dix ( <NUM> ) centiares ;
+— commune de bougara : quarante-et-un ( <NUM> ) ares ;
+— commune de ouled selama : quatre-vingt-neuf ( <NUM> ) ares et quatre-vingt-cinq ( <NUM> ) centiares ;
+— commune de larbaâ : deux ( <NUM> ) hectares et soixante-dix-huit ( <NUM> ) ares.
+article_3 . — la consistance des travaux à engager au titre de l'opération visée à l'article <NUM> ci-dessus, est la suivante :
+<NUM> . wilaya de tipaza :
+— anti-bélier et chambre des vannes à la sortie de la station de dessalement ;
+— fourniture et pose d'une conduite d'un linéaire de <NUM> km, dn <NUM> mm en acier et pn <NUM> ;
+— fourniture et pose d'une conduite d'un linéaire de <NUM> km, dn <NUM> mm en acier et pn <NUM> .
+<NUM> . wilaya d'alger :
+— fourniture et pose d'une conduite d'un linéaire de <NUM> km, dn <NUM> mm en acier et pn <NUM> ;
+— fourniture et pose d'une conduite d'un linéaire de <NUM> km, dn <NUM> mm en acier et pn <NUM> ;
+— un réservoir d'eau d'une capacité de <NUM> m <NUM> au niveau du complexe sahel.
+decisions individuelles décret présidentiel du <DATE> mettant fin aux fonctions d'un sous-directeur à la direction des télécommunications à la présidence de la république. ————
+par décret présidentiel du <DATE> , il est mis fin aux fonctions de sous-directeur à la direction des télécommunications à la présidence de la république, exercées par m. nassim guettafi. ————h————
+décrets présidentiels du <DATE> mettant fin aux fonctions de chefs de surêté de wilayas. ————
+par décret présidentiel du <DATE> , il est mis fin aux fonctions de chef de surêté de la wilaya de blida, exercées par m. mourad allalou, appelé à réintégrer son grade d'origine. ————————
+par décret présidentiel du <DATE> , il est mis fin aux fonctions de chef de surêté de la wilaya de tiaret, exercées par m. m'hamed bouralia, appelé à exercer une autre fonction.
+décret présidentiel du <DATE> mettant fin aux fonctions du directeur général de l'institut algérien des mines. ————
+par décret présidentiel du <DATE> , il est mis fin aux fonctions de directeur général de l'institut algérien des mines, exercées par m. mohamed bellal, admis à la retraite. ————h————
+décret présidentiel du <DATE> portant nomination de chefs de surêté de wilayas. ————
+par décret présidentiel du <DATE> , sont nommés chefs de surêté aux wilayas suivantes, mm. :
+— m'hamed bouralia, à la wilaya de blida ;
+— azzedine tamine, à la wilaya de tiaret.
+décret présidentiel du <DATE> portant nomination du directeur général du centre de recherche juridique et judiciaire. ————
+par décret présidentiel du <DATE> , m. arezki si hadj mohand est nommé directeur général du centre de recherche juridique et judiciaire. <NUM> . wilaya de blida :
+• raccordement à partir du complexe sahel vers le réservoir el hasseinia (commune de bouinan) :
+— fourniture et pose d'une conduite d'un linéaire de <NUM> km et de diamètre qui varie entre dn <NUM> mm et dn <NUM> mm en acier et pn <NUM> ;
+— deux ( <NUM> ) stations de pompage.
+• raccordement à partir du réservoir el hasseinia vers meftah :
+— fourniture et pose d'une conduite d'un linéaire de <NUM> km et de diamètre qui varie entre dn <NUM> mm et dn <NUM> mm en acier, pn <NUM> et pn <NUM> ;
+— fourniture et pose d'une conduite d'un linéaire de <NUM> km et de diamètre qui varie entre dn <NUM> mm et dn <NUM> mm en polyéthylène haute densité, pn <NUM> et pn <NUM> ;
+— six ( <NUM> ) réservoirs d'eau d'une capacité totale de <NUM> m3 ;
+— une station de pompage.
+article_4 . — les crédits nécessaires à l'indemnisation des intéressés par l'opération d'expropriation des biens immobiliers et/ou droits réels immobiliers, pour l'opération relative à la réalisation d'un système d'alimentation en eau dessalée des communes des wilayas d'alger et de blida, à partir de la station de dessalement d'eau de mer de fouka, doivent être disponibles et consignés auprès du trésor public.
+populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+arretes, decisions et a vis
+ministere des finances
+arrêté du <DATE> modifiant et complétant l'arrêté du <DATE> fixant la compétence territoriale des centres des impôts (c.d.i). ————
+le ministre des finances,
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_95- <NUM> du <DATE> fixant les attributions du ministre des finances ;
+vu le décret_exécutif_n°_06- <NUM> du <DATE> , modifié et complété, fixant l'organisation et les attributions des services extérieurs de l'administration fiscale ;
+vu l'arrêté interministériel du <DATE> , modifié et complété, fixant l'organisation et les attributions des services extérieurs de l'administration fiscale ;
+vu l'arrêté du <DATE> , modifié et complété, fixant la compétence territoriale des directions régionales et des directions des impôts de wilayas ;
+vu l'arrêté du <DATE> fixant la compétence territoriale des centres des impôts (c.d.i) ;
+arrête :
+article <NUM> . — le tableau (annexe i) annexé à l'arrêté du <DATE> fixant la compétence territoriale des centres des impôts (c.d.i), est modifié et complété conformément au tableau joint au présent arrêté.
+populaire.
+fait à alger, le <DATE> .
+laziz faid.
+décret présidentiel du <DATE> portant nomination de la directrice générale de l'investissement et du foncier agricoles au ministère de l'agriculture et du développement rural. ————
+par décret présidentiel du <DATE> , mme. souad assaous est nommée directrice générale de l'investissement et du foncier agricoles au ministère de l'agriculture et du développement rural. ————h————
+décret présidentiel du <DATE> portant nomination du directeur général de l'école nationale supérieure du tourisme. ————
+par décret présidentiel du <DATE> , m. nabil boulemkhali est nommé directeur général de l'école nationale supérieure du tourisme.
+décret exécutif du <DATE> mettant fin aux fonctions de la directrice de la programmation et de l'appui économique au ministère de l'agriculture et du développement rural. ————
+par décret exécutif du <DATE> , il est mis fin aux fonctions de directrice de la programmation et de l'appui économique au ministère de l'agriculture et du développement rural, exercées par mme. souad assaous, appelée à exercer une autre fonction. ————h————
+décret exécutif du <DATE> portant nomination du directeur du centre algérien du patrimoine culturel bati en terre. ————
+par décret exécutif du <DATE> , m. alaeddine belouaar est nommé directeur du centre algérien du patrimoine culturel bati en terre."tableau annexe i direction régionale des impôts direction des impôts de wilaya béchar
+béni abbès
+adrar
+timimoun
+bordj badji mokhtar
+el bayadh
+tindouf
+naâma désignation des centres des impôts (cdi) et leurs sièges (sans changement) chlef (sans changement) blida (sans changement) alger (sans changement) sétif
+annaba (sans changement)
+constantine
+ouargla
+oran (sans changement)
+centre des impôts (cdi) de béni abbès à béni abbès
+(sans changement)
+centre des impôts (cdi) de timimoun à timimoun
+centre des impôts (cdi) de bordj badji mokhtar à bordj badji mokhtar
+(sans changement)
+(sans changement)
+(sans changement)
+béchar constantine
+batna
+biskra
+ouled djellal
+jijel
+khenchela
+mila
+ouargla
+touggourt
+laghouat
+tamenghasset
+in salah
+in guezzam
+illizi
+djanet
+el oued
+el meghaier
+ghardaïa
+el meniaâ (sans changement)
+(sans changement)
+(sans changement)
+centre des impôts (cdi) de ouled djellal à ouled djellal
+(sans changement)
+(sans changement)
+(sans changement)
+(sans changement)
+centre des impôts (cdi) de touggourt à touggourt
+(sans changement)
+(sans changement)
+centre des impôts (cdi) de in salah à in salah
+centre des impôts (cdi) de in guezzam à in guezzam
+(sans changement)
+centre des impôts (cdi) de djanet à djanet
+(sans changement)
+centre des impôts (cdi) d'el meghaier à el meghaier
+(sans changement)
+centre des impôts (cdi) d'el meniaâ à el meniaâ (sans changement) "arrêté du <DATE> modifiant et complétant l'arrêté du <DATE> fixant la compétence territoriale des centres de proximité des impôts (cpi). ———— le ministre des finances,
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_95- <NUM> du <DATE> fixant les attributions du ministre des finances ;
+vu le décret_exécutif_n°_06- <NUM> du <DATE> , modifié et complété, fixant l'organisation et les attributions des services extérieurs de l'administration fiscale ;
+vu l'arrêté interministériel du <DATE> , modifié et complété, fixant l'organisation et les attributions des services extérieurs de l'administration fiscale ;
+vu l'arrêté du <DATE> , modifié et complété, fixant la compétence territoriale des directions régionales et des directions des impôts de wilayas ;
+vu l'arrêté du <DATE> fixant la compétence territoriale des centres de proximité des impôts (cpi) ;
+arrête :
+article <NUM> . — le tableau joint à l'arrêté du <DATE> fixant la compétence territoriale des centres de proximité des impôts (cpi), est modifié et complété conformément au tableau joint au présent arrêté.
+populaire.
+fait à alger, le <DATE> .
+laziz faid. ————————"tableau annexe direction régionale des impôts direction des impôts de wilaya
+adrar
+béchar
+timimoun
+compétence territoriale des centres de proximité des impôts (cpi) désignation des centres de proximité des impôts (cpi) et leurs sièges centre de proximité des impôts (cpi) d'adrar à adrar
+centre de proximité des impôts (cpi) de reggane à reggane
+centre de proximité des impôts (cpi) de béchar <NUM> à béchar
+centre de proximité des impôts (cpi) de béchar <NUM> à béchar
+centre de proximité des impôts (cpi) de abadla à abadla
+centre de proximité des impôts (cpi) de timimoun à timimoun
+centre de proximité des impôts (cpi) d'aougrout à aougrout
+centre de proximité des impôts (cpi) de tinerkouk à tinerkouk
+centre de proximité des impôts (cpi) de charouine à charouine (sans changement) chlef communes de : adrar -bouda - tamantit - fenoughil - tamest -tsabit - sebaâ - ouled ahmed timmi
+communes de : reggane - zaouiet kounta - in zghmir - sali - aoulef - timekten - akabli - tit
+communes de : kenadsa - meridja - taghit et la partie de la commune de béchar délimitée : au nord par la zone militaire, au sud par djebel béchar, à l'est par la route nationale n° <NUM> et à l'ouest par la commune de abadla
+communes de : béni ounif - mogheul - lahmar - boukaïs et la partie de la commune de béchar délimitée : au nord par la zone militaire, au sud par djebel béchar, à l'est par la commune de béni ounif et à l'ouest par la route nationale n° <NUM>
+communes de : abadla - erg ferradj - mechraâ houari boumediène
+communes de : timimoun - ouled saïd
+communes de : aougrout - deldoul - metarfa
+communes de : tinerkouk - ksar kaddour
+communes de : charouine - talmine - ouled aïsssa
+béchar
+tableau annexe (suite) direction régionale des impôts direction des impôts de wilayas compétence territoriale des centres de proximité des impôts (cpi) désignation des centres de proximité des impôts (cpi) et leurs sièges centre de proximité des impôts (cpi) de bordj badji mokhtar à bordj badji mokhtar
+centre de proximité des impôts (cpi) de timiaouine à timiaouine
+centre de proximité des impôts (cpi) de béni abbès à béni abbès
+centre de proximité des impôts (cpi) de kerzaz à kerzaz
+centre de proximité des impôts (cpi) de tabelbala à tabelbala (sans changement)
+(sans changement)
+(sans changement)
+el bayadh
+tindouf
+naâma commune de : bordj badji mokhtar
+commune de : timiaouine
+communes de : béni abbès -tamtert-igli-el ouata
+communes de : kerzaz-béni ikhlef-ouled khoudeir -timoudi - ksabi
+commune de : tabelbala béchar (suite) batna biskra (sans changement)
+centre de proximité des impôts (cpi) de biskra est à biskra
+centre de proximité des impôts (cpi) de biskra ouest à biskra
+centre de proximité des impôts (cpi) de sidi okba à sidi okba
+centre de proximité des impôts (cpi) de tolga à tolga communes de : el kantara -djemorah-el outaya -branis -aïn zaâtout avec la partie est de la commune de biskra délimitée : au nord par la wilaya de batna, au sud par la commune de sidi okba, à l'est par la commune de chetma et à l'ouest par les boulevards emir abdelkader et okba ibn nafaâ avec le col du sfa route de batna et par une partie de la rive de oued sidi zerzour
+commune d'el hadjeb avec la partie ouest de la commune de biskra délimitée : au nord par les boulevards emir abdelkader et okba ibn nafaâ et par la route de batna, au sud par la commune de oumache, à l'est par la rive de oued sidi zerzour et à l'ouest par la commune de bouchagroun
+communes de : sidi okba - chetma - m'chounèche - aïn naga - el haouch-zeribet el oued -el feïdh - meziraa - khenguet sidi nadji
+communes de : tolga - foughala - el ghrous - lichana - bouchagroun - bordj ben azzouz - ourlal - oumache - lioua - mekhadma - m'lili constantine (sans changement)
+(sans changement)
+(sans changement)
+(sans changement)
+blida
+alger
+sétif
+annaba
+bordj badji mokhtar
+béni abbès
+tableau annexe (suite) direction régionale des impôts direction des impôts de wilaya ouled djellal compétence territoriale des centres de proximité des impôts (cpi) désignation des centres de proximité des impôts (cpi) et leurs sièges centre de proximité des impôts (cpi) de ouled djellal à ouled djellal
+centre de proximité des impôts (cpi) de sidi khaled à sidi khaled (sans changement)
+(sans changement)
+(sans changement)
+(sans changement)
+jijel
+constantine
+khenchela
+mila (sans changement) laghouat communes de : ouled djellal - chaïba - doucen
+communes de : sidi khaled - ras el miaâd - besbes constantine (suite) tamenghasset
+in salah
+in guezzam
+ouargla
+touggourt centre de proximité des impôts (cpi) de tamenghasset à tamenghasset
+centre de proximité des impôts (cpi) de in salah à in salah
+centre de proximité des impôts (cpi) de in ghar à in ghar
+centre de proximité des impôts (cpi) de in guezzam à in guezzam
+centre de proximité des impôts (cpi) de tin zaouatine à tin zaouatine
+centre de proximité des impôts (cpi) de ouargla ville - (hai ennasr) à ouargla
+centre de proximité des impôts (cpi) de sidi khouiled à sidi khouiled
+centre de proximité des impôts (cpi) de hassi messaoud à hassi messaoud
+centre de proximité des impôts (cpi) de touggourt à touggourt
+centre de proximité des impôts (cpi) d'el hadjira à el hadjira communes de : tamenghasset - in amguel - abalessa - idlès-tazrouk
+communes de : in salah - foggaret ezzaouia
+commune de : in ghar
+commune de : in guezzam
+commune de : tin zaouatine
+communes de : ouargla - rouissat
+communes de : sidi khouiled - aïn beïda - n'goussa- hassi ben abdelah
+communes de : hassi messaoud - el borma
+communes de : touggourt - megarine - sidi slimane - zaouia el abidia - tebesbest - nezla - taibet - tamacine - balidat ameur - benaceur - m'naguar
+communes de : el hadjira – el allia ouargla
+tableau annexe (suite) direction régionale des impôts direction des impôts de wilaya
+illizi
+djanet
+el oued
+el meghaier
+ghardaïa
+el meniaâ compétence territoriale des centre de proximité des impôts (cpi) désignation des centres de proximité des impôts (cpi) et leurs sièges centre de proximité des impôts (cpi) d'illizi à illizi
+centre de proximité des impôts (cpi) de in amenas à in amenas
+centre de proximité des impôts (cpi) de bordj omar driss à bordj omar driss
+centre de proximité des impôts (cpi) de debdeb à debdeb
+centre de proximité des impôts (cpi) de djanet à djanet
+centre de proximité des impôts (cpi) de bordj el haouasse à bordj el haouasse
+centre de proximité des impôts (cpi) d'el oued à el oued
+centre de proximité des impôts (cpi) de debila à debila
+centre de proximité des impôts (cpi) de guemar à guemar
+centre de proximité des impôts (cpi) d'el meghaier à el meghaier
+centre de proximité des impôts (cpi) de djamaâ à djamaâ
+centre de proximité des impôts (cpi) de ghardaïa à ghardaïa (bouhraoua)
+centre de proximité des impôts (cpi) de bounoura à bounoura
+centre de proximité des impôts (cpi) de metlili à metlili
+centre de proximité des impôts (cpi) d'el guerrara à el guerrera
+centre de proximité des impôts (cpi) d'el meniaâ à el meniaâ
+centre de proximité des impôts (cpi) de hassi fehal à hassi fehal commune de : illizi
+commune de : in amenas
+commune de : bordj omar driss
+commune de : debdeb
+commune de : djanet
+commune de : bordj el haouasse
+communes de : el oued - robbah - bayadha - nakhla - el ogla - oued el alenda - mih ouansa
+communes de : debila - trifaoui - hassani abdelkrim - hassi khelifa - magrane - taleb larbi - beni guecha - sidi aoun - douar el ma
+communes de : guemar - taghzout - kouinine - ourmas - hamraia - reguiba
+communes de : el meghaier - sidi khelil - still - oum touyour
+communes de : djamaâ - sidi amrane - tendla - m'rara
+communes de : ghardaïa - dhayet bendhahoua
+communes de : bounoura - el atteuf - berriane
+communes de : metlili - zelfana - mansoura - sebseb
+commune de : el guerrera
+communes de : el meniaâ - hassi gara
+commune de : hassi fehal ouargla (suite) (sans changement) "oran
+arrêté du <DATE> fixant la compétence territoriale des inspections de la garantie. ————
+le ministre des finances,
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_95- <NUM> du <DATE> fixant les attributions du ministre des finances ;
+vu le décret_exécutif_n°_06- <NUM> du <DATE> , modifié et complété, fixant l'organisation et les attributions des services extérieurs de l'administration fiscale ;
+vu l'arrêté interministériel du <DATE> , modifié et complété, fixant l'organisation et les attributions des services extérieurs de l'administration fiscale ;
+vu l'arrêté du <DATE> , modifié et complété, portant création et fixant l'organisation, les attributions et la consistance territoriale des inspections de la garantie ;
+arrête :
+article <NUM> . — en application des dispositions des articles <NUM> bis et <NUM> ter du décret_exécutif_n°_06- <NUM> du <DATE> , modifié et complété, fixant l'organisation et les attributions des services extérieurs de l'administration fiscale, le présent arrêté a pour objet de fixer la compétence territoriale des inspections de la garantie.
+article_2 . — la liste ainsi que la compétence territoriale des inspections de la garantie"assiette"et"enquêtes et contrôle", sont fixées conformément aux annexes i et ii jointes au présent arrêté.
+article_3 . — l'arrêté du <DATE> portant création et fixant l'organisation, les attributions et la consistance territoriale des inspections de la garantie, est abrogé.
+populaire.
+fait à alger, le <DATE> .
+laziz faid. ————————
+annexe i
+tableau fixant les sièges et les compétences territoriales des inspections de la garantie"assiette"région — centre siege de l'inspection competence territoriale alger-centre
+blida
+tizi ouzou
+ghardaïa
+tamenghasset wilaya : alger
+wilayas : blida - tipaza - médéa - djelfa
+wilayas : tizi ouzou - boumerdès- bouira
+wilayas : ghardaïa - el meniaâ - laghouat - ouargla - touggourt
+wilayas : tamenghasset - illizi - in salah - in guezzam - djanet siege de l'inspection competence territoriale oran - ouest
+tlemcen
+sidi bel abbès
+chlef
+tiaret
+béchar wilayas : oran - mostaganem - mascara
+wilayas : tlemcen - aïn témouchent
+wilayas : sidi bel abbès - saïda - el bayadh
+wilayas : chlef - relizane -aïn defla
+wilayas : tiaret - tissemsilt
+wilayas : béchar - béni abbès - adrar -timimoun - bordj badji mokhtar - tindouf - naâma région — ouest
+siege de l'inspection competence territoriale constantine
+skikda
+annaba
+sétif
+béjaïa
+batna
+biskra
+guelma wilayas : constantine - mila - oum el bouaghi
+wilayas : skikda - jijel
+wilayas : annaba - el tarf
+wilayas : sétif - m'sila
+wilayas : béjaïa - bordj bou arréridj
+wilayas : batna - khenchela
+wilayas : biskra - ouled djellal - el oued - el meghaier
+wilayas : guelma - souk ahras - tébessa annexe i (suite)
+région — est siege de l'inspection competence territoriale alger - centre
+alger - ouest
+alger - est
+blida
+djelfa
+tizi ouzou
+boumerdès
+bouira
+ouargla
+ghardaïa
+tamenghasset communes relevant de la compétence de la direction des impôts d'alger-centre
+communes relevant de la compétence de la direction des impôts d'alger-ouest
+communes relevant de la compétence de la direction des impôts d'alger-est
+wilayas : blida - tipaza
+wilayas : djelfa - médéa
+wilaya : tizi ouzou
+wilaya : boumerdès
+wilaya : bouira
+wilayas : ouargla - touggourt
+wilayas : ghardaïa - el meniaâ - laghouat
+wilayas : tamenghasset - in salah - in guezzam - illizi - djanet annexe ii
+tableau fixant les sièges et les compétences territoriales des inspections de la garantie"enquêtes et contrôle"région — centre
+siege de l'inspection competence territoriale oran - ouest
+oran - est
+mascara
+tlemcen
+sidi bel abbès
+chlef
+mostaganem
+relizane
+tiaret
+aïn defla
+béchar
+adrar
+el bayadh communes relevant de la compétence de la direction des impôts d'oran - ouest
+communes relevant de la compétence de la direction des impôts d'oran - est
+wilaya : mascara
+wilayas : tlemcen - aïn témouchent
+wilayas : sidi bel abbès - saïda
+wilaya : chlef
+wilaya : mostaganem
+wilaya : relizane
+wilayas : tiaret - tissemsilt
+wilaya : aïn defla
+wilayas : béchar - béni abbès - tindouf
+wilayas : adrar - timimoun - bordj badji mokhtar
+wilayas : el bayadh - naâma annexe ii (suite)
+région — ouest siege de l'inspection competence territoriale constantine
+batna
+biskra
+el oued
+jijel
+annaba
+tébessa
+skikda
+guelma
+souk ahras
+sétif
+bordj bou arréridj
+béjaïa wilaya : constantine
+wilaya : batna
+wilayas : biskra - ouled djellal
+wilayas : el oued - el meghaier
+wilayas : jijel - mila
+wilayas : annaba - el tarf
+wilayas : tébessa - khenchela
+wilaya : skikda
+wilaya : guelma
+wilayas : souk ahras - oum el bouaghi
+wilaya : sétif
+wilayas : bordj bou arréridj - m'sila
+wilaya : béjaïa région — est
+ministere de l'education nationale
+arrêté du <DATE> modifiant l'arrêté du <DATE> fixant la liste nominative des membres du comité sectoriel permanent de la recherche scientifique et du développement technologique du ministère de l'éducation nationale. ————
+par arrêté du <DATE> , l'arrêté du <DATE> fixant la liste nominative des membres du comité sectoriel permanent de la recherche scientifique et du développement technologique du ministère de l'éducation nationale, est modifié comme suit :" <NUM> ) au titre de l'administration centrale du ministère de l'éducation nationale :
+mme. et mm. :
+— kacem djehlane, directeur général des enseignements, président ;
+— m'hamed diffallah, directeur de l'enseignement primaire, membre ;
+— noureddine charafeddine, directeur de l'enseignement moyen, membre ;
+— noureddine ghomrani, directeur de l'enseignement secondaire général et technologique, membre ;
+— mostefa djalout, directeur de la coopération et des relations internationales, membre ;
+— abba mahmoudi, directeur des études statistiques, de l'évaluation et de la prospective, membre ;
+— ghalem amara, directeur des systèmes d'information, membre ;
+— nadia akka, chargée d'études et de synthèse, membre.
+<NUM> ) au titre des établissements publics et organismes relevant du secteur :
+mme. et mm. :
+— radia bernaoui, directrice de l'institut national de recherche en éducation, membre ;
+— mohammed bouaziz, directeur de l'office national d'enseignement et de formation à distance, membre ;
+— ismail ilmane, secrétaire général du conseil national des programmes, membre.
+<NUM> ) au titre des personnalités choisies pour leurs compétences scientifiques :
+mme. et mm. :
+— (sans changement jusqu'à) mebarek bahri, professeur à l'université de biskra, membre ;
+— hacène belbachir, professeur à l'université des sciences et de la technologie"houari-boumediène"d'alger, membre ;
+— aïssa mefedjekh, représentant de la direction générale de la recherche scientifique et du développement technologique, membre ;
+— moundir lassasi, directeur d'études au conseil national de la recherche scientifique et des technologies, membre ;
+— zinedine seffadj, maître de conférences classe"a"à l'université de la formation continue (ufc), membre ;
+(le reste sans changement) ".
+ministere de la culture et des arts
+arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> portant ouverture de la filière"musique", spécialité"musicologie", domaine"arts"et fixant son programme pédagogique ainsi que les modalités d'évaluation, de progression et d'orientation en vue de l'obtention du diplôme de master professionnalisant à l'institut national de formation supérieure de musique. ———— le ministre de l'enseignement supérieur et de la recherche scientifique, et la ministre de la culture et des arts,
+vu la loi_n°_99- <NUM> du <DATE> , modifiée et complétée, portant loi d'orientation sur l'enseignement supérieur ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_92- <NUM> du <DATE> érigeant l'institut national de formation musicale en institut national de formation supérieure de musique (i.n.s.m) ;
+vu le décret_exécutif_n°_05- <NUM> du <DATE> fixant les attributions du ministre de la culture ;
+vu le décret_exécutif_n°_13- <NUM> du <DATE> fixant les attributions du ministre de l'enseignement supérieur et de la recherche scientifique ;
+vu le décret_exécutif_n°_18- <NUM> du <DATE> fixant les conditions d'octroi de la tutelle pédagogique et les modalités de son exercice sur les établissements de formation supérieure relevant d'autres départements ministériels ;
+vu le décret_exécutif_n°_22- <NUM> du <DATE> fixant le régime des études et de la formation en vue de l'obtention des diplômes de l'enseignement supérieur ;
+vu l'arrêté interministériel du <DATE> , complété, portant création, composition, organisation et fonctionnement de la commission sectorielle de la tutelle pédagogique sur les établissements de formation supérieure relevant du ministère de la culture ;
+vu l'arrêté interministériel du aouel joumada ethania <NUM> correspondant au <DATE> portant ouverture de la filière"musique", spécialité"musicologie", domaine"arts"et fixant son programme pédagogique ainsi que les modalités d'évaluation, de progression et d'orientation en vue de l'obtention du diplôme de licence professionnalisante à l'institut national supérieur de musique ; sur avis de la commission sectorielle pour l'exercice de la tutelle pédagogique sur les établissements de formation supérieure relevant du ministère de la culture, lors de sa session du <DATE> ;
+arrêtent :
+article <NUM> . — en application des dispositions de l' article_16 du décret_exécutif_n°_18- <NUM> du <DATE> fixant les conditions d'octroi de la tutelle pédagogique et les modalités de son exercice sur les établissements de formation supérieure relevant d'autres départements ministériels, le présent arrêté a pour objet l'ouverture de la filière"musique", spécialité"musicologie", domaine"arts"et fixant son programme pédagogique ainsi que les modalités d'évaluation, de progression et d'orientation en vue de l'obtention du diplôme de master professionnalisant à l'institut national de formation supérieure de musique.
+article_2 . — le programme pédagogique de la filière"musique", spécialité"musicologie"cité à l'article <NUM> ci-dessus, ouverte au titre de l'année universitaire <NUM> - <NUM> , est fixé conformément à l'annexe du présent arrêté.
+article_3 . — l'accès à l'institut national de formation supérieure de musique en vue de l'obtention du diplôme de master professionnalisant, est organisé par voie de concours.
+le concours consiste en un examen devant le jury.
+les candidats au concours d'accès à l'institut national de formation supérieure de musique doivent :
+— être titulaires du baccalauréat de l'enseignement secondaire ou d'un diplôme étranger équivalent ;
+— être titulaires d'un diplôme de licence en musique de différents établissements universitaires ou d'un diplôme étranger équivalent ;
+— avoir une moyenne égale ou supérieure à <NUM> / <NUM> durant le parcours des études de licence ;
+— l'âge du candidat ne doit pas dépasser <NUM> ans, à la date du concours.
+article_4 . — la date du concours cité à l' article_3 ci-dessus, est publiée sur le site web de l'institut par voie de presse, par affichage ou par tout autre moyen approprié.
+article_5 . — le concours d'accès à l'institut national de formation supérieure de musique, est organisé par une commission.
+la commission examine la conformité des dossiers de candidature au concours et établit la liste des candidats. sur la base du procès-verbal des délibérations du jury du concours, elle établit, également, la liste des candidats reçus au concours, par ordre de mérite.
+article_6 . — la commission est composée :
+— du directeur de l'institut, président ;
+— du sous-directeur des affaires pédagogiques de l'institut, membre ;
+— d'un enseignant permanent de rang magistral, membre ;
+— du représentant du ministère de la culture et des arts, membre ;
+— du représentant du ministère de l'enseignement supérieur et de la recherche scientifique, membre.
+article_7 . — les modalités d'évaluation, de progression et d'orientation des étudiants sont celles en vigueur dans les établissements d'enseignement et de formation supérieurs relevant du ministère de l'enseignement supérieur et de la recherche scientifique.
+toutefois, les crédits des unités d'enseignement fondamentales et les travaux des ateliers ne sont pas compensables ou transférables.
+article_8 . — le directeur général des enseignements et de la formation du ministère de l'enseignement supérieur et de la recherche scientifique, le directeur de l'administration et des moyens du ministère de la culture et des arts et le directeur de l'institut national de formation supérieure de musique sont chargés, chacun en ce qui le concerne, de l'application du présent arrêté.
+populaire.
+fait à alger, le <NUM> rajab <NUM> correspondant au <DATE> .
+la ministre de la culture et des arts
+soraya mouloudji le ministre de l'enseignement supérieur et de la recherche scientifique
+kamel baddari
+annexe
+programme pédagogique de la filière :"musique", spécialité"musicologie", domaine"arts"pour l'obtention du diplôme de master professionnalisant à l'institut national de formation supérieure de musique
+semestreunités d'enseignementcoeff.intitulés des matièresvhs <NUM> - <NUM> sem volume horaire hebdomadaire des matières constitutives de l'unité d'enseignement unité d'enseignement fondamentale uef
+unité d'enseignement méthodologique uem
+unité d'enseignement de découverte ued
+unité d'enseignement transversale uet
+total semestre <NUM> polyphonie
+analyse des formes musicales
+harmonie
+histoire de la musique universelle
+piano
+instrument ou chant
+direction de chœur
+orchestration
+psychologie musicale
+méthodologie
+informatique musicale
+langue étrangère
+— <NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h cours 1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+<NUM> h td
+—
+— — —
+— — —
+—
+—
+—
+—
+—
+—
+—
+— tp autrescoeff.crédits
+s1 <NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+—
+—
+<NUM> h
+—
+—
+—
+—
+—
+<NUM> h <NUM> h
+<NUM> h
+<NUM> h
+—
+<NUM> h
+<NUM> h
+—
+—
+—
+—
+—
+—
+<NUM> h crédits annexe (suite)
+semestreunités d'enseignementcoeff.crédits
+intitulés des matièresvhs <NUM> - <NUM> sem volume horaire hebdomadaire des matières constitutives de l'unité d'enseignement unité d'enseignement fondamentale uef
+unité d'enseignement méthodologique uem
+unité d'enseignement de découverte ued
+unité d'enseignement transversale uet
+total semestre <NUM> polyphonie
+analyse des formes musicales
+harmonie
+musique arabe
+piano
+instrument ou chant
+direction de chœur
+orchestration
+psychologie musicale
+méthodologie
+langue étrangère
+informatique musicale
+— <NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h cours 1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+<NUM> h tp autres coeff.crédits
+s2 <NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+—
+—
+<NUM> h
+—
+—
+—
+—
+—
+<NUM> h <NUM> h
+<NUM> h
+<NUM> h
+—
+<NUM> h
+<NUM> h
+—
+—
+—
+—
+—
+—
+<NUM> h td —
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+annexe (suite)
+semestreunités d'enseignementcoeff.intitulés des matièresvhs <NUM> - <NUM> sem volume horaire hebdomadaire des matières constitutives de l'unité d'enseignement unité d'enseignement fondamentale uef
+unité d'enseignement méthodologique uem
+unité d'enseignement de découverte ued
+unité d'enseignement transversale uet
+total semestre <NUM> polyphonie
+analyse des formes musicales
+harmonie
+musique algérienne
+piano
+instrument ou chant
+direction de chœur
+orchestration
+psychologie musicale
+méthodologie
+langue étrangère
+informatique musicale
+— <NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h cours 1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+1h <NUM>
+<NUM> h td tp autrescoeff.crédits
+s3 <NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+—
+—
+<NUM> h
+—
+—
+—
+—
+—
+<NUM> h <NUM> h
+<NUM> h
+<NUM> h
+—
+<NUM> h
+<NUM> h
+—
+—
+—
+—
+—
+—
+<NUM> h —
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+— crédits annexe (suite) semestreunités d'enseignementcoeff.intitulés des matières vhs <NUM> - <NUM> sem volume horaire hebdomadaire des matières constitutives de l'unité d'enseignement unité d'enseignement fondamentale uef
+unité d'enseignement méthodologique uem
+total semestre <NUM> elaboration du mémoire de fin d'études
+stage en entreprise
+séminaires
+autre à préciser
+— <NUM> h
+<NUM> h
+<NUM> h
+<NUM> h
+<NUM> h courstd tp autres coeff.crédits
+s4 —
+—
+—
+—
+— —
+—
+—
+—
+— —
+—
+—
+—
+— —
+—
+—
+—
+— crédits ministere de l'hydraulique
+arrêté du <DATE> portant approbation de l'organisation interne de l'agence nationale de dessalement de l'eau. ———— le ministre de l'hydraulique,
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant création, organisation et fonctionnement de l'agence nationale de dessalement de l'eau ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> fixant les attributions du ministre de l'hydraulique ;
+vu le décret présidentiel du <DATE> portant nomination du directeur général de l'agence nationale de dessalement de l'eau ;
+vu la délibération du conseil d'administration de l'agence nationale de dessalement de l'eau, tenue le <DATE> ;
+arrête :
+article <NUM> . — en application des dispositions de l' article_9 du décret_exécutif_n°_23- <NUM> du <DATE> portant création, organisation et fonctionnement de l'agence nationale de dessalement de l'eau, le présent arrêté a pour objet d'approuver l'organisation interne de l'agence nationale de dessalement de l'eau.
+article_2 . — sous l'autorité du directeur général, l'organisation interne de l'agence nationale de dessalement de l'eau comprend :
+— un ( <NUM> ) secrétaire général ;
+— cinq ( <NUM> ) directions centrales ;
+— trois ( <NUM> ) cellules.
+article_3 . — le secrétariat général, dirigé par un secrétaire général, chargé de la coordination des activités des structures de l'agence et auquel sont rattachés deux ( <NUM> ) directeurs d'études et de synthèse, chargés de la veille stratégique et un ( <NUM> ) assistant hygiène, sécurité et environnement.
+article_4 . — les directions centrales, dirigées par des directeurs, ont pour missions :
+<NUM> . la direction de développement et projets est chargée, notamment :
+— de mener toutes études et analyses se rapportant au dessalement de l'eau ;
+— de réaliser les stations de dessalement de l'eau et des infrastructures et équipements y afférents, en menant toutes actions et opérations concourant à cet effet ;
+— de veiller au respect des règles et normes techniques, de conception, de construction, d'aménagement des infrastructures de dessalement de l'eau et des équipements y afférents ;
+— de promouvoir le recours à la production nationale, dans le cadre de la réalisation des stations de dessalement d'eau et des infrastructures et équipements y afférents ;
+— de coordonner, avec les administrations et les organismes concernés, l'ensemble des démarches nécessaires à la réalisation et au suivi des projets de dessalement de l'eau et des infrastructures et équipements y afférents ;
+— de planifier, d'élaborer, de gérer les budgets et de concevoir des plans de financement pour les projets de l'agence ;
+— de fournir des analyses financières nécessaires à l'aide de décision et à la gestion des projets ;
+— d'encourager la recherche scientifique et l'intégration industrielle de la filière du dessalement.
+la direction de développement et projets comprend quatre ( <NUM> ) départements :
+• le département des études ;
+• le département réalisation de projets ;
+• le département planification ;
+• le département marchés.
+<NUM> . la direction de l'exploitation, de la maintenance et de la recherche est chargée, notamment :
+— de tenir à jour l'état des volumes de l'eau produite et veiller au respect de sa qualité ;
+— de veiller au respect des règles et normes techniques d'exploitation des infrastructures de dessalement de l'eau et des équipements y afférents ;
+— de mettre l'eau produite au niveau des stations de dessalement de l'eau, à la disposition des organismes chargés de la distribution de l'eau ;
+— d'assurer la maintenance des stations de dessalement de l'eau et des infrastructures et équipements y afférents, en menant toutes actions et opérations concourant à cet effet ;
+— d'encourager, en coordination avec les institutions et organismes concernés, la recherche scientifique de la filière du dessalement, dans le cadre de l'exploitation des stations de dessalement de l'eau ;
+— d'encourager le recours à la production nationale, dans le cadre de l'exploitation et de la maintenance des stations de dessalement d'eau et des infrastructures et équipements y afférents ;
+— de fournir aux tiers les prestations, les expertises et les consultations dans son domaine d'intervention.
+la direction de l'exploitation, de la maintenance et de la recherche comprend trois ( <NUM> ) départements :
+• le département exploitation et facturation ;
+• le département maintenance des installations techniques ;
+• le département recherches et développement.
+<NUM> . l a direction des finances et de la comptabilité est chargée, notamment :
+— d'élaborer et de suivre le budget de l'agence ;
+— de tenir la comptabilité et d'établir les rapports financiers ;
+— de gérer et de veiller à la disponibilité des fonds nécessaires au bon fonctionnement de l'agence ;
+— de gérer les ressources et les dettes, les placements et les engagements financiers et d'assurer la bonne utilisation des ressources financières de l'agence et de veiller à l'optimisation de ses investissements.
+la direction des finances et de la comptabilité comprend trois ( <NUM> ) départements :
+— le département finances et budget ;
+— le département comptabilité ;
+— le département recouvrement.
+<NUM> . la direction de l'administration et des moyens est chargée, notamment :
+— de gérer les ressources de l'agence ;
+— d'identifier les besoins de l'agence en matière de ressources humaines ;
+— d'assurer la formation, le recyclage et le perfectionnement du personnel de l'agence ;
+— d'assurer la maintenance et l'entretien des bâtiments, des équipements et du mobilier ;
+— d'assurer la gestion des fournitures courantes et des consommables de l'agence ;
+— de veiller à la satisfaction des besoins des structures en moyens ;
+— d'élaborer les plans de sécurité interne de l'agence et d'assurer sa mise en œuvre ;
+— d'assurer la gestion des archives et de la documentation de l'agence.
+la direction de l'administration et des moyens comprend trois ( <NUM> ) départements :
+• le département ressources humaines et formation ;
+• le département moyens généraux ;
+• le département patrimoine.
+<NUM> . la direction de la numérisation et des systèmes d'information est chargée, notamment :
+— d'identifier les besoins et de déployer le matériel informatique nécessaire au bon fonctionnement de l'agence ;
+— de gérer et d'assurer la protection et la sécurité des systèmes d'information et les données de l'agence ;
+— de recueillir, de traiter et de conserver les données, informations et documents à caractère statistique, scientifique, technique et économique se rapportant à son objet.
+la direction de la numérisation et des systèmes d'information comprend trois ( <NUM> ) départements :
+• le département support ;
+• le département systèmes d'information ;
+• le département sécurité réseaux et équipements.
+article_5 . — les cellules dirigées par des chefs de cellule, ont pour missions :
+<NUM> . la cellule des affaires juridiques est chargée, notamment :
+— de fournir des conseils juridiques et d'assister les structures de l'agence dans le domaine de la réglementation ;
+— de veiller à l'application de la réglementation relative aux activités de l'agence ;
+— de gérer les affaires contentieuses de l'agence ;
+— de veiller à la conformité des contrats avec la législation et la réglementation en vigueur.
+<NUM> . la cellule audit est chargée, notamment :
+— d'effectuer des missions d'audit sur la base du programme arrêté par l'agence ;
+— d'évaluer les risques financiers et opérationnels de l'agence et de s'assurer que le processus de contrôle interne mis en place garantit la fiabilité des informations financières de l'agence ;
+— d'évaluer les résultats d'audit et de formuler des recommandations pour améliorer le processus de contrôle interne de l'agence.
+<NUM> . la cellule communication est chargée, notamment :
+— d'élaborer la stratégie de communication de l'agence et de veiller à sa mise en œuvre ;
+— de gérer la communication interne et externe de l'agence.
+article_6 . — les unités opérationnelles sont créées par décision du directeur général de l'agence.
+la décision de création fixe l'organisation de ces unités opérationnelles.
+article_7 . — le secrétaire général, les directeurs centraux et les directeurs des unités opérationnelles, sont classés dans la catégorie des cadres dirigeants de l'agence.
+les chefs de cellule, les directeurs d'études et de synthèse, l'assistant hygiène, sécurité et environnement et les chefs de département, sont classés dans la catégorie des cadres supérieurs de l'agence.
+article_8 . — le secrétaire général, les directeurs centraux et les directeurs des unités opérationnelles, sont nommés par décision du directeur général de l'agence, après accord du ministre chargé de l'hydraulique.
+les chefs de cellule, les directeurs d'études et de synthèse, l'assistant hygiène, sécurité et environnement et les chefs de département, sont nommés par décision du directeur général de l'agence.
+fait à alger, le <DATE> .
+taha derbal.

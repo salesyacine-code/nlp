@@ -1,0 +1,11 @@
+{
+  "total_documents": 50,
+  "total_characters": 4181829,
+  "total_words": 651165,
+  "total_lines": 39934,
+  "vocabulary_size": 27915,
+  "legal_references_bound_count": 8966,
+  "dates_normalized_count": 16079,
+  "numbers_normalized_count": 67307,
+  "aggregated_corpus_path": "C:\\Users\\nitro\\Desktop\\NLP-tps\\tp1\\activity_3\\final_corpus\\algerian_legal_corpus_full.txt"
+}

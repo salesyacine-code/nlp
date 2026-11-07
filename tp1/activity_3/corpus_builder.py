@@ -169,3 +169,4 @@ def build_final_corpus(
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
     build_final_corpus()
+

@@ -1,0 +1,748 @@
+n° <NUM> <NUM> annee jeudi <DATE>
+abonnement annuel
+edition originale
+edition originale et sa traduction
+edition originale, le numéro : <NUM> dinars . edition originale et sa traduction, le numéro : <NUM> dinars .
+numéros des années antérieures : suivant barème. les tables sont fournies gratuitement aux abonnés.
+prière de joindre la dernière bande pour renouvellement, réclamation, et changement d'adresse.
+tarif des insertions : <NUM> dinars la ligne algérie tunisie maroc libye mauritanie
+<NUM> an
+<NUM> dinars
+<NUM> dinars etranger
+(pays autres que le maghreb)
+<NUM> an
+<NUM> dinars
+<NUM> dinars
+(frais d'expédition en sus) abonnement et publicié :
+les vergers, bir mourad raïs, bp <NUM> etranger : (compte devises) conventions et accords internationaux - lois et decrets arretes, decisions, a vis, communications et annonces (traduction française)
+loi_n°_24- <NUM> du <DATE> relative à la lutte contre le faux et l'usage de faux
+loi_n°_24- <NUM> du <DATE> modifiant et complétant la loi_n°_98- <NUM> du <DATE> fixant les règles générales relatives à l'aviation civile
+décret_présidentiel_n°_24- <NUM> du <DATE> portant approbation de l'avenant n° <NUM> au contrat du <DATE> pour la recherche et l'exploitation d'hydrocarbures sur les périmètres dénommés"oulad-n'sir"et"menzel-lejmat"(blocs : <NUM> et <NUM> ), conclu à alger, le <DATE> entre la société nationale"sonatrach-s.p.a"et les sociétés"pt pertamina algeria eksplorasi produksi"et"repsol exploracion 405a, s.a"
+décret_exécutif_n°_24- <NUM> du <DATE> fixant le contenu et les modalités de mise en œuvre de la comptabilité publique
+décret_exécutif_n°_24- <NUM> du <DATE> fixant la procédure de paiement par accréditif des dépenses publiques
+décret_exécutif_n°_24- <NUM> du <DATE> fixant les conditions et les modalités de suppléance, de délégation de signature et de désignation d'intérimaire
+décret_exécutif_n°_24- <NUM> du <DATE> fixant les catégories des correspondants du trésor et les modalités de fonctionnement des comptes de dépôt de fonds
+décret présidentiel du <DATE> mettant fin aux fonctions d'un ambassadeur conseiller au ministère des affaires étrangères et de la communauté nationale à l'étranger
+décrets présidentiels du <DATE> mettant fin aux fonctions d'ambassadeurs extraordinaires et plénipotentiaires de la république algérienne démocratique et populaire
+décret présidentiel du <DATE> portant nomination d'un ambassadeur et représentant permanent à la mission permanente algérienne à genève (confédération suisse)
+décret présidentiel du <DATE> portant nomination d'un ambassadeur extraordinaire et plénipotentiaire de la république algérienne démocratique et populaire
+décret présidentiel du <DATE> portant nomination d'un sous-directeur au ministère de l'intérieur, des collectivités locales et de l'aménagement du territoire
+lois decrets decisions individuelles sommaire
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant délégation de signature au directeur des moyens généraux
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant plan de protection et de mise en valeur du site archéologique de siga et de ses zones de protection
+arrêté du <DATE> portant désignation des membres du conseil d'orientation et de surveillance de l'office national de l'irrigation et du drainage
+arretes, decisions et a vis sommaire (suite) ministere de l'interieur, des collectivites locales et de l'amenagement du territoire ministere de la culture et des arts ministere de l'hydraulique
+loi_n°_24- <NUM> du <DATE> relative à la lutte contre le faux et l'usage de faux. ————
+le président de la république,
+vu la constitution, notamment ses articles <NUM> - <NUM> °, <NUM> (alinéa <NUM> ), <NUM> , <NUM> (alinéa <NUM> ), <NUM> et <NUM> ;
+vu la loi_n°_63- <NUM> du <DATE> , modifiée, instituant une agence judiciaire du trésor ;
+vu la loi_n°_64- <NUM> du <DATE> relative au sceau de l'etat ;
+vu l' ordonnance_n°_66- <NUM> du <DATE> , modifiée et complétée, portant code de procédure pénale ;
+vu l' ordonnance_n°_66- <NUM> du <DATE> , modifiée et complétée, portant code pénal ;
+vu l' ordonnance_n°_70- <NUM> du <DATE> , modifiée et complétée, relative à l'état civil ;
+vu l' ordonnance_n°_75- <NUM> du <DATE> , modifiée et complétée, portant code civil ;
+vu l' ordonnance_n°_75- <NUM> du <DATE> , modifiée et complétée, portant code de commerce ;
+vu la loi_n°_06- <NUM> du <DATE> , modifiée et complétée, relative à la prévention et à la lutte contre la corruption ;
+vu la loi_n°_08- <NUM> du <DATE> , modifiée et complétée, portant code de procédure civile et administrative ;
+vu la loi_n°_09- <NUM> du <DATE> portant règles particulières relatives à la prévention et à la lutte contre les infractions liées aux technologies de l'information et de la communication ;
+vu la loi_n°_11- <NUM> du <NUM> rajab <NUM> correspondant au <DATE> , modifiée et complétée, relative à la commune ;
+vu la loi_n°_12- <NUM> du <DATE> relative aux associations ;
+vu la loi_n°_12- <NUM> du <DATE> relative à la wilaya ;
+vu la loi_n°_14- <NUM> du <DATE> relative aux titres et documents de voyage ;
+vu la loi_n°_15- <NUM> du <DATE> fixant les règles générales relatives à la signature et à la certification électroniques ;
+vu la loi_n°_18- <NUM> du <DATE> relative au commerce électronique ;
+vu la loi_n°_18- <NUM> du <DATE> relative à la protection des personnes physiques dans le traitement des données à caractère personnel ;
+vu l' ordonnance_n°_21- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> relative à la protection des informations et des documents administratifs ;
+vu la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi monétaire et bancaire ;
+vu la loi_n°_23- <NUM> du <DATE> fixant les règles générales relatives aux marchés publics ;
+après avis du conseil d'etat ;
+après adoption par le parlement ;
+promulgue la loi dont la teneur suit :
+chapitre <NUM> dispositions generales
+article <NUM> . — la présente loi a pour objet la lutte contre le faux et l'usage de faux.
+elle a, en particulier, pour objet :
+— la contribution à la moralisation de la vie publique et le renforcement de la confiance publique ;
+— l'élimination de toutes les formes d'escroquerie pour l'accès aux services et avantages de toutes natures ;
+— le traitement profond et coercitif de l'ensemble des déséquilibres sociétaux, résultant du faux et de l'usage de faux, à même de consacrer la transparence et d'asseoir une véritable concurrence loyale dans tous les domaines ;
+— la consécration de l'égalité devant la loi ;
+— la préservation de l'intégrité des actes et documents et la stabilité des transactions ;
+— la garantie que les aides de l'etat parviennent à leurs bénéficiaires réels ;
+— la détermination des infractions liées au faux et à l'usage de faux et la détermination des peines qui leur sont applicables.
+lois
+article_2 . — la présente loi s'applique :
+— à la falsification des documents et actes ;
+— au faux pour l'obtention des subventions et aides publiques et des exonérations ;
+— à la fausse monnaie et à la falsification des titres financiers ;
+— à la contrefaçon des sceaux de l'etat, des poinçons, des timbres et des marques ;
+— au faux témoignage et au faux serment ;
+— à l'usurpation ou à l'usage irrégulier de fonctions, de titres ou de noms.
+article_3 . — au sens de la présente loi, on entend par :
+— faux : toute altération frauduleuse de la vérité, de nature à causer un préjudice, accomplie par quelque moyen que ce soit, dans un acte ou document ou tout autre support prévu par la présente loi, qui a pour objet ou qui peut avoir pour effet d'établir un droit, une qualité ou un fait ayant des effets de droit.
+le faux comprend la contrefaçon et l'altération mentionnées dans la présente loi.
+— acte : tout écrit en papier ou électronique qui permet d'identifier la personne qui l'a émis et qui comprend la mention d'un fait ou l'expression d'une volonté qui établit, modifie, met fin ou prouve un statut juridique, que l'acte ait été élaboré spécialement à cet effet ou a eu un tel effet de plein droit.
+— document authentique : tout document dans lequel un fonctionnaire, un officier public ou une personne chargée d'un service public constate, dans les formes légales et dans les limites de son pouvoir et de sa compétence, des faits qui ont eu lieu en sa présence ou des déclarations à lui faites par les intéressés, et tout document dont la loi confère cette forme.
+— acte sous-seing privé : tout document émanant de la personne à qui sont attribuées l'écriture, la signature ou l'empreinte digitale y apposées, conformément aux conditions fixées par la législation en vigueur.
+— document : les correspondances, écrits et documents, y compris historiques, créés ou obtenus dans l'exercice de leurs activités, par l'etat, ses institutions, ses organes législatifs, judiciaires et exécutifs, les administrations publiques, les collectivités locales ainsi que par toute autre entreprise dans laquelle l'etat détient tout ou partie de son capital ou toute autre entreprise qui assure un service public, ainsi que ceux émis par des personnes morales de droit privé, un autre etat ou une organisation internationale ou régionale.
+chapitre <NUM> des mesures preventives
+article_4 . — les autorités administratives, organismes et institutions publics et privés, doivent sécuriser les documents et les actes qu'ils délivrent, notamment en fixant des spécifications techniques rendant difficile leur falsification et imposer des conditions sur l'accès aux bases de données et protéger les données sensibles.
+article_5 . — les services de l'etat chargés du contrôle coopèrent et échangent les informations entre eux et avec les différentes administrations publiques, directement ou par l'intermédiaire de la plate-forme numérique créée à cet effet, ou en exploitant les bases de données relatives à ces documents, afin de vérifier leur véracité en temps réel.
+les conditions et les modalités d'application du présent article sont fixées par voie réglementaire.
+article_6 . — l'etat, par l'intermédiaire des différents organismes et services chargés de la lutte contre la criminalité, des administrations et institutions publiques et des collectivités locales, prend les mesures nécessaires pour prévenir les infractions de faux et d'usage de faux, notamment à travers :
+— l'adoption de mécanismes de vigilance, d'alerte et de leur détection précoce ;
+— la mise en place des mécanismes de contrôle des actes et documents ;
+— le développement des techniques et méthodes de constatation et de détection du faux sous toutes ses formes et l'exploitation des moyens électroniques à cet effet ;
+— la détermination des normes et méthodes de lutte contre les infractions de faux et d'usage de faux et le développement de l'expertise nationale dans ce domaine ;
+— le suivi et l'évaluation des différents mécanismes de lutte contre les infractions de faux et d'usage de faux et la mise en œuvre de toute mesure ou procédé visant à en améliorer l'efficacité ;
+— l'élaboration de lignes directrices pour faire face à ce type de criminalité au niveau des administrations, institutions et organismes publics et privés ;
+— la mise en place de mécanismes permettant le contrôle et le suivi de la destination des subventions, des aides publiques et des différentes formes d'exonération ainsi que de l'évolution du statut et de la situation des bénéficiaires ;
+— la généralisation de l'utilisation de la signature et de la certification électroniques et des applications informatiques au niveau de toutes les administrations, institutions et organismes publics ;
+— l'élaboration de programmes de sensibilisation et l'organisation d'activités d'information sur les dangers des infractions de faux et d'usage de faux, en impliquant la société civile ;
+— la promotion de la coopération institutionnelle, la garantie d'échange d'informations et la coordination de l'action entre les différents intervenants dans le domaine de la prévention contre les infractions de faux et d'usage de faux ;
+— la mise en place d'une base de données nationale sur les infractions de faux et d'usage de faux et sur les modes et techniques utilisés dans leur perpétration et son exploitation dans la détermination des mesures à prendre dans les domaines de la prévention et de la lutte contre ces infractions.
+les conditions et les modalités d'application du présent article sont fixées par voie réglementaire.
+article_7 . — l'etat veille à inclure dans la politique pénale des mesures visant à prévenir les infractions de faux et d'usage de faux aux niveaux national et local.
+article_8 . — la présentation des actes et documents ne peut être exigée par les administrations, établissements et institutions publics et les collectivités locales ainsi que les services en relevant, lorsqu'ils peuvent être obtenu des autres administrations par le biais de leurs applications électroniques respectives.
+toutefois, la présentation des actes et documents prévus au <NUM> alinéa du présent article, peut être exigée lorsque des vérifications édictées par l'ordre ou la sécurité publics sont requises.
+article_9 . — les administrations, les établissements et les institutions publics, les collectivités locales et les services en relevant doivent vérifier, par tous les moyens, la véracité des actes et documents qui leur sont soumis, notamment par l'exploitation des bases de données relatives à ces documents et actes, auprès de l'autorité d'émission.
+article_10 . — toute administration, tout officier ou fonctionnaire publics et toute institution ou organisme public ou privé qui, dans l'exercice de ses missions, a eu connaissance de la commission de l'une des infractions prévues par la présente loi, est tenu d'en donner avis sans délai au ministère public et de lui transmettre tous les renseignements et actes en relation.
+article_11 . — les communes et les représentations diplomatiques ou consulaires où le décès du titulaire d'un document biométrique a été enregistré, doivent en informer l'autorité de délivrance afin de rendre ce document inutilisable et d'empêcher qu'il ne soit utilisé pour commettre les infractions prévues par la présente loi.
+chapitre <NUM> des regles de procedure
+article_12 . — outre les règles de compétence prévues par le code de procédure pénale, les juridictions algériennes sont compétentes pour connaître des infractions prévues par la présente loi, commises au préjudice de l'algérie, ses institutions et/ou ses citoyens, en dehors du territoire national.
+article_13 . — outre les officiers et agents de police judiciaire, sont habilités à constater les infractions prévues par la présente loi, les fonctionnaires et les agents des administrations et services publics chargés de certaines prérogatives de police judiciaire qui leur sont confiées, en vertu de lois spéciales, selon les conditions et dans les limites prévues par ces lois et le code de procédure pénale.
+article_14 . — l'action publique est mise en mouvement d'office par le ministère public dans les infractions prévues par la présente loi.
+article_15 . — pour la collecte et la constatation de preuves sur les infractions prévues par la présente loi, il peut être recouru aux techniques d'investigation spéciales prévues par la législation en vigueur.
+article_16 . — en vue de constater les infractions prévues par la présente loi, les autorités judiciaires compétentes peuvent ordonner, d'office ou sur demande d'un officier de police judiciaire, la perquisition électronique, y compris à distance, d'un système informatique ou d'une partie de celui-ci, ainsi que des données informatiques qui y sont stockées ou d'un système de stockage informatique.
+la perquisition électronique est effectuée sous la supervision directe du magistrat qui l'a autorisée et durant les délais nécessaires pour avoir la preuve électronique de l'infraction.
+les autorités en charge de la perquisition peuvent réquisitionner toute personne connaissant le fonctionnement du système informatique objet de perquisitions ou les mesures appliquées pour protéger les données informatiques qu'il contient, afin de les assister et leur fournir toutes les informations nécessaires à l'accomplissement de leur mission.
+les fournisseurs de services sont tenus de prêter leur assistance aux autorités en charge de la perquisition pour la collecte et/ou l'enregistrement des données relatives aux infractions prévues par la présente loi et de mettre à leur disposition les données y afférentes.
+sous peine des sanctions prévues en matière de violation du secret de l'enquête et de l'instruction, les fournisseurs de services sont tenus de garder la confidentialité des opérations qu'ils effectuent et les informations qui s'y rapportent.
+article_17 . — les juridictions recourent à l'expertise pour établir la preuve des infractions prévues par la présente loi, à moins que le faux ne soit établi par la nature du document falsifié ou par les déclarations de l'autorité d'émission.
+article_18 . — les actes et documents faisant l'objet des infractions prévues par la présente loi doivent être saisis.
+toutefois, la juridiction compétente peut, pour les nécessités du bon fonctionnement du service public concerné, ordonner la neutralisation de la page objet du faux, si elle fait partie d'un registre public et empêcher son usage jusqu'au prononcé de son jugement sur l'affaire et l'insertion de cette ordonnance au registre concerné.
+article_19 . — l'agent judiciaire du trésor se constitue partie civile devant les juridictions dans les infractions prévues par la présente loi, lorsque l'infraction cause préjudice au trésor public.
+article_20 . — les délais de prescription de l'action publique prévus par le code de procédure pénale, y compris ceux relatifs aux infractions occultes et dissimulées, sont applicables aux infractions prévues par la présente loi.
+article_21 . — outre les règles de procédure prévues par la présente loi, les juridictions appliquent les dispositions pertinentes du code de procédure pénale et du code de procédure civile et administrative.
+chapitre <NUM> des incriminations
+section <NUM> de la falsification des documents et actes
+sous-section <NUM> falsification des documents administratifs et certificats
+article_22 . — quiconque contrefait, falsifie ou altère les permis, certificats, livrets, cartes, bulletins, récépissés, ordres de mission, titres et documents de voyage, documents d'identité, laissez-passer, documents de résidence ou autres documents délivrés par les administrations ou les institutions publiques en vue de constater un droit, une identité ou une qualité, ou d'accorder une autorisation, est puni d'un emprisonnement de cinq ( <NUM> ) à sept ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars .
+article_23 . — quiconque se fait délivrer indûment un des documents désignés à l' article_22 , soit en faisant de fausses déclarations, soit en prenant un faux nom ou une fausse qualité, soit en fournissant de faux renseignements, certificats ou attestations, est puni d'un emprisonnement de trois ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars .
+les mêmes peines sont appliquées à celui qui fait usage d'un tel document, obtenu par les moyens prévus à l'alinéa <NUM> du présent article, ou établi sous un nom autre que le sien.
+le fonctionnaire qui délivre ou fait délivrer un des documents désignés à l' article_22 à une personne qu'il sait n'ayant pas droit, est puni d'un emprisonnement de cinq ( <NUM> ) à dix ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> . <NUM> dinars , à moins que le fait ne constitue l'une des infractions plus graves prévues par la loi relative à la prévention et à la lutte contre la corruption.
+article_24 . — est puni d'un emprisonnement de trois ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , à moins que le fait ne constitue une infraction plus grave, quiconque :
+<NUM> °) établit, sciemment, une attestation ou un certificat attestant des faits matériellement inexacts ; <NUM> °) falsifie ou modifie, sciemment, d'une façon quelconque, une attestation ou un certificat originairement sincère.
+article_25 . — sont punis d'un emprisonnement d'un ( <NUM> ) à trois ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars :
+— toute personne, qui, pour se dispenser ou dispenser autrui d'un service quelconque, fabrique sous le nom d'un médecin, dentiste ou sage-femme, un certificat de maladie ou d'infirmité ;
+— les logeurs et aubergistes qui, sciemment, inscrivent sur leurs registres sous des noms faux ou supposés, les personnes logées chez eux ou qui, de connivence avec elles, omettent de les inscrire.
+article_26 . — tout médecin, dentiste ou sage-femme qui, dans l'exercice de ses fonctions et pour favoriser autrui, certifie faussement, ou dissimule l'existence de maladie ou infirmité ou son taux ou un état de grossesse, ou fournit des indications mensongères sur l'origine d'une maladie ou infirmité ou la cause d'un décès, est puni d'un emprisonnement de trois ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , à moins que le fait ne constitue l'une des infractions plus graves prévues par la loi relative à la prévention et à la lutte contre la corruption.
+article_27 . — quiconque, sans qualité, établit sous le nom d'un fonctionnaire, d'un chargé de service public ou d'un officier public, un certificat de bonne conduite, d'indigence ou relatant d'autres circonstances propres à appeler la bienveillance des autorités ou des particuliers sur la personne désignée dans ce certificat, à lui procurer travail, crédit ou secours ou d'autres services ou faveurs, est puni d'un emprisonnement de trois ( <NUM> ) à sept ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars .
+les mêmes peines sont appliquées à celui qui falsifie un certificat originairement véritable, pour le rendre applicable à une personne autre que celle à laquelle il avait été primitivement délivré.
+si le certificat est établi sous le nom d'une personne autre que celles désignées au <NUM> alinéa ci-dessus, sa fabrication ou son usage est puni d'un emprisonnement d'un ( <NUM> ) à trois ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars .
+article_28 . — a moins que le fait ne constitue l'une des infractions plus graves prévues par la présente loi ou par la législation en vigueur, est puni d'un emprisonnement de cinq ( <NUM> ) à dix ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> . <NUM> dinars , quiconque commet, à des fins frauduleuses, des irrégularités dans l'exécution des comptes et budgets de l'etat, des collectivités locales ou des établissements et organismes publics.
+article_29 . — les infractions de faux réprimés à la présente sous-section, lorsqu'elles sont commises au préjudice du trésor public ou d'un tiers, sont réprimées suivant leur nature, soit comme faux en écriture publique ou authentique, soit comme faux en écriture privée, de commerce ou de banque.
+article_30 . — est puni d'un emprisonnement d'un ( <NUM> ) à trois ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , quiconque contrefait, falsifie ou altère des certificats, cartes, ordres de mission ou autres documents non délivrés par les administrations publiques, y compris ceux délivrés par les personnes physiques et/ ou morales privées, ou le facilite.
+sous-section <NUM> faux en écriture publique ou authentique
+article_31 . — est punie d'un emprisonnement de dix ( <NUM> ) à vingt ( <NUM> ) ans et d'une amende de <NUM> . <NUM> dinars à <NUM> . <NUM> dinars , toute personne, autre que celles désignées à l' article_32 , qui commet un faux en écriture publique ou authentique :
+<NUM> °) soit par contrefaçon ou altération d'écriture ou de signature ; <NUM> °) soit par simulation d'accords, dispositions, obligations ou décharges ou par leur insertion ultérieure dans ces écritures ;
+<NUM> °) soit par addition, soustraction ou altération de clauses, de déclarations ou de faits que ces écritures avaient pour objet de recevoir et de constater ; <NUM> °) soit par supposition ou substitution de personnes.
+article_32 . — est puni de la réclusion à temps de vingt ( <NUM> ) à trente ( <NUM> ) ans, tout magistrat, fonctionnaire ou officier public qui, dans l'exercice de ses fonctions, a commis intentionnellement un faux en écriture publique ou authentique :
+<NUM> °) soit par fausses signatures ; <NUM> °) soit par altération des écritures, polices ou signatures ; <NUM> °) soit par supposition ou substitution de personnes ; <NUM> °) soit par des écritures faites ou intercalées sur des registres ou sur d'autres écritures publiques, depuis leur confection ou clôture.
+est puni de la même peine, tout magistrat, fonctionnaire ou officier public qui, intentionnellement, en rédigeant des écritures relevant de sa fonction, en dénature frauduleusement la substance ou les circonstances, et ce, en écrivant des accords autres que ceux qui ont été tracés ou dictés, devant lui, par les parties, soit en constatant comme vrais des faits qu'il savait faux, soit en attestant faussement que les faits avaient été avoués ou s'étaient passés en sa présence, soit en omettant ou modifiant volontairement des déclarations reçues par lui.
+article_33 . — est punie d'un emprisonnement d'un ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , toute personne non partie à l'écriture qui fait devant un officier public ou un fonctionnaire une déclaration qu'elle savait non conforme à la vérité.
+toutefois, bénéficie d'une excuse absolutoire dans les conditions prévues au code pénal, celui qui ayant fait, à titre de témoin devant un officier public ou un fonctionnaire, une déclaration non conforme à la vérité, s'est rétracté avant que ne soit résulté de l'usage de l'écriture un préjudice pour autrui et avant qu'il n'ait lui-même été l'objet de poursuites.
+article_34 . — dans les cas visés à la présente sous-section, celui qui fait usage de l'écriture qu'il savait fausse, est puni d'un emprisonnement de cinq ( <NUM> ) à dix ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> . <NUM> dinars .
+sous-section <NUM> faux en écriture privée, de commerce ou de banque
+article_35 . — toute personne qui, de l'une des manières prévues à l' article_31 ci-dessus, commet un faux en écriture de commerce, de banque ou de finance, est punie d'un emprisonnement de cinq ( <NUM> ) à dix ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> . <NUM> dinars .
+les mêmes peines s'appliquent à quiconque émet une facture relatant des faits, matériellement, inexacts.
+la peine est l'emprisonnement de sept ( <NUM> ) à douze ( <NUM> ) ans et une amende de <NUM> dinars à <NUM> . <NUM> dinars , lorsque l'auteur de l'infraction est un banquier, un administrateur de société et, en général, une personne ayant fait appel au public en vue de l'émission d'actions, obligations, bons, parts ou titres quelconques, soit d'une société, soit d'un projet commercial ou industriel.
+article_36 . — est punie d'un emprisonnement d'un ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , toute personne qui, de l'une des manières prévues à l' article_31 , commet un faux en écriture privée.
+article_37 . — est puni d'un emprisonnement de deux ( <NUM> ) à dix ( <NUM> ) ans et d'une amende dont le montant ne saurait être inférieur à celui du chèque ou de l'insuffisance, quiconque :
+— contrefait ou falsifie un chèque ;
+— en connaissance de cause, accepte de recevoir un chèque contrefait ou falsifié.
+la même peine d'emprisonnement est applicable à quiconque contrefait ou falsifie tout autre moyen de paiement ou accepte, en connaissance de cause, de le recevoir, outre l'amende de <NUM> dinars à <NUM> . <NUM> dinars .
+section <NUM> du faux pour l'obtention des subventions et aides publiques et des exonérations
+article_38 . — sans préjudice des peines plus graves, est puni d'un emprisonnement de trois ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , quiconque reçoit des subventions, des aides financières, matérielles ou en nature y compris l'obtention d'un logement ou d'un immobilier de l'etat ou des collectivités locales ou de tout autre organisme public, ou des exonérations en matière sociale ou des allocations ou avantages de toute nature, suite à de fausses déclarations ou l'utilisation d'informations fausses ou incomplètes. la même peine est applicable à toute personne qui, ne remplissant plus les conditions du bénéfice, continue de recevoir ou de bénéficier indûment des subventions, aides, exonérations et/ou allocations mentionnées dans le présent article.
+article_39 . — la peine est l'emprisonnement de cinq ( <NUM> ) à dix ( <NUM> ) ans et une amende de <NUM> dinars à <NUM> . <NUM> dinars , lorsque l'infraction prévue à l' article_38 ci-dessus, est commise à travers la falsification des documents de résidence ou d'hébergement, fiscaux ou médicaux, des certificats d'indigence, d'handicap ou tous autres documents susceptibles d'être utilisés pour obtenir les subventions et les aides en question.
+article_40 . — est puni d'un emprisonnement de deux ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , quiconque change la destination des subventions, aides, allocations ou avantages prévus à la présente section.
+article_41 . — nonobstant toutes autres dispositions prévues par la législation fiscale, est puni d'un emprisonnement de cinq ( <NUM> ) à dix ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> . <NUM> dinars , quiconque présente des documents ou actes falsifiés ou inexacts tendant à obtenir, soit le dégrèvement, la remise ou la décharge des impôts ou taxes, soit le bénéfice d'avantages fiscaux prévus en faveur de certaines catégories de contribuables, sans préjudice des peines plus graves prévues par la présente loi.
+la même peine est applicable si l'objectif est la restitution de la taxe sur la valeur ajoutée (tv a).
+article_42 . — outre les peines prévues aux articles <NUM> à <NUM> , la restitution des subventions, aides financières, matérielles ou en nature, des allocations ou exonérations reçues indûment ou de leur valeur, est prononcée en cas de condamnation ainsi que la confiscation des fonds en résultant.
+article_43 . — sans préjudice des peines plus graves, est puni d'un emprisonnement de cinq ( <NUM> ) à sept ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , le fonctionnaire qui facilite ou aide toute personne à obtenir indûment les subventions, aides, exonérations, allocations, remises ou avantages prévus dans la présente section.
+est puni d'un emprisonnement de huit ( <NUM> ) à douze ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> . <NUM> dinars , le fonctionnaire qui facilite ou aide à falsifier les documents cités à l' article_39 ci-dessus, sans préjudice des peines plus graves prévues par la présente loi.
+section <NUM> de la fausse monnaie et de la falsification des titres
+article_44 . — est puni de la réclusion criminelle à perpétuité, quiconque contrefait, falsifie ou altère :
+<NUM> . - soit des monnaies métalliques ou papier-monnaie ayant cours légal sur le territoire national ou à l'étranger ; <NUM> . - soit une monnaie numérique ayant cours légal sur le territoire national ; <NUM> . - soit des obligations, bons ou actions émis par le trésor public avec son timbre ou sa marque, ou des coupons d'intérêts afférents à ces obligations, bons ou actions.
+est puni de la même peine celui qui, d'une manière quelconque, a sciemment participé à l'émission, à la distribution, à la vente ou à l'introduction sur le territoire national, des monnaies, obligations, bons ou actions désignés au présent article.
+si la valeur des monnaies, monnaies numériques, obligations, bons ou actions prévus par le présent article est inférieure à <NUM> . <NUM> dinars , la peine est la réclusion à temps de dix ( <NUM> ) à vingt ( <NUM> ) ans et une amende de <NUM> . <NUM> dinars à <NUM> . <NUM> dinars .
+article_45 . — est puni d'un emprisonnement de six ( <NUM> ) mois à trois ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , quiconque colore des monnaies ayant cours légal sur le territoire national ou à l'étranger, dans le but de tromper sur la nature du métal, ou émet ou introduit sur ce territoire des monnaies ainsi colorées.
+article_46 . — n'est pas punissable celui qui reçoit, en les croyant authentiques, des monnaies métalliques ou papiermonnaie contrefaits, falsifiés, altérés ou colorés et les remet en circulation dans l'ignorance de leur vice.
+celui qui remet en circulation lesdites monnaies après en avoir découvert le vice, est puni d'un emprisonnement d'un ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende égale au quadruple de la somme ainsi remise en circulation.
+la peine est l'emprisonnement de cinq ( <NUM> ) à dix ( <NUM> ) ans et une amende de <NUM> dinars à <NUM> . <NUM> dinars , lorsque lesdites monnaies sont mises en circulation sur les plates-formes de réseaux sociaux, sans préjudice des peines plus graves prévues à la présente section.
+article_47 . — est puni d'un emprisonnement de trois ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , quiconque fabrique, émet, distribue ou vend des signes monétaires ayant pour objet de suppléer ou de remplacer les monnaies ayant cours légal.
+article_48 . — est puni, si le fait ne constitue pas une infraction plus grave, d'un emprisonnement de deux ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , quiconque fabrique, acquiert, détient, garde ou cède des produits ou du matériel destinés à la fabrication, la contrefaçon ou la falsification des monnaies ou effets de crédit public.
+section <NUM> de la contrefaçon des sceaux et des poinçons, timbres et marques
+article_49 . — est puni de la réclusion criminelle à perpétuité, quiconque contrefait le sceau de l'etat ou fait usage du sceau contrefait, en connaissance de cause.
+article_50 . — est puni d'un emprisonnement de cinq ( <NUM> ) à dix ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> . <NUM> dinars , quiconque :
+— contrefait ou falsifie, soit un ou plusieurs timbres nationaux, soit un ou plusieurs marteaux de l'etat servant aux marques forestières, soit un ou plusieurs poinçons servant à marquer les matières d'or ou d'argent ou qui fait usage des timbres, papiers, marteaux ou poinçons falsifiés ou contrefaits, en connaissance de cause ;
+— s'étant indûment procuré de vrais timbres, marteaux ou poinçons de l'etat désignés au premier tiret du présent article, en fait une application ou un usage préjudiciable aux droits et intérêts de l'etat.
+article_51 . — est puni, à moins que le fait ne constitue une infraction plus grave, d'un emprisonnement de sept ( <NUM> ) à douze ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> . <NUM> dinars , quiconque :
+<NUM> °) fabrique les sceaux, timbres, cachets ou marques de l'etat ou d'une autorité quelconque sans l'ordre écrit des représentants qualifiés de l'etat ou de cette autorité ; <NUM> °) fabrique, détient, distribue, achète ou vend des timbres, sceaux, marques ou cachets susceptibles d'être confondus avec ceux similaires de l'etat ou d'une autorité quelconque, même étrangère.
+article_52 . — est puni d'un emprisonnement de sept ( <NUM> ) à douze ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> . <NUM> dinars , quiconque :
+<NUM> °) contrefait les marques destinées à être apposées au nom du gouvernement ou d'un service public sur les diverses espèces de denrées ou de marchandises ou qui, en connaissance de cause, fait usage de ces fausses marques ; <NUM> °) contrefait le sceau, timbre ou marque d'une autorité quelconque, ou fait usage, en connaissance de cause, du sceau, timbre ou marque contrefaits ;
+<NUM> °) contrefait les papiers à en-tête ou imprimés officiels en usage dans les institutions de l'etat, les administrations publiques ou dans les différentes juridictions ou vend, colporte ou distribue ou fait usage, en connaissance de cause, ces papiers ou imprimés ainsi contrefaits ; <NUM> °) contrefait ou falsifie les timbres-postaux ou fiscaux, empreintes d'affranchissement ou coupon-réponse, les timbres fiscaux mobiles, papiers ou formules timbrés émis par l'administration des postes ou l'administration fiscale ou vend, colporte, distribue ou utilise, en connaissance de cause, lesdits timbres, empreintes, coupon-réponse, papiers ou formules timbrés contrefaits ou falsifiés.
+est puni d'un emprisonnement de cinq ( <NUM> ) à dix ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> . <NUM> dinars , quiconque s'étant indûment procuré de vrais sceaux, marques ou imprimés prévus au présent article, en fait une application ou un usage frauduleux.
+article_53 . — est puni d'un emprisonnement de deux ( <NUM> ) mois à un ( <NUM> ) an et d'une amende de <NUM> à <NUM> dinars quiconque :
+<NUM> °) fait, en connaissance de cause, usage de timbres fiscaux ou postaux, de timbres mobiles ou de papiers ou formules timbrés ayant déjà été utilisés ou qui, par tout moyen, altère des timbres dans le but de les soustraire à l'oblitération et de permettre ainsi leur utilisation ultérieure ; <NUM> °) surcharge par impression, perforation ou par tout autre moyen la valeur des timbres-postaux ou autres valeurs fiduciaires postales, périmées ou non, ou qui, en connaissance de cause, vend, colporte, offre, distribue ou exporte ces timbres ainsi surchargés ; <NUM> °) contrefait, émet ou altère les vignettes, timbres, empreintes d'affranchissement ou coupon-réponse émis par le service des postes d'un pays étranger ou vend, colporte ou distribue lesdits vignettes, timbres, empreintes d'affranchissement ou coupon-réponse ou en fait usage sciemment.
+article_54 . — est puni d'un emprisonnement de trois ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , quiconque :
+<NUM> °) fabrique, vend, colporte ou distribue tous objets, imprimés ou formules obtenus par un procédé quelconque, et qui, par leur forme extérieure, présentent avec les monnaies métalliques ou papier-monnaie ayant cours légal en algérie ou à l'étranger ou avec les effets de crédit public, vignettes, timbres du service des postes, télégraphes et téléphones ou des régies de l'etat, papiers ou formules timbrés, actions, obligations, parts d'intérêts, coupons de dividende ou intérêts y afférents et généralement toutes les valeurs fiduciaires émises par l'etat, les collectivités locales ou les établissements publics, ainsi que par des sociétés, compagnies ou entreprises privées, une ressemblance de nature à faciliter l'acceptation des dits objets, imprimés ou formules au lieu des papiers semblables ; <NUM> °) fabrique, vend, colporte, distribue ou utilise, en connaissance de cause, des imprimés qui, par leur format, leur couleur, leur texte, leur disposition typographique ou tout autre caractère, présentent avec les papiers à en-tête ou imprimés officiels en usage dans les organismes institutionnels, les administrations publiques et les différentes juridictions, une ressemblance de nature à causer une méprise dans l'esprit du public.
+article_55 . — sans préjudice des peines les plus graves, est puni d'un emprisonnement de deux ( <NUM> ) mois à un ( <NUM> ) an et d'une amende de <NUM> dinars à <NUM> dinars ou de l'une de ces deux peines seulement, quiconque fabrique un cachet autre que les cachets définis à la présente section, sans l'autorisation du propriétaire ou s'en procure illégalement.
+est puni d'un emprisonnement d'un ( <NUM> ) à trois ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , quiconque contrefait un cachet autre que les cachets définis à la présente section.
+section <NUM> du faux témoignage et du faux serment
+article_56 . — quiconque se rend coupable d'un faux témoignage en matière criminelle, soit contre l'accusé, soit en sa faveur, est puni d'un emprisonnement de cinq ( <NUM> ) à dix ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> . <NUM> dinars .
+si le faux témoin a reçu de l'argent, une récompense quelconque ou des promesses, la peine est celle de la réclusion à temps de dix ( <NUM> ) à vingt ( <NUM> ) ans et d'une amende de <NUM> . <NUM> dinars à <NUM> . <NUM> dinars .
+en cas de condamnation de l'accusé à une peine supérieure à la réclusion à temps, le faux témoin qui a déposé contre lui encourt cette même peine.
+article_57 . — quiconque se rend coupable d'un faux témoignage en matière délictuelle, soit contre l'inculpé ou le prévenu, soit en sa faveur, est puni d'un emprisonnement de trois ( <NUM> ) à sept ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars .
+si le faux témoin a reçu de l'argent, une récompense quelconque ou des promesses, le maximum de la peine d'emprisonnement prévue à l'alinéa <NUM> du présent article, est porté à dix ( <NUM> ) ans et celui de l'amende à <NUM> . <NUM> dinars .
+article_58 . — quiconque se rend coupable d'un faux témoignage en matière contraventionnelle, soit contre le prévenu, soit en sa faveur, est puni d'un emprisonnement d'un ( <NUM> ) à trois ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars .
+si le faux témoin a reçu de l'argent, une récompense quelconque ou des promesses, la peine est celle de l'emprisonnement de deux ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars .
+article_59 . — quiconque se rend coupable d'un faux témoignage en matière civile ou administrative, est puni d'un emprisonnement de deux ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars .
+si le faux témoin a reçu de l'argent, une récompense quelconque ou des promesses, le maximum de la peine d'emprisonnement est porté à dix ( <NUM> ) ans et celui de l'amende à <NUM> . <NUM> dinars .
+les dispositions du présent article s'appliquent au faux témoignage commis dans une action civile portée devant une juridiction pénale accessoirement à une instance pénale.
+article_60 . — quiconque, en toute matière, en tout état d'une procédure ou en vue d'une demande ou d'une défense en justice, use de promesses, d'offres ou de présents, de pressions, de menaces, de voies de fait, de manœuvres ou d'artifices pour déterminer autrui à faire des dépositions ou des déclarations mensongères ou à délivrer une attestation mensongère, est puni, que la subornation ait ou non produit effet, d'un emprisonnement de cinq ( <NUM> ) à dix ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> . <NUM> dinars , à moins que le fait ne constitue une complicité dans l'une des infractions plus graves prévues par la présente loi.
+la subornation d'expert ou d'interprète est punie de la même peine.
+article_61 . — l'interprète qui, en matière pénale, civile ou administrative, dénature, sciemment, la substance de déclarations ou de documents traduits oralement, est puni des peines prévues pour le faux témoignage d'après les distinctions prévues par la présente section.
+lorsque la dénaturation est faite dans la traduction écrite d'un document destiné ou apte à établir la preuve d'un droit ou d'un fait ayant des effets de droit, le traducteur est puni des peines prévues pour le faux d'après les distinctions prévues aux sous-sections <NUM> et <NUM> de la section <NUM> du présent chapitre, selon le caractère de la pièce dénaturée.
+l'expert qui, désigné par l'autorité judiciaire, donne oralement ou par écrit, en tout état de la procédure, un avis mensonger ou affirme des faits qu'il sait non conformes à la vérité, est passible des peines prévues pour le faux témoignage prévues à la présente section.
+article_62 . — toute personne à qui le serment est déféré ou référé en matière civile et qui fait un faux serment est punie d'un emprisonnement d'un ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars .
+section <NUM> de l'usurpation ou de l'usage irrégulier de fonctions, de titres ou de noms
+article_63 . — quiconque, sans titre, s'immisce dans des fonctions publiques, civiles ou militaires ou accomplit un acte d'une de ces fonctions, est puni d'un emprisonnement de deux ( <NUM> ) à sept ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , à moins que le fait ne constitue une infraction plus grave.
+article_64 . — quiconque, sans remplir les conditions exigées pour le porter, fait usage ou se réclame d'un titre attaché à une profession légalement réglementée, d'un diplôme officiel ou d'une qualité dont les conditions d'attribution sont fixées par l'autorité publique, est puni d'un emprisonnement de deux ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars .
+article_65 . — quiconque revêt publiquement un costume présentant une ressemblance, de nature à causer une méprise dans l'esprit du public, avec les uniformes de l'armée nationale populaire, de la gendarmerie nationale, de la sûreté nationale, de l'administration des douanes, de l'administration pénitentiaire, de l'administration des forêts, de tout fonctionnaire exerçant des fonctions de police judiciaire ou de protection civile, est puni d'un emprisonnement de deux ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars .
+quiconque, sans droit, porte publiquement un uniforme réglementaire, un costume distinctif d'une fonction ou qualité, un insigne officiel ou une décoration d'un ordre national ou étranger, est puni d'un emprisonnement d'un ( <NUM> ) à trois ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars ou de l'une de ces deux peines seulement, à moins que le fait ne soit retenu comme circonstance aggravante d'une infraction plus grave.
+la peine est l'emprisonnement de deux ( <NUM> ) à cinq ( <NUM> ) ans et l'amende de <NUM> dinars à <NUM> dinars , lorsque cela est utilisé pour obtenir des faveurs quelle qu'en soit leur nature, sans préjudice des peines plus graves prévues par la présente loi et par la législation en vigueur.
+article_66 . — est puni d'un emprisonnement de deux ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , quiconque a usurpé à son profit :
+— soit habituellement, soit dans un acte officiel, un titre ou une distinction honorifique ;
+— dans une écriture publique ou authentique ou dans un document administratif destiné à l'autorité publique, indûment une identité autre que la sienne.
+est puni de la même peine, quiconque, en prenant un faux nom ou une fausse qualité, se fait délivrer un extrait du casier judiciaire d'un tiers.
+article_67 . — quiconque a usurpé le nom d'un tiers, dans des circonstances ayant déterminé ou auraient pu déterminer l'inscription d'une condamnation au casier judiciaire de ce tiers, est puni d'un emprisonnement d'un ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , sans préjudice des peines plus graves prévues par la présente loi.
+est puni de la même peine celui qui, par de fausses déclarations relatives à l'état civil d'un inculpé, a sciemment été la cause de l'inscription d'une condamnation au casier judiciaire d'un autre que cet inculpé ou prévenu.
+article_68 . — sont punis d'un emprisonnement d'un ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , les fondateurs, les directeurs ou gérants de sociétés ou d'établissements à vocation commerciale, industrielle ou financière qui ont fait ou laissé figurer, dans toute publicité faite dans l'intérêt du projet qu'ils dirigent ou qu'ils se proposent de fonder, le nom et la qualité d'un membre ou ancien membre du gouvernement, d'un membre d'une assemblée, d'un magistrat ou ancien magistrat, d'un fonctionnaire ou ancien fonctionnaire ou d'un haut dignitaire.
+article_69 . — est puni d'un emprisonnement de deux ( <NUM> ) à cinq ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , quiconque prétend un lien avec l'une des personnalités de rang et / ou des fonctions citées à la présente section, dans le but d'en obtenir un service ou un intérêt matériel ou autre.
+article_70 . — dans tous les cas prévus à la présente section, la juridiction peut ordonner, aux frais du condamné, soit l'insertion intégrale ou un extrait de sa décision dans les journaux qu'elle désigne, soit son affichage dans les lieux qu'elle indique.
+la juridiction ordonne, s'il y a lieu, que mention du jugement soit portée en marge des actes authentiques ou des actes de l'état civil dans lesquels le titre a été pris indûment ou le nom altéré.
+section <NUM> dispositions communes
+article_71 . — l'usage de faux est puni des mêmes peines édictées pour le faux prévues dans la présente loi, sans préjudice des exceptions qu'elle prévoit.
+article_72 . — n'est pas punissable celui qui, dans l'ignorance de leur vice, fait usage de sceaux, timbres, marteaux, poinçons, marques, documents ou actes faux, contrefaits, fabriqués ou falsifiés.
+article_73 . — est puni d'un emprisonnement de six ( <NUM> ) mois à trois ( <NUM> ) ans et d'une amende de <NUM> dinars à <NUM> dinars , quiconque dont il a été établi qu'il a pris connaissance de la commission de l'une des infractions prévues par la présente loi, n'en a pas aussitôt informé les autorités publiques compétentes.
+la peine est l'emprisonnement de deux ( <NUM> ) à cinq ( <NUM> ) ans et une amende de <NUM> dinars à <NUM> dinars , si la personne en question a eu connaissance de ces faits en raison de sa fonction ou de sa profession.
+article_74 . — les documents, actes et certificats dont la falsification a été prouvée ainsi que les droits et effets qui en découlent sont nuls de plein droit.
+en cas de condamnation pour l'une des infractions prévues dans la présente loi, la juridiction, sous réserve des droits des tiers de bonne foi, prononce obligatoirement la confiscation des moyens qui ont servi à leur commission ainsi que les biens en résultant.
+en outre, la juridiction ordonne la destruction des documents, actes, certificats, monnaie, sceaux, poinçons, timbres et marques falsifiés.
+article_75 . — sans préjudice des autres dispositions prévues par la présente loi, bénéficie de l'excuse absolutoire de la peine prévue au code pénal, quiconque, auteur ou complice d'une ou de plusieurs infractions prévues par la présente loi, aura, avant toute poursuite, révélé l'infraction aux autorités administratives et/ou judiciaires et/ou permis d'identifier les personnes mises en cause et/ou leur arrestation ou permis la saisie de l'objet de l'infraction.
+est réduite de moitié, la peine encourue par toute personne auteur ou complice de l'une des infractions prévues par la présente loi, qui, après l'engagement des poursuites, a facilité l'arrestation d'une ou de plusieurs personnes mises en cause et/ou a permis d'identifier les personnes y ayant participé.
+article_76 . — la tentative des délits prévus par la présente loi est punie des mêmes peines prévues pour l'infraction consommée.
+est puni des peines prévues pour le crime ou les infractions consommées, le complice et l'instigateur dans les infractions prévues par la présente loi.
+article_77 . — les infractions prévues par la présente loi sont inscrites au casier des infractions de faux et usage de faux, institué au casier judiciaire, conformément aux dispositions du code de procédure pénale.
+article_78 . — la juridiction compétente peut prononcer, à l'encontre des personnes physiques condamnées pour avoir commis l'une des infractions prévues par la présente loi, une ou plusieurs des peines complémentaires prévues par le code pénal.
+article_79 . — l'interdiction de séjour sur le territoire national est prononcée par la juridiction compétente, à titre définitif ou pour une durée de dix ( <NUM> ) ans au plus, contre tout étranger condamné pour l'une des infractions prévues dans la présente loi.
+article_80 . — la personne morale est pénalement responsable, dans les conditions prévues par le code pénal, des infractions prévues par la présente loi. elle encourt les peines prévues au code pénal.
+article_81 . — en cas de récidive, les peines prévues par la présente loi sont portées au double.
+article_82 . — dans le cadre des investigations ou des informations judiciaires menées pour la constatation des infractions prévues par la présente loi et la recherche de leurs auteurs, les autorités compétentes peuvent, sous réserve des conventions internationales ratifiées et du principe de réciprocité, recourir à l'entraide judiciaire internationale.
+l'exécution des demandes de coopération judiciaire internationale est refusée si elle est de nature à porter atteinte à la souveraineté nationale ou à l'ordre public.
+chapitre <NUM> dispositions transitoires et finales
+article_83 . — sont abrogées, toutes dispositions contraires à la présente loi, notamment les articles <NUM> à <NUM> bis <NUM> et <NUM> du code pénal.
+toute référence, dans la législation en vigueur, aux articles abrogés est remplacée par les articles qui leur correspondent dans la présente loi, ainsi qu'il suit :
+l' article_197 est remplacé par l' article_44 ;
+l' article_198 est remplacé par l' article_44 ;
+l' article_199 est remplacé par l' article_75 ;
+l' article_200 est remplacé par l' article_45 ;
+l' article_201 est remplacé par l' article_46 ;
+l' article_202 est remplacé par l' article_47 ;
+l' article_203 est remplacé par l' article_48 ;
+l' article_204 est remplacé par l' article_74 / <NUM> ;
+l' article_205 est remplacé par l' article_49 ;
+l' article_206 est remplacé par l' article_50 tiret <NUM> ;
+l' article_207 est remplacé par l' article_50 tiret <NUM> ;
+l' article_208 est remplacé par l' article_51 ;
+l' article_209 est remplacé par l' article_52 ;
+l' article_210 est remplacé par l' article_52 / <NUM> ;
+l' article_211 est remplacé par l' article_53 ;
+l' article_212 est remplacé par l' article_54 ;
+l' article_213 est remplacé par l' article_74 / <NUM> ;
+l' article_214 est remplacé par l' article_32 / <NUM> ;
+l' article_215 est remplacé par l' article_32 / <NUM> ;
+l' article_216 est remplacé par l' article_31 ;
+l' article_217 est remplacé par l' article_33 ;
+l' article_218 est remplacé par l' article_34 ; l' article_219 est remplacé par l' article_35 ;
+l' article_220 est remplacé par l' article_36 ;
+l' article_221 est remplacé par l' article_71 ;
+l' article_222 est remplacé par l' article_22 ;
+l' article_223 est remplacé par l' article_23 ;
+l' article_224 est remplacé par l' article_25 tiret <NUM> ;
+l' article_225 est remplacé par l' article_25 tiret <NUM> ;
+l' article_226 est remplacé par l' article_26 ;
+l' article_227 est remplacé par l' article_27 ;
+l' article_228 est remplacé par l' article_24 ;
+l' article_228_bis est remplacé par l' article_28 ;
+l' article_229 est remplacé par l' article_29 ;
+l' article_230 est remplacé par l'art. <NUM> ;
+l' article_232 est remplacé par l' article_56 ;
+l' article_233 est remplacé par l' article_57 ;
+l' article_234 est remplacé par l' article_58 ;
+l' article_235 est remplacé par l' article_59 ;
+l' article_236 est remplacé par l' article_60 ;
+l' article_237 est remplacé par l' article_61 ;
+l' article_238 est remplacé par l' article_61 / <NUM> ;
+l' article_239 est remplacé par l' article_60 / <NUM> ;
+l' article_240 est remplacé par l' article_62 ; l' article_241 est remplacé par l' article_78 ;
+l' article_242 est remplacé par l' article_63 ;
+l' article_243 est remplacé par l' article_64 ;
+l' article_244 est remplacé par l' article_65 / <NUM> ;
+l' article_245 est remplacé par l' article_66 tiret <NUM> ;
+l' article_246 est remplacé par l' article_65 / <NUM> ;
+l' article_247 est remplacé par l' article_66 alinéa <NUM> ;
+l' article_248 est remplacé par l' article_66 alinéa <NUM> ;
+l' article_249 est remplacé par l' article_67 ;
+l' article_250 est remplacé par l' article_70 ;
+les arts. <NUM> et <NUM> sont remplacés par l' article_68 ;
+l' article_253_bis est remplacé par l' article_80 ;
+l' article_253_bis <NUM> (alinéas <NUM> et <NUM> ) est remplacé par les arts. <NUM> et <NUM> ;
+l' article_253_bis <NUM> (alinéa <NUM> ) est remplacé par l' article_40 ;
+l' article_253_bis <NUM> est remplacé par l' article_42 ;
+l' article_253_bis <NUM> est remplacé par l' article_43 ;
+l' article_253_bis <NUM> est remplacé par l' article_78 ;
+l' article_253_bis <NUM> est remplacé par l' article_77 ;
+l' article_375 est remplacé par l' article_37 .
+toutes références, dans les procédures judiciaires en cours, aux articles abrogés, sont remplacées dans les mêmes formes, sous réserve des dispositions de l' article_2 du code pénal.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+loi_n°_24- <NUM> du <DATE> modifiant et complétant la loi_n°_98- <NUM> du <DATE> fixant les règles générales relatives à l'aviation civile. ————
+le président de la république,
+vu la constitution, notamment ses articles <NUM> , <NUM> (alinéa <NUM> ), <NUM> et <NUM> ;
+vu le décret_n°_63- <NUM> du <DATE> portant adhésion de la république algérienne démocratique et populaire à la convention relative à l'aviation civile internationale, signée à chicago, le <DATE> et ses amendements ;
+vu la loi_n°_98- <NUM> du <DATE> , modifiée et complétée, fixant les règles générales relatives à l'aviation civile ;
+vu la loi_n°_08- <NUM> du <DATE> relative aux conditions d'entrée, de séjour et de circulation des étrangers en algérie ;
+vu la loi_n°_09- <NUM> du <DATE> portant règles particulières relatives à la prévention et à la lutte contre les infractions liées aux technologies de l'information et de la communication ;
+vu la loi_n°_18- <NUM> du <DATE> relative à la protection des personnes physiques dans le traitement des données à caractère personnel ;
+après avis du conseil d'etat ;
+après adoption par le parlement ;
+promulgue la loi dont la teneur suit :
+article <NUM> . — la présente loi a pour objet de modifier et de compléter certaines dispositions de la loi_n°_98- <NUM> du <DATE> , modifiée et complétée, fixant les règles générales relatives à l'aviation civile.
+article_2 . — les dispositions de l' article_16 duodecies du
+chapitre <NUM> bis de la loi_n°_98- <NUM> du <DATE> , modifiée et complétée, fixant les règles générales relatives à l'aviation civile, sont modifiées, complétées et rédigées comme suit :" article_16 duodecies. — il est créé une agence nationale de l'aviation civile chargée de la régulation, de la supervision et du contrôle des activités de l'aviation civile.
+elle est chargée de l'élaboration des instructions techniques pour l'application des normes et des recommandations de l'organisation de l'aviation civile internationale et de leurs amendements.
+elle est également chargée de la protection des droits des voyageurs, conformément à la législation et à la réglementation en vigueur.
+l'agence nationale de l'aviation civile est placée sous la tutelle du ministre chargé de l'aviation civile.".
+article_3 . — il est inséré dans les dispositions de la section <NUM> du chapitre viii de la loi_n°_98- <NUM> du <DATE> , modifiée et complétée, fixant les règles générales relatives à l'aviation civile, les articles <NUM> bis, <NUM> ter et <NUM> quater, rédigés comme suit :" article_136_bis . — les transporteurs aériens doivent, pour chaque vol, collecter et transmettre, par voie électronique, les informations et les données de réservation, d'enregistrement et d'embarquement des passagers à destination, en transit ou en quittant le territoire national ainsi que celles des membres de l'équipage et les détails sur leurs moyens de transport, à l'organe chargé du traitement des informations des passagers, conformément à la réglementation en vigueur.
+les transporteurs aériens sont tenus d'assurer la conformité et l'authenticité des informations et données citées ci-dessus, avant leur transmission à l'organe chargé du traitement des informations des passagers.
+les modalités d'application du présent article sont fixées par voie réglementaire."." article_136_ter . — les transporteurs aériens sont tenus, conformément à la législation en vigueur, d'informer les passagers du transfert de leurs informations et données à l'organe chargé du traitement des informations des passagers."." article_136_quater . — sans préjudice de l'application des sanctions prévues par la législation en vigueur, tout transporteur aérien qui ne respecte pas les obligations prévues à l' article_136_bis de la présente loi, est tenu de verser une amende civile forfaitaire d'un montant de un million de dinars ( <NUM> . <NUM> dinars ) pour chaque vol concerné.
+l'amende susvisée, est prononcée par décision de l'organe chargé du traitement des informations des passagers.
+le montant de l'amende susvisée, est recouvré par le trésor public et versé à son profit.
+en cas de récidive, le montant de l'amende civile forfaitaire est porté au double.".
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+décret_présidentiel_n°_24- <NUM> du <DATE> portant approbation de l'avenant n° <NUM> au contrat du <DATE> pour la recherche et l'exploitation d'hydrocarbures sur les périmètres dénommés"oulad-n'sir"et"menzel-lejmat"(blocs : <NUM> et <NUM> ), conclu à alger, le <DATE> entre la société nationale"sonatrach-s.p.a"et les sociétés"pt pertamina algeria eksplorasi produksi"et"repsol exploracion 405a, s.a". ————
+le président de la république, sur le rapport du ministre de l'énergie et des mines,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_n°_90- <NUM> du <DATE> , modifiée et complétée, portant loi domaniale ;
+vu la loi_n°_19- <NUM> du <DATE> régissant les activités d'hydrocarbures, notamment ses articles <NUM> et <NUM> ;
+vu le décret_présidentiel_n°_98- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> , modifié et complété, portant statuts de la société nationale pour la recherche, la production, le transport, la transformation et la commercialisation des hydrocarbures"sonatrach";
+vu le décret_présidentiel_n°_22- <NUM> du <DATE> portant création du haut conseil de l'énergie ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_93- <NUM> du <DATE> portant approbation du contrat pour la recherche et l'exploitation des hydrocarbures sur les périmètres"oulad-n'sir"(bloc <NUM> ) et"menzel-lejmat"(bloc <NUM> ), conclu à alger, le <DATE> entre l'entreprise nationale sonatrach et la société ll et e algeria ltd ;
+vu le décret_exécutif_n°_21- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> , modifié et complété, fixant les attributions du ministre de l'énergie et des mines ;
+vu l'avenant n° <NUM> au contrat du <DATE> pour la recherche et l'exploitation d'hydrocarbures sur les périmètres dénommés"oulad-n'sir"et"menzel-lejmat"(blocs : <NUM> et <NUM> ), conclu à alger, le <DATE> entre la société nationale"sonatrach-s.p.a"et les sociétés"pt pertamina algeria eksplorasi produksi"et"repsol exploracion 405a, s.a"; le conseil des ministres entendu ;
+décrète :
+article <NUM> . — est approuvé et sera exécuté, conformément à la législation et à la réglementation en vigueur, l'avenant n° <NUM> au contrat du <DATE> pour la recherche et l'exploitation d'hydrocarbures sur les périmètres dénommés"oulad-n'sir"et"menzel-lejmat"(blocs : <NUM> et <NUM> ), conclu à alger, le <DATE> entre la société nationale"sonatrach-s.p.a"et les sociétés"pt pertamina algeria eksplorasi produksi"et"repsol exploracion 405a, s.a".
+fait à alger, le <DATE> .
+abdelmadjid tebboune. ————————
+décret_exécutif_n°_24- <NUM> du <DATE> fixant le contenu et les modalités de mise en œuvre de la comptabilité publique. ————
+le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière, notamment son article_80 ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — en application des dispositions de l' article_80 de la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière, le présent décret a pour objet de fixer le contenu et les modalités de mise en œuvre de la comptabilité publique.
+decrets
+dispositions générales
+article_2 . — la comptabilité publique des personnes morales citées à l'article <NUM> de la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière, a pour objet la description, l'exécution et le contrôle des opérations budgétaires, de trésorerie et du patrimoine ainsi que l'information des autorités de contrôle et de gestion.
+article_3 . — la comptabilité publique comporte :
+<NUM> ) une comptabilité budgétaire qui retrace l'exécution du budget ;
+<NUM> ) une comptabilité générale qui retrace la situation financière et patrimoniale des personnes morales ;
+<NUM> ) une comptabilité d'analyse des coûts des actions engagées dans le cadre des programmes.
+article_4 . — la comptabilité publique est tenue par les ordonnateurs et les comptables publics, pour une année civile.
+article_5 . — les ordonnateurs sont soit principaux, secondaires ou ordonnateurs territoriaux du budget de l'etat tels que définis aux articles <NUM> , <NUM> et <NUM> de la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière.
+article_6 . — les opérations budgétaires, financières et du patrimoine sont comptabilisées par un comptable public qui agit en qualité de comptable principal, secondaire, assignataire ou mandataire tels que définis aux articles <NUM> , <NUM> et <NUM> de la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière.
+article_7 . — ont la qualité de comptable public :
+— l'agent comptable central du trésor ;
+— le trésorier central ;
+— le trésorier principal ;
+— les trésoriers des wilayas ;
+— les trésoriers des communes ;
+— les trésoriers des établissements publics de santé ;
+— les receveurs des impôts ;
+— les chefs d'inspections des domaines ;
+— les conservateurs fonciers ;
+— les receveurs des douanes ;
+— les agents comptables ;
+— les agents chargés du recouvrement des amendes et frais de justice.
+comptabilité budgétaire
+article_8 . — la comptabilité budgétaire a pour objet de retracer, pour l'exercice concerné, les opérations d'exécution du budget de l'etat en recettes et en dépenses, conformément à la nomenclature budgétaire.
+elle permet :
+— en matière de recettes, de suivre les constatations, liquidations, émissions des ordres de recettes, recouvrements et restes à recouvrer ;
+— en matière de dépenses, de suivre les engagements, liquidations, ordonnancements ou mandatements, paiements et restes à payer ;
+— de dégager un résultat correspondant à la différence entre les recettes encaissées et les dépenses décaissées sur les budgets des personnes morales, conformément à l'article <NUM> de la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière, ainsi que les comptes spéciaux du trésor au titre de l'année considérée.
+article_9 . — la comptabilité budgétaire comporte :
+a) en phase administrative, une comptabilité tenue par les ordonnateurs relative à l'exécution des recettes et des dépenses ;
+b) en phase comptable, une comptabilité des recettes et des dépenses budgétaires fondée sur le principe de la comptabilité de caisse tenue par les comptables publics.
+la comptabilité budgétaire tenue par les ordonnateurs
+article_10 . — la comptabilité budgétaire tenue par les ordonnateurs retrace :
+a) en matière de recettes :
+— les recettes constatées et liquidées ;
+— les ordres de recettes émis ainsi que les ordres de réduction ou d'annulation ;
+— le suivi des recouvrements effectués sur les ordres de recettes.
+b) en matière de dépenses :
+— les autorisations d'engagement et les crédits de paiement ouverts ou notifiés ainsi que les mouvements de crédits de paiement ;
+— les engagements effectués ;
+— le montant des ordonnances ou mandats émis ;
+— les crédits de paiement disponibles ;
+— les restes à payer.
+article_11 . — pour assurer un suivi d'exécution des recettes et des dépenses budgétaires, les ordonnateurs tiennent les documents suivants :
+— un livre des recettes budgétaires faisant ressortir les constatations, les liquidations, les ordres de recettes émis ainsi que les réductions ou annulations des recettes et des recouvrements effectués sur ces ordres ;
+— un livre des engagements des dépenses qui fait ressortir le montant des engagements pris par rapport aux autorisations d'engagement ou aux crédits de paiement et le montant des soldes disponibles ;
+— un livre des ordonnancements ou mandatements qui retrace les crédits ouverts ou délégués ainsi que les mouvements de crédits, les délégations de crédits accordées aux ordonnateurs secondaires, le montant des ordonnances ou mandats de paiement émis et les crédits disponibles ;
+— un livre de délégation des crédits de paiement qui retrace les montants des crédits de paiement délégués et les consommations par ordonnateur secondaire.
+article_12 . — les ordonnateurs secondaires rendent compte aux ordonnateurs principaux, des engagements effectués et des mandats de paiement admis en dépense par des situations mensuelles.
+article_13 . — les ordonnateurs engagent les dépenses dans la limite des autorisations d'engagement ouverts ou notifiés, à l'exception des crédits évaluatifs.
+article_14 . — les autorisations d'engagement et les crédits de paiement ouverts en matière de dépenses, sont mis à la disposition des ordonnateurs.
+article_15 . — dans le cadre de la délégation de gestion, les ordonnateurs principaux notifient aux ordonnateurs secondaires les autorisations d'engagement et les crédits de paiement ouverts.
+article_16 . — les ordonnances de paiement émises par les ordonnateurs principaux, dans la limite des crédits de paiement ouverts, sont assignées payables sur la caisse du comptable assignataire.
+article_17 . — les mandats de paiement émis par les ordonnateurs secondaires et territoriaux du budget de l'etat, dans la limite des crédits de paiement notifiés, sont assignés payables sur la caisse des trésoriers de wilayas territorialement compétents.
+article_18 . — le délai de clôture des ordonnancements et des mandatements des dépenses publiques est fixé à dix ( <NUM> ) jours, à compter de la date de la clôture des engagements de dépenses de l'année à laquelle ils se rapportent. toutefois, les ordonnateurs peuvent continuer à déposer les ordonnances et les mandats durant la période complémentaire, conformément à la réglementation en vigueur.
+article_19 . — la comptabilité budgétaire tenue par les ordonnateurs génère un compte administratif, déposé à la cour des comptes.
+article_20 . — le contenu et la forme des documents comptables ainsi que le compte administratif, sont précisés par arrêté du ministre chargé des finances.
+la comptabilité budgétaire tenue par les comptables publics
+article_21 . — la comptabilité budgétaire tenue par les comptables publics retrace :
+a) en matière de recettes :
+— la prise en charge des ordres de recettes ;
+— les recouvrements effectués ;
+— les restes à recouvrer.
+b) en matière de dépenses :
+— les autorisations d'engagement et leurs modifications successives ;
+— les crédits de paiement ouverts ou notifiés ainsi que les mouvements de crédits de paiement ;
+— les ordonnances ou mandats admis en dépense ;
+— le solde disponible.
+article_22 . — la comptabilité des recettes et des dépenses budgétaires est fondée sur le principe de la comptabilité de caisse. elle enregistre les opérations à l'encaissement des recettes et au paiement des dépenses.
+article_23 . — ont la qualité de comptables principaux :
+— l'agent comptable central du trésor ;
+— le trésorier central ;
+— le trésorier principal ;
+— les trésoriers des wilayas, pour le budget de la wilaya ;
+— les trésoriers des communes, pour le budget communal ;
+— les trésoriers des établissements publics de santé ;
+— les agents comptables de l'etat.
+article_24 . — ont la qualité de comptables secondaires du budget de l'etat :
+— les trésoriers des wilayas ;
+— les trésoriers des communes ;
+— les receveurs des impôts ;
+— les chefs d'inspections des domaines ;
+— les receveurs des douanes ;
+— les conservateurs fonciers ;
+— les agents chargés du recouvrement des amendes et frais de justice.
+article_25 . — les comptables deniers et valeurs sont des comptables principaux ou secondaires, chargés du maniement et de la conservation des fonds, valeurs et titres appartenant aux personnes morales mentionnées à l'article <NUM> de la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière.
+article_26 . — les comptables d'ordre sont ceux qui centralisent et présentent, dans leurs écritures et leurs comptes, les opérations exécutées par d'autres comptables.
+les fonctions de comptable d'ordre ne sont pas incompatibles avec celles de comptable deniers et valeurs.
+article_27 . — les comptables publics établissent le rapprochement et l'accord de leurs écritures avec celles des ordonnateurs tant en ce qui concerne les ordres de recettes émis et recouvrés que les ordonnances ou mandats émis et admis en dépense, selon les modalités fixées par le ministre chargé des finances.
+article_28 . — les comptables secondaires adressent, mensuellement, aux comptables principaux de rattachement, un état des recettes budgétaires recouvrées et des dépenses payées sur leurs caisses aux fins de centralisation, selon les modalités fixées par le ministre chargé des finances.
+article_29 . — nonobstant la centralisation par les comptables principaux des écritures comptables, les comptables secondaires demeurent responsables des opérations dont ils sont assignataires.
+article_30 . — les états issus de la comptabilité budgétaire sont :
+— l'état des recettes budgétaires recouvrées ;
+— l'état des dépenses budgétaires payées ;
+— l'état des recettes et des dépenses des comptes spéciaux du trésor ;
+— l'état du solde budgétaire.
+article_31 . — le délai de clôture des paiements des dépenses publiques est fixé au <NUM> décembre de l'exercice auquel elles se rapportent. toutefois, les comptables publics peuvent continuer de payer durant la période complémentaire, conformément aux règles et procédures définies par voie réglementaire.
+article_32 . — la comptabilité budgétaire tenue par les comptables publics génère un compte de gestion, déposé à la cour des comptes.
+article_33 . — le contenu et la forme des états comptables ainsi que le compte de gestion sont précisés par arrêté du ministre chargé des finances.
+comptabilité générale
+article_34 . — la comptabilité générale a pour objet de décrire les mouvements affectant le patrimoine, la situation financière et le résultat de l'entité concernée.
+elle s'applique aux personnes morales, conformément à l'article <NUM> de la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière.
+article_35 . — la comptabilité générale est fondée sur le principe des droits et obligations constatés, elle est tenue exclusivement par le comptable public, en partie double, sur la base d'un plan comptable.
+elle consiste à comptabiliser les opérations budgétaires, de trésorerie et du patrimoine à leur naissance, dès qu'il est possible de les évaluer, indépendamment, de leur date de paiement ou d'encaissement.
+article_36 . — la comptabilité générale retrace l'ensemble des opérations citées à l' article_88 de la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière, et dégage des situations périodiques et des résultats en fin d'année.
+article_37 . — le référentiel comptable de l'etat comporte un cadre conceptuel de la comptabilité générale, des normes comptables et un plan comptable permettant l'établissement des états financiers.
+article_38 . — le cadre conceptuel de la comptabilité publique définit les concepts qui sont à la base de la préparation et l'élaboration des normes comptables, leur interprétation et la sélection de la méthode comptable appropriée lorsque certains évènements ne sont pas traités par une norme ou une interprétation.
+le cadre conceptuel définit :
+— le champ d'application ;
+— les principes comptables ;
+— les actifs, les passifs, la situation nette, les produits et les charges.
+article_39 . — les normes comptables de l'etat sont inspirées des normes internationales du secteur public, qui permettent une transparence financière et une reddition des comptes ainsi qu'une amélioration de la gestion financière des entités publiques.
+les normes comptables fixent, notamment :
+— les règles d'évaluation et de comptabilisation des actifs, des passifs, des charges et des produits ;
+— le contenu et le mode de présentation des états financiers.
+article_40 . — le plan comptable est un document qui fixe les règles et principes d'évaluation et de comptabilisation pour la tenue des comptes. c'est un outil de gestion et d'information, de contrôle et d'analyse des opérations financières de l'entité.
+article_41 . — les états financiers sont une représentation financière structurée des évènements affectant les opérations réalisées, ils sont établis, annuellement, par les comptables publics, ils comprennent :
+— le bilan ou la situation financière ;
+— l'état de la performance financière (le compte de résultat) ;
+— le tableau des flux de trésorerie ;
+— le tableau de variation de la situation nette financière ;
+— l'annexe.
+article_42 . — l'établissement des états financiers repose sur le respect des principes comptables généraux et les caractéristiques qualitatives suivantes :
+a) les principes comptables généraux :
+— sincérité ;
+— régularité ;
+— image fidèle ;
+— prudence ;
+— exhaustivité ;
+— comparabilité ;
+— séparation des exercices ;
+— non-compensation ;
+— continuité d'exploitation ;
+— permanence des méthodes.
+b) caractéristiques qualitatives :
+— neutralité ;
+— pertinence ;
+— fiabilité ;
+— intelligibilité ;
+— vérifiabilité.
+article_43 . — le cadre conceptuel de la comptabilité publique, les normes comptables de l'etat ainsi que le plan comptable, sont précisés par voie réglementaire.
+article_44 . — la comptabilité générale s'appuie, également, sur l'inventaire des existants des biens mobiliers et immobiliers et des stocks tenus par un agent, désigné par l'ordonnateur.
+des rapprochements périodiques sont effectués par l'ordonnateur et le comptable public assignataire entre les données de l'inventaire des existants et celles de la comptabilité générale.
+article_45 . — pour assurer la tenue de la comptabilité générale et pour la production des états financiers, le comptable public doit tenir les documents comptables suivants :
+— le livre journal ;
+— les livres auxiliaires ;
+— le grand livre ;
+— la balance générale des comptes.
+article_46 . — les comptables publics transmettent aux comptables centralisateurs de rattachement, mensuellement et en fin d'exercice, la balance générale des comptes appuyée des pièces justificatives, et transmettent, également, en fin d'exercice les états financiers à la cour des comptes, pour certification.
+article_47 . — les états financiers, cités à l' article_41 , et la balance générale des comptes constituent le compte général de l'etat, établi par le ministre chargé des finances.
+les modalités d'application du présent article sont précisées par arrêté du ministre chargé des finances.
+article_48 . — la forme et le contenu des documents comptables sont précisés par arrêté du ministre chargé des finances.
+comptabilité d'analyse des coûts
+article_49 . — la comptabilité d'analyse des coûts fait apparaître les éléments de coûts des actions engagées dans le cadre des programmes de mise en œuvre des politiques publiques.
+elle permet de justifier les crédits indispensables à la conduite des actions et de mettre en évidence les éléments nécessaires à la mesure de la performance au sein des programmes.
+article_50 . — la comptabilité d'analyse des coûts est tenue par les ordonnateurs, elle est fondée sur les données de la comptabilité générale.
+article_51 . — la comptabilité d'analyse des coûts est destinée à faire apparaître le rapprochement entre les moyens alloués à la réalisation des actions des programmes et les résultats obtenus.
+article_52 . — les principes et règles régissant la comptabilité d'analyse des coûts, sont précisés par arrêté du ministre chargé des finances.
+dispositions diverses et finales
+article_53 . — sauf dispositions législatives ou réglementaires contraires, sont soumises aux mêmes règles de comptabilisation que celles applicables à l'etat, les personnes morales citées à l'article <NUM> de la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière.
+article_54 . — les dispositions du présent décret entrent en vigueur six ( <NUM> ) mois après la date de sa publication au journal officiel.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui. ————————
+décret_exécutif_n°_24- <NUM> du <DATE> fixant la procédure de paiement par accréditif des dépenses publiques. ————
+le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière, notamment son article_60 ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_92- <NUM> du <DATE> , modifié et complété, fixant la procédure de paiement par accréditif des dépenses de l'etat, des collectivités locales et des établissements publics à caractère administratif ;
+décrète :
+article <NUM> . — en application des dispositions de l' article_60 de la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière, le présent décret a pour objet de fixer les procédures de paiement par accréditif des dépenses :
+— de l'etat ;
+— des collectivités locales ;
+— des établissements publics administratifs et des établissements publics de santé ;
+— des autres personnes morales chargées de l'exécution de tout ou partie d'un programme de l'etat, au sens de la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances.
+article_2 . — les ordonnateurs des personnes morales citées à l'article <NUM> du présent décret, peuvent recourir au mode de paiement par voie d'accréditif pour les prestations de services et l'acquisition de fournitures, matériels et équipements auprès des fournisseurs étrangers.
+article_3 . — la demande d'ouverture de l'accréditif, datée et signée par l'ordonnateur des personnes morales citées à l'article <NUM> du présent décret, est adressée au comptable assignataire qui la vise pour approbation et la transmet à l'établissement bancaire concerné.
+aucun accréditif ne peut être ouvert à des personnes morales citées à l'article <NUM> du présent décret, si la demande d'ouverture ne comporte pas le visa prévu à l'alinéa <NUM> ci-dessus.
+article_4 . — la demande d'ouverture de l'accréditif mentionnée à l' article_3 du présent décret, doit comporter les indications suivantes :
+— la nature de la dépense ;
+— le montant à payer, libellé en dinars et arrêté en lettres et en chiffres, avec conversion en monnaie étrangère demandée par le fournisseur ;
+— l'établissement bancaire de droit algérien domiciliataire de l'opération.
+article_5 . — dès l'ouverture de l'accréditif par l'établissement bancaire, les fonds nécessaires au règlement de la dépense en cause sont abrités dans un compte transitoire, à titre de consignation.
+article_6 . — pour la réalisation de l'opération visée à l' article_5 ci-dessus, l'ordonnateur émet, au profit du comptable assignataire, une ordonnance ou un mandat de paiement pour un montant correspondant à la dépense auquel sont jointes les pièces justificatives ci-après :
+— la demande d'ouverture de l'accréditif ;
+— la copie certifiée conforme du contrat ou des factures proforma.
+article_7 . — a la réception de l'ordonnance ou du mandat de paiement, le comptable assignataire procède, après vérification, à son admission en dépense en l'imputant sur le budget des personnes morales citées à l'article <NUM> du présent décret, et crédite le compte transitoire, à titre de consignation.
+article_8 . — le comptable assignataire effectue le virement des sommes consignées au compte précité, au profit de l'établissement bancaire concerné, aussitôt que celui-ci lui adresse une demande de paiement pour l'ouverture de l'accréditif, auprès de son correspondant à l'étranger.
+article_9 . — les incidences financières résultant des fluctuations du taux de change et des commissions, constatées à la réception des documents définitifs, font l'objet, soit d'un versement complémentaire au profit de l'établissement bancaire domiciliataire, ou d'un reversement au budget des personnes morales citées à l'article <NUM> du présent décret.
+les opérations de versement et de reversement du montant prévues ci-dessus, font l'objet d'émission, à titre de régularisation, par les ordonnateurs compétents, selon le cas, d'ordonnance ou de mandat de paiement ou d'ordre de recette.
+dans le cas de reversement du montant, la banque domiciliataire est tenue de reverser le montant différentiel au comptable assignataire, dans un délai de huit ( <NUM> ) jours.
+article_10 . — les ordonnateurs doivent émettre des ordonnances ou mandats, à titre de versement complémentaire, au profit de l'établissement bancaire, dans le cas où le montant figurant sur les documents justificatifs définitifs est supérieur à celui mis à la disposition de la banque domiciliataire, dans un délai qui ne saurait dépasser trente ( <NUM> ) jours.
+si à l'expiration du délai de <NUM> jours, les ordonnateurs concernés n'ont pas procédé à l'émission des ordonnances ou des mandats de paiement, les comptables publics assignataires procèdent au versement, par voie de prélèvement d'office du montant complémentaire, opéré sur le budget des personnes morales citées à l'article <NUM> du présent décret. le contrôleur budgétaire est informé de cette opération.
+article_11 . — sont abrogées, les dispositions du décret_exécutif_n°_92 - <NUM> du <DATE> , modifié et complété, fixant la procédure de paiement par accréditif des dépenses de l'etat, des collectivités locales et des établissements publics à caractère administratif.
+article_12 . — les dispositions du présent décret entrent en vigueur six ( <NUM> ) mois après la date de sa publication au journal officiel.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+décret_exécutif_n°_24- <NUM> du <DATE> fixant les conditions et les modalités de suppléance, de délégation de signature et de désignation d'intérimaire. ————
+le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu l' ordonnance_n°_95- <NUM> du <DATE> , modifiée et complétée, relative à la cour des comptes ;
+vu la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière, notamment son article_14 ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu décret_exécutif_n°_97- <NUM> du <DATE> , complété, fixant les procédures relatives à l'engagement et l'exécution des dépenses publiques et délimitant les attributions et les responsabilités des ordonnateurs ;
+décrète :
+article <NUM> . — en application des dispositions de l' article_14 de la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière, le présent décret a pour objet de fixer les conditions et les modalités de suppléance, de délégation de signature et de désignation d'intérimaire.
+article_2 . — est ordonnateur, au sens du présent décret, tout agent public nommé, élu ou désigné à l'effet d'assurer la programmation, la mise à disposition et la répartition des crédits et/ou l'exécution des opérations budgétaires, financières et du patrimoine, conformément aux dispositions de l' article_4 de la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière.
+de la suppléance
+article_3 . — les ordonnateurs peuvent désigner, à l'avance, un suppléant qui doit, obligatoirement, appartenir à l'administration ou à l'institution publique concernée et occuper un poste supérieur, afin d'assurer la continuité du service.
+en cas d'absence ou d'empêchement momentané, dûment justifié, de l'ordonnateur, le suppléant exerce les fonctions d'ordonnateur dans la limite des prérogatives qui lui sont confiées par l'acte de suppléance.
+article_4 . — l'acte de la suppléance prend effet, à partir du <NUM> jour d'absence ou d'empêchement et ne peut excéder une durée de quatre-vingt-dix-huit ( <NUM> ) jours.
+l'acte de la suppléance doit être notifié au contrôleur budgétaire et au comptable public assignataire.
+de la délégation de signature
+article_5 . — l'ordonnateur peut déléguer, dans la limite de ses attributions et sous sa responsabilité, sa signature à un agent public relevant de son autorité directe et occupant un poste supérieur.
+article_6 . — le délégataire est habilité à signer les actes de dépenses, de recettes et du patrimoine, énumérés dans l'acte de délégation.
+l'acte de la délégation de signature doit être notifié au contrôleur budgétaire et au comptable public assignataire.
+article_7 . — la délégation prend fin automatiquement en même temps que prennent fin les pouvoirs du délégateur ou les fonctions du délégataire.
+de l'intérim
+article_8 . — en cas de vacance momentanée du poste de l'ordonnateur, un ordonnateur intérimaire est désigné par l'autorité de tutelle, parmi les agents publics habilités du secteur concerné, pour assurer la continuité du service.
+article_9 . — la vacance momentanée du poste d'ordonnateur est prononcée dans les cas suivants :
+— absence d'ordonnateur, régulièrement nommé ;
+— départ de l'ordonnateur ;
+— absence de suppléant.
+article_10 . — les ordonnateurs intérimaires doivent être habilités et accrédités par le ministre chargé des finances pour une durée d'une année, renouvelable une seule fois.
+article_11 . — le dossier d'habilitation et d'accréditation établi par l'autorité de tutelle, doit comporter les pièces suivantes :
+— demande d'habilitation et d'accréditation ;
+— décision portant désignation d'un ordonnateur intérimaire.
+le renouvellement de l'habilitation et de l'accréditation est effectué dans les mêmes formes.
+article_12 . — les actes de suppléance, de délégation de signature, d'habilitation et d'accréditation doivent être conformes aux modèles joints aux annexes i, ii et iii du présent décret.
+article_13 . — sont abrogées, les dispositions du décret_exécutif_n°_97- <NUM> du <DATE> fixant les procédures relatives à l'engagement et l'exécution des dépenses publiques et délimitant les attributions et les responsabilités des ordonnateurs.
+article_14 . — les dispositions du présent décret entrent en vigueur six ( <NUM> ) mois après la date de sa publication au journal officiel.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+decision n°……………du………. portant designation du suppleant
+l'ordonnateur,
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière, notamment son article_14 ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> fixant les conditions et les modalités de suppléance, de délégation de signature et de désignation d'intérimaire, notamment ses articles <NUM> et <NUM> ;
+vu……….. ( <NUM> ) ;
+décide :
+article <NUM> . — (m./mme.) …..….. (poste / fonction) , est désigné (e) en qualité d'ordonnateur suppléant sur …… …… …. ( <NUM> )
+article_2 . — le contrôleur budgétaire et le comptable public assignataire sont chargés, chacun en ce qui le concerne, de l'exécution de la présente décision.
+l'ordonnateur
+fait à , le ﺔﻴﺒﻌﺸﻟﺍ ﺔﻴﻃﺍﺮﻘﻤﻳﺪﻟﺍ ﺔﻳﺮﺋﺍﺰﳉﺍ ﺔﻳﺭﻮﻬﻤﳉﺍ annexe i ( <NUM> ) texte portant nomination.
+( <NUM> ) indiquer le budget concerné.
+decision n°……………du………. portant delegation de signature
+l'ordonnateur,
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière, notamment son article_14 ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> fixant les conditions et les modalités de suppléance, de délégation de signature et de désignation d'intérimaire, notamment ses articles <NUM> , <NUM> et <NUM> ;
+vu……….. ( <NUM> ) ;
+décide :
+article <NUM> . — (m./mme.) …..….. (poste / fonction) , est habilité (e) à signer ……………. ( <NUM> )
+article_2 . — le contrôleur budgétaire et le comptable public assignataire sont chargés, chacun en ce qui le concerne, de l'exécution de la présente décision.
+fait à , le ﺔﻴﺒﻌﺸﻟﺍ ﺔﻴﻃﺍﺮﻘﻤﻳﺪﻟﺍ ﺔﻳﺮﺋﺍﺰﳉﺍ ﺔﻳﺭﻮﻬﻤﳉﺍ annexe ii ( <NUM> ) texte portant nomination du délégataire.
+( <NUM> ) citer les prérogatives du délégué.
+ministère des finances
+decision n°……………du………. portant - habilitation
+- accreditation
+le ministre des finances,
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière, notamment son article_14 ;
+vu le décret_exécutif_n°_95- <NUM> du <DATE> fixant les attributions du ministre des finances ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> fixant les conditions et les modalités de suppléance, de délégation de signature et de désignation d'intérimaire, notamment ses articles <NUM> , <NUM> , <NUM> et <NUM> ;
+vu le décret exécutif n° …. du ….. correspondant au …… relatif aux modalités d'exercice du contrôle budgétaire ;
+vu la décision n° ……. du……….. portant désignation de (m./mme.)………………, en qualité d'ordonnateur par intérim ;
+décide :
+article <NUM> . — (m./mme.) est habilité (e) / accrédité (e) en qualité d'ordonnateur intérimaire, sur le budget ( <NUM> ), pour exécuter les opérations de dépenses, de recettes et du patrimoine.
+article_2 . — le contrôleur budgétaire et le comptable public assignataire sont chargés, chacun en ce qui le concerne, de l'exécution de la présente décision.
+fait à , le ﺔﻴﺒﻌﺸﻟﺍ ﺔﻴﻃﺍﺮﻘﻤﻳﺪﻟﺍ ﺔﻳﺮﺋﺍﺰﳉﺍ ﺔﻳﺭﻮﻬﻤﳉﺍ annexe iii
+( <NUM> ) indiquer le budget concerné.
+décret_exécutif_n°_24- <NUM> du <DATE> fixant les catégories des correspondants du trésor et les modalités de fonctionnement des comptes de dépôt de fonds. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu l' ordonnance_n°_95- <NUM> du <DATE> , modifiée et complétée, relative à la cour des comptes ;
+vu la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière, notamment son article_68 ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — en application des dispositions de l' article_68 de la loi_n°_23- <NUM> du <DATE> relative aux règles de comptabilité publique et de gestion financière, le présent décret a pour objet de fixer les catégories des correspondants du trésor et les modalités de fonctionnement des comptes de dépôt de fonds.
+les correspondants du trésor
+article_2 . — en application des dispositions de l' article_68 de la loi_n°_23- <NUM> du <DATE> susvisé, les correspondants du trésor sont les organismes et les particuliers qui, soit en application des lois et règlements, soit en vertu de conventions, déposent, à titre obligatoire ou facultatif, des fonds au trésor ou ceux autorisés à procéder à des opérations de dépôt et de retrait.
+article_3 . — les dépôts de fonds obligatoires sont des avoirs que les correspondants du trésor doivent déposer dans un compte de dépôt de fonds ouvert auprès du trésor public.
+article_4 . — les dépôts de fonds facultatifs sont les avoirs déposés au trésor public, dénommés"fonds particuliers", par les personnes physiques ou morales sur leurs comptes ouverts dans les écritures du trésor public.
+modalités de fonctionnement des comptes de dépôt de fonds
+article_5 . — l'ouverture d'un compte de dépôt de fonds auprès des services du trésor public, est subordonnée à la constitution d'un dossier par le demandeur, dont le contenu est fixé par arrêté du ministre chargé des finances.
+article_6 . — les comptes de dépôt de fonds sont clôturés dans les cas suivants :
+— lorsqu'un texte législatif ou réglementaire prévoit la clôture du compte ;
+— à la cessation de l'activité ou au décès du titulaire du compte ;
+— à la demande du titulaire du compte ;
+— lorsque le compte de dépôt est transféré dans les écritures d'un autre comptable public ;
+— lorsque le compte des particuliers n'a pas connu de mouvements durant une année.
+article_7 . — l'examen du dossier portant demande d'ouverture ou de clôture d'un compte de dépôt de fonds au trésor public, doit s'effectuer dans un délai qui ne peut excéder dix ( <NUM> ) jours, à compter de la date de réception de la demande.
+si à l'expiration des délais prévus ci-dessus, aucune réponse n'a été donnée, la demande d'ouverture ou de clôture du compte de dépôt est considérée comme acceptée.
+article_8 . — les opérations de dépôt ou de retrait de fonds du trésor public sont exécutées, conformément aux règles de la comptabilité publique.
+article_9 . — les moyens et les instruments de paiement éligibles pour les mouvements des comptes de dépôt de fonds au niveau du trésor public, sont définis par arrêté du ministre chargé des finances.
+article_10 . — le comptable chargé de la gestion des comptes de dépôt de fonds peut exécuter une opposition sur le compte de dépôt de fonds concerné.
+il peut, également, exécuter l'opposition s'il constate l'existence d'opérations suspectes non conformes aux lois et aux règlements.
+article_11 . — le compte de dépôt de fonds frappé d'une opposition est acquitté une fois que l'opposition est effectuée.
+article_12 . — a la fin de chaque mois et à la demande des correspondants du trésor, un extrait de compte retraçant les opérations effectuées sur leurs comptes de dépôt de fonds est établi.
+article_13 . — les fonds déposés au trésor public peuvent générer des intérêts, dont le taux est fixé par la loi de finances.
+article_14 . — sauf autorisation donnée par le ministre chargé des finances, il ne peut être ouvert qu'un seul compte au trésor par correspondant.
+article_15 . — les titulaires de comptes de dépôt de fonds des personnes physiques ou morales doivent être domiciliés en algérie.
+article_16 . — les dispositions du présent décret entrent en vigueur six ( <NUM> ) mois après la date de sa publication au journal officiel.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+décret présidentiel du <DATE> mettant fin aux fonctions d'un ambassadeur conseiller au ministère des affaires étrangères et de la communauté nationale à l'étranger. ————
+par décret présidentiel du <DATE> , il est mis fin, à compter du <DATE> , aux fonctions d'ambassadeur conseiller au ministère des affaires étrangères et de la communauté nationale à l'étranger, exercées par m. mouloud hamai. ————h————
+décrets présidentiels du <DATE> mettant fin aux fonctions d'ambassadeurs extraordinaires et plénipotentiaires de la république algérienne démocratique et populaire. ————
+par décret présidentiel du <DATE> , il est mis fin, à compter du <DATE> , aux fonctions d'ambassadeur extraordinaire et plénipotentiaire de la république algérienne démocratique et populaire à conakry (république de guinée), exercées par m. abdelfetah daghmoum, appelé à exercer une autre fonction. ————————
+par décret présidentiel du <DATE> , il est mis fin, à compter du <DATE> , aux fonctions d'ambassadeur extraordinaire et plénipotentiaire de la république algérienne démocratique et populaire à brasilia (république fédérative du brésil), exercées par m. rachid bladehane, appelé à exercer une autre fonction.
+décret présidentiel du <DATE> portant nomination d'un ambassadeur et représentant permanent à la mission permanente algérienne à genève (confédération suisse). ————
+par décret présidentiel du <DATE> , m. rachid bladehane est nommé ambassadeur et représentant permanent à la mission permanente algérienne à genève (confédération suisse), à compter du <DATE> . ————h————
+décret présidentiel du <DATE> portant nomination d'un ambassadeur extraordinaire et plénipotentiaire de la république algérienne démocratique et populaire. ————
+par décret présidentiel du <DATE> , m. abdelfetah daghmoum est nommé ambassadeur extraordinaire et plénipotentiaire de la république algérienne démocratique et populaire à madrid (royaume d'espagne), à compter du <DATE> . ————h————
+décret présidentiel du <DATE> portant nomination d'un sous-directeur au ministère de l'intérieur, des collectivités locales et de l'aménagement du territoire. ————
+par décret présidentiel du <DATE> , m. meftah mohadi est nommé sous-directeur de l'administration et de l'exploitation des systèmes au ministère de l'intérieur, des collectivités locales et de l'aménagement du territoire.
+decisions individuelles arretes, decisions et a vis
+ministere de l'interieur, des collectivites locales et de l'amenagement du territoire
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant délégation de signature au directeur des moyens généraux. ————
+le ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire,
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_14- <NUM> du <DATE> , modifié et complété, portant organisation de l'administration centrale du ministère de l'intérieur, des collectivités locales et de l'aménagement du territoire ;
+vu le décret_exécutif_n°_18- <NUM> du <DATE> fixant les attributions du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> autorisant les membres du gouvernement à déléguer leur signature ;
+vu le décret présidentiel du <DATE> portant nomination de m. mahfoud chakri directeur des moyens généraux au ministère de l'intérieur, des collectivités locales et de l'aménagement du territoire ;
+arrête :
+article <NUM> . — dans la limite de ses attributions, délégation est donnée à m. mahfoud chakri directeur des moyens généraux, à l'effet de signer, au nom du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire, tous actes et décisions y compris les ordres de paiement et de virement et les délégations de crédits, à l'exclusion des arrêtés.
+fait à alger, le <NUM> rajab <NUM> correspondant au <DATE> .
+brahim merad.
+ministere de la culture et des arts
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant plan de protection et de mise en valeur du site archéologique de siga et de ses zones de protection. ————
+la ministre de la culture et des arts,
+vu la loi_n°_98- <NUM> du <DATE> relative à la protection du patrimoine culturel, notamment son article_30 ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_03- <NUM> du <DATE> portant modalités d'établissement du plan de protection et de mise en valeur des sites archéologiques et de leur zone de protection (ppmvsa), notamment son article_15 ;
+vu le décret_exécutif_n°_05- <NUM> du <DATE> fixant les attributions du ministre de la culture ;
+vu l'arrêté du <DATE> portant inscription sur l'inventaire général des biens culturels immobiliers ; après délibération de l'assemblée populaire de wilaya de la wilaya de aïn témouchent n° <NUM> / <NUM> en date du <DATE> portant approbation du plan de protection et de mise en valeur du site archéologique de siga et de ses zones de protection ;
+arrête :
+article <NUM> . — en application des dispositions de l' article_15 du décret_exécutif_n°_03- <NUM> du <DATE> portant modalités d'établissement du plan de protection et de mise en valeur des sites archéologiques et de leur zone de protection (ppmvsa), le présent arrêté à pour objet de fixer le plan de protection et de mise en valeur du site archéologique de siga et de ses zones de protection.
+article_2 . — sont concernés par le plan de protection et de mise en valeur du site archéologique de siga et de ses zones de protection, les sites archéologiques ci-après : château d'eau principal, stèles, tronçon de rempart, énormes voûtes effondrées, inscription punique, nécropole, port numide, une autre nécropole remontant à la fin du <NUM> siècle et début du 3e siècle, édifice, alignement de pierres de taille, amphores et citerne.
+article_3 . — le plan de protection et de mise en valeur du site archéologique de siga et de ses zones de protection, est annexé à l'original du présent arrêté.
+article_4 . — le plan de protection et de mise en valeur du site archéologique de siga et de ses zones de protection, est mis à la disposition du public durant les trente ( <NUM> ) jours qui suivent la publication du présent arrêté au journal officiel.
+article_5 . — le plan de protection et de mise en valeur du site archéologique de siga et de ses zones de protection peut être consulté au siège de l'assemblée populaire communale de la commune de oulhassa el gheraba, wilaya de aïn témouchent.
+article_6 . — la liste des documents écrits et graphiques composant le dossier, est constituée de :
+documents écrits :
+— diagnostic et mesures d'urgence ;
+— rapport de présentation ;
+— relevés topographiques et archéologiques et avant-projet du ppmvsa ;
+— rédaction finale.
+documents graphiques :
+— plan n° <NUM> : levé topographique avec repérage des structures et éléments archéologiques : <NUM> / <NUM> ;
+— plan n° <NUM> : plan de situation : <NUM> / <NUM> ;
+— plan n° <NUM> : plan de masse : <NUM> / <NUM> ;
+— plan n° <NUM> : la nature juridique : <NUM> / <NUM> ; * plan n° <NUM> : plan de délimitation et de positionnement des éléments et structures archéologiques : <NUM> / <NUM> ( <NUM> planches) ; * plan n° <NUM> : plan d'intervention et de protection des structures.
+article_7 . — les mesures du plan de protection et de mise en valeur du site archéologique de siga et de ses zones de protection prennent effet, à compter de la publication du présent arrêté au journal officiel.
+article_8 . — le directeur de la culture de la wilaya de aïn témouchent, en concertation avec le président de l'assemblée populaire communale de la commune de oulhassa el gheraba, est chargé de la mise en œuvre du plan de protection et de mise en valeur du site archéologique de siga et de ses zones de protection.
+fait à alger, le <NUM> rajab <NUM> correspondant au <DATE> .
+soraya mouloudji.
+ministere de l'hydraulique
+arrêté du <DATE> portant désignation des membres du conseil d'orientation et de surveillance de l'office national de l'irrigation et du drainage. ————
+par arrêté du <DATE> , les membres dont les noms suivent, sont désignés, en application des dispositions de l' article_13 du décret_exécutif_n°_05- <NUM> du <DATE> , complété, portant réaménagement du statut de l'agence nationale de réalisation et de gestion des infrastructures hydrauliques pour l'irrigation et le drainage, au conseil d'orientation et de surveillance de l'office national de l'irrigation et du drainage :
+mmes. et mm. :
+— omar bougueroua, représentant du ministre chargé de l'hydraulique, président ;
+— mounir ben selikh, représentant du ministre chargé de l'intérieur et des collectivités locales ;
+— samia hammoud, représentante du ministre chargé des finances ;
+— lamia saidi, représentante du ministre chargé de l'énergie ;
+— nadjet bouzidi, représentante du ministre chargé du commerce ;
+— fazia ameziani, représentante du ministre chargé de l'environnement ;
+— halim benmessaoud, représentant du ministre chargé de l'agriculture ;
+— saida ben yahia, représentante du ministre chargé de la santé ;
+— charef menad, mohamed tebach et mohamed samir belghout, représentants des agences de bassins hydrographiques ;
+— mohamed yazid hambli, représentant de la chambre nationale de l'agriculture ;
+— abdelkader fellak chebra et sliman leblek, représentants des associations activant dans le domaine de l'hydraulique agricole.
+les dispositions de l'arrêté du <DATE> , modifié, portant désignation des membres du conseil d'orientation et de surveillance de l'office national de l'irrigation et du drainage, sont abrogées.

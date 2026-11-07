@@ -1,0 +1,873 @@
+n° <NUM> <NUM> annee jeudi <DATE>
+abonnement annuel
+edition originale
+edition originale et sa traduction
+edition originale, le numéro : <NUM> dinars . edition originale et sa traduction, le numéro : <NUM> dinars .
+numéros des années antérieures : suivant barème. les tables sont fournies gratuitement aux abonnés.
+prière de joindre la dernière bande pour renouvellement, réclamation, et changement d'adresse.
+tarif des insertions : <NUM> dinars la ligne algérie tunisie maroc libye mauritanie
+<NUM> an
+<NUM> dinars
+<NUM> dinars etranger
+(pays autres que le maghreb)
+<NUM> an
+<NUM> dinars
+<NUM> dinars
+(frais d'expédition en sus) abonnement et publicié :
+les vergers, bir mourad raïs, bp <NUM> etranger : (compte devises) conventions et accords internationaux - lois et decrets arretes, decisions, a vis, communications et annonces (traduction française)
+decrets
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du vice-président du conseil supérieur de la magistrature
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre des finances
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de l'éducation nationale
+decisions individuelles
+décret présidentiel du <DATE> mettant fin aux fonctions d'une chef d'études à la présidence de la république
+décret présidentiel du <DATE> portant nomination d'une chargée d'études et de synthèse à la présidence de la république
+décret exécutif du <DATE> mettant fin aux fonctions de directeurs des transmissions nationales dans certaines wilayas
+décret exécutif du <DATE> mettant fin aux fonctions du directeur régional des impôts de constantine
+décret exécutif du <DATE> mettant fin aux fonctions du directeur des ressources humaines, de la formation et de la réglementation au ministère de la jeunesse et des sports
+décret exécutif du <DATE> portant nomination du directeur des établissements de jeunes, de la promotion du partenariat et de l'action intersectorielle au ministère de la jeunesse et des sports
+décret exécutif du <DATE> portant nomination du directeur de la jeunesse et des sports à la wilaya de tébessa
+décret exécutif du <DATE> portant nomination de sous-directeurs au ministère de l'agriculture et du développement rural
+décret exécutif du <DATE> portant nomination d'une sous-directrice au ministère des transports
+décret exécutif du <DATE> portant nomination d'une chef d'études au centre d'information sur la sûreté et la sécurité maritimes
+arretes, decisions et a vis
+presidence de la republique
+arrêté interministériel du <DATE> portant création du bulletin officiel du médiateur de la république
+services du premier ministre
+arrêté du <DATE> portant constitution d'un comité technique auprès des services du premier ministre
+arrêté du <DATE> portant composition du comité technique auprès des services du premier ministre
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant constitution d'une commission de recours compétente à l'égard des corps des fonctionnaires des services du premier ministre
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> fixant la composition de la commission de recours compétente à l'égard des corps des fonctionnaires des services du premier ministre
+sommaire ministere de l'agriculture et du developpement rural
+arrêté du <DATE> modifiant l'arrêté du <DATE> portant désignation des membres du conseil d'orientation du parc national de gouraya (wilaya de béjaïa)
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> modifiant l'arrêté du <DATE> portant désignation des membres de la commission sectorielle des marchés du ministère de l'agriculture et du développement rural
+ministere de l'habitat, de l'urbanisme et de la ville
+arrêté interministériel du <DATE> complétant l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> définissant les modalités de délivrance des certificats de qualification et de classification professionnelles des entreprises, groupes d'entreprises et groupements d'entreprises intervenant dans le cadre de la réalisation des marchés publics, du bâtiment, des travaux publics, des ressources en eau, des travaux forestiers et des travaux des infrastructures passives des télécommunications
+arrêté interministériel du <DATE> modifiant et complétant l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> fixant la liste des documents composant le dossier de qualification et de classification professionnelles des entreprises, des groupes d'entreprises et des groupements d'entreprises intervenant dans le cadre de la réalisation des marchés publics
+arrêté interministériel du <DATE> fixant les modalités de classification des entreprises, des groupes d'entreprises et des groupements d'entreprises intervenant dans le cadre de la réalisation des marchés publics du bâtiment, des travaux publics, des ressources en eau, des travaux forestiers et des travaux des infrastructures passives des télécommunications
+ministere des transports
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> complétant l'arrêté du <NUM> rajab <NUM> correspondant au <NUM> <DATE> portant désignation des membres du comité national de facilitation du transport aérien
+ministere du tourisme et de l'artisanat
+arrêté du <DATE> portant désignation des membres de la commission sectorielle des marchés publics du ministère du tourisme et de l'artisanat
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant désignation des membres du conseil d'orientation de l'institut national d'hôtellerie et de tourisme de tizi ouzou
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant désignation des membres du conseil d'orientation de l'institut national d'hôtellerie et de tourisme de bou saâda
+ministere de l'environnement et des energies renouvelables
+arrêté du <DATE> portant désignation des membres du conseil scientifique du commissariat national du littoral
+arrêté du <DATE> modifiant l'arrêté du <NUM> chaoual <NUM> correspondant au <DATE> portant désignation des membres du comité intersectoriel d'exportation des déchets spéciaux dangereux
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> modifiant l'arrêté du <DATE> portant nomination des membres du comité régional tel bahr façade maritime centre
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> modifiant l'arrêté du <DATE> portant nomination des membres du comité régional tel bahr façade maritime ouest
+haut conseil islamique
+décision du <DATE> portant constitution d'un comité technique au sein du haut conseil islamique
+décision du <DATE> fixant la composition du comité technique du haut conseil islamique
+sommaire (suite)
+decrets assurer l'indépendance de la justce
+gestion des sessions du conseil
+administration générale
+total des crédits ouverts ———— ————
+etat annexe en da intitulés des programmes et sous-programmes
+titre <NUM> :
+dépenses de personnel
+titre <NUM> :
+dépenses d'investissement total autorisations d'engagement crédits de paiement <NUM>
+—
+<NUM>
+<NUM>
+—
+<NUM>
+<NUM> autorisations d'engagement crédits de paiement <NUM>
+—
+<NUM>
+<NUM>
+—
+<NUM>
+<NUM> autorisations d'engagement crédits de paiement <NUM>
+—
+<NUM>
+<NUM>
+—
+<NUM>
+<NUM> décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits au titre du budget de l'etat, mis à la disposition du vice-président du conseil supérieur de la magistrature. ————
+le président de la république,
+sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du vice-président du conseil supérieur de la magistrature ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au
+titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de quatre-vingt-dix millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable à la dotation"montant non assigné", imputable au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de quatre-vingt-dix millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable au portefeuille de programmes du conseil supérieur de la magistrature, réparti conformément à l'état annexé au présent décret.
+article_3 . — le ministre des finances et le vice-président du conseil supérieur de la magistrature sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui démocratique et populaire.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre des finances. ————
+le président de la république,
+sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de deux cent vingt millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de deux cent vingt millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable au portefeuille de programmes du ministère des finances, au programme"administration générale", au sous-programme"soutien administratif"et au titre <NUM> "dépenses de fonctionnement des services".
+article_3 . — le ministre des finances est chargé de populaire.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de l'éducation nationale. ————
+le président de la république, sur le rapport conjoint du ministre des finances et du ministre de l'éducation nationale,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'éducation nationale ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au
+titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de huit milliards cent dix-neuf millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de huit milliards cent dix-neuf millions de dinars ( <NUM> . <NUM> dinars ), en autorisations d'engagement et en crédits de paiement, applicable au portefeuille de programmes du ministère de l'éducation nationale, au programme"administration générale", au sous-programme"soutien administratif"et au titre <NUM> "dépenses de personnel".
+article_3 . — le ministre des finances et le ministre de l'éducation nationale sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera publié au populaire.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+décret présidentiel du <DATE> mettant fin aux fonctions d'une chef d'études à la présidence de la république. ———— par décret présidentiel du <DATE> , il est mis fin aux fonctions de chef d'études à la présidence de la république, exercées par mme. amina hamidi, appelée à exercer une autre fonction. ————h————
+décret présidentiel du <DATE> portant nomination d'une chargée d'études et de synthèse à la présidence de la république. ———— par décret présidentiel du <DATE> , mme. amina hamidi est nommée chargée d'études et de synthèse à la présidence de la république. ————h————
+décret exécutif du <DATE> mettant fin aux fonctions de directeurs des transmissions nationales dans certaines wilayas. ———— par décret exécutif du <DATE> , il est mis fin aux fonctions de directeurs des transmissions nationales aux wilayas suivantes, exercées par mm. :
+— zidane belouafi, à la wilaya de laghouat ;
+— abdelhey chellouai, à la wilaya de biskra ;
+— abdenacer aïssat, à la wilaya de bouira ;
+— messaoud zobir, à la wilaya de tissemsilt. ————h————
+décret exécutif du <DATE> mettant fin aux fonctions du directeur régional des impôts de constantine. ———— par décret exécutif du <DATE> , il est mis fin aux fonctions de directeur régional des impôts de constantine, exercées par m. ramdane bellabiod, admis à la retraite. ————h———— décret exécutif du <DATE> mettant fin aux fonctions du directeur des ressources humaines, de la formation et de la réglementation au ministère de la jeunesse et des sports. ———— par décret exécutif du <DATE> , il est mis fin aux fonctions de directeur des ressources humaines, de la formation et de la réglementation au ministère de la jeunesse et des sports, exercées par m. yacine madani, appelé à exercer une autre fonction.
+décret exécutif du <DATE> portant nomination du directeur des établissements de jeunes, de la promotion du partenariat et de l'action intersectorielle au ministère de la jeunesse et des sports. ———— par décret exécutif du <DATE> , m. yacine madani est nommé directeur des établissements de jeunes, de la promotion du partenariat et de l'action intersectorielle au ministère de la jeunesse et des sports. ————h———— décret exécutif du <DATE> portant nomination du directeur de la jeunesse et des sports à la wilaya de tébessa. ———— par décret exécutif du <DATE> , m. mustapha hamlaoui est nommé directeur de la jeunesse et des sports à la wilaya de tébessa. ————h———— décret exécutif du <DATE> portant nomination de sous-directeurs au ministère de l'agriculture et du développement rural. ———— par décret exécutif du <DATE> , sont nommés sous-directeurs au ministère de l'agriculture et du développement rural, mm. :
+— abdelkadir mokhtari, sous-directeur de l'organisation foncière ;
+— abdenour hocini, sous-directeur de la promotion et du suivi de l'investissement ;
+— hamza dahmani, sous-directeur des moyens logistiques et du patrimoine. ————h———— décret exécutif du <DATE> portant nomination d'une sous-directrice au ministère des transports. ———— par décret exécutif du <DATE> , mme. nacera laouti est nommée sous-directrice des gens de mer et de la qualité à la direction générale de la marine marchande et des ports au ministère des transports. ————h———— décret exécutif du <DATE> portant nomination d'une chef d'études au centre d'information sur la sûreté et la sécurité maritimes. ———— par décret exécutif du <DATE> , mme. chahinez mezari est nommée chef d'études au centre d'information sur la sûreté et la sécurité maritimes.
+decisions individuelles
+arretes, decisions et a vis
+presidence de la republique
+arrêté interministériel du <DATE> portant création du bulletin officiel du médiateur de la république. ————
+le premier ministre,
+le ministre des finances, et
+le médiateur de la république,
+vu le décret_présidentiel_n°_20- <NUM> du <DATE> , modifié, portant institution du médiateur de la république ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_présidentiel_n°_22- <NUM> du <DATE> portant nomination du médiateur de la république ;
+vu le décret_exécutif_n°_95- <NUM> du <DATE> fixant les attributions du ministre des finances ;
+vu le décret_exécutif_n°_95- <NUM> du <NUM> dhou el hidia <NUM> correspondant au <DATE> relatif à la création des bulletins officiels des institutions et administrations publiques ;
+vu le décret_exécutif_n°_14- <NUM> du <DATE> fixant les attributions du directeur général de la fonction publique et de la réforme administrative ;
+arrêtent :
+article <NUM> . — en application des dispositions de l' article_3 du décret_exécutif_n°_95- <NUM> du <DATE> susvisé, il est créé un bulletin officiel du médiateur de la république.
+article_2 . — conformément aux dispositions de l' article_2 du décret_exécutif_n°_95- <NUM> du <DATE> susvisé, le bulletin officiel doit comporter, notamment :
+— les références et, le cas échéant, le contenu de l'ensemble des textes à caractère législatif ou réglementaire, ainsi que les circulaires et les instructions concernant le médiateur de la république ;
+— les décisions individuelles se rapportant à la gestion de la carrière des fonctionnaires et agents publics relevant du médiateur de la république, ainsi que celles relatives aux catégories de personnels dont la publication ne relève pas du journal officiel.
+article_3 . — le bulletin officiel fait l'objet d'une publication semestrielle en langue arabe avec la traduction en langue française.
+article_4 . — le bulletin officiel du médiateur de la république revêt la forme d'un recueil, dont le format et les caractéristiques techniques sont précisés par décision du médiateur de la république.
+article_5 . — un exemplaire du bulletin officiel est transmis, obligatoirement, aux services centraux de l'autorité chargée de la fonction publique.
+article_6 . — les crédits nécessaires à l'édition du bulletin officiel prévu à l'article <NUM> ci-dessus, sont imputés au budget programme du médiateur de la république.
+populaire.
+fait à alger, le <DATE> .
+le médiateur de la république
+madjid ammour le ministre des finances
+laziz faid pour le premier ministre et par délégation, le chargé de la gestion de la direction générale de la fonction publique et de la réforme administrative
+abdelouahab laouici
+services du premier ministre
+arrêté du <DATE> portant constitution d'un comité technique auprès des services du premier ministre. ———— le premier ministre,
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_exécutif_n°_20- <NUM> du <DATE> relatif aux commissions administratives paritaires, commissions de recours et des comités techniques dans les institutions et administrations publiques, notamment ses articles <NUM> et <NUM> ; sur proposition du m. le chargé de mission, chargé de la gestion de la direction de l'administration des moyens ;
+arrête :
+article <NUM> . — en application des dispositions des articles <NUM> et <NUM> du décret_exécutif_n°_20- <NUM> du <DATE> relatif aux commissions administratives paritaires, commissions de recours et des comités techniques dans les institutions et administrations publiques, il est constitué un comité technique auprès des services du premier ministre, conformément au tableau ci-après :
+representants de l'administration representants du personnel membres titulaires membres suppléants membres titulaires membres suppléants <NUM> populaire.
+fait à alger, le <DATE> .
+pour le premier ministre et par délégation, l e chargé de mission, chargé de la gestion de la direction de l'administration des moyens salah khouchane. ————h————
+arrêté du <DATE> portant composition du comité technique auprès des services du premier ministre. ———— par arrêté du <DATE> , la composition du comité technique auprès des services du premier ministre est fixée, conformément au tableau ci-après :
+representants de l'administration representants du personnel membres titulaires membres suppléants membres titulaires membres suppléants el ouahed kamel, président
+haroun hosni
+guerzouli kenza bourezah walid
+dahar abdelillah
+souyad karim fadli walid
+ouhadda anissa
+kab fateh louz sofiane
+saifi mustapha
+kara mohamed arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant constitution d'une commission de recours compétente à l'égard des corps des fonctionnaires des services du premier ministre. ———— le premier ministre,
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_exécutif_n°_20- <NUM> du <DATE> relatif aux commissions administratives paritaires, commissions de recours et des comités techniques dans les institutions et administrations publiques, notamment ses articles <NUM> et <NUM> ; sur proposition du m. le chargé de mission, chargé de la gestion de la direction de l'administration des moyens ;
+arrête :
+article <NUM> . — en application des dispositions des articles <NUM> et <NUM> du décret_exécutif_n°_20- <NUM> du <DATE> relatif aux commissions administratives paritaires, commissions de recours et des comités techniques dans les institutions et administrations publiques, il est constitué une commission de recours compétente à l'égard des corps des fonctionnaires des services du premier ministre, conformément au tableau ci-après :
+representants de l'administration representants du personnel membres titulaires membres suppléants membres titulaires membres suppléants <NUM>
+populaire.
+fait à alger, le <NUM> rajab <NUM> correspondant au <DATE> .
+pour le premier ministre et par délégation,
+le chargé de mission, chargé de la gestion de la direction de l'administration des moyens
+salah khouchane. ————h————
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> fixant la composition de la commission de recours compétente à l'égard des corps des fonctionnaires des services du premier ministre. ————
+par arrêté du <NUM> rajab <NUM> correspondant au <DATE> , la composition de la commission de recours compétente à l'égard des corps des fonctionnaires des services du premier ministre, est fixée conformément au tableau ci-après :
+ministere de l'agriculture et du developpement rural
+arrêté du <DATE> modifiant l'arrêté du <DATE> portant désignation des membres du conseil d'orientation du parc national de gouraya (wilaya de béjaïa). ————
+par arrêté du <DATE> , l'arrêté du <DATE> portant désignation des membres du conseil d'orientation du parc national de gouraya (wilaya de béjaïa), est modifié comme suit :" (sans changement jusqu'à)
+— noureddine abdessadouk, représentant du ministre chargé de l'environnement ;
+— (sans changement) ;
+— chahila oukal née chabane, représentante du ministre chargé des travaux publics ;
+— (sans changement jusqu'à)
+— nour zoulim, représentant du ministre chargé du tourisme et de l'artisanat ; (le reste sans changement) ". ————h————
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> modifiant l'arrêté du <DATE> portant désignation des membres de la commission sectorielle des marchés du ministère de l'agriculture et du développement rural. ————
+par arrêté du <NUM> rajab <NUM> correspondant au <DATE> , l'arrêté du <DATE> portant désignation des membres de la commission sectorielle des marchés du ministère de l'agriculture et du développement rural, est modifié comme suit :" (sans changement jusqu'à)
+— fatma kassour, représentante du ministre chargé du commerce, membre ;
+— linda djaaboub, représentante du ministre chargé du commerce, suppléante ; (le reste sans changement) ".
+representants de l'administration representants du personnel membres titulaires membres suppléants membres titulaires membres suppléants lacheb chérif, président
+boudraf mostefa
+halem massica samira leila
+boukerou nabila
+guiti samir saoud mohamed
+azzouz sid-ahmed fadli walid
+ouhadda anissa
+kab fateh
+kara mohamed
+louz sofiane brahimi abdelkader
+saifi mustapha
+ministere de l'habitat, de l'urbanisme et de la ville
+arrêté interministériel du <DATE> complétant l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> définissant les modalités de délivrance des certificats de qualification et de classification professionnelles des entreprises, groupes d'entreprises et groupements d'entreprises intervenant dans le cadre de la réalisation des marchés publics du bâtiment, des travaux publics, des ressources en eau, des travaux forestiers et des travaux des infrastructures passives des télécommunications. ————
+le ministre de la poste et des télécommunications, le ministre de l'agriculture et du développement rural, le ministre de l'habitat, de l'urbanisme et de la ville, le ministre des travaux publics et des infrastructures de base, et le ministre de l'hydraulique,
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_14- <NUM> du <DATE> , modifié et complété, portant obligation pour les entreprises, groupes d'entreprises et groupements d'entreprises intervenant dans le cadre de la réalisation des marchés publics de certains secteurs d'activités d'être titulaires du certificat de qualification et de classification professionnelles ;
+vu l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> définissant les modalités de délivrance des certificats de qualification et de classification professionnelles des entreprises, groupes d'entreprises et groupements d'entreprises intervenant dans le cadre de la réalisation des marchés publics du bâtiment, des travaux publics, des ressources en eau, des travaux forestiers et des travaux des infrastructures passives des télécommunications ;
+arrêtent :
+article <NUM> . — le présent arrêté a pour objet de compléter certaines dispositions de l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> définissant les modalités de délivrance des certificats de qualification et de classification professionnelles des entreprises, groupes d'entreprises et groupements d'entreprises intervenant dans le cadre de la réalisation des marchés publics du bâtiment, des travaux publics, des ressources en eau, des travaux forestiers et des travaux des infrastructures passives des télécommunications.
+article_2 . — les dispositions de l' article_4 de l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> susvisé, sont complétées comme suit :" article_4 . — (sans changement jusqu'à) du secteur concerné.
+les entreprises, groupes d'entreprises et groupements d'entreprises sollicitant d'autres activités principales auprès des autres secteurs, doivent fournir les pièces justifiant et attestant leur engagement dans le processus qualité, tels que le plan assurance qualité, le certificat de mise à niveau du système de management qualité, l'attestation d'accréditation ou tout autre document y afférent.
+………………. (le reste sans changement)……………".
+fait à alger, le <DATE> .
+le ministre de la poste et des télécommunications
+karim bibi-triki le ministre de l'agriculture et du développement rural
+youcef cherfa le ministre des travaux publics et des infrastructures de base
+lakhdar rekhroukh le ministre de l'hydraulique
+taha derbal ————h————
+arrêté interministériel du <DATE> modifiant et complétant l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> fixant la liste des documents composant le dossier de qualification et de classification professionnelles des entreprises, des groupes d'entreprises et des groupements d'entreprises intervenant dans le cadre de la réalisation des marchés publics. ————
+le ministre de la poste et des télécommunications, le ministre de l'agriculture et du développement rural, le ministre de l'habitat, de l'urbanisme et de la ville, le ministre des travaux publics, et des infrastructures de base, et le ministre de l'hydraulique,
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ; le ministre de l'habitat, de l'urbanisme et de la ville
+mohamed tarek belaribi
+vu le décret_exécutif_n°_14- <NUM> du <DATE> , modifié et complété, portant obligation pour les entreprises, groupes d'entreprises et groupements d'entreprises intervenant dans le cadre de la réalisation des marchés publics de certains secteurs d'activités d'être titulaires du certificat de qualification et de classification professionnelles ;
+vu l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> fixant la liste des documents composant le dossier de qualification et de classification professionnelles des entreprises, des groupes d'entreprises et des groupements d'entreprises intervenant dans le cadre de la réalisation des marchés publics ;
+arrêtent :
+article <NUM> . — le présent arrêté a pour objet de modifier et de compléter certaines dispositions de l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> fixant la liste des documents composant le dossier de qualification et de classification professionnelles des entreprises, des groupes d'entreprises et des groupements d'entreprises intervenant dans le cadre de la réalisation des marchés publics.
+article_2 . — les dispositions de l' article_2 de l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> susvisé, sont modifiées, complétées et rédigées comme suit :" article_2 . — la liste des documents composant le dossier de demande de certificat de qualification et de classification professionnelles des entreprises et des groupes d'entreprises permettant leur identification, doit contenir les pièces suivantes :
+— un formulaire de demande, fourni par l'administration, dûment renseigné et visé par le gérant ;
+— une déclaration annuelle des salaires (das), composée du bordereau de la caisse nationale des assurances sociales des travailleurs salariés (cnas) et de la liste des salariés visée par le gérant ;
+— des copies des diplômes universitaires, attestations et certificats du personnel composant l'encadrement technique, administratif et financier de l'entreprise et du groupe d'entreprises ;
+— des copies des diplômes, attestations et/ou contrats d'apprentissage, des cinq ( <NUM> ) dernières années, du personnel issu des établissements de formation et de l'enseignement professionnels ;
+— des copies des diplômes et attestations de formation, de perfectionnement et de recyclage réalisés durant les cinq ( <NUM> ) dernières années au profit du personnel recruté et déclaré à la caisse nationale des assurances sociales des travailleurs salariés (cnas) ;
+— un rapport sur les moyens matériels propres et/ou mobilisables valorisés d'intervention de l'entreprise et/ou groupe d'entreprises, par famille, établi par un expert dûment habilité dans le domaine ;
+— une copie de l'extrait du registre de commerce ;
+— une copie des statuts pour les personnes morales ;
+— une copie de la dernière attestation de dépôt des comptes sociaux du centre national du registre de commerce (cnrc) pour les personnes morales ;
+— une attestation fiscale (c20) mentionnant les chiffres d'affaires relatifs à la production vendue au cours des trois ( <NUM> ) derniers exercices précédant l'année du dépôt de la demande de certificat ;
+— des copies des attestations de bonne exécution, délivrées par le/ou les maître(s) d'ouvrages publics et/ou privés au cours des cinq ( <NUM> ) dernières années. pour le cas de la sous-traitance, les attestations de bonne exécution doivent être munies de pièces justificatives nécessaires ;
+— une attestation d'affiliation et de mise à jour, délivrée par les caisses de sécurité sociale de l'année de dépôt de demande du certificat (la caisse nationale des assurances sociales des travailleurs salariés cnas, la caisse nationale de sécurité sociale des non-salariés casnos et la caisse nationale des congés payés et du chômage-intempéries des secteurs du bâtiment, des travaux publics et de l'hydraulique (cacobatph) ;
+— une copie du dernier certificat de qualification et de classification professionnelles de l'entreprise ou du groupe d'entreprises ;
+— un extrait de rôle en cours de validité.".
+article_3 . — il est inséré dans les dispositions de l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> susvisé, un article_2_bis rédigé comme suit :" article_2_bis . — la liste des documents composant le dossier de demande de certificat de qualification et de classification professionnelles des entreprises de droit algérien, créées comme filiales des entreprises étrangères activant en algérie et ayant bénéficié des ressources humaines, des moyens matériels et financiers ainsi que les références professionnelles de ces dernières en algérie, doit contenir les pièces suivantes :
+— un formulaire de demande, fourni par l'administration, dûment renseigné et visé par le gérant ;
+— une copie du statut ;
+— une déclaration annuelle des salaires (das), composée du bordereau de la caisse nationale des assurances sociales des travailleurs salariés (cnas) et de la liste visée des salariés de l'entreprise mère et de la filiale, le cas échéant, un contrat de mise à disposition ;
+— des copies des diplômes universitaires, attestations et certificats du personnel composant l'encadrement technique, administratif et financier de l'entreprise mère et de la filiale ;
+— des copies des diplômes et attestations et/ou contrats d'apprentissage du personnel issu des établissements de formation et de l'enseignement professionnels de l'entreprise mère et de la filiale ;
+— des copies des diplômes et attestations de formation, de perfectionnement et de recyclage réalisés du personnel recruté et déclaré à la cnas de l'entreprise mère et de la filiale ;
+— un rapport sur les moyens matériels propres et/ou mobilisables de l'entreprise mère et de la filiale, par famille, établi par un expert dûment habilité dans le domaine ;
+— une copie de l'extrait du registre de commerce ;
+— une copie de la dernière attestation de dépôt des comptes sociaux du centre national du registre de commerce (cnrc) ;
+— les bilans fiscaux visés par les services des impôts, indiquant les différents résultats obtenus relatifs à la production vendue au cours des trois ( <NUM> ) derniers exercices précédant l'année de dépôt de la demande du certificat, de l'entreprise mère et de la filiale ;
+— des copies des attestations de bonne exécution délivrées par les maîtres d'ouvrages publics et/ou privés, au cours des cinq ( <NUM> ) dernières années, de l'entreprise mère et de la filiale.
+pour le cas de la sous-traitance, les attestations de bonne exécution doivent être munies de pièces justificatives nécessaires ;
+— une attestation d'affiliation et de mise à jour de l'entreprise mère et de la filiale, délivrée par les caisses de sécurité sociale de l'année de dépôt de demande du certificat (la caisse nationale des assurances sociales des travailleurs salariés cnas, la caisse nationale de sécurité sociale des non-salariés casnos et la caisse nationale des congés payés et du chômage-intempéries des secteurs du bâtiment, des travaux publics et de l'hydraulique cacobatph) ;
+— un extrait de rôle de la filiale en cours de validité.".
+article_4 . — les dispositions des articles <NUM> et <NUM> de l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> susvisé, sont modifiées, complétées et rédigées comme suit :" article_3 . — pour le groupement d'entreprises, la liste des documents composant le dossier de demande de certificat de qualification et de classification professionnelles, doit contenir les pièces suivantes :
+— un formulaire de demande, fourni par l'administration, dûment renseigné et visé par le gérant ;
+— une copie du statut du groupement d'entreprises ;
+— une copie du registre de commerce du groupement d'entreprises ;
+— une déclaration annuelle des salaires (das), composée du bordereau de la caisse nationale des assurances sociales des travailleurs salariés (cnas) et de la liste visée des salariés de chaque entreprise constituant le groupement ;
+— des copies des diplômes universitaires, attestations et certificats du personnel composant l'encadrement technique, administratif et financier de chaque entreprise constituant le groupement ;
+— des copies des diplômes et attestations et/ou contrats d'apprentissage, des cinq ( <NUM> ) dernières années, du personnel issu des établissements de formation et de l'enseignement professionnels de chaque entreprise constituant le groupement ;
+— des copies des diplômes et attestations de formation, de perfectionnement et de recyclage durant les cinq ( <NUM> ) dernières années, réalisés au profit du personnel recruté et déclaré à la cnas de chaque entreprise constituant le groupement ;
+— un rapport sur les moyens matériels propres et/ou mobilisables valorisés d'intervention de l'ensemble des entreprises constituant le groupement, par famille, établi par un expert dûment habilité dans le domaine ;
+— une attestation fiscale (c20) du groupement et de chaque entreprise le constituant mentionnant les chiffres d'affaires relatifs à la production vendue au cours des trois ( <NUM> ) derniers exercices précédant l'année du dépôt de la demande de certificat ;
+— des copies des attestations de bonne exécution délivrées par les maîtres d'ouvrages publics et/ou privés au cours des cinq ( <NUM> ) dernières années, de chaque entreprise constituant le groupement. pour le cas de la sous-traitance, les attestations de bonne exécution, doivent être munies de pièces justificatives nécessaires ;
+— une attestation d'affiliation et de mise à jour du groupement et de chaque entreprise le constituant, délivrée par les caisses de sécurité sociale de l'année de dépôt de la demande du certificat (la caisse nationale des assurances sociales des travailleurs salariés cnas, la caisse nationale de sécurité sociale des non-salariés casnos et la caisse nationale des congés payés et du chômage-intempéries des secteurs du bâtiment, des travaux publics et de l'hydraulique cacobatph) ;
+— une copie de la dernière attestation de dépôt des comptes sociaux du centre national du registre de commerce (cnrc), du groupement et de chaque entreprise le constituant ;
+— une copie du dernier certificat de qualification et de classification professionnelles du groupement (en cas de renouvellement)."." article_6 . — un récépissé de dépôt est délivré, après vérification du dossier de l'entreprise, du groupe d'entreprises, ou du groupement d'entreprises qui peut être délivré par voie électronique.".
+populaire.
+fait à alger, le <DATE> .
+le ministre de la poste et des télécommunications karim bibi-triki le ministre de l'agriculture et du développement rural youcef cherfa le ministre des travaux publics et des infrastructures de base lakhdar rekhroukh le ministre de l'hydraulique taha derbal le ministre de l'habitat, de l'urbanisme et de la ville mohamed tarek belaribi
+arrêté interministériel du <DATE> fixant les modalités de classification des entreprises, des groupes d'entreprises et des groupements d'entreprises intervenant dans le cadre de la réalisation des marchés publics du bâtiment, des travaux publics, des ressources en eau, des travaux forestiers et des travaux des infrastructures passives des télécommunications. ————
+le ministre de la poste et des télécommunications, le ministre de l'agriculture et du développement rural, le ministre de l'habitat, de l'urbanisme et de la ville, le ministre des travaux publics et des infrastructures de base, et le ministre de l'hydraulique,
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_14- <NUM> du <DATE> , modifié et complété, portant obligation pour les entreprises, groupes d'entreprises et groupements d'entreprises intervenant dans le cadre de la réalisation des marchés publics de certains secteurs d'activités d'être titulaires du certificat de qualification et de classification professionnelles ;
+vu l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> fixant les modalités de classification des entreprises, des groupes d'entreprises et des groupements d'entreprises intervenant dans le cadre de la réalisation des marchés publics du bâtiment, des travaux publics, des ressources en eau, des travaux forestiers et des travaux des infrastructures passives des télécommunications ;
+arrêtent :
+article <NUM> . — en application des dispositions de l' article_11 du décret_exécutif_n°_14- <NUM> du <DATE> , modifié et complété, susvisé, le présent arrêté a pour objet de fixer les modalités de classification des entreprises, des groupes d'entreprises et groupements d'entreprises intervenant dans le cadre de la réalisation des marchés publics du bâtiment, des travaux publics, des ressources en eau, des travaux forestiers et des travaux des infrastructures passives des télécommunications.
+article_2 . — la classification professionnelle est déterminée conformément aux dispositions de l' article_8 du décret_exécutif_n°_14- <NUM> du <DATE> , modifié et complété, susvisé, sur la base des critères suivants :
+<NUM> . les ressources humaines :
+— l'effectif (ef) affecté d'une note allant de <NUM> à <NUM> et d'un coefficient bonificateur cb1 comprenant un encadrement (e) de l'entreprise, du groupe d'entreprises et du groupement d'entreprises de <NUM> % à <NUM> % de l'effectif global, affecté d'une note égale à <NUM> et d'un coefficient bonificateur cb2 ;
+— le recrutement des apprentis (ra), affecté d'une note égale à <NUM> et d'un coefficient bonificateur cb3 ;
+— les formations, perfectionnements et recyclages réalisés (fr), affectés d'une note égale à <NUM> et d'un coefficient bonificateur cb4.
+<NUM> . les moyens matériels :
+— la valeur des moyens matériels d'intervention (vm) propres et/ou mobilisables, affectée d'une note allant de <NUM> à <NUM> et d'un coefficient bonificateur cb5.
+pour les entreprises spécialisées, l'évaluation de ce critère est calculée sur la base d'une augmentation de <NUM> % de la valeur des moyens matériels d'intervention.
+<NUM> . les moyens financiers :
+— le capital social (cs) de l'entreprise, du groupe d'entreprises et du groupement d'entreprises, affecté d'une note égale à <NUM> et d'un coefficient bonificateur cb6.
+pour les personnes physiques, le coefficient est bonifié à <NUM> et une note (cs) égale à <NUM> leur est attribuée ;
+— le chiffre d'affaires (ca) des trois ( <NUM> ) dernières années, affecté d'une note allant de <NUM> à <NUM> et d'un coefficient bonificateur cb7.
+<NUM> . les références professionnelles de bonne exécution :
+— les attestations de bonne exécution (abe) délivrées par les maîtres d'ouvrages, affectées d'une note allant de1 à <NUM> et d'un coefficient bonificateur cb8.
+ces critères, selon la note totale nt, donnent la formule suivante :
+nt= [ (cb1xef) x (cb2xe) + (cb3xra) + (cb4 x fr) ] +(cb5 xvm) + [ (cb6 xcs) +(cb7xca)] + (cb8xabe).
+la formule laquelle détermine la classification professionnelle de l'entreprise, du groupe d'entreprises et du groupement d'entreprises dans la catégorie concernée, conformément aux tableaux a, b, c, d et e, joints en annexes du présent arrêté, relatifs à chacun des secteurs.
+article_3 . — conformément aux dispositions de l' article_9 du décret_exécutif_n°_14- <NUM> du <DATE> , modifié et complété, susvisé, les entreprises et groupes d'entreprises nouvellement créés, n'ayant pas encore réalisé un exercice fiscal, sont classifiés sur la base des trois ( <NUM> ) critères suivants :
+— l'effectif (ef) affecté d'une note allant de <NUM> à <NUM> et d'un coefficient bonificateur cb1 comprenant un encadrement (e) de l'entreprise ou groupes d'entreprises de <NUM> % à <NUM> % de l'effectif global, affecté d'une note égale à <NUM> et d'un coefficient bonificateur cb2 ;
+— la valeur des moyens matériels d'intervention (vm) propres et/ou mobilisables, affectée d'une note allant de <NUM> à <NUM> et d'un coefficient bonificateur cb5 ;
+— le capital social (cs) de l'entreprise ou du groupe d'entreprises, affecté d'une note égale à <NUM> et d'un coefficient bonificateur cb6.
+ces critères, selon la note totale nt, donnent la formule suivante :
+nt= [ (cb1 x ef) x (cb2 x e) ] + (cb5xvm) + (cb6xcs).
+article_4 . — conformément aux dispositions de l' article_9_bis du décret_exécutif_n°_14- <NUM> du <DATE> , modifié et complété, susvisé, les entreprises de droit algérien créées comme filiales des entreprises étrangères activant en algérie et ayant bénéficié des ressources humaines, des moyens matériels et financiers ainsi que les références professionnelles de ces dernières réalisées en algérie, sont classifiées sur la base des critères suivants :
+— l'effectif (ef) de l'entreprise mère et de la filiale, affecté d'une note allant de <NUM> à <NUM> et d'un coefficient bonificateur cb1 comprenant un encadrement (e) de <NUM> % à <NUM> % de l'effectif global, affecté d'une note égale à <NUM> et d'un coefficient bonificateur cb2 ;
+— le recrutement des apprentis (ra) de l'entreprise mère et de la filiale, affecté d'une note égale à <NUM> et d'un coefficient bonificateur cb3 ;
+— les formations, perfectionnements et recyclages réalisés (fr) par l'entreprise mère et par la filiale, affectés d'une note égale à <NUM> et d'un coefficient bonificateur cb4 ;
+— la valeur des moyens matériels d'intervention (vm) propres et/ou mobilisables de l'entreprise mère et de la filiale, affectée d'une note allant de <NUM> à <NUM> et d'un coefficient bonificateur cb5 ;
+— le capital social (cs) de l'entreprise, affecté d'une note égale à <NUM> et d'un coefficient bonificateur cb6 ;
+— le chiffre d'affaires (ca) des trois ( <NUM> ) dernières années de l'entreprise mère et de la filiale, affecté d'une note allant de <NUM> à <NUM> et d'un coefficient bonificateur cb7 ;
+— les attestations de bonne exécution (abe) de l'entreprise mère et de la filiale, délivrées par les maîtres d'ouvrages, affectées d'une note allant de <NUM> à <NUM> et d'un coefficient bonificateur cb8.
+ces critères, selon la note totale nt, donnent la formule suivante :
+nt= [ (cb1 x ef) x (cb2 x e) + (cb3 x ra) + (cb4 x fr)] + (cb5 xvm) + [ (cb6 xcs) + (cb7xca) ] + (cb8 x abe).
+article_5 . — conformément aux dispositions de l' article_10 du décret_exécutif_n°_14- <NUM> du <DATE> , modifié et complété, susvisé, les groupements d'entreprises, nouvellement créés, sont classifiés sur la base des critères suivants :
+— l'effectif (ef) de l'ensemble des entreprises constituant le groupement, affecté d'une note allant de <NUM> à <NUM> et d'un coefficient bonificateur cb1 comprenant un encadrement (e) de <NUM> % à <NUM> % de l'effectif global, affecté d'une note égale à <NUM> et d'un coefficient bonificateur cb2 ;
+— le recrutement des apprentis (ra) de l'ensemble des entreprises constituant le groupement, affecté d'une note égale à <NUM> et d'un coefficient bonificateur cb3 ;
+— les formations, perfectionnements et recyclages réalisés (fr) par l'ensemble des entreprises constituant le groupement, affectés d'une note égale à <NUM> et d'un coefficient bonificateur cb4 ;
+— la valeur des moyens matériels d'intervention (vm) propres et/ou mobilisables de l'ensemble des entreprises constituant le groupement, affectée d'une note allant de <NUM> à <NUM> et d'un coefficient bonificateur cb5 ;
+— le capital social (cs) du chef de file du groupement ou du groupement lui-même, lorsqu'il a été créé avec un capital social, affecté d'une note égale à <NUM> et d'un coefficient bonificateur cb6 ;
+— le chiffre d'affaires (ca) des trois ( <NUM> ) dernières années de l'ensemble des entreprises constituant le groupement, affecté d'une note allant de <NUM> à <NUM> et d'un coefficient bonificateur cb7 ;
+— les attestations de bonne exécution (abe), délivrées par les maîtres d'ouvrages de l'ensemble des entreprises constituant le groupement, affectées d'une note allant de <NUM> à <NUM> et d'un coefficient bonificateur cb8.
+ces critères, selon la note totale nt, donnent la formule suivante :
+nt= [ (cb1xef) x (cb2xe) + (cb3xra) + (cb4 x fr) ] +(cb5 xvm) + [ (cb6 xcs) +(cb7xca) ] + (cb8xabe).
+article_6 . — les dispositions de l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> fixant les modalités de classification des entreprises, des groupes d'entreprises et des groupements d'entreprises intervenant dans le cadre de la réalisation des marchés publics du bâtiment, des travaux publics, des ressources en eau, des travaux forestiers et des travaux des infrastructures passives des télécommunications, sont abrogées.
+fait à alger, le <DATE> .
+le ministre de la poste et des télécommunications karim bibi-triki le ministre de l'agriculture et du développement rural youcef cherfa le ministre des travaux publics et des infrastructures de base lakhdar rekhroukh le ministre de l'habitat, de l'urbanisme et de la ville mohamed tarek belaribi le ministre de l'hydraulique taha derbal
+annexe a
+tableau de classification des entreprises, groupes d'entreprises et groupements d'entreprises
+secteur : batiment effectif (ef)cb <NUM> t1 ef
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM> à au delà de <NUM> encadrement (e) recrutement d'apprentis (ra) formations réalisées (fr) ressources humaines ef <NUM> e en % <NUM> % <NUM> % <NUM> % <NUM> à10 %
+<NUM> %
+<NUM> %
+<NUM> %
+<NUM> %
+<NUM> % cb2
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> e t2
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> ra <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> ra> <NUM> ra cb <NUM> t3
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> fr <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> fr> <NUM> fr cb <NUM> t4
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> moyens materiels valeurs des moyens matériels (vm) en <NUM> dinars vm en10³
+vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+vm> <NUM> cb <NUM> vm <NUM> t <NUM> capital social (cs) en <NUM> dinars cs en 10³
+cs≤ <NUM>
+100<cs≤ 500<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+cs> <NUM> cb <NUM> cs <NUM> t6 moyens financiers chiffre d'affaires (ca) en <NUM> dinars ca en 10³
+ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> <ca≤ <NUM>
+<NUM> <ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+ca> <NUM> ca <NUM> t <NUM> cb7
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> references professionnelles de bonne execution attestations de bonne exécution (abe) ca t a b b c c d d e e cb <NUM> t <NUM> abe <NUM>
+classificationnote totale
+nt≤ <NUM>
+<NUM> ,8<nt≤ <NUM>
+<NUM> ,1<nt≤ <NUM>
+<NUM> ,7<nt≤ <NUM>
+<NUM> ,1<nt≤ <NUM>
+<NUM> ,7<nt≤ <NUM>
+<NUM> ,0<nt≤ <NUM>
+<NUM> ,8<nt≤ <NUM>
+<NUM> ,8<nt≤ <NUM> catégorie i ii iii iv v vi vii viii ix
+annexe b
+tableau de classification des entreprises, groupes d'entreprises et groupements d'entreprises
+secteur : tra v aux publics effectif (ef)cb <NUM> t1 ef
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+au delà de <NUM> encadrement (e) recrutement d'apprentis (ra) formations réalisées (fr) ressources humaines ef <NUM> e en % <NUM> % <NUM> % <NUM> % <NUM> à <NUM> %
+<NUM> %
+<NUM> %
+<NUM> %
+<NUM> %
+<NUM> % cb2
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> e t2
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> ra <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> ra> <NUM> ra cb <NUM> t3
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> fr <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> fr> <NUM> fr cb <NUM> t4
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> moyens materiels valeurs des moyens matériels (vm) en <NUM> dinars vm en10³
+vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+vm> <NUM> cb <NUM> vm <NUM> t <NUM> capital social (cs) en <NUM> dinars cs en 10³
+cs≤ <NUM>
+100<cs≤ 500<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+cs> <NUM> cb <NUM> cs <NUM> t6 moyens financiers chiffre d'affaires (ca) en <NUM> dinars ca en 10³
+ca≤ <NUM>
+<NUM> 000<ca ≤ <NUM>
+<NUM> <cs≤ <NUM>
+<NUM> <ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+ca> <NUM> ca <NUM> t <NUM> cb7
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> references professionnelles de bonne execution attestations de bonne exécution (abe) ca t a b b c c d d e e cb <NUM> t <NUM> abe <NUM>
+classificationnote totale
+nt≤ <NUM>
+<NUM> ,4<nt≤ <NUM>
+<NUM> ,4<nt≤ <NUM>
+<NUM> ,6<nt≤ 34<nt≤ <NUM>
+<NUM> ,8<nt≤ <NUM>
+<NUM> ,8<nt≤ <NUM>
+<NUM> ,8<nt≤ <NUM>
+<NUM> ,4<nt≤ <NUM> catégorie i ii iii iv v vi vii viii ix
+annexe c
+tableau de classification des entreprises, groupes d'entreprises et groupements d'entreprises
+secteur : ressources en eau effectif (ef)cb <NUM> t1 ef
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à au delà de <NUM> encadrement (e) recrutement d'apprentis (ra) formations réalisées (fr) ressources humaines ef <NUM> e en % <NUM> % <NUM> % <NUM> % <NUM> à <NUM> %
+<NUM> %
+<NUM> %
+<NUM> %
+<NUM> %
+<NUM> % cb2
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> e t2
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> ra <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> ra> <NUM> ra cb <NUM> t3
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> fr <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> fr> <NUM> fr cb <NUM> t4
+<NUM> moyens materiels valeurs des moyens matériels (vm) en <NUM> dinars vm en10³
+vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+vm> <NUM> cb <NUM> vm <NUM> t <NUM> capital social (cs) en <NUM> dinars cs en 10³
+cs≤ <NUM>
+100<cs≤ 200<cs≤ 500<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+cs> <NUM> cb <NUM> cs <NUM> t6 moyens financiers chiffre d'affaires (ca) en <NUM> dinars ca en 10³
+ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> <ca≤ <NUM>
+<NUM> <ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+ca> <NUM> ca <NUM> t <NUM> cb7 references professionnelles de bonne execution attestations de bonne exécution (abe) ca t a b b c c d d e e cb <NUM> t <NUM> abe <NUM>
+classificationnote totale
+nt≤ <NUM>
+<NUM> ,3<nt≤ <NUM>
+<NUM> ,6<nt≤ <NUM>
+<NUM> ,4<nt≤ <NUM>
+<NUM> ,9<nt≤ <NUM>
+<NUM> ,8<nt≤ <NUM>
+<NUM> ,4<nt≤ <NUM>
+<NUM> ,5<nt≤ <NUM>
+<NUM> ,4<nt≤ <NUM> catégorie i ii iii iv v vi vii viii ix
+annexe d
+tableau de classification des entreprises, groupes d'entreprises et groupements d'entreprises
+secteur : tra v aux forestiers effectif (ef)cb <NUM> t1 ef
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à au delà de <NUM> encadrement (e) recrutement d'apprentis (ra) formations réalisées (fr) ressources humaines ef <NUM> e en % <NUM> % <NUM> % <NUM> % <NUM> à <NUM> %
+<NUM> %
+<NUM> %
+<NUM> %
+<NUM> %
+<NUM> % cb2
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> e t2
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> ra <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> ra> <NUM> ra cb <NUM> t3
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> fr <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> fr> <NUM> fr cb <NUM> t4
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> moyens materiels valeurs des moyens matériels (vm) en <NUM> dinars vm en10³
+vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> 000<vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+vm> <NUM> cb <NUM> vm <NUM> t <NUM> capital social (cs) en <NUM> dinars cs en 10³
+cs≤ <NUM>
+100<cs≤ 500<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+cs> <NUM> cb <NUM> cs <NUM> t6 moyens financiers chiffre d'affaires (ca) en <NUM> dinars ca en 10³
+ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> <ca≤ <NUM>
+<NUM> <ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+ca> <NUM> ca <NUM> t <NUM> cb7
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> references professionnelles de bonne execution attestations de bonne exécution (abe) ca t a b b c c d d e e cb <NUM> t <NUM> abe <NUM>
+classificationnote totale
+nt≤ <NUM>
+<NUM> ,8<nt≤ <NUM>
+<NUM> ,7<nt≤ <NUM>
+<NUM> ,1<nt≤ <NUM>
+<NUM> ,3<nt≤ <NUM>
+<NUM> ,7<nt≤ <NUM>
+<NUM> ,8<nt≤ <NUM>
+<NUM> ,4<nt≤ <NUM>
+<NUM> ,2<nt≤ <NUM> catégorie i ii iii iv v vi vii viii ix
+annexe e
+tableau de classification des entreprises, groupes d'entreprises et groupements d'entreprises
+secteur : infrastructures passives des telecommunications effectif (ef)cb <NUM> t1 ef
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à <NUM>
+<NUM> à au delà de <NUM> encadrement (e) recrutement d'apprentis (ra) formations réalisées (fr) ressources humaines ef <NUM> e en % <NUM> % <NUM> % <NUM> % <NUM> à <NUM> %
+<NUM> %
+<NUM> %
+<NUM> %
+<NUM> %
+<NUM> % cb2
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> e t2
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> ra <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> ra> <NUM> ra cb <NUM> t3
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> fr <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> à <NUM> fr> <NUM> fr cb <NUM> t4
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> moyens materiels valeurs des moyens matériels (vm) en <NUM> dinars vm en 10³
+vm ≤ <NUM>
+<NUM> <vm ≤ <NUM> <vm ≤ <NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+<NUM> <vm ≤ <NUM>
+vm> <NUM> cb <NUM> vm <NUM> t <NUM> capital social (cs) en <NUM> dinars cs en 10³
+cs≤ <NUM>
+100<cs≤ 500<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+<NUM> 000<cs≤ <NUM>
+cs> <NUM> cb <NUM> cs <NUM> t6 moyens financiers chiffre d'affaires (ca) en <NUM> dinars ca en 10³
+ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> <ca≤ <NUM>
+<NUM> <ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+<NUM> 000<ca≤ <NUM>
+ca> <NUM> ca <NUM> t <NUM> cb7
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> references professionnelles de bonne execution attestations de bonne exécution (abe) ca t a b b c c d d e e cb <NUM> t <NUM> abe <NUM>
+classificationnote totale
+nt≤ <NUM>
+<NUM> ,8<nt≤ <NUM>
+<NUM> ,7<nt≤ <NUM>
+<NUM> ,1<nt≤ <NUM>
+<NUM> ,3<nt≤ <NUM>
+<NUM> ,7<nt≤ <NUM>
+<NUM> ,0<nt≤ <NUM>
+<NUM> ,8<nt≤ <NUM>
+<NUM> ,8<nt≤ <NUM> catégorie i ii iii iv v vi vii viii ix
+ministere des transports
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> complétant l'arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant désignation des membres du comité national de facilitation du transport aérien. ————
+par arrêté du <NUM> rajab <NUM> correspondant au <DATE> , l'arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant désignation des membres du comité national de facilitation du transport aérien, est modifié comme suit :" (sans changement jusqu'à) m. issam bensid, directeur général de l'établissement de gestion des services aéroportuaires (egsa) d'oran ;
+— m. yacine mentouri, directeur général de l'établissement de gestion des services aéroportuaires (egsa) de constantine ;
+— (sans changement) ;
+— m. mounir charmati, directeur général de l'établissement national de la navigation aérienne (enna) ; (le reste sans changement) ".
+ministere du tourisme et de l'artisanat
+arrêté du <DATE> portant désignation des membres de la commission sectorielle des marchés publics du ministère du tourisme et de l'artisanat. ————
+par arrêté du <DATE> , les membres dont les noms suivent, sont désignés, en application des dispositions de l' article_187 du décret_présidentiel_n°_15- <NUM> du <DATE> portant réglementation des marchés publics et des délégations de service public, à la commission sectorielle des marchés publics du ministère du tourisme et de l'artisanat :
+membres permanents :
+— m. djamel alili, représentant du ministre du tourisme et de l'artisanat, président ;
+— m. amine ammari, représentant du ministre du tourisme et de l'artisanat, vice-président ;
+— m. ghoulam allah boukabous, représentant du ministre du tourisme et de l'artisanat, membre ;
+— m. azzedine kali ali, représentant du ministre du tourisme et de l'artisanat, membre ;
+— m. hichem guelmamene, représentant du ministre chargé des finances (direction générale du budget), membre ;
+— mme. sara kemche, représentante du ministre chargé des finances (direction générale du budget), membre ;
+— m. mouloud korichi, représentant du ministre chargé du commerce, membre.
+membres suppléants :
+— mme. zakia kasbadji, représentante du ministre du tourisme et de l'artisanat, suppléante ;
+— mme. naima matene, représentante du ministre du tourisme et de l'artisanat, suppléante ;
+— m. mourad baaziz, représentant du ministre chargé des finances (direction générale du budget), suppléant ;
+— mme. lamia tercha, représentante du ministre chargé des finances (direction générale de la comptabilité), suppléante ;
+— m. samir lahmer, représentant du ministre chargé du commerce, suppléant.
+sont abrogées, les dispositions de l'arrêté du <DATE> portant désignation des membres de la commission sectorielle des marchés publics du ministère du tourisme et de l'artisanat. ————h————
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant désignation des membres du conseil d'orientation de l'institut national d'hôtellerie et de tourisme de tizi ouzou. ————
+par arrêté du <NUM> rajab <NUM> correspondant au <DATE> , les membres dont les noms suivent, sont désignés, en application des dispositions des articles <NUM> et <NUM> du décret_exécutif_n°_12- <NUM> du <DATE> fixant le statut-type de l'institut national d'hôtellerie et de tourisme, au conseil d'orientation de l'institut national d'hôtellerie et de tourisme de tizi ouzou :
+— abdelaziz madoui, représentant du ministre chargé du tourisme, président ;
+— rabeh ghammit, représentant du ministère de la défense nationale ;
+— samia khalfane, représentante du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire ;
+— arezki talmat kadi, représentant du ministre des finances ;
+— mohamed lalaoui, représentant du ministre de l'éducation nationale ;
+— rachid louhi, représentant du ministre de la formation et de l'enseignement professionnels ;
+— farid salmi, représentant du ministre de la santé ;
+— mourad idouar, représentant du ministre des transports ;
+— toufik rezkallah, représentant du ministre du travail, de l'emploi et de la sécurité sociale ;
+— aziz tahir, représentant du ministre de la jeunesse et des sports.
+sont abrogées, les dispositions de l'arrêté du <DATE> portant désignation des membres du conseil d'orientation de l'institut national d'hôtellerie et de tourisme de tizi ouzou. ————h————
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant désignation des membres du conseil d'orientation de l'institut national d'hôtellerie et de tourisme de bou saâda. ————
+par arrêté du <NUM> rajab <NUM> correspondant au <DATE> , les membres dont les noms suivent, sont désignés, en application des dispositions des articles <NUM> et <NUM> du décret_exécutif_n°_12- <NUM> du <DATE> fixant le statut-type de l'institut national d'hôtellerie et de tourisme, au conseil d'orientation de l'institut national d'hôtellerie et de tourisme de bou saâda :
+— riad kacimi, représentant du ministre chargé du tourisme, président ;
+— rabeh ghammit, représentant du ministère de la défense nationale ;
+— fawzi djouadi, représentant du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire ;
+— messaoud tahri, représentant du ministre des finances ;
+— amar tebani, représentant du ministre de l'éducation nationale ;
+— sadek saadna, représentant du ministre de la formation et de l'enseignement professionnels ;
+— mohamed zineddine okbi, représentant du ministre de la santé ;
+— abdelhadi meziani, représentant du ministre des transports ;
+— abdelhak benmimouna, représentant du ministre du travail, de l'emploi et de la sécurité sociale ;
+— ali chebata, représentant du ministre de la jeunesse et des sports.
+sont abrogées, les dispositions de l'arrêté du <DATE> portant désignation des membres du conseil d'orientation de l'institut national d'hôtellerie et de tourisme de bou saâda.
+ministere de l'environnement et des energies renouvelables
+arrêté du <DATE> portant désignation des membres du conseil scientifique du commissariat national du littoral. ————
+par arrêté du <DATE> , les membres dont les noms suivent, sont désignés, en application des dispositions des articles <NUM> et <NUM> du décret_exécutif_n°_04- <NUM> du <DATE> portant organisation, fonctionnement et missions du commissariat national du littoral au conseil scientifique du commissariat national du littoral,
+mmes. et mm. :
+— khoudir mezouar, représentant de l'école nationale supérieure des sciences de la mer et de l'aménagement du littoral (enssmal) ;
+— abderrahmane bouda, représentant de l'école nationale supérieure maritime (ensm) ;
+— badis bendeddouche, représentant de l'institut pasteur d'algérie ;
+— nasreddine hasni, représentant de l'institut national de cartographie et de télédétection (inct) ;
+— hamoud beldjoudi, représentant du centre de recherche en astronomie, astrophysique et géophysique (craag) ;
+— habib mahi, représentant de l'agence spatiale (asal) ;
+— nazim yahia ouahmed, représentant de l'agence nationale pour la conservation de la nature (ann) ;
+— samir bachouche, représentant du centre national de recherche et de développement de la pêche et l'aquaculture (cnrdpa) ;
+— aida saifouni, représentante de l'institut national de recherche forestière (inrf) ;
+— fadila sahnoun, représentante du commissariat national du littoral ;
+— bilal beloulou, représentant du commissariat national du littoral ;
+— salim omar belkhir, représentant du commissariat national du littoral ;
+— hicham kara, représentant de l'université badji mokhtar - annaba ;
+— ahmed belguermi, représentant de l'université d'oran <NUM> - ahmed ben bella ;
+— noureddine belbachir, représentant de l'université abdelhamid ben badis - mostaganem ;
+— riadh moulai, représentant de l'université abderrahmane mira - béjaïa ;
+— kamel larbi doukara, représentant de l'université belhadj bouchaïb - aïn témouchent ;
+— yacine hemdane, représentant de l'université des sciences et de la technologie -"houari boumediène";
+— yacine gendouzi, représentant du centre universitaire morsli abdellah - tipaza ;
+— yazid beddouh, représentant du centre de recherche en environnement - annaba ;
+— riad ladji, représentant du centre de recherche scientifique et technique en analyses physico-chimiques (c.r.a.p.c.) ;
+— said keddour, représentant de l'agence nationale des changements climatiques. ————h————
+arrêté du <DATE> modifiant l'arrêté du <NUM> chaoual <NUM> correspondant au <DATE> portant désignation des membres du comité intersectoriel d'exportation des déchets spéciaux dangereux. ————
+par arrêté du <DATE> , l'arrêté du <NUM> chaoual <NUM> correspondant au <DATE> portant désignation des membres du comité intersectoriel d'exportation des déchets spéciaux dangereux, est modifié comme suit :" (sans changement jusqu'à)
+— m. izourar abderahmane zino, représentant du ministre des affaires étrangères et de la communauté nationale à l'étranger, en remplacement de m. bouguerra abdelghafour ;
+— (sans changement jusqu'à)
+— mme. mekideche farah, représentante du ministre chargé du commerce, en remplacement de m. reggad salim ;
+— (sans changement jusqu'à)
+— mme. chennit nadjia, représentante du ministre chargé de la santé, en remplacement de mme. bouali hassiba ; (le reste sans changement) ".
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> modifiant l'arrêté du <DATE> portant nomination des membres du comité régional tel bahr façade maritime centre. ————
+par arrêté du <NUM> rajab <NUM> correspondant au <DATE> , l'arrêté du <DATE> portant nomination des membres du comité régional tel bahr façade maritime centre, est modifié comme suit :" (sans changement jusqu'à)
+— m. medjani abdelghani, représentant du centre national des opérations de surveillance et de sauvetage, en remplacement de m. hablal abderrahmane ;
+— (sans changement) ;
+— m. meknass hadj, commandant du groupement de façade de gardes-côtes/blida, en remplacement de m. chikhi mourad ;
+— (sans changement jusqu'à)
+— m. dendani djamel, inspecteur régional de l'environnement-alger, en remplacement de m. moali mohamed ;
+(le reste sans changement) ". ————h————
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> modifiant l'arrêté du <DATE> portant nomination des membres du comité régional tel bahr façade maritime ouest. ————
+par arrêté du <NUM> rajab <NUM> correspondant au <DATE> , l'arrêté du <DATE> , modifié, portant nomination des membres du comité régional tel bahr façade maritime ouest, est modifié comme suit :" (sans changement jusqu'à)
+— m. djouama nassim, commandant du groupement de façade de gardes-côtes d'oran, en remplacement de m. meknass hadj ; (le reste sans changement) ".
+haut conseil islamique
+décision du <DATE> portant constitution d'un comité technique au sein du haut conseil islamique. ————
+le président du haut conseil islamique,
+vu le décret_n°_66- <NUM> du <DATE> , modifié et complété, relatif à l'élaboration et à la publication de certains actes à caractère réglementaire ou indiviuel concernant la situation des fonctionnaires ;
+vu le décret_présidentiel_n°_17- <NUM> du <NUM> rajab <NUM> correspondant au <DATE> fixant l'organisation et le fonctionnement du haut conseil islamique ;
+vu le décret présidentiel du <DATE> portant nomination du président du haut conseil islamique ;
+vu le décret_exécutif_n°_20- <NUM> du <DATE> relatif aux commissions administratives paritaires, commissions de recours et des comités techniques dans les institutions et administrations publiques ;
+vu la décision du <DATE> portant constitution d'une commission administrative paritaire compétente à l'égard des corps des fonctionnaires du haut conseil islamique ;
+après avis favorable de la direction générale de la fonction publique et de la réforme administrative ; representants de l'administration representants des fonctionnaires membres titulaires membres suppléants membres titulaires membres suppléants populaire.
+fait à alger, le <DATE> .
+bouabdellah ghlamallah. ————h————
+décision du <DATE> fixant la composition du comité technique du haut conseil islamique. ————
+par décision du <DATE> , la composition du comité technique du haut conseil islamique, est fixée conformément au tableau ci-après :
+representants de l'administration representants des fonctionnaires membres titulaires membres suppléants membres titulaires membres suppléants m'hamed henni
+tahar abdelhakim turki assia adjabi lotfi sendjak
+smail nekiche abdellah ghaib le comité technique est présidé par m. m'hamed henni, directeur des ressources humaines et des moyens.
+décide :
+article <NUM> . — en application des dispositions des articles <NUM> et <NUM> du décret_exécutif_n°_20- <NUM> du <DATE> susvisé, il est constitué un comité technique au sein du haut conseil islamique, chargé des questions relatives aux conditions générales de travail ainsi qu'à l'hygiène et à la sécurité au sein de l'institution et composé conformément au tableau ci-après :

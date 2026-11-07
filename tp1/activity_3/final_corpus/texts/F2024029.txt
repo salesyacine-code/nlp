@@ -1,0 +1,948 @@
+n° <NUM> <NUM> annee dimanche <NUM> chaoual <NUM> correspondant au <DATE>
+abonnement annuel
+edition originale
+edition originale et sa traduction
+edition originale, le numéro : <NUM> dinars . edition originale et sa traduction, le numéro : <NUM> dinars .
+numéros des années antérieures : suivant barème. les tables sont fournies gratuitement aux abonnés.
+prière de joindre la dernière bande pour renouvellement, réclamation, et changement d'adresse.
+tarif des insertions : <NUM> dinars la ligne algérie tunisie maroc libye mauritanie
+<NUM> an
+<NUM> dinars
+<NUM> dinars etranger
+(pays autres que le maghreb)
+<NUM> an
+<NUM> dinars
+<NUM> dinars
+(frais d'expédition en sus) abonnement et publicié :
+les vergers, bir mourad raïs, bp <NUM> etranger : (compte devises) conventions et accords internationaux - lois et decrets arretes, decisions, a vis, communications et annonces (traduction française)
+lois
+loi_n°_24- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> portant règlement budgétaire pour l'exercice <NUM>
+decrets
+décret_présidentiel_n°_24- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre du tourisme et de l'artisanat
+décret_présidentiel_n°_24- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du président du conseil supérieur de la jeunesse
+décret_présidentiel_n°_24- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> complétant le décret_présidentiel_n°_23- <NUM> du <DATE> portant création du haut conseil de la régulation des importations, fixant sa composition et définissant ses missions
+décret_exécutif_n°_24- <NUM> du <DATE> portant création et délimitation du secteur sauvegardé de la vieille ville de"mazouna"wilaya de relizane
+decisions individuelles
+décret présidentiel du <NUM> chaoual <NUM> correspondant au <DATE> mettant fin aux fonctions d'un chargé d'études et de synthèse à la présidence de la république
+décret présidentiel du <NUM> chaoual <NUM> correspondant au <DATE> portant nomination d'une directrice d'études à la présidence de la république
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur du guichet unique des grands projets et des investissements étrangers à l'agence algérienne de promotion de l'investissement
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur de l'orientation religieuse et de l'administration des mosquées au ministère des affaires religieuses et des wakfs
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> mettant fin aux fonctions du doyen de la faculté de droit à l'université de tissemsilt
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur du développement et de la planification au ministère de la formation et de l'enseignement professionnels
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur du théâtre régional de skikda
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> portant nomination du directeur des moudjahidine et des ayants-droit à la wilaya d'illizi
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> portant nomination du chef de cabinet du ministre des affaires religieuses et des wakfs
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> portant nomination d'une sous-directrice au ministère de la formation et de l'enseignement professionnels
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> portant nomination du directeur de la formation et de l'enseignement professionnels à la wilaya de sidi bel abbès
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> portant nomination du directeur de la jeunesse et des sports à la wilaya de ouled djellal
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> portant nomination du directeur de l'action sociale et de la solidarité à la wilaya de tipaza
+arretes, decisions et a vis
+presidence de la republique
+décision du <DATE> fixant la composition des commissions administratives paritaires compétentes à l'égard des corps des fonctionnaires du médiateur de la république
+sommaire ministere de l'interieur, des collectivites locales et de l'amenagement du territoire
+arrêté interministériel du <DATE> modifiant l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> portant désignation des membres de la commission ad hoc chargée de l'établissement de l'inventaire quantitatif, qualitatif et estimatif des biens, droits, obligations et personnels du parc zoolo gique et des loisirs"la concorde civile"
+arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> fixant les effectifs par emploi, leur classification et la durée du contrat des agents exerçant des activités d'entretien, de maintenance ou de service au titre de la direction générale de la protection civile et des services extérieurs en relevant
+ministere des finances
+arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> modifiant l'arrêté interministériel du <NUM> dhou el kaâd a <NUM> correspondant au <DATE> fixant le nombre de postes supérieurs des fonctionnaires appartenant aux corps communs aux institutions et administrations publiques au titre de l'administration centrale de la direction générale des impôts
+arrêté du <DATE> modifiant l'arrêté du <DATE> portant nomination des membres de la commission d'organisation et de surveillance des opérations de bourse
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> fixant la liste nominative des membres du conseil d'administration du fonds de garantie automobile
+ministere de l'enseignement superieur et de la recherche scientifique
+arrêté interministériel du <DATE> modifiant et complétant l'arrêté interministériel du <DATE> fixant les effectifs par emploi, leur classification et la durée du contrat des agents exerçant des activités d'entretien, de maintenance ou de service au titre des universités
+ministere de l'industrie et de la production pharmaceutique
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant désignation du président et des membres de la commission d'homologation des dispositifs médicaux à usage de la médecine humaine
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant désignation du président et des membres de la commission d'enregistrement des produits pharmaceutiques à usage de la médecine humaine
+arrêté du <DATE> fixant la composition et le fonctionnement du bureau ministériel de la sûreté interne d'établissement au sein du ministère de l'industrie et de la production pharmaceutique
+ministere de l'agriculture et du developpement rural
+arrêté interministériel du <DATE> portant création des stations régionales de la protection des végétaux
+arrêté du <DATE> portant désignation des membres du conseil d'administration du centre national de l'insémination artificielle et de l'amélioration génétique
+arrêté du <DATE> modifiant l'arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant désignation des membres du conseil scientifique du parc national de theniet el had (wilaya de tissemsilt)
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> modifiant l'arrêté du <DATE> fixant la composition et le fonctionnement de la commission nationale de recours compétente en matière de classification des terres agricoles du domaine privé de l'etat, concédées
+autorite nationale de protection des donnees a caractere personnel
+arrêté du <DATE> portant création d'une commission des œuvres sociales au sein de l'autorité nationale de protection des données à caractère personnel
+sommaire (suite)
+loi_n°_24- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> portant règlement budgétaire pour l'exercice <NUM> . ————
+le président de la république,
+vu la constitution, notamment ses articles <NUM> - <NUM> °, <NUM> (alinéa <NUM> ), <NUM> , <NUM> , <NUM> et <NUM> ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances, notamment son article_89 ;
+vu la loi_n°_80- <NUM> du <DATE> relative à l'exercice de la fonction de contrôle par l'assemblée populaire nationale ;
+vu la loi_n°_90- <NUM> du <DATE> , modifiée et complétée, relative à la comptabilité publique ;
+vu l' ordonnance_n°_95- <NUM> du <DATE> , modifiée et complétée, relative à la cour des comptes ;
+vu la loi_n°_05- <NUM> du <DATE> , modifiée et complétée, relative aux hydrocarbures ;
+vu la loi_n°_20- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu la loi_n°_21- <NUM> du <DATE> portant approbation de l' ordonnance_n°_21- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> portant loi de finances complémentaire pour <NUM> ; après consultation de la cour des comptes, après avis du conseil d'etat, après adoption par le parlement, promulgue la loi dont la teneur suit :
+article <NUM> . — les résultats définitifs des recettes du budget général de l'etat, au titre de l'exercice <NUM> , sont arrêtés à la somme de sept mille deux cent cinquante-six milliards sept cent soixante-dix-sept millions cent trente mille trois cent quatre-vingt-cinq dinars et soixante-quatre centimes ( <NUM> . <NUM> dinars ), dont :
+- cinq mille neuf cent milliards six cent trente-trois millions cent dix-huit mille six cent dix-huit dinars et quarante centimes ( <NUM> . <NUM> dinars ) pour les recettes, produits et revenus applicables aux dépenses définitives du budget général de l'etat, enregistrés au <DATE> , conformément à la répartition par nature objet du tableau"a"annexé à la présente loi ;
+- mille trois cent cinquante-six milliards cent quarante-quatre millions onze mille sept cent soixante-sept dinars et vingt quatre centimes ( <NUM> . <NUM> dinars ) pour le reliquat des crédits budgétaires abrités dans les écritures du trésor.
+article_2 . — les résultats définitifs des dépenses du budget général de l'etat, au titre de l'exercice <NUM> , sont arrêtés à la somme de sept mille neuf cent vingt-huit milliards neuf cent quarante-et-un millions trois cent vingt-trois mille cinq cent dix-huit dinars et dix-huit centimes ( <NUM> . <NUM> dinars ), dont :
+- cinq mille quatre cent cinquante milliards quatre cent quarante-cinq millions six cent soixante-quatre mille sept cent quarante-trois dinars et quarante-cinq centimes ( <NUM> . <NUM> dinars ) pour les dépenses de fonctionnement, répartis par ministère conformément au tableau"b"annexé à la présente loi ;
+- deux mille quatre cent soixante-quatorze milliards sept cent quatre-vingt-six millions neuf cent vingt-cinq mille dinars ( <NUM> . <NUM> dinars ) pour les dépenses d'équipement (concours définitifs), répartis par secteur conformément au tableau"c"annexé à la présente loi ;
+- trois milliards sept cent huit millions sept cent trente-trois mille sept cent soixante-quatorze dinars et soixante-treize centimes ( <NUM> . <NUM> dinars ) pour les dépenses imprévues.
+article_3 . — le déficit définitif au titre des opérations budgétaires pour l'exercice <NUM> , à affecter à l'avoir et découvert du trésor, s'élève à six cent soixante-douze milliards cent soixante-quatre millions cent quatre-vingt-treize mille cent trente-deux dinars et cinquante-quatre centimes ( <NUM> . <NUM> dinars ).
+article_4 . — les profits des comptes spéciaux du trésor apurés ou clôturés, enregistrés au <DATE> , dont le montant s'élève à mille huit cent cinquante-et-un milliards quatre cent cinquante millions cinq cent quatre-vingt-huit mille quatre cent trente-et-un dinars et quarante-neuf centimes ( <NUM> . <NUM> dinars ), sont affectés au compte de l'avoir et découvert du trésor.
+article_5 . — les pertes résultants de la gestion des opérations de la dette de l'etat, enregistrées au <DATE> , dont le montant s'élève à deux mille soixante-dix-neuf milliards six cent trente-neuf millions quarante-quatre mille trois cent dix-sept dinars et quatre-vingt-six centimes ( <NUM> . <NUM> dinars ), sont affectés au compte de l'avoir et découvert du trésor.
+lois
+article_6 . — les variations nettes à affecter à l'avoir et découvert du trésor pour l'exercice <NUM> s'élèvent à :
+- quatre cent soixante-et-un milliards huit cent quarante-deux millions quatre cent quatre-vingt-deux mille trois cent dix-huit dinars et vingt-sept centimes ( <NUM> . <NUM> dinars ), au titre de la variation positive nette des soldes des comptes spéciaux du trésor ;
+- quatre mille cent soixante-huit milliards trois cent vingt-quatre millions neuf cent soixante-neuf mille cinq cent quatre-vingt-dix huit dinars et cinquante-et-un centimes ( <NUM> . <NUM> dinars ), au titre de la variation positive nette des soldes des comptes d'emprunts.
+article_7 . — l'avoir global à porter à l'avoir et découvert du trésor, au titre de l'exercice <NUM> , est fixé à trois mille sept cent vingt-neuf milliards huit cent quatorze millions huit cent deux mille huit cent quatre vingt-dix-sept dinars et quatre-vingt-sept centimes ( <NUM> . <NUM> dinars ).
+populaire.
+fait à alger, le <NUM> chaoual <NUM> correspondant au <DATE> .
+abdelmadjid tebboune.
+recettes du budget de l'etat <NUM> . ressources ordinaires :
+<NUM> . recettes fiscales :
+<NUM> - produit des contributions directes
+<NUM> - produit de l'enregistrement et du timbre
+<NUM> - produit des impôts divers sur les affaires
+(dont tv a sur les produits importés)
+<NUM> - produit des contributions indirectes
+<NUM> - produit des douanes
+sous-total ( <NUM> )
+<NUM> . recettes ordinaires :
+<NUM> - produit et revenus des domaines
+<NUM> - produits divers du budget
+<NUM> - recettes d'ordre
+sous-total ( <NUM> )
+<NUM> . autres recettes :
+autres recettes
+sous-total ( <NUM> )
+total des ressources ordinaires
+<NUM> . fiscalite petroliere
+<NUM> - fiscalité pétrolière
+total général des recettes previsions lfc
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+- <NUM>
+<NUM>
+<NUM>
+<NUM>
+- <NUM>
+<NUM>
+<NUM>
+<NUM>
+- <NUM>
+- <NUM>
+- <NUM>
+<NUM>
+<NUM>
+<NUM>
+—
+<NUM> realisations real en %
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> ecart en valeur en %
+- <NUM>
+<NUM>
+<NUM>
+<NUM>
+- <NUM>
+<NUM>
+<NUM>
+<NUM>
+- <NUM>
+- <NUM>
+- <NUM>
+<NUM>
+<NUM>
+<NUM>
+—
+<NUM> ————————— recettes définitives appliquées au budget de l'etat pour <NUM> etat"a"en da
+ministères taux de consommation (%) <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+— crédits <NUM> votés lfc <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+— révisés consommés <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+— <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+— ecarts en valeur (rév. consom.) présidence de la république
+services du premier ministre
+défense nationale
+affaires étrangères
+intérieur, collectivités locales et aménagement du territoire
+justice
+finances
+energie
+energie et mines
+moudjahidine et ayants droits
+affaires religieuses et wakfs
+education nationale
+enseignement supérieur et recherche scientifique
+formation et enseignement professionnels
+culture et arts
+poste et télécommunications
+jeunesse et sports
+solidarité nationale, famille et condition de la femme
+industrie
+mines <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+— répartition par département ministériel des crédits ouverts et des consommations enregistrées au titre du budget de fonctionnement pour l'exercice <NUM> etat"b"en da
+etat"b"(suite) en da ministères taux de consommation (%) <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> crédits <NUM> votés lfc <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+—
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> révisés consommés <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> ecarts en valeur (rév. consom.) agriculture et développement rural
+pêche et productions halieutiques
+habitat, urbanisme et ville
+commerce
+communication
+travaux publics
+transports
+travaux publics et transports
+ressources en eau
+tourisme, artisanat et travail familial
+sante, population et réforme hospitalière
+travail, emploi et sécurité sociale
+relations avec le parlement
+environnement
+transition énergétique et énergies renouvelables
+numérisation et statistiques
+industrie pharmaceutique
+sous-total
+charges communes
+total general <NUM>
+<NUM>
+- <NUM>
+<NUM>
+<NUM>
+- <NUM>
+<NUM>
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+secteurs industrie
+mines et énergie
+agriculture et hydraulique
+soutien aux services productifs
+infrastructures économiques et administratives
+education - formation
+infrastructures socio-culturelles
+soutien à l'accès à l'habitat
+divers
+pcd
+sous-total d'investissement
+soutien à l'activité économique (dotation aux comptes d'affectation spéciale et bonification du taux d'intérêt)
+provision pour dépenses imprévues
+sous-total des opérations en capital
+total du budget d'équipement <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> votés lfc <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> révisés <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+—
+<NUM>
+<NUM> mobilisés ecarts crédits (rév. - mob.) <NUM>
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+- <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> en valeur en % <NUM> - —
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+- <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> répartition par secteur des crédits ouverts au titre du budget d'équipement pour l'exercice <NUM> etat"c"en da crédits <NUM>
+decrets décret_présidentiel_n°_24- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre du tourisme et de l'artisanat. ————
+le président de la république, sur le rapport conjoint du ministre des finances et du ministre du tourisme et de l'artisanat,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre du tourisme et de l'artisanat ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de trois cents vingt-cinq millions cent soixante-douze mille cinq cents dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de trois cent vingt-cinq millions cent soixante-douze mille cinq cents dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable au programme"tourisme", au sous-programme"soutien aux projets touristiques"et au titre <NUM> "dépenses d'investissement"du portefeuille de programmes du ministère du tourisme et de l'artisanat.
+article_3 . — le ministre des finances et le ministre du tourisme et de l'artisanat sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera publié au populaire.
+fait à alger, le <NUM> chaoual <NUM> correspondant au <DATE> .
+abdelmadjid tebboune.
+décret_présidentiel_n°_24- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> portant transfert de crédits au titre du budget de l'etat, mis à la disposition du président du conseil supérieur de la jeunesse. ————
+le président de la république, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances :
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil supérieur de la jeunesse ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de vingt-quatre millions de dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de vingt-quatre millions de dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicable au portefeuille de programmes du conseil supérieur de la jeunesse, programme"promotion de la jeunesse", au sous-programme"administration générale"et au titre <NUM> "dépenses d'investissement".
+article_3 . — le ministre des finances et le président du conseil supérieur de la jeunesse sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera démocratique et populaire.
+fait à alger, le <NUM> chaoual <NUM> correspondant au <DATE> .
+abdelmadjid tebboune.
+décret_présidentiel_n°_24- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> complétant le décret_présidentiel_n°_23- <NUM> du <DATE> portant création du haut conseil de la régulation des importations, fixant sa composition et définissant ses missions. ————
+le président de la république, sur le rapport du ministre du commerce et de la promotion des exportations,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_n°_79- <NUM> du <DATE> , modifiée et complétée, portant code des douanes ;
+vu l' ordonnance_n°_96- <NUM> du <DATE> , modifiée et complétée, relative à la répression de l'infraction à la législation et à la réglementation des changes et des mouvements de capitaux de et vers l'étranger ;
+vu l' ordonnance_n°_03- <NUM> du <DATE> , modifiée et complétée, relative à la concurrence ;
+vu l' ordonnance_n°_03- <NUM> du <DATE> , modifiée et complétée, relative aux règles générales applicables aux opérations d''importation et d'exportation de marchandises ;
+vu la loi_n°_04- <NUM> du <DATE> , modifiée et complétée, fixant les règles applicables aux pratiques commerciales ;
+vu la loi_n°_04- <NUM> du <DATE> , modifiée et complétée, relative aux conditions d'exercice des activités commerciales ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant création du haut conseil de la régulation des importations, fixant sa composition et définissant ses missions ;
+décrète :
+article <NUM> . — les dispositions de l' article_2 du décret_présidentiel_n°_23- <NUM> du <DATE> portant création du haut conseil de la régulation des importations, fixant sa composition et définissant ses missions, sont complétées comme suit :" article_2 . — ………….……. (sans changement jusqu'à) le président de l'association professionnelle des banques et des établissements financiers.
+— le président du conseil du renouveau économique algérien.".
+fait à alger, le <NUM> chaoual <NUM> correspondant au <DATE> .
+abdelmadjid tebboune.
+décret_exécutif_n°_24- <NUM> du <DATE> portant création et délimitation du secteur sauvegardé de la vieille ville de"mazouna", wilaya de relizane. ———— le premier ministre, sur le rapport conjoint du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire, de la ministre de la culture et des arts, du ministre de l'habitat, de l'urbanisme et de la ville, et de la ministre de l'environnement et des énergies renouvelables,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) :
+vu la loi_n°_90- <NUM> du <DATE> , modifiée et complétée, portant orientation foncière ;
+vu la loi_n°_90- <NUM> du ler décembre <NUM> , modifiée et complétée, relative à l'aménagement et à l'urbanisme ;
+vu la loi_n°_90- <NUM> du <DATE> , modifiée et complétée, portant loi domaniale ;
+vu la loi_n°_98- <NUM> du <DATE> , relative à la protection du patrimoine culturel, notamment son article_42 ;
+vu la loi_n°_99- <NUM> du <DATE> , relative au moudjahid et au chahid ;
+vu la loi_n°_01- <NUM> du <DATE> correspondant au <NUM> décembre 200l relative à l'aménagement et au développement durable du territoire ;
+vu la loi_n°_03- <NUM> du <DATE> , modifiée, relative à la protection de l'environnement dans le cadre du développement durable ;
+vu la loi n° <NUM> - <NUM> du <DATE> portant loi d'orientation de la ville ;
+vu la loi_n°_07- <NUM> du <DATE> , modifiée et complétée, relative à la gestion, à la protection et au développement des espaces verts ;
+vu la loi_n°_10- <NUM> du <NUM> rajab <NUM> correspondant au <DATE> portant approbation du schéma national d'aménagement du territoire ;
+vu la loi_n°_11- <NUM> du <DATE> relative aux aires protégées dans le cadre du développement durable ;
+vu la loi_n°_11- <NUM> du <NUM> rajab <NUM> correspondant au <DATE> , modifiée ct complétée, relative à la commune ;
+vu la loi_n°_12- <NUM> du <DATE> relative à la wilaya ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_91- <NUM> du <DATE> définissant les règles générales d'aménagement d'urbanisme et de construction ;
+vu le décret_exécutif_n°_01- <NUM> du <DATE> , modifié et complété, portant composition, organisation et fonctionnement de la commission nationale et la commission de wilaya des biens culturels ;
+vu le décret_exécutif_n°_03- <NUM> du <DATE> portant maîtrise d'œuvre relative aux biens culturels immobiliers protégés ;
+vu le décret_exécutif_n°_03- <NUM> du <DATE> , modifié et complété, portant modalités d'établissement du plan permanent de sauvegarde et de mise en valeur des secteurs sauvegardés (ppsmvss) ;
+vu le décret_exécutif_n°_11- <NUM> du <DATE> portant création de l'agence nationale des secteurs sauvegardés et fixant son organisation, et son fonctionnement ;
+vu le décret_exécutif_n°_12- <NUM> du <DATE> fixant les conditions et modalités d'administration et de gestion des biens du domaine public et du domaine privé de l'etat ; après avis de la commission nationale des biens culturels lors de sa réunion tenue le <DATE> ;
+décrète :
+article <NUM> . — en application des dispositions de l' article_42 de la loi_n°_98- <NUM> du <DATE> relative à la protection du patrimoine culturel, il est créé un secteur sauvegardé de la vieille ville de mazouna, dans la wilaya de relizane, dénommé"vieille ville de mazouna".
+article_2 . — la vieille ville de mazouna dont plusieurs périodes historiques se sont succédées, se caractérise par un riche tissu urbain islamique où se trouvent les monuments composant la ville islamique ottomane, qui a été construite avec des matériaux puisés de l'environnement naturel.
+outre les valeurs historiques et architecturales, cette ville a joué un rôle très important dans le domaine de la science et de la pensée, grâce à ses savants qui ont contribué à l'écriture de l'histoire de la région.
+article_3 . — le secteur sauvegardé de la vieille ville de mazouna constitue une placette publique menant vers cinq ( <NUM> ) quartiers, à savoir : quartier de la casbah, quartier boumataâ, quartier ouled sayah, quartier de boudheloul et celui de tayssaret.
+il renferme des mosquées telle que la mosquée de"sidi aissa ou'azzouz", un ensemble de mausolées, de murailles, de sources d'eau, de maisons avec une cour à ciel ouvert appelée"wast eddar"ou le patio, ainsi que des hammamat symbolisant l'attachement aux traditions et aux coutumes ancrées chez les habitants de cette ville.
+article_4 . — le secteur sauvegardé de la"vieille ville de mazouna"d'une superficie de trente-six hectares, quatre-vingt-neuf ares et dix centiares ( <NUM> ha, <NUM> a et <NUM> ca), est délimité conformément au plan annexé à l'original du présent décret, comme suit :
+— au nord : oued boumataâ ;
+— au sud : oued tayssaret ; populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+points coordonnées (x) nord coordonnées (y) est <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "n <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e <NUM> <NUM> ' <NUM> "e
+— à l'est : chaâba et oued boumataâ ;
+— au sud-ouest : oued tamda ;
+— au nord-ouest : oued tamda, bassin de tamda, l'école primaire"el hbib ben keddache"et le bureau des fils des chouhada.
+article_5 . — les coordonnées géographiques du secteur sauvegardé de la"vieille ville de mazouna"sont fixées par le système de positionnement mondial, conformément au tableau suivant :
+décret présidentiel du <NUM> chaoual <NUM> correspondant au <DATE> mettant fin aux fonctions d'un chargé d'études et de synthèse à la présidence de la république. ————
+par décret présidentiel du <NUM> chaoual <NUM> correspondant au <DATE> , il est mis fin aux fonctions de chargé d'études et de synthèse à la présidence de la république, exercées par m. ali djerrai, sur sa demande. ————h————
+décret présidentiel du <NUM> chaoual <NUM> correspondant au <DATE> portant nomination d'une directrice d'études à la présidence de la république. ————
+par décret présidentiel du <NUM> chaoual <NUM> correspondant au <DATE> , mme. fadila melhag est nommée directrice d'études à la présidence de la république. ————h————
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur du guichet unique des grands projets et des investissements étrangers à l'agence algérienne de promotion de l'investissement. ———— par décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> , il est mis fin aux fonctions de directeur du guichet unique des grands projets et des investissements étrangers à l'agence algérienne de promotion de l'investissement, exercées par m. ahmed berrichi, sur sa demande. ————h————
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur de l'orientation religieuse et de l'administration des mosquées au ministère des affaires religieuses et des wakfs. ———— par décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> , il est mis fin aux fonctions de directeur de l'orientation religieuse et de l'administration des mosquées au ministère des affaires religieuses et des wakfs, exercées par m. mohand azzoug, appelé à exercer une autre fonction. ————h————
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> mettant fin aux fonctions du doyen de la faculté de droit à l'université de tissemsilt. ———— par décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> , il est mis fin aux fonctions de doyen de la faculté de droit à l'université de tissemsilt, exercées par m. mohamed gharbi, sur sa demande.
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur du développement et de la planification au ministère de la formation et de l'enseignement professionnels. ———— par décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> , il est mis fin aux fonctions de directeur du développement et de la planification au ministère de la formation et de l'enseignement professionnels, exercées par m. hakim ezzeroug-ezzeraimi. ————h————
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> mettant fin aux fonctions du directeur du théâtre régional de skikda. ———— par décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> , il est mis fin aux fonctions de directeur du théâtre régional de skikda, exercées par m. sofiane attia. ————h————
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> portant nomination du directeur des moudjahidine et des ayants-droit à la wilaya d'illizi. ———— par décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> , m. abdelbassit benkaza est nommé directeur des moudjahidine et des ayants-droit à la wilaya d'illizi. ————h————
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> portant nomination du chef de cabinet du ministre des affaires religieuses et des wakfs. ———— par décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> , m. mohand azzoug est nommé chef de cabinet du ministre des affaires religieuses et des wakfs. ————h————
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> portant nomination d'une sous-directrice au ministère de la formation et de l'enseignement professionnels. ———— par décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> , mme. dalila nekkab est nommée sous-directrice de la formation"en réseau"au ministère de la formation et de l'enseignement professionnels. ————h————
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> portant nomination du directeur de la formation et de l'enseignement professionnels à la wilaya de sidi bel abbès. ———— par décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> , m. mokhtar boukhelif est nommé directeur de la formation et de l'enseignement professionnels à la wilaya de sidi bel abbès.
+decisions individuelles
+arretes, decisions et a vis
+presidence de la republique
+décision du <DATE> fixant la composition des commissions administratives paritaires compétentes à l'égard des corps des fonctionnaires du médiateur de la république. ———— par décision du <DATE> , la composition des commissions administratives paritaires compétentes à l'égard des corps des fonctionnaires du médiateur de la république, est fixée conformément au tableau suivant :
+representants de l'administrationcommissions corps et grades les corps et grades classés à la catégorie <NUM> et plus régis par le décret_exécutif_n°_08- <NUM> du <DATE> correspondant <DATE> .
+les corps et grades classés à la catégorie <NUM> et moins régis par les décrets exécutifs n° <NUM> - <NUM> du <DATE> et n° <NUM> - <NUM> du <DATE> .
+commission commission les commissions administratives paritaires sont présidées par m. bousmal kamel, directeur de l'administration générale. en cas d'empêchement, il est remplacé par le membre représentant de l'administration le plus ancien et le plus gradé.
+representants du personnel membres titulaires membres suppléants membres titulaires membres suppléants bousmal kamel
+moussi mohammed
+belaroussi romaissa
+bousmal kamel
+moussi mohammed
+bouchefirat abdelghafour
+belaroussi romaissa saadi ilyes
+fellah abdelatif
+zouani lamia
+saadi ilyes
+hammadi azzedine zouhir
+fellah abdelatif
+zouani lamia bernou elaid
+benamara hadjer
+benslimane abdelghani
+remdani abdelaziz
+boubenia amel
+benyahia khaoula
+benzaidi fatima zohra rayene beldjedra samia
+sidi mohamed benhamed
+aliane siham
+haouassi aissa
+rahim hanane
+benarouba abdelkader
+fekir abdelhakim décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> portant nomination du directeur de la jeunesse et des sports à la wilaya de ouled djellal. ———— par décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> , m. abdelghani namane est nommé directeur de la jeunesse et des sports à la wilaya de ouled djellal.
+décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> portant nomination du directeur de l'action sociale et de la solidarité à la wilaya de tipaza. ———— par décret exécutif du <NUM> chaoual <NUM> correspondant au <DATE> , m. sabir medkour est nommé directeur de l'action sociale et de la solidarité à la wilaya de tipaza.
+ministere de l'interieur, des collectivites locales et de l'amenagement du territoire
+arrêté interministériel du <DATE> modifiant l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> portant désignation des membres de la commission ad hoc chargée de l'établissement de l'inventaire quantitatif, qualitatif et estimatif des biens, droits, obligations et personnels du parc zoologique et des loisirs"la concorde civile". ————
+par arrêté interministériel du <DATE> , l'arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> portant désignation des membres de la commission ad hoc chargée de l'établissement de l'inventaire quantitatif, qualitatif et estimatif des biens, droits, obligations et personnels du parc zoologique et des loisirs"la concorde civile", est modifié comme suit :"au titre du ministère de l'intérieur, des collectivités locales et de l'aménagement du territoire :
+(sans changement)
+au titre du ministère des finances :
+— saber kamel, directeur des domaines ouest de la wilaya d'alger ;
+— mohamed bahri, contrôleur financier auprès de la wilaya d'alger.
+au titre du ministère de l'agriculture et du développement rural :
+(sans changement) ". ————h————
+arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> fixant les effectifs par emploi, leur classification et la durée du contrat des agents exerçant des activités d'entretien, de maintenance ou de service au titre de la direction générale de la protection civile et des services extérieurs en relevant. ————
+le premier ministre,
+le ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire, et
+le ministre des finances,
+vu le décret_présidentiel_n°_07- <NUM> du <DATE> , modifié et complété, fixant les modalités de recrutement des agents contractuels, leur droits et obligations, les éléments constitutifs de leur rémunération, les règles relatives à leur gestion ainsi que le régime disciplinaire qui leur est applicable, notamment son
+article_8 ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_91- <NUM> du <DATE> , modifié et complété, portant organisation de l'administration centrale de la direction générale de la protection civile ;
+vu le décret_exécutif_n°_92- <NUM> du <DATE> , modifié, relatif à l'organisation et au fonctionnement des services extérieurs de la protection civile ;
+vu le décret_exécutif_n°_95- <NUM> du <DATE> fixant les attributions du ministre des finances ;
+vu le décret_exécutif_n°_14- <NUM> du <DATE> fixant les attributions du directeur général de la fonction publique et de la réforme administrative ;
+vu le décret_exécutif_n°_18- <NUM> du <DATE> fixant les attributions du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire ;
+arrêtent :
+article <NUM> . — en application des dispositions de l' article_8 du décret_présidentiel_n°_07- <NUM> du <DATE> susvisé, le présent arrêté fixe les effectifs par emploi, leur classification et la durée du contrat des agents exerçant des activités d'entretien, de maintenance ou de service au titre de la direction générale de la protection civile et des services extérieurs en relevant, comme suit :
+<NUM> . administration centrale :
+emplois ouvrier professionnel de niveau <NUM>
+agent de service de niveau <NUM>
+gardien
+conducteur d'automobile de niveau <NUM>
+ouvrier professionnel de niveau <NUM>
+conducteur d'automobile de niveau <NUM>
+agent de service de niveau <NUM>
+ouvrier professionnel de niveau <NUM>
+total général effectifs selon la nature du contrat de tra v ail classification contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) —
+—
+—
+—
+—
+—
+—
+—
+— effectifs ( <NUM> + <NUM> ) catégorie indice <NUM> . services extérieurs :
+emplois ouvrier professionnel de niveau <NUM>
+agent de service de niveau <NUM>
+gardien
+total général effectifs selon la nature du contrat de tra v ail classification contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) —
+—
+—
+— effectifs ( <NUM> + <NUM> ) catégorie indice fait à alger, le <NUM> rajab <NUM> correspondant au <DATE> .
+le ministre des finances
+laziz faid le ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire
+brahim merad pour le premier ministre et par délégation, le chargé de la gestion de la direction générale de la fonction publique et de la réforme administrative abdelouahab laouici
+ministere des finances
+arrêté interministériel du <NUM> rajab <NUM> correspondant au <DATE> modifiant l'arrêté interministériel du <DATE> fixant le nombre de postes supérieurs des fonctionnaires appartenant aux corps communs aux institutions et administrations publiques au titre de l'administration centrale de la direction générale des impôts. ———— le premier ministre, le ministre des finances,
+vu le décret_présidentiel_n°_07- <NUM> du <DATE> , modifié, fixant les modalités d'attribution de la bonification indiciaire aux titulaires de postes supérieurs dans les institutions et administrations publiques ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_95- <NUM> du <DATE> fixant les attributions du ministre des finances ;
+vu le décret_exécutif_n°_08- <NUM> du <DATE> , modifié et complété, portant statut particulier des fonctionnaires appartenant aux corps communs aux institutions et administrations publiques, notamment ses articles <NUM> , <NUM> , <NUM> , <NUM> , <NUM> et <NUM> ;
+vu le décret_exécutif_n°_14- <NUM> du <DATE> fixant les attributions du directeur général de la fonction publique et de la réforme administrative ;
+vu l'arrêté interministériel du <DATE> fixant le nombre de postes supérieurs des fonctionnaires appartenant aux corps communs aux institutions et administrations publiques au
+titre de l'administration centrale de la direction générale des impôts ;
+arrêtent :
+article <NUM> . — les dispositions de l'article <NUM> de l'arrêté interministériel du <DATE> susvisé, sont modifiées et rédigées comme suit :"article <NUM> . — en application des dispositions des articles <NUM> , <NUM> , <NUM> , <NUM> , <NUM> et <NUM> du décret_exécutif_n°_08- <NUM> du <DATE> , modifié et complété, susvisé, le nombre de postes supérieurs des fonctionnaires appartenant aux corps communs aux institutions et administrations publiques, au
+titre de l'administration centrale de la direction générale des impôts, est fixé conformément au tableau ci-après :
+filieres postes superieurs nombre administration générale
+traduction - interprétariat
+informatique
+statistiques
+documentation et archives
+laboratoire et maintenance chargé d'études et de projet de l'administration centrale
+chargé de programmes de traduction - interprétariat
+responsable de bases de données
+responsable de réseaux
+responsable de systèmes informatiques
+chargé de programmes statistiques
+chargé de programmes documentaires
+chef de laboratoire (sans changement) ".
+fait à alger, le <NUM> rajab <NUM> correspondant au <DATE> .
+le ministre des finances
+laziz faid pour le premier ministre et par délégation, le chargé de la gestion de la direction générale de la fonction publique et de la réforme administrative abdelouahab laouici
+arrêté du <DATE> modifiant l'arrêté du <DATE> portant nomination des membres de la commission d'organisation et de surveillance des opérations de bourse. ————
+par arrêté du <DATE> , l'arrêté du <DATE> portant nomination des membres de la commission d'organisation et de surveillance des opérations de bourse, est modifié comme suit :" (sans changement jusqu'à)
+— m. mahdi salmi, représentant les dirigeants des personnes morales émettrices des valeurs mobilières, désigné membre, en remplacement de m. azzedine zegai, pour la période restante du manda".
+……………… (le reste sans changement) ". ————h————
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> fixant la liste nominative des membres du conseil d'administration du fonds de garantie automobile. ————
+par arrêté du <NUM> rajab <NUM> correspondant au <DATE> , la liste nominative des membres du conseil d'administration du fonds de garantie automobile, est fixée, en application des dispositions de l' article_8 du décret_exécutif_n°_04- <NUM> du <DATE> portant création et fixant les statuts du fonds de garantie automobile, comme suit :
+nom et prenom qualite autorite representee m. zellagui djamel-eddine
+m. bouhricha mohamed
+m. boussoura ali
+m. feloussi djamel
+m. benamirouche oussama
+m. hamani abdelghani
+m. benhabiles cherif
+m. kaoula mourad président du conseil
+membre
+membre
+membre
+membre
+membre
+membre
+membre le ministre chargé des finances
+le ministère de la défense nationale
+le ministre chargé de l'intérieur, des collectivités locales et de l'aménagement du territoire
+le ministre de la justice, garde des sceaux
+le ministre chargé des finances
+le ministre chargé des transports
+l'association des sociétés d'assurance et de réassurance
+l'association des sociétés d'assurance et de réassurance
+ministere de l'enseignement superieur et de la recherche scientifique
+arrêté interministériel du <DATE> modifiant et complétant l'arrêté interministériel du <DATE> fixant les effectifs par emploi, leur classification et la durée du contrat des agents exerçant des activités d'entretien, de maintenance ou de service au titre des universités. ————
+le premier ministre,
+le ministre des finances, et
+le ministre de l'enseignement supérieur et de la recherche scientifique,
+vu le décret_présidentiel_n°_07- <NUM> du <DATE> , modifié et complété, fixant les modalités de recrutement des agents contractuels, leurs droits et obligations, les éléments constitutifs de leur rémunération, les règles relatives à leur gestion ainsi que le régime disciplinaire qui leur est applicable, notamment son
+article_8 ;
+vu le décret_présidentiel_n°_21- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_95- <NUM> du <DATE> fixant les attributions du ministre des finances ;
+vu le décret_exécutif_n°_03- <NUM> du <DATE> , modifié et complété, fixant les missions et les règles particulières d'organisation et de fonctionnement de l'université ;
+vu le décret_exécutif_n°_13- <NUM> du <DATE> fixant les attributions du ministre de l'enseignement supérieur et de la recherche scientifique ;
+vu le décret_exécutif_n°_14- <NUM> du <DATE> fixant les attributions du directeur général de la fonction publique et de la réforme administrative ;
+vu l'arrêté interministériel du <DATE> , modifié et complété, fixant les effectifs par emploi, leur classification et la durée du contrat des agents exerçant des activités d'entretien, de maintenance ou de services au titre des universités ;
+arrêtent :
+article <NUM> . — les dispositions de l'article <NUM> de l'arrêté interministériel du <DATE> , modifié et complété, susvisé, sont modifiées et complétées, comme suit :"article <NUM> . — en application des dispositions de l' article_8 du décret_présidentiel_n°_07- <NUM> du <DATE> susvisé, le présent arrêté fixe les effectifs par emploi, leur classification et la durée du contrat des agents exerçant des activités d'entretien, de maintenance ou de services au titre des universités, conformément aux tableaux annexés.".
+populaire.
+fait à alger le <DATE> .
+le ministre des finances
+laziz faid le ministre de l'enseignement supérieur et de la recherche scientifique
+kamel baddari pour le premier ministre et par délégation,
+le chargé de la gestion de la direction générale de la fonction publique et de la réforme administrative
+abdelouahab laouici
+tableau annexe n° <NUM> effectifs des agents contractuels exerçant des activités d'entretien, de maintenance ou de service au titre des universités emplois classification catégorie indice agent de prévention de niveau <NUM> total ouvrier professionnel de niveau <NUM> agent de prévention de niveau <NUM> agent de service de niveau ouvrier professionnel de niveau <NUM> agent de service de niveau conducteur d'automobile de niveau <NUM> ouvrier professionnel de niveau <NUM> conducteur d'automobile de niveau <NUM> gardien agent de service de niveau ouvrier professionnel de niveau <NUM> total par nature du contrat total general ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) <NUM> — <NUM> — <NUM> — <NUM> — conducteur d'automobile de niveau <NUM> — tableau annexe n° <NUM> répartition des effectifs des agents contractuels exerçant des activités d'entretien, de maintenance ou de service, au titre des universités emplois classification catégorie indice agent de prévention de niveau <NUM> total ouvrier professionnel de niveau <NUM> agent de prévention de niveau <NUM> agent de service de niveau <NUM> ouvrier professionnel de niveau <NUM> agent de service de niveau <NUM> conducteur d'automobile de niveau <NUM> ouvrier professionnel de niveau <NUM> conducteur d'automobile de niveau <NUM> gardien agent de service de niveau <NUM> ouvrier professionnel de niveau <NUM> dénomination des universités total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) constantine <NUM> —— <NUM> — —— — —
+— —— — — — — — total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) constantine <NUM> total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) constantine <NUM> total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) oran <NUM> total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) oran <NUM> total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) alger <NUM> total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) alger <NUM> total par nature du contrat total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) alger <NUM> — — <NUM> — <NUM> — —— <NUM> — <NUM> — — —— — —
+— —— — — — — — — — — <NUM> — <NUM> — —— <NUM> — <NUM> — — —— — —
+— —— — — — — — — — — — — <NUM> — —— <NUM> — — —— — — — —
+— —— — — — — — — — — — — <NUM> —— <NUM> — —— — — — —
+— —— — — — — — — — — <NUM> — <NUM> — —— <NUM> — <NUM> — — —— — — —
+— —— — — — — — — — — — <NUM> — <NUM> — —— <NUM> — <NUM> — — —— — — — —
+— —— — — — — — — <NUM> —— <NUM> — —— <NUM> — — <NUM> — — —— — —
+— —— — — — — — —— — — — — — — conducteur d'automobile de niveau <NUM> total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat — — — — — — — — emplois classification catégorie indice agent de prévention de niveau <NUM> total ouvrier professionnel de niveau <NUM> agent de prévention de niveau <NUM> agent de service de niveau <NUM> ouvrier professionnel de niveau <NUM> agent de service de niveau <NUM> conducteur d'automobile de niveau <NUM> ouvrier professionnel de niveau <NUM> conducteur d'automobile de niveau <NUM> gardien agent de service de niveau <NUM> ouvrier professionnel de niveau <NUM> dénomination des universités total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) — batna <NUM> — <NUM> — <NUM> — <NUM> — — — <NUM> — — — — — — — total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) blida <NUM> total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) blida <NUM> total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) tizi ouzou total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) université d'oran des sciences et technologies total par nature du contrat total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) annaba — <NUM> — — <NUM> — — — — — — —
+— <NUM> — — — — — — — <NUM>
+— — <NUM> — — —— — — — —
+— —— — — — — — — — —— <NUM> —— — <NUM> — —— — — — —
+— —— — — — — — — <NUM> — <NUM> — <NUM> — — <NUM> — —— — —— —— — — — — — <NUM> — —— <NUM> — —— <NUM> ——— <NUM> — — — — —
+— — — — — — — —— — — — conducteur d'automobile de niveau <NUM> total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat — — — — — total ( <NUM> + <NUM> ) à temps plein ( <NUM> ) à temps partiel ( <NUM> ) université emir abdelkader des sciences islamiques de constantine— — <NUM> — — <NUM> — — —— — — —
+— —— — — — — —— total par nature du contrat — contrat à durée indéterminée — total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) batna <NUM> total par nature du contrat — — — <NUM> — — <NUM> — — —— — — —— <NUM> ——— <NUM> —— <NUM> — <NUM> —— <NUM> — <NUM> — <NUM> total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) université houari boumediène des sciences et technologies total par nature du contrat <NUM> — <NUM> — <NUM> — <NUM> —— <NUM> — — <NUM> —— <NUM> — — <NUM> —— <NUM> — — —— — — — —
+— —— — — — — — —— —— tableau annexe n° <NUM> (suite)
+tableau annexe n° <NUM> (suite) emplois classification catégorie indice agent de prévention de niveau <NUM> total ouvrier professionnel de niveau <NUM> agent de prévention de niveau <NUM> agent de service de niveau <NUM> ouvrier professionnel de niveau <NUM> agent de service de niveau <NUM> conducteur d'automobile de niveau <NUM> ouvrier professionnel de niveau <NUM> conducteur d'automobile de niveau <NUM> gardien agent de service de niveau <NUM> ouvrier professionnel de niveau <NUM> dénomination des universités total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) — béjaïa — <NUM> — <NUM> — —— <NUM> — <NUM> — — —— — — — — —
+— —— — — — — — — total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) boumerdès total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) mostaganem total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) biskra total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) sidi bel abbès total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) tlemcen total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) sétif <NUM> total par nature du contrat total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) sétif <NUM> — — <NUM> —— <NUM> — — <NUM> —— <NUM> — — —— — — — <NUM> —— — — — — — — — — <NUM> — — <NUM> — — —— — — — —
+— —— — — — — — — — — <NUM> — — <NUM> — — —— — — <NUM> —— — — — — — — <NUM> — <NUM> — — —— — <NUM> — — — — — — <NUM> — —— <NUM> — — —— — —
+— —— — — — — — — <NUM> — <NUM> — —— <NUM> — <NUM> — — —— — — — —
+— —— — — — — — — — — <NUM> —— <NUM> — — <NUM> —— <NUM> — — —— — — — <NUM> —— — — — — — —— — — — — conducteur d'automobile de niveau <NUM> total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat <NUM> — — — — — — total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) adrar total par nature du contrat <NUM> — <NUM> ——— — <NUM> — <NUM> —————— ———— — <NUM> — <NUM> ———— tableau annexe n° <NUM> (suite) emplois classification catégorie indice agent de prévention de niveau <NUM> total ouvrier professionnel de niveau <NUM> agent de prévention de niveau <NUM> agent de service de niveau <NUM> ouvrier professionnel de niveau <NUM> agent de service de niveau <NUM> conducteur d'automobile de niveau <NUM> ouvrier professionnel de niveau <NUM> conducteur d'automobile de niveau <NUM> gardien agent de service de niveau <NUM> ouvrier professionnel de niveau <NUM> dénomination des universités total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) — m'sila — <NUM> — <NUM> — —— <NUM> — <NUM> — — —— — — — — —
+— —— — — — — — — total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) jijel total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) guelma total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) skikda total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) tiaret total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) laghouat total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) chlef total par nature du contrat total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) ouargla <NUM> — —— <NUM> — — —— — — — —
+— —— — — — — — — — — <NUM> — —— <NUM> — — —— — — — —
+— —— — — — — — — <NUM> — <NUM> — —— — <NUM> — — —— — — — —
+— —— — — — — — — —— <NUM> — — <NUM> — —— — — <NUM> — — — — — <NUM> — <NUM> — — <NUM> — <NUM> — —— — — <NUM> —— — — — — —— <NUM> — —— — <NUM> — — —— — — — —
+— —— — — — — — — — — <NUM> — <NUM> — — <NUM> — <NUM> — — —— — — — <NUM> —— — — — — — — — —— — — — — conducteur d'automobile de niveau <NUM> total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat <NUM> — — — — — total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) saïda total par nature du contrat <NUM> —— <NUM> — <NUM> — <NUM> ———— <NUM> ——— — <NUM> — — — <NUM> tableau annexe n° <NUM> (suite) emplois classification catégorie indice agent de prévention de niveau <NUM> total ouvrier professionnel de niveau <NUM> agent de prévention de niveau <NUM> agent de service de niveau <NUM> ouvrier professionnel de niveau <NUM> agent de service de niveau <NUM> conducteur d'automobile de niveau <NUM> ouvrier professionnel de niveau <NUM> conducteur d'automobile de niveau <NUM> gardien agent de service de niveau <NUM> ouvrier professionnel de niveau <NUM> dénomination des universités total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) — el oued ——— <NUM> — — <NUM>
+— — <NUM> — — —— — — — — —
+— —— — — — — — — total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) souk ahras total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) médéa total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) béchar total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) mascara total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) djelfa total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) tébessa total par nature du contrat total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) oum el bouaghi <NUM> — <NUM> — — <NUM> — — —— — — — —
+— <NUM> — — — — — — — — — <NUM> —— <NUM> — — <NUM> — — <NUM> — — —— — — <NUM> —— — — — — <NUM> — — <NUM> — — —— — — — —
+— —— — — — — — —— <NUM> — — <NUM> — <NUM> — — <NUM> — — — — —
+— <NUM> — — — — — <NUM> — <NUM> — <NUM> — <NUM> — — —— — — — —
+— —— — — — — — — — — <NUM> — — <NUM> — — —— — — — —
+— —— — — — — — — — — <NUM> — <NUM> — — <NUM> — <NUM> — — —— — — — <NUM> —— — — — —— — — — — — conducteur d'automobile de niveau <NUM> total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat <NUM> — — — — total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) khenchela total par nature du contrat <NUM> — <NUM> — <NUM> —— <NUM> — <NUM> — <NUM> ————— <NUM> ———— — — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> tableau annexe n° <NUM> (suite) emplois classification catégorie indice agent de prévention de niveau <NUM> total ouvrier professionnel de niveau <NUM> agent de prévention de niveau <NUM> agent de service de niveau <NUM> ouvrier professionnel de niveau <NUM> agent de service de niveau <NUM> conducteur d'automobile de niveau <NUM> ouvrier professionnel de niveau <NUM> conducteur d'automobile de niveau <NUM> gardien agent de service de niveau <NUM> ouvrier professionnel de niveau <NUM> dénomination des universités total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) — relizane — <NUM> — — <NUM> — <NUM> — — — <NUM> — — — — — — — total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) tissemsilt total ( <NUM> + <NUM> ) contrat à durée indéterminée temps plein ( <NUM> ) à temps partiel ( <NUM> ) tamenghasset total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) bouira total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) ghardaïa total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) el tarf total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) khemis miliana total par nature du contrat total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) bordj bou arreridj — — <NUM> — — <NUM> — —— — <NUM> —— — — — — — — — <NUM> — —— <NUM> — — —— — — — —
+— —— — — — — — — <NUM> — <NUM> — —— — — —
+— —— — — — — — — <NUM> — — <NUM> — — —— —
+— —— — — — <NUM> —— <NUM> — <NUM> — — <NUM> —— <NUM> — <NUM> — — —— — —
+— —— — — — — — — — — <NUM> — <NUM> — — <NUM> — — —— — — — <NUM> —— — — — — — — <NUM> — — <NUM> — — —— — <NUM> —— — — — — — — <NUM> — — — — conducteur d'automobile de niveau <NUM> total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat total par nature du contrat — — — — — — total ( <NUM> + <NUM> ) contrat à durée indéterminée à temps plein ( <NUM> ) à temps partiel ( <NUM> ) aïn témouchent total par nature du contrat <NUM> — <NUM> — <NUM> — <NUM> — <NUM> ———— <NUM> ———— — <NUM> — <NUM> — <NUM> — <NUM> total general <NUM>
+ministere de l'industrie et de la production pharmaceutique
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant désignation du président et des membres de la commission d'homologation des dispositifs médicaux à usage de la médecine humaine. ————
+par arrêté du <NUM> rajab <NUM> correspondant au <DATE> , mmes. et mm. dont les noms suivent, sont désignés, en application des dispositions de l' article_4 du décret_exécutif_n°_20- <NUM> du <DATE> , modifié, relatif aux modalités d'homologation des dispositifs médicaux, à la commission d'homologation des dispositifs médicaux à usage de la médecine humaine, pour une période de trois ( <NUM> ) ans :
+— bachir alouache, représentant du ministre de l'industrie et de la production pharmaceutique, président ;
+— rachida oussedik, représentante du ministre de la santé, membre ;
+— bachir nabti, représentant de l'agence nationale de sécurité sanitaire, membre ;
+— rachid amrani, expert en physique, membre ;
+— chabane chelghoum, expert en chimie, membre ;
+— yacine mezaour, expert en biophysique, membre ;
+— mahdia ougrine, experte représentante du centre national de toxicologie, membre ;
+— slimane larbani, expert en métrologie, membre ;
+— rabah morsli, expert représentant du centre national de pharmacovigilance et de matériovigilance, membre ;
+— wahiba djafri, experte en pharmacologie, membre ;
+— amar benmesbah, expert en biomédical, membre. ————h————
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant désignation du président et des membres de la commission d'enregistrement des produits pharmaceutiques à usage de la médecine humaine. ————
+par arrêté du <NUM> rajab <NUM> correspondant au <DATE> , mmes. et mm. dont les noms suivent, sont désignés, en application des dispositions de l' article_5 du décret_exécutif_n°_20- <NUM> du <DATE> relatif aux modalités d'enregistrement des produits pharmaceutiques, à la commission d'enregistrement des produits pharmaceutiques à usage de la médecine humaine, pour une période de trois ( <NUM> ) ans :
+— ouiza amarouche, représentante du ministre de l'industrie et de la production pharmaceutique, présidente ;
+— nabila ayadi, représentante du ministre de la santé, membre ;
+— manel belkhatir, représentante de l'agence nationale de sécurité sanitaire, membre
+— nadia hadhoum, experte en chimie pharmaceutique, membre ;
+— chahinez nehal, experte en pharmacie galénique, membre ;
+— ali benabdelouahid, expert en pharmacologie, membre ;
+— younes zebbiche, expert en toxicologie, membre ;
+— wahiba djafri, experte en pharmacovigilance, membre ;
+— ines allam, experte en biologie, membre. ————h————
+arrêté du <DATE> fixant la composition et le fonctionnement du bureau ministériel de la sûreté interne d'établissement au sein du ministère de l'industrie et de la production pharmaceutique. ————
+le ministre de l'industrie et de la production pharmaceutique,
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_96- <NUM> du <DATE> fixant les conditions d'application des dispositions de sûreté interne d'établissement prévues par l' ordonnance_n°_95- <NUM> du <DATE> relative à la protection du patrimoine public et à la sécurité des personnes qui leur sont liées ;
+vu le décret_exécutif_n°_98- <NUM> du <DATE> , modifié et complété, portant création, attribution et organisation des bureaux ministériels de la sûreté interne d'établissement, notamment son article_6 ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> fixant les attributions du ministre de l'industrie et de la production pharmaceutique ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant organisation de l'administration centrale du ministère de l'industrie et de la production pharmaceutique ;
+vu l'arrêté du <DATE> fixant la composition et le fonctionnement du bureau ministériel de la sûreté interne d'établissement au sein du ministère de l'industrie ;
+vu l'arrêté du <DATE> portant composition et fonctionnement du bureau ministériel de la sûreté interne d'établissement au sein du ministère de l'industrie pharmaceutique ;
+après avis du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire en date du <DATE> ;
+arrête :
+article <NUM> . — en application des dispositions de l' article_6 du décret_exécutif_n°_98- <NUM> du <DATE> , modifié et complété, susvisé, le présent arrêté a pour objet de fixer la composition et le fonctionnement du bureau ministériel de la sûreté interne d'établissement au sein du ministère de l'industrie et de la production pharmaceutique.
+article_2 . — dirigé par un chargé d'études et de synthèse, le bureau ministériel comprend deux ( <NUM> ) chefs d'études et deux ( <NUM> ) chargés d'études.
+article_3 . — les chefs d'études et les chargés d'études assistent le responsable du bureau ministériel dans la prise en charge de l'ensemble des questions liées aux attributions prévues par le décret_exécutif_n°_98- <NUM> du <DATE> , modifié et complété, susvisé.
+article_4 . — dans le cadre de l'accomplissement des missions qui lui sont dévolues, le bureau ministériel, en relation avec l'ensemble de structures organiques de sûreté interne d'établissement relevant du ministère de l'industrie et de la production pharmaceutique ou les établissements sous tutelle, prend toutes les mesures tendant à promouvoir et à consolider la sûreté interne d'établissement et de développer et à consolider la sûreté interne d'établissement et de développer les aspects liés à la protection du patrimoine public et à la sécurité des personnes qui lui sont liées.
+article_5 . — les dispositions de l'arrêté du <DATE> fixant la composition et le fonctionnement du bureau ministériel de la sûreté interne d'établissement au sein du ministère de l'industrie et les dispositions de l'arrêté du <DATE> portant composition et fonctionnement du bureau ministériel de la sûreté interne au sein du ministère de l'industrie pharmaceutique, sont abrogées. populaire.
+fait à alger, le <DATE> .
+ali aoun.
+ministere de l'agriculture et du developpement rural
+arrêté interministériel du <DATE> portant création des stations régionales de la protection des végétaux. ———— le premier ministre, le ministre des finances, et le ministre de l'agriculture et du développement rural,
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_93- <NUM> du <DATE> , modifié et complété, portant réaménagement des statuts de l'institut national de la protection des végétaux ;
+vu le décret_exécutif_n°_95- <NUM> du <DATE> fixant les attributions du ministre des finances ;
+vu le décret_exécutif_n°_14- <NUM> du <DATE> fixant les attributions du directeur général de la fonction publique et de la réforme administrative ;
+vu le décret_exécutif_n°_20- <NUM> du <DATE> fixant les attributions du ministre de l'agriculture et du développement rural ;
+vu l'arrêté interministériel du <DATE> fixant l'organisation interne de l'institut national de la protection des végétaux ;
+vu l'arrêté interministériel du <DATE> fixant la classification de l'institut national de la protection des végétaux et les conditions d'accès aux postes supérieurs en relevant ;
+arrêtent :
+article <NUM> . — en application des dispositions de l' article_23 du décret_exécutif_n°_93- <NUM> du <DATE> susvisé, le présent arrêté a pour objet de créer des stations régionales de la protection des végétaux, conformément au tableau ci-après :
+article_2 . — la compétence territoriale de chaque station régionale de la protection des végétaux est fixée par décision du directeur général de l'institut national de la protection des végétaux.
+fait à alger, le <DATE> .
+————h———— arrêté du <DATE> portant désignation des membres du conseil d'administration du centre national de l'insémination artificielle et de l'amélioration génétique. ————
+par arrêté du <DATE> , les membres dont les noms suivent, sont désignés, en application des dispositions de l' article_13 du décret_n°_88- <NUM> du <DATE> , modifié et complété, portant création d'un centre national de l'insémination artificielle et de l'amélioration génétique, au conseil d'administration du centre national de l'insémination artificielle et de l'amélioration génétique, pour une période renouvelable de trois ( <NUM> ) années :
+mmes. et mm. :
+— mohamed karim laoufi, représentant du ministre de l'agriculture et du développement rural, président ;
+— kheira tribeche, représentante du ministre chargé des finances ;
+— kamel boukheddache, représentant du ministre chargé du commerce ;
+— youcef laid, représentant du ministre chargé de la santé ;
+— raouf hadj aissa, représentant du ministre chargé de l'environnement ;
+— djamila hadj amar, représentante de l'institut national de la médecine vétérinaire ;
+— rachid el bouyahiaoui, représentant de l'institut national de la recherche agronomique d'algérie ;
+— mohamed lebied, représentant de l'institut technique des élevages ;
+— rabah ouled haddar, représentant de la chambre nationale de l'agriculture.
+stations régionales de la protection des végétaux station régionale de la protection des végétaux d'adrar
+station régionale de la protection des végétaux de chlef
+station régionale de la protection des végétaux de batna
+station régionale de la protection des végétaux de biskra
+station régionale de la protection des végétaux de béchar
+station régionale de la protection des végétaux de blida
+station régionale de la protection des végétaux de tamenghasset
+station régionale de la protection des végétaux de tizi ouzou
+station régionale de la protection des végétaux d'alger
+station régionale de la protection des végétaux de constantine
+station régionale de la protection des végétaux de mostaganem
+station régionale de la protection des végétaux d'oran
+station régionale de la protection des végétaux d'illizi
+station régionale de la protection des végétaux d'el tarf
+station régionale de la protection des végétaux de ghardaïa sièges commune de ouled ahmed timmi, wilaya d'adrar
+commune de labiod medjadja, wilaya de chlef
+commune de aïn touta, wilaya de batna
+commune de biskra, wilaya de biskra
+commune de erg ferradj, wilaya de béchar
+commune de boufarik, wilaya de blida
+commune d'abalessa, wilaya de tamenghasset
+commune de draa ben khedda, wilaya de tizi ouzou
+commune de oued smar, wilaya d'alger
+commune de constantine, wilaya de constantine
+commune de sayada, wilaya de mostaganem
+commune de messerghin, wilaya d'oran
+commune d'illizi, wilaya d'illizi
+commune de echatt, wilaya d'el tarf
+commune de gharaïa, wilaya de ghardaïa le ministre de l'agriculture et du développement rural youcef cherfa le ministre des finances
+laziz faid pour le premier ministre et par délégation, le chargé de la gestion de la direction générale de la fonction publique et de la réforme administrative abdelouahab laouici
+arrêté du <DATE> modifiant l'arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant désignation des membres du conseil scientifique du parc national de theniet el had (wilaya de tissemsilt). ————
+par arrêté du <DATE> , l'arrêté du <NUM> rajab <NUM> correspondant au <DATE> portant désignation des membres du conseil scientifique du parc national de theniet el had (wilaya de tissemsilt), est modifié comme suit, pour une durée de trois ( <NUM> ) ans renouvelable :"— abderrazek lahmer, directeur du parc national de theniet el had ;
+— djelloul ouar, chef de département ;
+— boualem belkaid, chargé des plantes médicinales ; (sans changement jusqu'à)
+— nazli nacerbay, maître de conférence classe"b";
+— gahdab chakali, professeur ; (sans changement) ;
+— habib mouissa, maître de conférence classe"a";
+— nassima yahi, maître assistant classe"a".". ————h————
+arrêté du <NUM> rajab <NUM> correspondant au <DATE> modifiant l'arrêté du <DATE> fixant la composition et le fonctionnement de la commission nationale de recours compétente en matière de classification des terres agricoles du domaine privé de l'etat, concédées. ————
+le ministre de l'agriculture et du développement rural,
+vu la loi_n°_90- <NUM> du <DATE> , modifiée et complétée, portant orientation foncière ;
+vu la loi_n°_90- <NUM> du <DATE> , modifiée et complétée, portant loi domaniale ;
+vu la loi_n°_08- <NUM> du aouel chaâbane <NUM> correspondant au <DATE> portant orientation agricole ;
+vu l' ordonnance_n°_10- <NUM> du <DATE> portant loi de finances complémentaire pour <NUM> , notamment ses articles <NUM> et <NUM> ;
+vu la loi_n°_10- <NUM> du <DATE> fixant les conditions et les modalités d'exploitation des terres agricoles du domaine privé de l'etat ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_12- <NUM> du <DATE> fixant les zones de potentialités agricoles servant de base au calcul de la redevance domaniale au titre du droit de concession sur les terres agricoles du domaine privé de l'etat ;
+vu le décret_exécutif_n°_20- <NUM> du <DATE> fixant les attributions du ministre de l'agriculture et du développement rural ;
+vu le décret_exécutif_n°_22- <NUM> du <DATE> portant organisation de l'administration centrale du ministère de l'agriculture et du développement rural ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> portant organisation de l'administration centrale du ministère de l'hydraulique ;
+vu l'arrêté du <DATE> fixant la composition et le fonctionnement de la commission nationale de recours compétente en matière de classification des terres agricoles du domaine privé de l'etat, concédées ;
+arrête :
+article <NUM> . — le présent arrêté à pour objet de modifier certaines dispositions de l'arrêté du <DATE> fixant la composition et le fonctionnement de la commission nationale de recours compétente en matière de classification des terres agricoles du domaine privé de l'etat, concédées.
+article_2 . — les dispositions des articles <NUM> et <NUM> de l'arrêté du <DATE> susvisé, sont modifiées et rédigées comme suit :" article_3 . — la commission nationale, présidée par le directeur de l'organisation foncière et de la mise en valeur des terres du ministère de l'agriculture et du développement rural, est composée :
+au titre du ministère de l'agriculture et du développement rural :
+— du directeur de la valorisation des territoires ruraux et de l'adaptation de l'agriculture au changement climatique ;
+— (le reste sans changement) ;
+au titre du ministère des finances :
+— (sans changement) ;
+au titre du ministère de l'hydraulique :
+— (sans changement) ;
+— (le reste sans changement) "." article_4 . — le secrétariat de la commission nationale est assuré par les services de la direction de l'organisation foncière et de la mise en valeur des terres.
+(le reste sans changement) ".
+fait à alger, le <NUM> rajab <NUM> correspondant au <DATE> .
+youcef cherfa.
+vu le décret_présidentiel_n°_23- <NUM> du <NUM> rajab <NUM> correspondant au <DATE> fixant les missions et les modalités d'organisation et de fonctionnement du secrétariat exécutif de l'autorité nationale de protection des données à caractère personnel ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant statut des personnels de l'autorité nationale de protection des données à caractère personnel ;
+vu le décret présidentiel du aouel rabie ethani <NUM> correspondant au <DATE> portant nomination du président de l'autorité nationale de protection des données à caractère personnel ;
+arrête :
+article <NUM> . — en application des dispositions de l' article_21 du décret_n°_82- <NUM> du <DATE> relatif à la gestion des œuvres sociales, il est créé, au sein de l'autorité nationale de protection des données à caractère personnel, une commission des œuvres sociales.
+fait à alger, le <DATE> .
+samir bourehil.
+autorite nationale de protection des donnees a caractere personnel
+arrêté du <DATE> portant création d'une commission des œuvres sociales au sein de l'autorité nationale de protection des données à caractère personnel. ————
+le président de l'autorité nationale de protection des données à caractère personnel,
+vu la loi_n°_83- <NUM> du <DATE> portant création du fonds national de péréquation des œuvres sociales ;
+vu la loi_n°_18- <NUM> du <DATE> relative à la protection des personnes physiques dans le traitement des données à caractère personnel ;
+vu le décret_n°_82- <NUM> du <DATE> , complété, fixant le contenu et le mode de financement des œuvres sociales ;
+vu le décret_n°_82- <NUM> du <DATE> relatif à la gestion des œuvres sociales, notamment ses articles <NUM> et <NUM> ;

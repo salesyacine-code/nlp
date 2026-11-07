@@ -1,0 +1,90 @@
+{
+  "total_documents_analyzed": 50,
+  "number_experiments": {
+    "preserved": {
+      "strategy_name": "Preserved Exactly",
+      "total_tokens": 716370,
+      "vocabulary_size": 32466,
+      "numeric_tokens_count": 5558,
+      "numeric_token_pct": 17.12,
+      "avg_token_length": 5.22,
+      "reduction_from_baseline_pct": 0.0
+    },
+    "normalized": {
+      "strategy_name": "Normalized Format",
+      "total_tokens": 700074,
+      "vocabulary_size": 32481,
+      "numeric_tokens_count": 5573,
+      "numeric_token_pct": 17.16,
+      "avg_token_length": 5.35,
+      "reduction_from_baseline_pct": -0.05
+    },
+    "tokenized": {
+      "strategy_name": "Replaced with <NUM>",
+      "total_tokens": 729670,
+      "vocabulary_size": 27384,
+      "numeric_tokens_count": 328,
+      "numeric_token_pct": 1.2,
+      "avg_token_length": 5.3,
+      "reduction_from_baseline_pct": 15.65
+    }
+  },
+  "date_experiments": {
+    "preserved": {
+      "strategy_name": "Preserved Verbatim",
+      "total_tokens": 716370,
+      "vocabulary_size": 32466,
+      "numeric_tokens_count": 5558,
+      "numeric_token_pct": 17.12,
+      "avg_token_length": 5.22,
+      "reduction_from_baseline_pct": 0.0
+    },
+    "normalized": {
+      "strategy_name": "Unified Canonical Format",
+      "total_tokens": 749232,
+      "vocabulary_size": 32479,
+      "numeric_tokens_count": 5563,
+      "numeric_token_pct": 17.13,
+      "avg_token_length": 5.26,
+      "reduction_from_baseline_pct": -0.04
+    },
+    "tokenized": {
+      "strategy_name": "Replaced with <DATE>",
+      "total_tokens": 661137,
+      "vocabulary_size": 32354,
+      "numeric_tokens_count": 5441,
+      "numeric_token_pct": 16.82,
+      "avg_token_length": 5.26,
+      "reduction_from_baseline_pct": 0.34
+    }
+  },
+  "reference_experiments": {
+    "preserved": {
+      "strategy_name": "Preserved (Unbound Tokens)",
+      "total_tokens": 716370,
+      "vocabulary_size": 32466,
+      "numeric_tokens_count": 5558,
+      "numeric_token_pct": 17.12,
+      "avg_token_length": 5.22,
+      "reduction_from_baseline_pct": 0.0
+    },
+    "bound": {
+      "strategy_name": "Bound Entities (loi_n°_XX-YY)",
+      "total_tokens": 703906,
+      "vocabulary_size": 32666,
+      "numeric_tokens_count": 5763,
+      "numeric_token_pct": 17.64,
+      "avg_token_length": 5.35,
+      "reduction_from_baseline_pct": -0.62
+    },
+    "tokenized": {
+      "strategy_name": "Special Entity Tokens",
+      "total_tokens": 703906,
+      "vocabulary_size": 31263,
+      "numeric_tokens_count": 4359,
+      "numeric_token_pct": 13.94,
+      "avg_token_length": 5.34,
+      "reduction_from_baseline_pct": 3.71
+    }
+  }
+}

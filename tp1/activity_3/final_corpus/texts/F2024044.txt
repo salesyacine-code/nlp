@@ -1,0 +1,728 @@
+n° <NUM> <NUM> annee jeudi <DATE>
+abonnement annuel
+edition originale
+edition originale et sa traduction
+edition originale, le numéro : <NUM> dinars . edition originale et sa traduction, le numéro : <NUM> dinars .
+numéros des années antérieures : suivant barème. les tables sont fournies gratuitement aux abonnés.
+prière de joindre la dernière bande pour renouvellement, réclamation, et changement d'adresse.
+tarif des insertions : <NUM> dinars la ligne algérie tunisie maroc libye mauritanie
+<NUM> an
+<NUM> dinars
+<NUM> dinars etranger
+(pays autres que le maghreb)
+<NUM> an
+<NUM> dinars
+<NUM> dinars
+(frais d'expédition en sus) abonnement et publicié :
+les vergers, bir mourad raïs, bp <NUM> etranger : (compte devises) conventions et accords internationaux - lois et decrets arretes, decisions, a vis, communications et annonces (traduction française)
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du premier ministre
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre des affaires étrangères et de la communauté nationale à l'étranger
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre des affaires étrangères et de la communauté nationale à l'étranger
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de la justice, garde des sceaux
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de l'énergie et des mines
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de l'agriculture et du développement rural
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre des transports
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de la santé
+décret_exécutif_n°_24- <NUM> du <DATE> portant virement de crédits, au titre du budget de l'etat, mis à la disposition du ministre de l'économie de la connaissance, des start-up et des micro-entreprises
+décision_n°_08/d .cc/ <NUM> du <DATE> relative à la déclaration de la vacance de siège et au remplacement d'un député à l'assemblée populaire nationale
+arrêté interministériel du <DATE> fixant le nombre de vérificateurs de gestion et d'auditeurs auprès de l'inspection générale des services des douanes ainsi que les conditions de leur nomination et leur bonification indiciaire
+arrêté du <DATE> fixant les conditions d'agrément des zones de dégagement par l'administration des douanes
+arrêté du <DATE> fixant les taux et les modalités de recouvrement des redevances perçues par la commission d'organisation et de surveillance des opérations de bourse
+sommaire arretes, decisions et a vis decrets cour constitutionnelle ministere des finances
+arrêté du <DATE> modifiant l'arrêté du <DATE> portant nomination des membres du conseil d'administration du musée régional du moudjahid de biskra
+arrêté du <DATE> modifiant l'arrêté du <DATE> portant désignation des membres de la commission sectorielle des marchés publics du ministère du commerce et de la promotion des exportations
+arrêté du <DATE> portant délégation de signature au directeur général du commerce extérieur
+arrêté du <DATE> portant délégation de signature au directeur général du contrôle économique et de la répression des fraudes
+arrêté du <NUM> chaoual <NUM> correspondant au <DATE> modifiant l'arrêté du <DATE> portant nomination des membres du conseil d'administration de la caisse nationale d'assurance chômage
+arrêté du <NUM> chaoual <NUM> correspondant au <DATE> portant désignation des membres de la commission nationale de recours préalable qualifiée en matière de sécurité sociale, créée au sein de la caisse nationale des assurances sociales des travailleu rs salariés (cnas)
+arrêté du <NUM> chaoual <NUM> correspondant au <DATE> portant désignation des membres de la commission nationale de recours préalable qualifiée en matière de sécurité sociale, créée au sein de la caisse nationale de sécurité sociale des non-salariés (casnos)
+arrêté du <NUM> chaoual <NUM> correspondant au <DATE> portant désignation des membres de la commission nationale de recours préalable qualifiée en matière de sécurité sociale, créée au sein de la caisse nationale des retraites (cnr)
+arrêté du <NUM> chaoual <NUM> correspondant au <DATE> modifiant l'arrêté du <DATE> portant nomination des membres du conseil d'administration de la caisse nationale des assurances sociales des travailleurs salariés
+sommaire (suite) ministere des moudjahidine et des ayants-droit ministere du tra v ail, de l'emploi et de la securite sociale ministere du commerce et de la promotion des exportations
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits au titre du budget de l'etat. ————
+le président de la république, sur le rapport conjoint du ministre des finances, du ministre de l'industrie et de la production pharmaceutique et du ministre de l'hydraulique,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'industrie et de la production pharmaceutique ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'hydraulique ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au
+titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de un milliard deux cent dix-sept millions neuf cent mille dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de un milliard deux cent dix-sept millions neuf cent mille dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable aux portefeuilles de programmes des ministères, réparti conformément à l'état annexé au présent décret.
+article_3 . — le ministre des finances, le ministre de l'industrie et de la production pharmaceutique et le ministre de l'hydraulique sont chargés, chacun en ce qui le concerne,
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+decrets ———————— etat annexe en da intitulés des programmes et sous-programmes ministère de l'industrie et de la production pharmaceutique
+programme : appui à l'investissement
+sous-programme : promotion de l'investissement
+ministère de l'hydraulique
+programme : assainissement et protection du milieu naturel
+sous-programme : protection des villes contre les inondations
+total
+titre <NUM> : dépenses d'investissement autorisations d'engagement crédits de paiement <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de quarante-six millions quatre cent quatre-vingt-cinq mille dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et un montant de quatre-vingt-dix millions cinq cent cinquante-trois mille cent soixante dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicables à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de quarante-six millions quatre cent quatre-vingt-cinq mille dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et un montant de quatre-vingt-dix millions cinq cent cinquante-trois mille cent soixante dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicables au portefeuille de programmes des services du premier ministre, répartis conformément à l'état annexé au présent décret.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du premier ministre. ————
+le président de la république, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du premier ministre ;
+vu le décret_exécutif_n°_24 - <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances ; ———————— etat annexe en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses d'investissement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement <NUM>
+<NUM>
+<NUM> activité du premier ministre
+gestion, coordination et suivi de l'activité du gouvernement
+total des crédits ouverts <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> total
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au
+titre du budget de l'etat, mis à la disposition du ministre des affaires étrangères et de la communauté nationale à l'étranger. ————
+le président de la république,
+sur le rapport conjoint du ministre des finances et du ministre des affaires étrangères et de la communauté nationale à l'étranger,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <NUM> dhou ei hidja <NUM> correspondant au <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des affaires étrangères et de la communauté nationale à l'étranger ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances ;
+décrète :
+article <NUM> . — ll est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de dix-neuf milliards cent quarante millions cent vingt-quatre mille dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et un montant de dix-neuf milliards sept cent quatre-vingt-treize millions quatre cent quatre-vingt-deux mille dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicables à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de dix-neuf milliards cent quarante millions cent vingt-quatre mille dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et un montant de dix-neuf milliards sept cent quatre-vingt-treize millions quatre cent quatre-vingt-deux mille dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicables au portefeuille de programmes du ministère des affaires étrangères et de la communauté nationale à l'étranger, répartis conformément à l'état annexé au présent décret.
+article_3 . — le ministre des finances et le ministre des affaires étrangères et de la communauté nationale à l'étranger sont
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+etat annexe
+en da crédits de paiement <NUM>
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM> —
+—
+—
+<NUM>
+<NUM>
+<NUM> —
+—
+—
+<NUM>
+<NUM>
+<NUM> —
+—
+—
+—
+—
+— <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissement
+titre <NUM> : dépenses de transferttotal activité diplomatique et consulaire
+diplomatie et relations extérieures
+affaires consulaires et communauté nationale à l'étranger
+administration générale
+soutien administratif
+total des crédits ouverts intitulés des programmes et sous-programmesautorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement
+titre <NUM> : dépenses de personnel
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre des affaires étrangères et de la communauté nationale à l'étranger. ————
+le président de la république, sur le rapport conjoint du ministre des finances et du ministre des affaires étrangères et de la communauté nationale à l'étranger,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des affaires étrangères et de la communauté nationale à l'étranger ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de quatre cent quatre-vingt-dix-sept millions cent cinquante mille dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de quatre-cent quatre-vingt-dix-sept millions cent cinquante mille dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable au programme"administration générale", au sous-programme"soutien administratif"et au titre <NUM> "dépenses de transfert"du portefeuille de programmes du ministère des affaires étrangères et de la communauté nationale à l'étranger.
+article_3 . — le ministre des finances et le ministre des affaires étrangères et de la communauté nationale à l'étranger sont chargés, chacun en ce qui le concerne, de l'exécution du
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de la justice, garde des sceaux. ————
+le président de la république, sur le rapport conjoint du ministre des finances et du ministre de la justice, garde des sceaux,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la justice, garde des sceaux ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de seize milliards six cent vingt-neuf millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de seize milliards six cent vingt-neuf millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable au portefeuille de programmes du ministère de la justice, réparti conformément à l'état annexé au présent décret.
+article_3 . — le ministre des finances et le ministre de la justice, garde des sceaux sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera publié au populaire.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+etat annexe
+en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de fonctionnement des services autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement <NUM>
+<NUM>
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> activité judiciaire
+activité judiciaire ordinaire et administrative
+soutien administratif
+administration pénitentiaire
+conditions de détention
+réinsertion sociale
+sécurité
+soutien administratif
+répression de la corruption
+stratégie, appui technique et administratif
+administration générale
+soutien administratif
+total des crédits ouverts <NUM>
+<NUM>
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+titre <NUM> : dépenses de transfert autorisations d'engagement crédits de paiement <NUM>
+—
+<NUM>
+—
+—
+—
+—
+—
+—
+—
+<NUM>
+<NUM>
+<NUM>
+—
+<NUM>
+—
+—
+—
+—
+—
+—
+—
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> total décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de l'énergie et des mines. ————
+le président de la république, sur le rapport conjoint du ministre des finances et du ministre de l'énergie et des mines,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'énergie et des mines ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de vingt-neuf millions six cent mille dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et un montant de quatre-vingt-quinze millions six cent mille dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicables à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de vingt-neuf millions six cent mille dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et un montant de quatre-vingt-quinze millions six cent mille dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicables au programme"administration générale", au sous-programme"gestion du ministère"et répartis par titre, conformément à l'état annexé au présent décret.
+article_3 . — le ministre des finances et le ministre de l'énergie et des mines sont chargés, chacun en ce qui le concerne, de
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de l'agriculture et du développement rural. ————
+le président de la république,
+sur le rapport conjoint du ministre des finances et du ministre de l'agriculture et du développement rural,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa ler) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'agriculture et du développement rural ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au
+titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de cinquante-six milliards huit cent quatre-vingt-dix-sept millions cinq cent mille dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de cinquante-six milliards huit cent quatre-vingt-dix-sept millions cinq cent mille dinars ( <NUM> . <NUM> dinars ) en crédits de paiement, applicable au programme"agriculture et développement rural", au sous-programme"développement de l'agriculture"et au titre <NUM> "dépenses d'investissement"du portefeuille de programmes du ministère de l'agriculture et du développement rural.
+article_3 . — le ministre des finances et le ministre de l'agriculture et du développement rural sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui démocratique et populaire.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+etat annexe en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de fonctionnement des services autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement <NUM>
+<NUM>
+<NUM> programme :
+administration générale
+sous-programme : gestion du ministère
+total des crédits mis à la disposition du ministre de l'énergie et des mines <NUM>
+<NUM>
+<NUM>
+titre <NUM> : dépenses d'investissement autorisations d'engagement crédits de paiement —
+—
+— <NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM>
+<NUM> total
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre des transports. ————
+le président de la république,
+sur le rapport conjoint du ministre des finances et du ministre des transports,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa ler) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des transports ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de huit cent soixante-dix-neuf millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de huit cent soixante-dix-neuf millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement applicable au portefeuille de programmes du ministère des transports, au programme"mobilité et logistique", au sous-programme"transports ferroviaires et guidés"et au titre <NUM> "dépenses d'investissement".
+article_3 . — le ministre des finances et le ministre des transports sont chargés, chacun en ce qui le concerne, de
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+décret_présidentiel_n°_24- <NUM> du <DATE> portant transfert de crédits, au titre du budget de l'etat, mis à la disposition du ministre de la santé. ————
+le président de la république,
+sur le rapport conjoint du ministre des finances et du ministre de la santé,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa ler) ;
+vu la loi_organique_n°_18- <NUM> du <NUM> dhou el hidia <NUM> correspondant au <DATE> , modifiée et complété, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la santé ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de un milliard neuf cent dix millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement, applicable à la dotation"montant non assigné", imputables au titre <NUM> "dépenses imprévues", gérée par le ministre des finances.
+article_2 . — il est ouvert, sur <NUM> , un montant de un milliard neuf cent dix millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement, applicable au programme"prévention et soins", au sous-programme"prévention et soins"et au titre <NUM> "dépenses d'investissement"du portefeuille de programmes du ministère de la santé.
+article_3 . — le ministre des finances et le ministre de la santé sont chargés, chacun en ce qui le concerne, de l'exécution du
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+arretes, decisions et a vis
+vu le décret_présidentiel_n°_21- <NUM> du <NUM> rajab <NUM> correspondant au <DATE> portant convocation du corps électoral pour l'élection des membres de l'assemblée populaire nationale ;
+vu la proclamation du conseil constitutionnel n° <NUM> /p.c.c/ <NUM> du <DATE> portant résultats définitifs de l'élection des membres de l'assemblée populaire nationale qui a eu lieu le aouel dhou el kaâda <NUM> correspondant au <DATE> ;
+vu le règlement du <DATE> fixant les règles de fonctionnement de la cour constitutionnelle, notamment en ses articles <NUM> et <NUM> ;
+vu le règlement intérieur de la cour constitutionnelle du <DATE> ;
+vu la déclaration du bureau de l'assemblée populaire nationale, lors de sa réunion tenue le mardi <DATE> , de la vacance du siège du député abdenacer ardjoune, élu sur la liste du front de libération nationale, circonscription électorale d'el meghaier, par suite de démission ;
+cour constitutionnelle
+décision_n°_08/d .cc/ <NUM> du <DATE> relative à la déclaration de la vacance de siège et au remplacement d'un député à l'assemblée populaire nationale. ————
+la cour constitutionnelle,
+vu la constitution, notamment en ses articles <NUM> , <NUM> , <NUM> et <NUM> ;
+vu la loi_organique_n°_16- <NUM> du <DATE> fixant l'organisation et le fonctionnement de l'assemblée populaire nationale et du conseil de la nation ainsi que les relations fonctionnelles entre les chambres du parlement et le gouvernement ;
+vu l' ordonnance_n°_21- <NUM> du <NUM> rajab <NUM> correspondant au <DATE> , modifiée et complétée, portant loi organique relative au régime électoral, notamment en ses articles <NUM> et <NUM> ;
+décrète :
+article <NUM> . — il est annulé, sur les crédits ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , un montant de trente-deux millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable au portefeuille de programmes du ministère de l'économie de la connaissance, des start-up et des micro- entreprises, au programme"promotion de l'économie de la connaissance, des start-up et de l'entrepreneuriat", au sous-programme"promotion de l'entrepreneuriat et de la créativité"et au titre <NUM> "dépenses de transfert".
+article_2 . — il est ouvert, sur <NUM> , un montant de trente-deux millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement, applicable au portefeuille de programmes du ministère de l'économie de la connaissance, des start-up et des micro-entreprises, au programme"administration générale", au sous- programme"soutien administratif"et au titre <NUM> "dépenses de transfert".
+article_3 . — le ministre des finances et le ministre de l'économie de la connaissance, des start-up et des micro-entreprises sont chargés, chacun en ce qui le concerne, de l'exécution du
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+décret_exécutif_n°_24- <NUM> du <DATE> portant virement de crédits, au titre du budget de l'etat, mis à la disposition du ministre de l'économie de la connaissance, des start-up et des micro-entreprises. ————
+le premier ministre, sur le rapport conjoint du ministre des finances et du ministre de l'économie de la connaissance, des start-up et des micro-entreprises,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'économie de la connaissance, des start-up et des micro-entreprises ;
+vu la correspondance du président de l'assemblée populaire nationale n° <NUM> / <NUM> datée du <DATE> et enregistrée au service du greffe de la cour constitutionnelle en date du <DATE> sous le numéro <NUM> / <NUM> visant la déclaration de la vacance du siège du député abdenacer ardjoune et la désignation du député remplaçant ; après avoir pris connaissance de l'extrait du procès-verbal de la réunion du bureau de l'assemblée populaire nationale, tenue le mardi <DATE> ; le membre rapporteur entendu,
+après en avoir délibéré,
+attendu qu'après examen du dossier de remplacement du député abdenacer ardjoune et consultation de sa lettre de démission ;
+attendu que le bureau de l'assemblée populaire nationale s'est réuni le mardi <DATE> et a déclaré la vacance du siège du député abdenacer ardjoune, par suite de démission ;
+attendu que le président de l'assemblée populaire nationale a sollicité la cour constitutionnelle à l'effet de déclarer la vacance du siège et de lui faire parvenir la décision de remplacement du député suscité ;
+attendu que la demande de démission datée du <DATE> sous le numéro <NUM> / <NUM> indique que le dénommé abdenacer ardjoune a présenté sa démission de son mandat parlementaire ;
+attendu que le député démissionnaire, abdenacer ardjoune, est élu sur la liste du front de libération nationale, circonscription électorale d'"el meghaier";
+attendu que l' article_215 de l' ordonnance_n°_21- <NUM> du <NUM> rajab <NUM> correspondant au <DATE> , modifiée et complétée, portant loi organique relative au régime électoral, prévoit que sans préjudice des dispositions constitutionnelles et législatives en vigueur, le député dont le siège devient vacant par suite de décès, de démission, d'empêchement légal, d'exclusion, de déchéance de son mandat électif ou d'acceptation de l'une des fonctions énumérées dans la loi organique fixant les cas d'incompatibilité avec le mandat parlementaire, est remplacé par le candidat ayant obtenu le plus grand nombre de voix après le dernier candidat élu de la liste, pour la période restante du mandat ;
+attendu qu'en vertu des dispositions de l' article_216 de l' ordonnance_n°_21- <NUM> du <NUM> rajab <NUM> correspondant au <DATE> , modifiée et complétée, susvisée, la vacance du siège d'un député est déclarée par le bureau de l'assemblée populaire nationale. cette déclaration est immédiatement notifiée à la cour constitutionnelle pour l'annonce de la vacance et la désignation du remplaçant du candidat ; attendu qu'au vu de la proclamation du conseil constitutionnel n° <NUM> /p.c.c/ <NUM> du <DATE> portant résultats définitifs de l'élection des membres de l'assemblée populaire nationale, et eu égard à la la liste du front de libération nationale, circonscription électorale d'el meghaier, il ressort que le candidat imadeddine beriala a obtenu <NUM> voix, soit le plus grand nombre de voix après le dernier candidat élu sur la liste, et par conséquent, il est habilité à remplacer le député démissionnaire, abdenacer ardjoune, et ce, pour la période restante du mandat parlementaire ;
+par ces motifs
+la cour constitutionnelle décide ce qui suit :
+premièrement : déclare la vacance du siège du député abdenacer ardjoune par suite de démission.
+deuxièmement : le député abdenacer ardjoune est remplacé par le candidat imadeddine beriala, de la même liste électorale, pour la période restante du mandat parlementaire.
+troisièmement : une copie de la présente décision est notifiée au président de l'assemblée populaire nationale et au président de l'autorité nationale indépendante des élections.
+quatrièmement : la présente décision sera publiée au populaire.
+ainsi en a-t-il été délibéré par la cour constitutionnelle en sa séance du <DATE> .
+le président de la cour constitutionnelle
+omar belhadj
+leïla aslaoui, membre ;
+bahri saadallah, membre ;
+mosbah menas, membre ;
+naceurdine saber, membre ;
+ameldine boulanouar, membre ;
+fatiha benabbou, membre ;
+abdelouahab kherief, membre ;
+abdelhafid ossoukine, membre ;
+ammar boudiaf, membre.
+ministere des finances
+arrêté interministériel du <DATE> fixant le nombre de vérificateurs de gestion et d'auditeurs auprès de l'inspection générale des services des douanes ainsi que les conditions de leur nomination et leur bonification indiciaire. ————
+le premier ministre, et le ministre des finances,
+vu l' ordonnance_n°_06- <NUM> du <DATE> , complétée, portant statut général de la fonction publique ;
+vu le décret_présidentiel_n°_07- <NUM> du <DATE> , modifié et complété, fixant la grille indiciaire des traitements et le régime de rémunération des fonctionnaires ;
+vu le décret_présidentiel_n°_07- <NUM> du <DATE> , modifié, fixant les modalités d'attribution de la bonification indiciaire aux titulaires de postes supérieurs dans les institutions et administrations publiques ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_95- <NUM> du <DATE> fixant les attributions du ministre des finances ;
+vu le décret_exécutif_n°_08- <NUM> du <DATE> , modifié et complété, portant statut particulier des fonctionnaires appartenant aux corps communs aux institutions et administrations publiques ;
+vu le décret_exécutif_n°_10- <NUM> du <NUM> dhou ei hidja <NUM> correspondant au <DATE> portant statut particulier des fonctionnaires appartenant aux corps spécifiques de l'administration des douanes ;
+vu le décret_exécutif_n°_14- <NUM> du <DATE> fixant les attributions du directeur général de la fonction publique et de la réforme administrative ;
+vu le décret_exécutif_n°_17- <NUM> du <DATE> portant organisation et fonctionnement de l'inspection générale des services des douanes, notamment son article_24 ;
+arrêtent :
+article <NUM> . — en application des dispositions de l' article_24 du décret_exécutif_n°_17- <NUM> du <DATE> susvisé, le présent arrêté a pour objet de fixer le nombre de vérificateurs de gestion et d'auditeurs auprès de l'inspection générale des services des douanes ainsi que les conditions de leur nomination et leur bonification indiciaire.
+article_2 . — le nombre de vérificateurs de gestion et d'auditeurs est fixé comme suit :
+vérificateurs de gestion
+auditeurs liste de postes supérieurs nombre de postes supérieurs
+article_3 . — les vérificateurs de gestion et les auditeurs sont nommés par arrêté du ministre chargé des finances sur proposition du directeur général des douanes, parmi :
+<NUM> . les fonctionnaires titulaires appartenant aux grades de contrôleur général en chef, de contrôleur général, d'administrateur conseiller ou à un grade équivalent dans l'administration des douanes ;
+<NUM> . les fonctionnaires titulaires appartenant aux grades d'inspecteur divisionnaire, d'administrateur principal ou à un grade équivalent justifiant de cinq ( <NUM> ) années de service effectif en cette qualité, dont trois ( <NUM> ) années exercées dans l'administration des douanes ;
+<NUM> . les fonctionnaires titulaires appartenant aux grades d'inspecteur principal, d'administrateur analyste, d'administrateur ou à un grade équivalent justifiant de sept ( <NUM> ) années de service effectif en cette qualité, dont cinq ( <NUM> ) années exercées dans l'administration des douanes.
+article_4 . — la bonification indiciaire des titulaires des postes supérieurs de vérificateurs de gestion et d'auditeurs, est fixée conformément au tableau ci-après :
+niveau indice vérificateurs de gestion
+auditeurs
+postes supérieurs bonification indiciaire fait à alger, le <DATE> .
+pour le premier ministre et par délégation,
+le chargé de la gestion de la direction générale de la fonction publique et de la réforme administrative
+abdelouahab laouici le ministre des finances
+laziz faid
+arrêté du <DATE> fixant les conditions d'agrément des zones de dégagement par l'administration des douanes. ————
+le ministre des finances,
+vu l' ordonnance_n°_75- <NUM> du <DATE> portant organisation du séjour des marchandises dans les ports ;
+vu l' ordonnance_n°_76- <NUM> du <DATE> , modifiée et complétée, portant code maritime ;
+vu la loi_n°_79- <NUM> du <DATE> , modifiée et complétée, portant code des douanes, notamment son
+article_203 ;
+vu la loi_n°_20- <NUM> du <DATE> , modifiée et complétée, relative au registre de commerce ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_n°_84- <NUM> du <DATE> portant institution d'un périmètre de protection des installations et infrastructures ;
+vu le décret_exécutif_n°_95- <NUM> du <DATE> fixant les attributions du ministre des finances ;
+vu le décret_exécutif_n°_02- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> fixant le règlement général d'exploitation et de sécurité des ports ;
+vu le décret_exécutif_n°_03- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> fixant les conditions particulières relatives au transport routier de matières dangereuses ;
+vu le décret_exécutif_n°_11- <NUM> du <DATE> fixant l'organisation et le fonctionnement des services extérieurs de la direction générale des douanes ;
+vu le décret_exécutif_n°_17- <NUM> du <DATE> portant organisation et attributions de l'administration centrale de la direction générale des douanes ;
+arrête :
+article <NUM> . — en application des dispositions de l' article_203 de la loi_n°_79- <NUM> du <DATE> , modifiée et complétée, susvisée, le présent arrêté a pour objet de fixer les conditions d'agrément des zones de dégagement par l'administration des douanes.
+article_2 . — les conditions de création et d'exploitation des zones de dégagement sous contrôle douanier mises à la charge de l'exploitant, sont fixées dans le cahier des charges annexé au présent arrêté.
+section <NUM> dispositions générales
+article_3 . — les zones de dégagement sont des espaces agréés par l'administration des douanes, situées en dehors des dépôts temporaires portuaires, destinées au stockage des marchandises mises en dépôt d'office ainsi que les marchandises non enlevées, telles que prévues par les articles <NUM> à <NUM> de l' ordonnance_n°_76- <NUM> du <DATE> , modifiée et complétée, susvisée.
+article_4 . — la création des zones de dégagement est réservée aux entreprises portuaires exploitantes des dépôts temporaires.
+article_5 . — les marchandises qui présentent un danger, telles que définies par la législation et la réglementation en vigueur ou susceptibles d'altérer les autres marchandises ou celles exigeant des conditions spécifiques de stockage, ne peuvent être transférées que vers les zones de dégagement dotées d'installations particulières aménagées à cet effet.
+article_6 . — la superficie minimale de l'assiette foncière devant être réservée à la création de zone de dégagement sous contrôle douanier, est fixée à dix mille ( <NUM> ) m2.
+toutefois, pour des considérations liées à l'activité de l'exploitant de la zone de dégagement et à la nature des marchandises à stocker, l'administration des douanes peut accepter une superficie inférieure à celle sus-citée.
+section <NUM> constitution et instruction du dossier d'accord préalable
+article_7 . — la création de la zone de dégagement est subordonnée à un accord préalable du directeur général des douanes.
+la demande d'accord préalable, précisant le nom, le (s) prénom (s) ou la raison sociale et l'adresse de l'exploitant du dépôt temporaire ainsi que le lieu devant abriter la zone de dégagement, est déposée auprès du chef de l'inspection divisionnaire des douanes, territorialement compétent par rapport au lieu d'implantation de cette zone, accompagnée des documents suivants :
+— l'original du cahier des charges prévu à l' article_2 du présent arrêté, dûment approuvé par l'opérateur ;
+— l'attestation délivrée par le wali, territorialement compétent, précisant que le terrain devant abriter la zone de dégagement ne fait pas partie du foncier agricole et du périmètre de protection des installations et des infrastructures, tels que prévu par la législation et la réglementation en vigueur ;
+— le plan de masse et de situation des locaux et/ou du terrain, établi par les services dûment habilités ;
+— une copie des statuts de création pour les personnes morales.
+article_8 . — le dossier étudié par le chef d'inspection divisionnaire des douanes territorialement compétent, est transmis avec avis motivé au directeur régional des douanes territorialement compétent, dans un délai maximum de huit ( <NUM> ) jours, à compter de la date de sa réception.
+le directeur régional des douanes territorialement compétent transmet le dossier, avec avis motivé, à la direction générale des douanes, dans un délai n'excédant pas quinze ( <NUM> ) jours, à compter de la date de sa réception.
+le directeur général des douanes délivre un accord préalable, valable pour une durée d'une ( <NUM> ) année, à compter de la date de sa notification, renouvelable une fois, sur demande motivée du bénéficiaire.
+section <NUM> constitution et instruction du dossier d'agrément
+article_9 . — les bénéficiaires de l'accord préalable ayant satisfait aux prescriptions du cahier des charges prévu à l' article_2 ci-dessus, doivent déposer auprès du chef de l'inspection divisionnaire des douanes territorialement compétent, avant l'expiration du délai de validité de l'accord préalable susvisé, un dossier d'agrément composé des documents suivants :
+— une demande précisant le nom , le (s) prénom (s) ou la raison sociale, l'adresse du bénéficiaire et celle des lieux devant servir de zone de dégagement, ainsi que la superficie de cette dernière ;
+— une copie de l'acte de propriété, de concession ou du contrat de location notarié, dont la durée minimale est de trois ( <NUM> ) années ;
+— un plan de masse faisant ressortir les aménagements effectués, délivré par les services compétents ;
+— une copie de l'attestation de conformité des lieux aux normes de sécurité, délivrée par les services de la protection civile territorialement compétents ;
+— une copie de l'autorisation délivrée par les services concernés, pour le stockage des produits dangereux dans le cas où la zone de dégagement est apte à recevoir ces produits dangereux ;
+— une copie des accords des services de contrôle sanitaire, vétérinaire, phytosanitaire et de conformité, pour l'exercice de leurs missions au niveau de la zone de dégagement.
+article_10 . — la conformité des locaux, des aménagements, des installations et des équipements fait l'objet d'un procès-verbal de constat établi par les services de l'inspection divisionnaire des douanes territorialement compétents.
+en cas de constat de réserves sur la conformité, le chef de l'inspection divisionnaire des douanes doit les porter par écrit à la connaissance du demandeur.
+article_11 . — le chef de l'inspection divisionnaire des douanes transmet, avec avis motivé, au directeur régional des douanes, la demande d'agrément, accompagnée des documents visés aux articles <NUM> et <NUM> ci-dessus, dans un délai n'excédant pas quinze ( <NUM> ) jours, à compter de la date de dépôt de la demande.
+article_12 . — le directeur régional des douanes transmet le dossier de demande d'agrément, avec avis motivé, à la direction générale des douanes, dans un délai n'excédant pas huit ( <NUM> ) jours, à compter de la date de sa réception.
+article_13 . — la décision d'agrément de la zone de dégagement est prise par le directeur général des douanes à l'appui du dossier étudié par le chef de l'inspection divisionnaire des douanes et assorti de l'avis favorable du directeur régional des douanes territorialement compétent.
+section <NUM> transfert, séjour et enlèvement des marchandises
+article_14 . — l'exploitant du dépôt temporaire arrête la liste des marchandises concernées par le transfert vers la zone de dégagement et la transmet au receveur des douanes compétent pour accord, conformément aux dispositions des articles <NUM> de la loi_n°_79- <NUM> du <DATE> , modifiée et complétée, susvisée, et <NUM> de l' ordonnance_n°_76- <NUM> du <DATE> , modifiée et complétée, susvisée.
+dans le cas où la zone de dégagement est située en dehors de la circonscription territoriale du receveur des douanes dépositaire, une convention est conclue entre ce dernier et le receveur des douanes du lieu d'implantation de ladite zone, pour consacrer le transfert de la responsabilité de la gestion des marchandises transférées.
+article_15 . — dans le cas où l'exploitant du dépôt temporaire ne dispose pas d'une zone de dégagement, les marchandises concernées peuvent être transférées vers une zone de dégagement exploitée par une tierce personne, sous réserve d'établir une convention entre les deux parties et après accord de l'administration des douanes.
+article_16 . — le transfert des marchandises s'effectue sous couvert d'un ordre de transfert établi, selon le modèle annexé au présent arrêté, par le receveur des douanes dépositaire, sous la responsabilité de l'exploitant de la zone de dégagement.
+article_17 . — l'opération de transfert des marchandises s'effectue à la charge de l'exploitant de la zone de dégagement, sous escorte douanière, à l'exception de celles contenues dans des conteneurs ou des remorques équipés(ées) d'un système de géo localisation par satellite.
+article_18 . — les marchandises admises en zone de dégagement, doivent être transférées par des moyens de transport conçus et aménagés de telle façon que :
+— les scellements douaniers puissent y être apposés de manière simple et efficace ;
+— les marchandises ne puissent être extraites des parties scellées de l'unité de transport ou y être introduites sans laisser de traces visibles d'effraction ou sans rupture du scellement douanier ;
+— ces moyens de transport ne comportent aucun espace caché permettant de dissimuler des marchandises ;
+— tous les espaces susceptibles de contenir des marchandises soient facilement accessibles pour le contrôle douanier.
+article_19 . — a la demande de l'exploitant de la zone de dégagement, les services des douanes, territorialement compétents, peuvent autoriser la continuité des opérations douanières, en dehors des jours ouvrables et des heures légales d'ouverture des bureaux de douane.
+article_20 . — l'admission des marchandises en zone de dégagement s'effectue au vu de l'ordre de transfert établi visé à l' article_16 ci-dessus.
+une copie de l'ordre de transfert portant confirmation de la réception des marchandises transférées au niveau de la zone de dégagement, est transmise au receveur des douanes ayant autorisé l'opération de transfert.
+article_21 . — aux fins de la tenue d'une comptabilité matière des marchandises par les services des douanes, un registre sommier annuel, coté et paraphé par le chef de l'inspection divisionnaire des douanes territorialement compétent, est ouvert dans les zones de dégagement.
+article_22 . — les opérations requises pour conserver en l'état les marchandises placées dans les zones de dégagement sous contrôle douanier, tels que le nettoyage, le dépoussiérage, le tri, la réparation ou le remplacement des emballages défectueux peuvent être effectuées après accord de l'administration des douanes.
+peuvent être autorisées, les opérations usuelles tels que le lotissement, le pesage, le marquage et la collecte des colis destinés à former un même envoi de nature à faciliter l'enlèvement des marchandises et leur acheminement ultérieur.
+ces opérations sont effectuées en présence des agents des douanes.
+article_23 . — les agents des douanes procèdent semestriellement aux opérations de contrôle et de recensement des marchandises stockées dans les zones de dégagement.
+article_24 . — l'enlèvement des marchandises en séjour en zones de dégagement, est conditionné par l'accomplissement des formalités prévues par la législation et la réglementation en vigueur.
+section <NUM> procédure de fermeture
+article_25 . — la fermeture de la zone de dégagement sous contrôle douanier peut être prononcée par le directeur général des douanes, après avis motivé du chef de l'inspection divisionnaire des douanes et du directeur régional des douanes territorialement compétents, dans les cas ci-dessous énumérés :
+— à la demande de l'exploitant ;
+— au non renouvellement du contrat de location dans un délai de trois ( <NUM> ) mois, avant l'expiration de la durée du contrat prévu à l' article_9 du présent arrêté ;
+— au manquement de l'exploitant à ses obligations prévues par le présent arrêté et le cahier des charges y annexé ;
+— à la faillite de l'exploitant ;
+— à la décision des instances judiciaires ;
+— à l'absence d'activité de la zone de dégagement sous contrôle douanier pendant une période d'une ( <NUM> ) année ;
+— à l'inexploitation de la zone de dégagement sous contrôle douanier, après un délai excédant un ( <NUM> ) an, à compter de la date de notification de la décision d'agrément.
+dans les cas précités, l'exploitant n'est libéré de ses obligations vis-à-vis de l'administration des douanes qu'après apurement de la situation de toutes les marchandises et des contentieux éventuellement relevés.
+la fermeture définitive de la zone de dégagement est conditionnée par l'évacuation totale des marchandises qui y sont entreposées.
+fait à alger, le <DATE> .
+laziz faid.
+annexe
+cahier des charges fixant les conditions de création et d'exploitation des zones de dégagement mises à la charge de l'exploitant.
+article <NUM> . — le présent cahier des charges a pour objet de fixer les conditions de création et d'exploitation des zones de dégagement mises à la charge de l'exploitant.
+chapitre <NUM> conditions de création
+article_2 . — afin de garantir les conditions requises pour le traitement des opérations liées aux marchandises réceptionnées et au contrôle douanier, l'exploitant de la zone de dégagement est tenu de respecter les normes de construction et d'aménagement citées ci-dessous :
+— la construction doit être réalisée de telle sorte que les marchandises qui y sont stockées ne puissent pas être soustraites ;
+— la clôture de l'enceinte de la zone de dégagement est fixée à trois ( <NUM> ) mètres de hauteur, au minimum, et doit être construite en dur ;
+— l'aménagement d'espaces dédiés aux activités de réception, de stockage et de la vérification physique des marchandises admises ;
+— l'aménagement de locaux sécurisés destinés à recevoir les marchandises qui présentent un danger, telles que définies par la législation et la réglementation en vigueur ou susceptibles d'altérer les autres marchandises ou celles exigeant des installations spéciales ;
+— l'aménagement de locaux sécurisés destinés au dépotage des marchandises, de leur allotissement aux fins de leur aliénation pour la vente aux enchères publiques ou toute autre destination, prévue par la réglementation en vigueur, dotés d'un système de gestion permettant le suivi des entrées / sorties de ces marchandises et le contrôle douanier permanent ;
+— l'installation d'un scanner répondant aux prescriptions techniques fixées par l'administration des douanes et l'aménagement de locaux pour l'exploitation des images des marchandises scannées ;
+— l'installation d'un équipement de pesage, d'un système de télésurveillance et des moyens de manutention de déchargement et de transfert ;
+— l'installation des équipements informatiques et de transmission ;
+— la mise à la disposition des services des douanes de locaux administratifs équipés de toutes les commodités de gestion administrative, y compris l'outil informatique ;
+— l'installation d'un système de lutte contre les incendies ;
+— toutes les issues de la zone de dégagement doivent être fermées à deux ( <NUM> ) clés différentes dont l'une est détenue par l'administration des douanes et l'autre par l'exploitant ;
+— l'aménagement d'espaces dédiés à l'organisation et au déroulement des ventes aux enchères publiques.
+article_3 . — la connexion au système d'information des douanes est obligatoire. elle doit être établie à la charge de l'exploitant de la zone de dégagement.
+chapitre <NUM> conditions d'exploitation
+article_4 . — la mise en exploitation de la zone de dégagement est subordonnée à :
+— la production d'une copie du registre du commerce ;
+— la production d'une copie de la carte d'identification fiscale ;
+— la souscription d'une soumission générale cautionnée ou garantie, agréée par le receveur des douanes territorialement compétent.
+article_5 . — le montant de la soumission générale est fixé à cinq ( <NUM> ) millions de dinars pour la première année de mise en exploitation de la zone de dégagement.
+pour les années consécutives d'exploitation, le montant de la soumission générale doit être calculé sur la base de <NUM> % des droits et taxes perçus durant l'année précédente, jusqu'à concurrence d'un montant de vingt ( <NUM> ) millions de dinars.
+article_6 . — la soumission suscitée doit contenir l'engagement de l'exploitant :
+— de se conformer aux conditions et règles fixées pour l'exploitation, le fonctionnement et l'utilisation des zones de dégagement ;
+— de s'acquitter des pénalités exigibles, en cas d'infractions constatées liées à la prestation ;
+— de prendre en charge les frais de gestion et de stockage des marchandises transférées, tel que prévu par la loi_n°_79- <NUM> du <DATE> , modifiée et complétée, portant code des douanes ;
+— d'acheminer les marchandises à la zone de dégagement sous scellement douanier intact ;
+— de présenter à la première réquisition des agents des douanes les marchandises entreposées dans la zone de dégagement ;
+— d'aviser, sans délai, le service des douanes de toute détérioration de l'état des marchandises entreposées.
+article_7 . — l'exploitant dans la zone de dégagement sous contrôle douanier, est tenu de souscrire une assurance pour couvrir les dommages résultant des vols, incendies et autres risques auxquels seraient éventuellement exposées les marchandises entreposées.
+article_8 . — la mise en exploitation de la zone de dégagement, doit être effectuée dans un délai n'excédant pas un ( <NUM> ) an, à compter de la date de notification de la décision d'agrément, sous peine d'annulation dudit agrément.
+article_9 . — l'exploitant est tenu d'assurer la sécurité et le gardiennage des marchandises durant leur acheminement et leur séjour à la zone de dégagement.
+article_10 . — les tarifs de magasinage, de manutention et les autres frais fixés applicables sur les marchandises en séjour au niveau de la zone de dégagement, doivent être fixés dans le respect des règles de concurrence et être portés à la connaissance des opérateurs par voie d'affichage.
+les exploitants de la zone de dégagement doivent aligner leurs tarifs à ceux appliqués au niveau des dépôts temporaires de rattachement.
+article_11 . — la publicité commerciale est interdite à l'intérieur des zones de dégagement.
+article_12 . — l'exploitant de la zone de dégagement doit tenir un registre inventaire annuel des marchandises entreposées.
+ce registre, coté et paraphé par le chef de l'inspection divisionnaire des douanes territorialement compétent, tenu sans rature, ni surcharge ou altération d'aucune sorte, est mis, à la première réquisition, à la disposition du service des douanes.
+article_13 . — l'exploitant de la zone de dégagement doit communiquer aux agents des douanes tous documents, de toute nature, tels que factures, bons de livraison, bordereaux d'expédition, contrats de transport, livres et registres, conformément aux dispositions de la loi_n°_79- <NUM> du <DATE> , modifiée et complétée, portant code des douanes.
+article_14 . — toute modification apportée à la consistance de la zone de dégagement, obéit aux mêmes règles édictées aux articles <NUM> à <NUM> du présent arrêté.
+toutefois, les opérations d'aménagement et de construction destinées au bon fonctionnement de la zone de dégagement et qui n'affectent pas sa consistance, sont autorisées par le chef de l'inspection divisionnaire des douanes territorialement compétent.
+article_15 . — des surfaces de stockage délimitées peuvent être créées à l'intérieur de la zone de dégagement à la demande d'un entrepositaire pour ses besoins exclusifs, après accord de l'exploitant et autorisation du chef de l'inspection divisionnaire d es douanes territorialement compétent, pour l'entreposage des marchandises nécessitant un stockage séparé et des manipulations particulières.
+article_16 . — tout changement dans le statut juridique de l'exploitant doit être porté à la connaissance du service des douanes territorialement compétent, aux fins de modification de la décision d'agrément initiale de la zone de dégagement.
+article_17 . — l'exploitant ayant projeté la fermeture de la zone de dégagement, est tenu d'adresser aux services des douanes de rattachement un préavis de fermeture, au moins, un ( <NUM> ) mois avant la date présumée de fermeture.
+fait à , le
+mention : lu et approuvé.
+cachet et signature du demandeur.
+annexe
+ordre de transfert de marchandises
+bureau de douane de code n°
+recette des douanes de
+n° (de l'ordre de transfert) du (date)
+nous, receveur des douanes du , ordonnons le transfert des marchandises désignées ci-dessous, objet du gros n° vers (raison sociale et adresse de la zone de dégagement de destination)
+<NUM> - article n°
+identification des marchandises
+nature des marchandises :
+nombre de colis :
+provenance :
+n° de conteneurs ou de colis :
+identification de l'importateur
+nom ou raison sociale :
+adresse :
+<NUM> - article n°
+le receveur des douanes brigade
+je soussigné, certifié avoir autorisé le transfert des marchandises désignées ci-dessus.
+le à
+qualité, cachet et signature bureau de destinationbureau de départ brigade
+je soussigné, certifié avoir réceptionné les marchandises désignées ci-dessus enregistrées, respectivement, sous le n°
+le à
+qualité, cachet et signature recette des douanes de destination
+je soussigné, certifié avoir pris en charge les marchandises désignées ci-dessus, sur le registre de la zone de dégagement respectivement sous le n°
+le à
+qualité, cachet et signature
+arrêté du <DATE> fixant les taux et les modalités de recouvrement des redevances perçues par la commission d'organisation et de surveillance des opérations de bourse. ————
+le ministre des finances,
+vu le décret législatif n° <NUM> - <NUM> du <DATE> , modifié et complété, relatif à la bourse des valeurs mobilières, notamment son article_27 ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> correspondant au l6 mars <NUM> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_98- <NUM> du <DATE> , modifié et complété, relatif aux redevances perçues par la commission d'organisation et de surveillance des opérations de bourse, notamment son
+article_3 ;
+vu <NUM> 'arrêté du <DATE> portant application de l' article_3 du décret_exécutif_n°_98- <NUM> du <DATE> relatif aux redevances perçues par la commission d'organisation et de surveillance des opérations de bourse ;
+arrête :
+article <NUM> . — en application des dispositions de l' article_3 du décret_exécutif_n°_98- <NUM> du <DATE> , modifié et complété, susvisé, le présent arrêté a pour objet de fixer les taux et les modalités de recouvrement des redevances perçues par la commission d'organisation et de surveillance des opérations de bourse (cosob).
+article_2 . — les taux des redevances perçues par la commission d'organisation et de surveillance des opérations de bourse, sont fixés comme suit :
+— demande de visas pour l'émission de valeurs mobilières ou l'offre de valeurs mobilières par appel public à l'épargne, l'admission des valeurs mobilières en bourse ainsi que pour l'offre publique de vente, d'achat, d'échange ou de retrait de valeurs mobilières admises aux négociations en bourse :
+• sur le marché de titres de capital (compartiment principal), le marché de titres créances (compartiment prémium), le marché des investisseurs professionnels : la redevance acquittée est fixée à <NUM> % du montant de l'émission ou de l'offre publique. le montant de la redevance ne doit pas être supérieur à cinq ( <NUM> ) millions de dinars ;
+• sur le marché de titres de capital (compartiment de croissance), le marché de titres créances (compartiment émergeant), le marché des organismes de placement collectifs (opc) : la redevance est fixée à <NUM> % du montant de l'émission ou de l'offre publique. le montant de la redevance ne doit pas être supérieur à un ( <NUM> ) million de dinars.
+— demande d'agrément d'un intermédiaire en opérations de bourse : redevance de deux cent mille ( <NUM> ) dinars ;
+— demande d'agrément d'un conseiller en investissement participatif : redevance de cent mille ( <NUM> ) dinars ;
+— demande d'agrément d'un organisme de placement collectif : redevance de cent mille ( <NUM> ) dinars ;
+— demande d'agrément d'une société de gestion de portefeuilles : redevance de cent mille ( <NUM> ) dinars ;
+— demande d'inscription d'un agent habilité à effectuer des négociations en bourse : redevance de cent mille ( <NUM> ) dinars, acquittée par l'intermédiaire en opérations de bourse ;
+— demande d'inscription d'un promoteur en bourse :
+redevance de deux cent mille ( <NUM> ) dinars ;
+— demande d'inscription d'un expert évaluateur chargé d'évaluer les sociétés candidates à l'introduction en bourse :
+redevance de deux cent mille ( <NUM> ) dinars ;
+— demande d'habilitation d'un teneur de compte-conservateur de titres : redevance de deux cent mille ( <NUM> ) dinars ;
+— demande de reconnaissance d'une notation financière :
+redevance de deux cent mille ( <NUM> ) dinars ;
+— enquête effectuée auprès des intermédiaires en opérations de bourse : redevance égale à dix mille ( <NUM> ) dinars par intermédiaire en opérations de bourse ;
+— instruction de litiges techniques résultant de l'interprétation des textes législatifs et réglementaires régissant le fonctionnement de la bourse : redevance de cinquante mille ( <NUM> ) dinars par dossier instruit, acquittée par le requérant ;
+— redevance perçue sur la société de gestion de la bourse des valeurs (sgbv) : redevance annuelle fixée à <NUM> % du montant des commissions perçues par la sgbv sur les opérations effectuées en bourse.
+article_3 . — le recouvrement des redevances perçues dans les conditions fixées ci-dessus, est effectué par les services de la commission d'organisation et de surveillance des opérations de bourse.
+article_4 . — les dispositions de l'arrêté du <DATE> portant application de l' article_3 du décret_exécutif_n°_98- <NUM> du <DATE> relatif aux redevances perçues par la commission d'organisation et de surveillance des opérations de bourse, sont abrogées.
+fait à alger, le <DATE> .
+laziz faid.
+ministere des moudjahidine et des ayants-droit
+arrêté du <DATE> modifiant l'arrêté du <DATE> portant nomination des membres du conseil d'administration du musée régional du moudjahid de biskra. ————
+par arrêté du <DATE> , l'arrêté du <DATE> portant nomination des membres du conseil d'administration du musée régional du moudjahid de biskra, est modifié comme suit :
+mmes. et mm. :" (sans changement jusqu'à) de l'éducation nationale ;
+— djefafna slimane, représentant de la ministre de la culture et des arts ;
+— (sans changement jusqu'à) de la jeunesse et des sports ;
+— maazouzi mustapha, représentant de l'organisation nationale des moudjahidine ; (le reste sans changement) ".
+ministere du commerce et de la promotion des exportations
+arrêté du <DATE> modifiant l'arrêté du <DATE> portant désignation des membres de la commission sectorielle des marchés publics du ministère du commerce et de la promotion des exportations. ————
+par arrêté du <DATE> , l'arrêté du <DATE> , modifié, portant désignation des membres de la commission sectorielle des marchés publics du ministère du commerce et de la promotion des exportations, est modifié comme suit :"— m. mohammed mezghache, représentant du ministre chargé du commerce, président ;
+— m. billal aouali, représentant du ministre chargé du commerce, vice -président.
+membres permanents :
+— m. abdennour berrahal, représentant du ministre chargé du commerce ;
+— m. kamal boukheddache, représentant du ministre chargé du commerce ;
+— m. hicham guelmamen, représentant du ministre chargé des finances (direction générale du budget) ;
+— mme. meriem bouabdellah, représentante du ministre chargé des finances (direction générale du trésor et de la gestion comptable des opérations financières de l'etat) ;
+— mme. farah mekideche, représentante du ministre chargé du commerce.
+membres suppléants :
+— m. noureddine bouzara, représentant du ministre chargé du commerce ;
+— m. mohamed lamine rebai, représentant du ministre chargé du commerce ;
+— mme. ratiba benmerayah, représentante du ministre chargé des finances (direction générale du budget) ;
+— mme. nawel arbane, représentante du ministre chargé des finances (direction générale du trésor et de la gestion comptable des opérations financières de l'etat) ;
+— m. yacine zouaoua, représentant du ministre chargé du commerce.". ————h————
+arrêté du <DATE> portant délégation de signature au directeur général du commerce extérieur. ————
+le ministre du commerce et de la promotion des exportations,
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_02- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> fixant les attributions du ministre du commerce ;
+vu le décret_exécutif_n°_02- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> , modifié et complété, portant organisation de l'administration centrale du ministère du commerce ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> autorisant les membres du gouvernement à déléguer leur signature ;
+vu le décret présidentiel du <DATE> portant nomination de m. amor heleili, directeur général du commerce extérieur au ministère du commerce et de la promotion des exportations ;
+arrête :
+article <NUM> . — dans la limite de ses attributions, délégation est donnée à m. amor heleili, directeur général du commerce extérieur, à l'effet de signer, au nom du ministre du commerce et de la promotion des exportations, tous actes et décisions, à l'exclusion des arrêtés.
+fait à alger, le <DATE> .
+tayeb zitouni.
+arrêté du <DATE> portant délégation de signature au directeur général du contrôle économique et de la répression des fraudes. ————
+le ministre du commerce et de la promotion des exportations,
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+vu le décret_exécutif_n°_02- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> fixant les attributions du ministre du commerce ;
+vu le décret_exécutif_n°_02- <NUM> du <NUM> chaoual <NUM> correspondant au <DATE> , modifié et complété, portant organisation de l'administration centrale du ministère du commerce ;
+vu le décret_exécutif_n°_23- <NUM> du <DATE> autorisant les membres du gouvernement à déléguer leur signature ;
+vu le décret présidentiel du <DATE> portant nomination de m. mohammed mezghache, directeur général du contrôle économique et de la répression des fraudes au ministère du commerce et de la promotion des exportations ;
+arrête :
+article <NUM> . — dans la limite de ses attributions, délégation est donnée à m. mohammed mezghache, directeur général du contrôle économique et de la répression des fraudes, à l'effet de signer, au nom du ministre du commerce et de la promotion des exportations, tous actes et décisions, à l'exclusion des arrêtés.
+fait à alger, le <DATE> .
+tayeb zitouni.
+ministere du tra v ail, de l'emploi et de la securite sociale
+arrêté du <NUM> chaoual <NUM> correspondant au <DATE> modifiant l'arrêté du <DATE> portant nomination des membres du conseil d'administration de la caisse nationale d'assurance chômage. ————
+par arrêté du <NUM> chaoual <NUM> correspondant au <DATE> , l'arrêté du <DATE> portant nomination des membres du conseil d'administration de la caisse nationale d'assurance chômage, est modifié comme suit :" (sans changement jusqu'à) organisations syndicales des travailleurs les plus représentatives à l'échelle nationale :
+mmes. et mm. :
+— mohamed zoubiri ; (sans changement jusqu'à) m. mohamed guachi ;
+— hakim bounaama ; (sans changement jusqu'à) farid handhalah ;
+— malika boutaoui ; (sans changement jusqu'à) sidi mohamed ghoul, représentant de la confédération générale des entreprises algériennes ;
+— mohamed dekkiche, représentant de la confédération générale des entreprises algériennes (cgea) ;
+— farid ramoul, représentant de la confédération générale des entreprises algériennes (cgea) ;
+— el hamel merniz, représentant de la confédération nationale du patronat algérien (cnpa) ; (sans changement jusqu'à) au titre du représentant de l'administration centrale du budget :
+— mohamed drouiche ; (le reste sans changement) ". ————h————
+arrêté du <NUM> chaoual <NUM> correspondant au <DATE> portant désignation des membres de la commission nationale de recours préalable qualifiée en matière de sécurité sociale, créée au sein de la caisse nationale des assurances sociales des travailleurs salariés (cnas). ————
+par arrêté du <NUM> chaoual <NUM> correspondant au <DATE> , les membres dont les noms suivent, sont désignés, en application des dispositions de l' article_3 du décret_exécutif_n°_08- <NUM> du <DATE> fixant la composition, l'organisation et le fonctionnement des commissions nationales de recours préalable qualifiées en matière de sécurité sociale, à la commission nationale de recours préalable qualifiée en matière de sécurité sociale, créée au sein de la caisse nationale des assurances sociales des travailleurs salariés (cnas), pour une durée de trois ( <NUM> ) ans renouvelable :
+au titre du représentant du ministre chargé de la sécurité sociale :
+— youcef houcine, président.
+au titre des représentants du conseil d'administration de la caisse nationale des assurances sociales des travailleurs salariés :
+— nora akif ;
+— kamel eddine limani ;
+— mahfoud meguateli.
+au titre des représentants de la caisse nationale des assurances sociales des travailleurs salariés :
+— amine abdidou ;
+— rabie hachfa.
+sont abrogées, les dispositions de l'arrêté du <DATE> portant désignation des membres de la commission nationale de recours préalable qualifiée en matière de sécurité sociale, créée au sein de la caisse nationale des assurances sociales des travailleurs salariés.
+au titre du représentant du ministre chargé de la sécurité sociale :
+— hizia benkrira, présidente ;
+au titre des représentants du conseil d'administration de la caisse nationale des retraites :
+— aamar chebab ;
+— zenati ben youcef ;
+— daouia nadil.
+au titre des représentants de la caisse nationale des retraités :
+— sihem zermane ;
+— faten abbad.
+sont abrogées, les dispositions de l'arrêté du <DATE> portant désignation des membres de la commission nationale de recours préalable qualifiée en matière de sécurité sociale, créée au sein de la caisse nationale des retraites. ————h————
+arrêté du <NUM> chaoual <NUM> correspondant au <DATE> modifiant l'arrêté du <DATE> portant nomination des membres du conseil d'administration de la caisse nationale des assurances sociales des travailleurs salariés. ————
+par arrêté du <NUM> chaoual <NUM> correspondant au <DATE> , l'arrêté du <DATE> portant nomination des membres du conseil d'administration de la caisse nationale des assurances sociales des travailleurs salariés (cnas), est modifié comme suit :" (sans changement jusqu'à) au titre des représentants des travailleurs relevant de la caisse, désignés par les organisations syndicales les plus représentatives à l'échelle nationale mmes. et mm. :
+(sans changement jusqu'à) mourad atik ;
+— lynda saad ; (le reste sans changement) ".
+arrêté du <NUM> chaoual <NUM> correspondant au <DATE> portant désignation des membres de la commission nationale de recours préalable qualifiée en matière de sécurité sociale, créée au sein de la caisse nationale de sécurité sociale des non-salariés (casnos). ————
+par arrêté du <NUM> chaoual <NUM> correspondant au <DATE> , les membres dont les noms suivent, sont désignés, en application des dispositions de l' article_3 du décret_exécutif_n°_08- <NUM> du <DATE> fixant la composition, l'organisation et le fonctionnement des commissions nationales de recours préalable qualifiées en matière de sécurité sociale, à la commission nationale de recours préalable qualifiée en matière de sécurité sociale, créée au sein de la caisse nationale de sécurité sociale des non-salariés (casnos), pour une durée de trois ( <NUM> ) ans renouvelable :
+au titre du représentant du ministre chargé de la sécurité sociale :
+— abla belhafsi, présidente.
+au titre des représentants du conseil d'administration de la caisse nationale de sécurité sociale des non-salariés :
+— miloud bouzriba ;
+— kouider dani ;
+— boualem ghouat.
+au titre des représentants de la caisse nationale de sécurité sociale des non-salariés :
+— mustapha boukhrissa ;
+— akila tahrat.
+sont abrogées, les dispositions de l'arrêté du <DATE> portant désignation des membres de la commission nationale de recours préalable qualifiée en matière de sécurité sociale, créée au sein de la caisse nationale de sécurité sociale des non-salariés. ————h————
+arrêté du <NUM> chaoual <NUM> correspondant au <DATE> portant désignation des membres de la commission nationale de recours préalable qualifiée en matière de sécurité sociale, créée au sein de la caisse nationale des retraites (cnr). ————
+par arrêté du <NUM> chaoual <NUM> correspondant au <DATE> , les membres dont les noms suivent, sont désignés, en application des dispositions de l' article_3 du décret_exécutif_n°_08- <NUM> du <DATE> fixant la composition, l'organisation et le fonctionnement des commissions nationales de recours préalable qualifiées en matière de sécurité sociale, à la commission nationale de recours préalable qualifiée en matière de sécurité sociale, créée au sein de la caisse nationale des retraites (cnr), pour une durée de trois ( <NUM> ) ans renouvelable :

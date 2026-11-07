@@ -1,0 +1,780 @@
+n° <NUM> <NUM> annee dimanche <DATE> conventions et accords internationaux - lois et decrets arretes, decisions, a vis, communications et annonces (traduction française)
+decisions cour constitutionnelle décision_n°_05/d .c.c/ccc/ <NUM> du <DATE> relative à la conformité de la loi organique modifiant et complétant la loi_organique_n°_18- <NUM> du <DATE> relative aux lois de finances, à la constitution
+lois loi_organique_n°_23- <NUM> du <DATE> modifiant et complétant la loi_organique_n°_18- <NUM> du <DATE> relative aux lois de finances
+decrets décret_présidentiel_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la présidence de la république
+décret_présidentiel_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des affaires étrangères et de la communauté nationale à l'étranger
+décret_présidentiel_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du premier président de la cour suprême
+décret_présidentiel_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil d'etat
+décret_présidentiel_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du vice-président du conseil supérieur de la magistrature
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du premier ministre
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la justice, garde des sceaux
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'énergie et des mines
+sommaire
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des moudjahidine et des ayants-droit
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des affaires religieuses et des wakfs
+décret_exécutif_n°_24- <NUM> du <DATE> janvier <NUM> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'éducation nationale
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'enseignement supérieur et de la recherche scientifique
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la formation et de l'enseignement professionnels
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la ministre de la culture et des arts
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la jeunesse et des sports
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la numérisation et des statistiques
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la poste et des télécommunications
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la ministre de la solidarité nationale, de la famille et de la condition de la femme
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'industrie et de la production pharmaceutique
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'agriculture et du développement rural
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'habitat, de l'urbanisme et de la ville
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre du commerce et de la promotion des exportations
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la communication
+sommaire (suite)
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des travaux publics et des infrastructures de base
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'hydraulique
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des transports
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre du tourisme et de l'artisanat
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la santé
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre du travail, de l'emploi et de la sécurité sociale
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la ministre des relations avec le parlement
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la ministre de l'environnement et des énergies renouvelables
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la pêche et des productions halieutiques
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'économie de la connaissance, des start-up et des micro-entreprises
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de la cour des comptes
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la présidente de la haute autorité de transparence, de prévention et de lutte contre la corruption
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de l'autorité nationale indépendante des élections
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil national économique, social et environnemental
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du haut conseil islamique
+sommaire (suite)
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du haut conseil de la langue arabe .
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil national des droits de l'homme
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de l'académie algérienne des sciences et des technologies
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil national de la recherche scientifique et des technologies
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de l'observatoire national de la société civile
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil supérieur de la jeunesse
+sommaire (suite)
+cour constitutionnelle décision_n°_05/d .c.c/ccc/ <NUM> du <DATE> relative à la conformité de la loi organique modifiant et complétant la loi_organique_n°_18- <NUM> du <DATE> relative aux lois de finances, à la constitution. ———— la cour constitutionnelle, sur saisine de la cour constitutionnelle par le président de la république, par lettre datée du <DATE> , enregistrée au secrétariat général, service du greffe de la cour constitutionnelle en date du <DATE> sous le n° <NUM> / <NUM> , aux fins d'examiner la constitutionnalité de la loi organique modifiant et complétant la loi_organique_n°_18- <NUM> datée du <DATE> relative aux lois de finances ;
+vu la constitution, notamment en ses articles <NUM> (alinéa <NUM> ), <NUM> , <NUM> , <NUM> (alinéa <NUM> ), <NUM> , <NUM> , <NUM> (alinéa in fine) et <NUM> (alinéa in fine) ;
+vu la loi organique modifiant et complétant la loi_organique_n°_18- <NUM> du <DATE> relative aux lois de finances ;
+vu la loi_organique_n°_22- <NUM> du <DATE> fixant les procédures et modalités de saisine et de renvoi devant la cour constitutionnelle ;
+vu le règlement du <DATE> fixant les règles de fonctionnement de la cour constitutionnelle ;
+vu le règlement intérieur de la cour constitutionnelle du <DATE> ; après avoir entendu les membres rapporteurs, après délibération, en la forme :
+attendu que la cour constitutionnelle a été saisie par le président de la république par lettre datée du <DATE> , enregistrée au niveau du secrétariat général, service du greffe de la cour constitutionnelle en date du <DATE> sous le n° <NUM> / <NUM> aux fins d'examiner la constitutionnalité de la loi organique modifiant et complétant la loi_organique_n°_18- <NUM> du <DATE> relative aux lois de finances ; attendu que la saisine par le président de la république est intervenue conformément aux dispositions des articles <NUM> (alinéa <NUM> ) et <NUM> (alinéa <NUM> ) de la constitution, et par conséquent, est recevable et valable en la forme.
+au fond :
+attendu qu'il ressort du procès-verbal de la séance plénière tenue par l'assemblée populaire nationale en date du <DATE> que la loi organique modifiant et complétant la loi_organique_n°_18- <NUM> du <DATE> relative aux lois de finances, a été adoptée à la majorité absolue ; attendu que le procès-verbal de la séance d'adoption de ladite loi organique tenue en date du <DATE> par le conseil de la nation indique qu'elle a été adoptée à la majorité absolue ; attendu que la cour constitutionnelle n'a constaté aucune omission quant aux visas de la loi organique, objet de saisine ; attendu que l'amendement de la loi organique, objet de saisine contenu dans les articles <NUM> et <NUM> bis n'est pas contraire aux dispositions de la constitution et par conséquent, est conforme à la constitution.
+par ces motifs la cour constitutionnelle décide ce qui suit :
+en la forme :
+la saisine par le président de la république est recevable conformément aux dispositions des articles <NUM> (alinéa <NUM> ) et <NUM> (alinéa <NUM> ) de la constitution.
+au fond :
+premièrement : la loi organique modifiant et complétant la loi_organique_n°_18- <NUM> du <DATE> relative aux lois de finances, objet de saisine, est conforme à la constitution.
+deuxièmement : la présente décision sera notifiée au président de la république.
+troisièmement : la présente décision sera publiée au populaire.
+ainsi en a-t-il été délibéré par la cour constitutionnelle en sa séance du <DATE> .
+le président de la cour constitutionnelle omar belhadj leïla aslaoui, membre ; bahri saadallah, membre ; mosbah menas, membre ; fatiha benabbou, membre ; abdelouahab kherief, membre ; abbas ammar, membre ; abdelhafid ossoukine, membre ; mohamed bouterfas, membre.
+decisions
+loi_organique_n°_23- <NUM> du <DATE> modifiant et complétant la loi_organique_n°_18- <NUM> du <DATE> relative aux lois de finances. ———— le président de la république,
+vu la constitution, notamment son article_143 ;
+vu la loi_organique_n°_16- <NUM> du <DATE> , modifiée et complétée, fixant l'organisation et le fonctionnement de l'assemblée populaire nationale et du conseil de la nation ainsi que les relations fonctionnelles entre les chambres du parlement et le gouvernement, notamment ses articles <NUM> , <NUM> , <NUM> et <NUM> ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ; après avis du conseil d'etat ; après adoption par le parlement ;
+vu la décision de la cour constitutionnelle ; promulgue la loi organique dont la teneur suit :
+article <NUM> . — la présente loi organique a pour objet de modifier et de compléter l' article_23 de la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances, ainsi rédigé :" article_23 . — les crédits sont ouverts par les lois de finances pour la couverture des charges budgétaires de l'etat.
+ils sont mis à la disposition des ministres et des responsables des institutions publiques, conformément aux dispositions des articles <NUM> bis et <NUM> de la présente loi. les ministres peuvent charger les organes territoriaux et les établissements publics sous tutelle de l'exécution de tout ou partie d'un programme relevant de leur secteur.
+les crédits sont spécialisés par programme, conformément à l' article_75 de la présente loi, par dotation spéciale ou dotation globale, en ce qui concerne les crédits non assignés.
+les crédits du programme sont présentés par activité et, le cas échéant, par titres, groupant les dépenses selon leur nature, conformément aux dispositions de l' article_29 de la présente loi.
+les crédits ne peuvent être modifiés que dans les conditions prévues par les dispositions de la présente loi ou, exceptionnellement, par la loi de finances dans le respect des dispositions de la présente loi.
+l'ensemble des programmes ou l'ensemble des dotations spéciales constitue un portefeuille de programmes ou un portefeuille de dotations spéciales, qui est placé sous la responsabilité du ministre ou du responsable de l'institution publique. les programmes et leurs subdivisions en sous-programmes et actions concourent à la mise en œuvre d'une politique publique définie.
+un programme regroupe l'ensemble des crédits concourant à la réalisation d'une mission spécifique relevant d'un ou de plusieurs services, d'un ou de plusieurs ministères ou institutions publiques, et définie en fonction d'un ensemble cohérent d'objectifs précis.
+les dotations spéciales regroupent les crédits destinés à la couverture des dépenses des deux chambres du parlement et de la cour constitutionnelle et constituent des portefeuilles de dotations spéciales, mis à la disposition des responsables de ces institutions.
+il est entendu par institution publique, au sens de la présente loi, les institutions parlementaires, judiciaires, de contrôle, consultatives et toutes autres institutions de même nature prévues par la constitution.
+les dispositions du présent article prennent effet, à compter de la date de promulgation de la loi de finances pour <NUM> .".
+article_2 . — il est inséré dans la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances, un
+article_23_bis , rédigé comme suit :" article_23_bis . — il est entendu par dotation spéciale, l'unité de mise en œuvre des crédits alloués aux deux chambres du parlement et à la cour constitutionnelle.
+la répartition de ces crédits par décret, détaillée par dotations spéciales et par titre, vaut ordonnancement aux comptes des institutions concernées.
+cette répartition est définie par titre, à titre indicatif, concernant les deux chambres du parlement.
+la répartition initiale des crédits de dotations spéciales peut être modifiée au cours de l'année, par le biais de transfert ou de virement, conformément aux règles et aux formes prévues par la présente loi.
+les dispositions du présent article prennent effet, à compter de la date de promulgation de la loi de finances pour <NUM> .".
+article_3 . — la présente loi organique sera publiée au populaire.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+lois
+décret_présidentiel_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la présidence de la république. ———— le président de la république, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de vingt-cinq milliards cinq cent soixante-et-onze millions sept cent quatre-vingt-cinq mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de soixante-sept milliards cent soixante-sept millions deux cent vingt-et-un mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la présidence de la république, sont répartis conformément au tableau annexé à l'original du présent décret.
+article_2 . — le présent décret sera publié au journal officielde la république algérienne démocratique et populaire.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+decrets
+décret_présidentiel_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des affaires étrangères et de la communauté nationale à l'étranger. ———— le président de la république, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de cinquante-huit milliards neuf cent vingt-sept millions cent huit mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de cinquante-huit milliards deux cent soixante-trois millions cent huit mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des affaires étrangères et de la communauté nationale à l'étranger, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre des affaires étrangères et de la communauté nationale à l'étranger fait à alger, le <DATE> .
+abdelmadjid tebboune.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des affaires étrangères et de la communauté nationale à l'étranger en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal activité diplomatique et consulaire diplomatie et relations extérieures affaires consulaires et communauté nationale à l'étranger administration générale gestion du ministère soutien administratif total des crédits mis à la disposition du ministre des affaires étrangères et de la communauté nationale à l'étranger
+décret_présidentiel_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du premier président de la cour suprême. ———— le président de la république, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de onze milliards cinq cent soixante-treize millions de dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de six milliards cinq cent soixante-treize millions de dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du premier président de la cour suprême, sont répartis conformément au tableau annexé au présent décret. et populaire.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du premier président de la cour suprême en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement <NUM> — — — — — — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal contrôle et évaluation des décisions judiciaires et unification de la jurisprudence activité judiciaire total des crédits mis à la disposition du premier président de la cour suprême
+décret_présidentiel_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil d'etat. ———— le président de la république, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de un milliard trois cent trente millions quatre cent quatorze mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de un milliard trois cent trente millions quatre cent quatorze mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil d'etat, sont répartis conformément au tableau annexé au présent décret. et populaire.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil d'etat en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement <NUM> — <NUM> — <NUM> — — — — — — — — <NUM> — , <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal conseil d'etat régulation de l'activité des juridictions administratives et compétences consultatives administration générale total des crédits mis à la disposition du président du conseil d'etat
+décret_présidentiel_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du vice-président du conseil supérieur de la magistrature. ———— le président de la république, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de cent trente-neuf millions cinq cent dix-huit mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de cent trente-neuf millions cinq cent dix-huit mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du vice-président du conseil supérieur de la magistrature, sont répartis conformément au tableau annexé au présent décret. populaire.
+fait à alger, le <DATE> .
+abdelmadjid tebboune.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du vice-président du conseil supérieur de la magistrature en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement <NUM> — — — — — — — — — — — — — — — — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal assurer l'indépendance de la justice gestion des sessions du conseil administration générale total des crédits mis à la disposition du vice-président du conseil supérieur de la magistrature
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du premier ministre. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de dix-huit milliards quatre cent quatre-vingt-trois millions quatre cent soixante-deux mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de quarante-six milliards six cent cinquante millions cent un mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du premier ministre, sont répartis conformément au tableau annexé au présent décret. populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition des services du premier ministre en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement <NUM> — — <NUM> — — <NUM> — — — — — <NUM> — — — — <NUM> — <NUM> — — — — <NUM> — <NUM> — — — — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal activité du premier ministre gestion, coordination et suivi de l'activité du gouvernement soutien technique fonction publique et réforme administrative fonction publique réforme administrative soutien administratif total des crédits mis à la disposition des services du premier ministre
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de mille trois cent vingt milliards quatre cent vingt-quatre millions huit cent quatre-vingt-sept mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de mille trois cent vingt-huit milliards huit cent sept millions trois cent trente-sept mille dinars ( <NUM> . <NUM> dinars ), ouverts au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre de l'intérieur, des collectivités locales et de l'aménagement du fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement <NUM> — — <NUM> — — — — — — <NUM> — — <NUM> — — — <NUM> — — — <NUM> — <NUM> ——— <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal circulation des personnes et des biens mouvement associatif et vie politique etat de circulation des personnes et des biens identité, titres et documents sécurisés numérisation du service public soutien aux collectivités locales missions dévolues aux collectivités locales appui au développement socio-économique des collectivités locales aménagement du territoire instruments de l'aménagement du territoire développement et attractivité du territoire
+en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement <NUM> — — <NUM> —— <NUM> — <NUM> — <NUM> — — <NUM> — <NUM> — <NUM> — — <NUM> — — <NUM> — <NUM> — <NUM> — — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal sûreté nationale soutien administratif et logistique central et régional sécurité, ordre public, prévention et intervention activités socio-professionnelles protection civile intervention et prévention soutien administratif et logistique transmissions nationales réseaux des transmissions soutien administratif et logistique administration générale soutien administratif et logistique risques majeurs sécurité routière total des crédits mis à la disposition du ministre de l'intérieur, des collectivités locales et de l'aménagement du territoire
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la justice, garde des sceaux. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de cent quatre-vingt-quatre milliards six cent soixante-dix millions six cent soixante-quatre mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de cent soixante-sept milliards deux cent dix-neuf millions quatre cent soixante-trois mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la justice, garde des sceaux, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre de la justice, garde des sceaux sont chargés, chacun en ce qui le démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la justice, garde des sceaux en da
+titre <NUM> : dépenses de personnel crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement <NUM> — <NUM> ——— <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — — — <NUM> — <NUM> — — — <NUM> — <NUM> — — <NUM> — — — <NUM> — <NUM> — — <NUM> — — — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal autorisations d'engagement intitulés des programmes et sous-programmes activité judiciaire activité judiciaire ordinaire et administrative soutien administratif administration pénitentiaire conditions de détention réinsertion sociale sécurité soutien administratif répression de la corruption stratégie, appui technique et administratif investigations et recherches administration générale gestion du ministère soutien administratif total des crédits mis à la disposition du ministre de la justice, garde des sceaux <NUM> — <NUM> ——— <NUM> — <NUM> — <NUM>
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de mille deux cent cinquante-deux milliards cent quatre millions six cent vingt-et-un mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de mille deux cent cinquante milliards sept cent vingt-deux millions neuf cent soixante-neuf mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — les crédits non assignés à des ministères ou institutions publiques, gérés par le ministre des finances, d'un montant de mille neuf cent vingt milliards trois cent quatre-vingt-huit millions de dinars ( <NUM> . <NUM> dinars ) en autorisations d'engagement et en crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , sont imputés au titre <NUM> "dépenses imprévues".
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des finances en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses de fonctionnement des services autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses d'investissement autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses de transfert autorisations d'engagement crédits de paiement
+titre <NUM> : charges de la dette publique autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses d'opérations financières autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses imprévues autorisations d'engagement crédits de paiement total autorisations d'engagement crédits de paiement trésor et gestion comptable gestion financière de l'etat modernisation des systèmes d'information et instruments de paiement gestion comptable des opérations du trésor gestion des moyens et soutien administratif impôts assiette, recouvrement et contrôle fiscal soutien administratif budget elaboration et suivi du budget contrôle de la dépense soutien administratif domaine national gestion des opérations domaniales <NUM> — — — <NUM> — <NUM> — — <NUM> — <NUM> — — — <NUM> — <NUM> — — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — — <NUM> — <NUM> — <NUM> — <NUM> —— <NUM> — — — — — — — — — — — — <NUM> — — — — — — — — — — — — <NUM> — — — — — — — — — — — — <NUM> — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — <NUM>
+conservation et cadastre soutien administratif douanes recouvrement douanier contrôle et protection de l'économie nationale soutien administratif inspection des finances contrôle administratif des finances publiques et des capitaux marchands de l'etat soutien administratif administration générale gestion du ministère soutien administratif crédits non assignés crédits non assignés total des crédits mis à la disposition du ministre des finances tableau annexe (suite) en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses de fonctionnement des services autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses d'investissement autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses de transfert autorisations d'engagement crédits de paiement
+titre <NUM> : charges de la dette publique autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses d'opérations financières autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses imprévues autorisations d'engagement crédits de paiement total autorisations d'engagement crédits de paiement — <NUM> — — <NUM> — <NUM> — <NUM> — — <NUM> — <NUM> — — <NUM> — <NUM> — <NUM> — — <NUM> — — <NUM> — — <NUM> — <NUM> — <NUM> — — <NUM> — <NUM> — <NUM> — — <NUM> — — — — — — — — — <NUM> — <NUM> — — <NUM> — — — — — — — — — <NUM> — <NUM> — — <NUM> — — — — — — — — — — — — — — <NUM> — — — — — — — — — — — — — — <NUM> — — — — — — — — — — — — — — <NUM> — — — — — — — — — — — — — — <NUM> — — — — — — — — — — — — <NUM> — — — — — — — — — — — — <NUM>
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'énergie et des mines. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de cent soixante-huit milliards six cent quarante-quatre millions dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de cent quatre-vingts milliards trois cent soixante-seize millions trois cent soixante-treize mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'énergie et des mines, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre de l'énergie et des mines sont chargés, chacun en ce qui le démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'énergie et des mines intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — — — — — — — — — — — — — — — — — — <NUM> — — — <NUM> — — — — — <NUM> — <NUM> — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissement
+titre <NUM> : dépenses de transferttotal electricité, gaz et énergies nouvelles electrification distribution publique du gaz programmes spéciaux de l'électricité et du gaz energies nouvelles soutien de l'etat à la facturation de l'électricité mines mines et carrières ressources minières développement minier en da
+tableau annexe(suite)
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — — — <NUM> — <NUM> — — — — — <NUM> — <NUM> — <NUM> — <NUM> — — — — — <NUM> — <NUM> — — — — — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissement
+titre <NUM> : dépenses de transfert total compensation au titre du dessalement de l'eau de mer compensation au titre du dessalement de l'eau de mer maîtrise de l'énergie et énergies renouvelables raccordées au réseau électrique national maîtrise de l'énergie energies renouvelables raccordées au réseau électrique national administration générale gestion du ministère soutien administratif total des crédits mis à la disposition du ministre de l'énergie et des mines en da intitulés des programmes et sous-programmes
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des moudjahidine et des ayants-droit. ————— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de deux cent cinquante-et-un milliards sept cent vingt-huit millions quatre cent soixante-seize mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de deux cent cinquante-et-un milliards sept cent quatre-vingt-dix-sept millions cent soixante-seize mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des moudjahidine et des ayants-droit, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre des moudjahidine et des ayants-droit sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera publié au journal officielde la république algérienne démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des moudjahidine et des ayants-droit
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — — — — — — — <NUM> — — — — — — — — — <NUM> — — — <NUM> — <NUM> — — — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissement
+titre <NUM> : dépenses de transferttotal patrimoine historique et culturel protection des symboles et des hauts faits historiquesrecherche historique etsuivi des activités muséales pensions invalides et recours ayants-droit protection sociale santé des moudjahidine et ayants-droit promotion sociale administration générale gestion du ministèresoutien administratif total des crédits mis à ladisposition du ministre des moudjahidine et des ayants-droit en da intitulés des programmes et sous-programmes
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des affaires religieuses et des wakfs. ————— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de cinquante milliards huit cent cinquante-sept millions deux cent douze mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de cinquante milliards soixante-seize millions neuf cent quatre-vingt-quatre mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des affaires religieuses et des wakfs, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre des affaires religieuses et des wakfs sont chargés, chacun en démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des affaires religieuses et des wakfs
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — — — — — — <NUM> — — — — — — — — <NUM> — — <NUM> — <NUM> — — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissement
+titre <NUM> : dépenses de transferttotal orientation religieuse et culture islamique orientation religieuse culture islamique communication et coopération lieux de culte formation et enseignement coranique formation, évaluation et recherche enseignement coranique administration générale gestion du ministère soutien administratif total des crédits mis à la disposition du ministre des affaires religieuses et des wakfs en da intitulés des programmes et sous-programmes
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'éducation nationale. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de mille quatre cent quatre-vingt-neuf milliards huit cent vingt-neuf millions neuf cent soixante-deux mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de mille quatre cent trente-neuf milliards neuf cent quatre-vingt-un millions neuf cent soixante-deux mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'éducation nationale, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre de l'éducation nationale sont chargés, chacun en ce qui le démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'éducation nationale
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — — — — — — — <NUM> — — — — — — — — — <NUM> — — — — <NUM> — <NUM> — — — — <NUM> — <NUM> — — <NUM> — <NUM> — — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissement
+titre <NUM> : dépenses de transferttotal enseignement enseignement préparatoire et primaire enseignement moyen normal et spécifique et à distance enseignement secondaire, spécifique et à distance formation formation en cours d'emploi et spécialisée vie scolaire et transferts sociaux vie scolaire transferts sociaux administration générale gestion du ministère soutien administratif total des crédits mis à la disposition du ministre de l'éducation nationale en da intitulés des programmes et sous-programmes
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'enseignement supérieur et de la recherche scientifique. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de six cent dix-huit milliards sept cent quatre-vingt-quatorze millions trois cent huit mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de six cent quarante-sept milliards vingt-huit millions sept cent quatre-vingt mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'enseignement supérieur et de la recherche scientifique, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre de l'enseignement supérieur et de la recherche scientifique fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'enseignement supérieur et de la recherche scientifique
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — <NUM> — — — — — <NUM> — <NUM> — — — <NUM> — — — — — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissement
+titre <NUM> : dépenses de transferttotal enseignement et formation supérieurs <NUM> et <NUM> cycles d'enseignement formation de <NUM> cycle recherche scientifique et développement technologique soutien administratif à la recherche et gestion des finances recherche et développement innovation technologique vie estudiantine œuvres universitaires conditions de vie des étudiants administration générale gestion du ministère soutien administratif total des crédits mis à la disposition du ministre de l'enseignement supérieur et de la recherche scientifique en da intitulés des programmes et sous-programmes
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la formation et de l'enseignement professionnels. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de cent dix-huit milliards seize millions six cent dix-sept mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de cent dix-huit milliards cinq cent quatre-vingt-deux millions six cent dix-sept mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la formation et de l'enseignement professionnels, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre de la formation et de l'enseignement professionnels sont fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la formation et de l'enseignement professionnels
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — — — — — <NUM> — — — — — — — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — — — — <NUM> — <NUM> — <NUM> — — — — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissement
+titre <NUM> : dépenses de transferttotal formation professionnelle formation professionnelle initiale formation professionnelle continue et à distance ingénierie pédagogique de la formation professionnelle enseignement professionnel enseignement professionnel ingénierie pédagogique de l'enseignement professionnel administration générale gestion du ministère soutien administratif total des crédits mis à la disposition du ministre de la formation et de l'enseignement professionnels en da intitulés des programmes et sous-programmes
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la ministre de la culture et des arts. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de trente-trois milliards vingt-six millions deux cent quatre-vingt mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de trente-quatre milliards trois cent quatre-vingt-et-un million six cent soixante-neuf mille dinars ( <NUM> . <NUM> dinars ) ouverts, au
+titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la ministre de la culture et des arts, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et la ministre de la culture et des arts sont chargés, chacun en ce qui le démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la ministre de la culture et des arts
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — — — — <NUM> — — — — — — <NUM> — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissement
+titre <NUM> : dépenses de transferttotal arts et lettres livre et lecture publique création et diffusion du produit culturel et artistique patrimoine culturel protection, valorisation et exploitation du patrimoine culturel restauration du patrimoine culturel administration générale gestion du ministère soutien administratif total des crédits mis à la disposition de la ministre de la culture et des arts en da intitulés des programmes et sous-programmes
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la jeunesse et des sports. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de cent vingt-et-un milliards neuf cent soixante-quinze millions trois cent quatre-vingt mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de cent vingt-trois milliards neuf cent soixante-quinze millions trois cent quatre-vingt mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la jeunesse et des sports, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre de la jeunesse et des sports sont chargés, chacun en ce qui le démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la jeunesse et des sports
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — — — — — — <NUM> — <NUM> — — — — — — — — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissement
+titre <NUM> : dépenses de transferttotal jeunesse promotion de l'animation socio-éducative partenariat et établissements de jeunes tourisme et loisirs de jeunes sports jeunes talents, sports d'élite et de haut niveau, professionnels et grands évènements sport pour tous et en milieux éducatif et spécialisé vie associative, établissements sportifs et l'éthique sportive administration générale gestion du ministère soutien administratif total des crédits mis à la disposition du ministre de la jeunesse et des sports en da intitulés des programmes et sous-programmes
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la numérisation et des statistiques. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de un milliard trois cent soixante-et-onze millions de dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de un milliard trois cent cinquante-et-un millions de dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la numérisation et des statistiques, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre de la numérisation et des statistiques sont chargés, chacun démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la numérisation et des statistiques
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — — — — <NUM> — <NUM> — — — — — — <NUM> — <NUM> — — — — — — — <NUM> — — — — — — — <NUM> — — — — — — <NUM> — <NUM> — — — — — — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissement
+titre <NUM> : dépenses de transferttotal développement de la numérisation technologie de la numérisation appui à l'économie numérique système national des statistiques développement des statistiques normalisation des statistiques administration générale gestion du ministère soutien administratif total des crédits mis à la disposition du ministre de la numérisation et des statistiques en da intitulés des programmes et sous-programmes
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la poste et des télécommunications. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de quatorze milliards deux cent vingt-quatre millions six cent trente-cinq mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de quinze milliards deux cent soixante-dix-sept millions six cent trente-cinq mille dinars ( <NUM> . <NUM> dinars ) ouverts, au
+titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la poste et des télécommunications, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre de la poste et des télécommunications sont chargés, chacun démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la poste et des télécommunications
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — — — — — — — <NUM> — <NUM> — — — — — — — — — <NUM> — <NUM> — — — — — — <NUM> — <NUM> — <NUM> — — — <NUM> — <NUM> — <NUM> — <NUM> — — — — — — — <NUM> — <NUM> — — — — — — — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissement
+titre <NUM> : dépenses de transferttotal développement des services postaux développement de l'activité postale développement des services financiers postaux développement des télécommunications développement et la sécurisation des infrastructures des technologies de l'information et de la communication (tic) développement des activités liées à la radiocommunication et des équipements sensibles des télécommunications edification de la société algérienne de l'information développement et promotion du contenu national, des services en ligne et généralisation des usages mise en place et promotion d'un environnement de confiance pour l'utilisation des nouvelles technologies administration générale gestion du ministère soutien administratif total des crédits mis à la disposition du ministre de la poste et des télécommunications en da intitulés des programmes et sous-programmes
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la ministre de la solidarité nationale, de la famille et de la condition de la femme. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de deux cent dix-huit milliards neuf cent vingt-cinq millions six cent soixante-dix mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de deux cent dix-huit milliards cinquante-cinq millions cent soixante-dix mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la ministre de la solidarité nationale, de la famille et de la condition de la femme, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et la ministre de la solidarité nationale, de la famille et de la condition de fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la ministre de la solidarité nationale, de la famille et de la condition de la femme
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — — — — — — — <NUM> — — — — — — — — — <NUM> — <NUM> — — — — <NUM> — <NUM> — — — — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissement
+titre <NUM> : dépenses de transferttotal personnes aux besoins spécifiques protection et insertion des personnes aux besoins spécifiques education et enseignement spécialisés des personnes aux besoins spécifiques famille et condition de la femme protection et promotion de la famille et de la femme protection de l'enfance et des personnes âgées développement social et action humanitaire développement social mouvement associatif et action humanitaire administration générale gestion du ministère soutien administratif total des crédits mis à la disposition de la ministre de la solidarité nationale, de la famille et de la condition de la femme en da intitulés des programmes et sous-programmes
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'industrie et de la production pharmaceutique. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de sept milliards huit cent quatre-vingt-seize millions cinq cent dix-neuf mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de dix milliards trois cent huit millions cent dix-neuf mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'industrie et de la production pharmaceutique, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre de l'industrie et de la production pharmaceutique sont chargés, fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'industrie et de la production pharmaceutique
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — — — — — — <NUM> — <NUM> — — — — — — — — <NUM> — <NUM> — — — <NUM> — — — — — — <NUM> — <NUM> — — — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissement
+titre <NUM> : dépenses de transferttotal compétitivité et développement industriels compétitivité industrielle développement industriel appui à l'investissement promotion de l'investissement appui à la pme développement et promotion de l'industrie pharmaceutique en algérie développement et promotion de l'industrie pharmaceutique en algérie administration générale gestion du ministère soutien administratif total des crédits mis à la disposition du ministre de l'industrie et de la production pharmaceutique en da intitulés des programmes et sous-programmes
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'agriculture et du développement rural. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de six cent soixante milliards neuf cent quatre-vingt-trois millions vingt-sept mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de six cent soixante-quatre milliards six cent quarante-sept millions trois cent cinquante-trois mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'agriculture et du développement rural, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre l'agriculture et du développement rural sont chargés, chacun démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'agriculture et du développement rural
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — — <NUM> — — <NUM> — <NUM> — — — — <NUM> — — <NUM> — <NUM> — <NUM> — <NUM> — — <NUM> — <NUM> — — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissement
+titre <NUM> : dépenses de transferttotal agriculture et développement rural développement de l'agriculture sécurité et qualité sanitaires des aliments développement rural et gestion équilibrée et durable des territoires forêts gestion et soutien gestion durable et conservation du patrimoine lutte contre la désertification et la restauration des terres administration générale gestion du ministère gestion, intervention et soutien total des crédits mis à la disposition du ministre de l'agriculture et du développement rural en da intitulés des programmes et sous-programmes
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'habitat, de l'urbanisme et de la ville. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de mille cent quatre milliards trois cent vingt-neuf millions six cent quatre-vingt-neuf mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de cinq cent soixante-quatre milliards trois cent treize millions trois cent vingt mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'habitat, de l'urbanisme et de la ville, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre de l'habitat, de l'urbanisme et de la ville sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera publié aujournal officielde la république algérienne démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'habitat, de l'urbanisme et de la ville intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — — — — — — — — — — <NUM> — <NUM> — — — — — — — — — — — — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — — — <NUM> — — — — <NUM> — <NUM> — <NUM> — — — <NUM> — — — — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal logement logement public locatif aides au logement urbanisme et aménagement urbanisme aménagement du foncier villes et villes nouvelles villes et villes nouvelles equipements publics equipements publics de l'éducation et de la formation equipements publics de sécurité et de santé autres équipements publics administration générale gestion du ministère soutien administratif total des crédits mis à la disposition du ministre de l'habitat, de l'urbanisme et de la ville en da
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre du commerce et de la promotion des exportations. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de cent quarante-six milliards cent dix-sept millions quatre-vingt-sept mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de cent cinquante-deux milliards trois cent vingt-neuf millions quatre cent trente-sept mille dinars ( <NUM> . <NUM> dinars )ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre du commerce et de la promotion des exportations, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre du commerce et de la promotion des exportations sont chargés, fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre du commerce et de la promotion des exportations intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal en da régulation et promotion de la concurrence—— <NUM> — <NUM> régulation des marchés— — <NUM> — <NUM> organisation des activités commerciales— — <NUM> — — <NUM> protection du consommateur— — <NUM> analyse et contrôle de la qualité— — <NUM> contrôle des pratiques commerciales— — <NUM> — — <NUM> encadrement des échanges commerciaux et promotion des exportations
+— — <NUM> — — <NUM> echanges commerciaux— — <NUM> — — — — <NUM> promotion des exportations hors hydrocarbures— — <NUM> — — <NUM> administration générale18 <NUM> gestion du ministère— — <NUM> — — — — <NUM> soutien administratif18 <NUM> total des crédits mis à la disposition du ministre du commerce et de la promotion des exportations <NUM>
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la communication. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de vingt-deux milliards trois cent trente-deux millions deux cent trente-trois mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de vingt-six milliards quatre cent quarante-deux millions deux cent trente-trois mille dinars ( <NUM> . <NUM> dinars ) ouverts, au
+titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la communication, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre de la communication sont chargés, chacun en ce qui le démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la communication intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — <NUM> — <NUM> — — — <NUM> — <NUM> — — — <NUM> — <NUM> — — — <NUM> — <NUM> — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal médias et communication institutionnelle médias communication institutionnelle administration générale gestion du ministère soutien administratif total des crédits mis à la disposition du ministre de la communication en da
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des travaux publics et des infrastructures de base. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de quatre cent soixante-six milliards huit cent soixante-quinze millions six cent quatre-vingt-deux mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de sept cent quatre-vingt-dix-neuf milliards deux cent soixante-dix-neuf millions neuf cent quarante mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des travaux publics et des infrastructures de base, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre des travaux publics et des infrastructures de base sont chargés, fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des travaux publics et des infrastructures de base intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — — — — — — — — — — — <NUM> — <NUM> — — — — — — — — — — — — — <NUM> — <NUM> — — — <NUM> — — — <NUM> — <NUM> — <NUM> — — — — — — — — — — <NUM> — <NUM> — — — — — — — — — — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal infrastructures routières et autoroutières développement des infrastructures routières entretien routier développement et entretien des autoroutes infrastructures aéroportuaires développement des infrastructures aéroportuaires maintenance des infrastructures aéroportuaires infrastructures maritimes développement des infrastructures maritimes maintenance des infrastructures maritimes et signalisation infrastructures ferroviaires et transports guidés développement des infrastructures ferroviaires développement des infrastructures de transports guidés administration générale gestion du ministère soutien administratif total des crédits mis à la disposition du ministre des travaux publics et des infrastructures de base en da
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'hydraulique. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de deux cent onze milliards sept cent trente-et-un millions sept cent vingt-quatre mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de trois cent trente-deux milliards trois cent quatre-vingt-quatre millions cinq cent quatre-vingt-quatorze mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'hydraulique, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre de l'hydraulique sont chargés, chacun en ce qui le concerne, populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'hydraulique intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal en da mobilisation des ressources en eau et de la sécurité hydrique—— <NUM> mobilisation des ressources en eau conventionnelles—— <NUM> eau non conventionnelle— — <NUM> approvisionnement en eau potable et industrielle — — <NUM> adduction et réseaux de distribution en eau potable et industrielle
+— — <NUM> hydraulique agricole — — <NUM> périmètres irrigués— — <NUM> petite et moyenne hydraulique— — <NUM> — — <NUM> assainissement et protection du milieu naturel — — <NUM> réseaux d'assainissement et système d'épuration — — <NUM> protection des villes contre les inondations— — <NUM> — — <NUM> administration générale <NUM> gestion du ministère— — <NUM> — — — — <NUM> soutien administratif13 <NUM> total des crédits mis à la disposition du ministre de l'hydraulique <NUM>
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des transports. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de soixante-treize milliards quatre cent soixante-dix-huit millions cent vingt-deux mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de soixante-neuf milliards quatre cent un millions cent soixante-trois mille dinars ( <NUM> . <NUM> dinars ) ouverts, au
+titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des transports, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre des transports sont chargés, chacun en ce qui le concerne, de populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre des transports en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal mobilité et logistique— — <NUM> transports routiers et logistique— — <NUM> transports ferroviaires et guidés— — <NUM> marine marchande et ports— — <NUM> — — <NUM> marine marchande— — <NUM> — — <NUM> ports— — <NUM> — — — — <NUM> aéronautique et météorologie— — <NUM> aéronautique— — <NUM> météorologie— — <NUM> — — <NUM> administration générale4 <NUM> gestion du ministère— — <NUM> — — — — <NUM> soutien administratif4 <NUM> total des crédits mis à la disposition du ministre des transports <NUM>
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre du tourisme et de l'artisanat. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de cinq milliards six cent vingt-cinq millions sept cent soixante-sept mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de sept milliards six cent cinquante-quatre millions huit cent trente mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre du tourisme et de l'artisanat, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre du tourisme et de l'artisanat sont chargés, chacun en ce qui démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre du tourisme et de l'artisanat en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal tourisme— — <NUM> politique et promotion du tourisme—— <NUM> — <NUM> soutien aux projets touristiques—— <NUM> — — <NUM> artisanat et métiers—— <NUM> pilotage et encadrement du développement de l'artisanat et des métiers —— <NUM> promotion et amélioration des performances des acteurs —— <NUM> —— <NUM> administration générale3 <NUM> gestion du ministère— — <NUM> — — — — <NUM> soutien administratif3 <NUM> total des crédits mis à la disposition du ministre du tourisme et de l'artisanat <NUM>
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la santé. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de huit cent quarante-six milliards deux cent vingt-cinq millions de dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de huit cent quarante-huit milliards deux cent vingt-cinq millions de dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la santé, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre de la santé sont chargés, chacun en ce qui le concerne, de populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la santé en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal prévention et soins— — — — <NUM> prévention et soins— — — — <NUM> formation dans le domaine de la santé— — — — <NUM> formation et renforcement des compétences— — — — <NUM> administration générale7 <NUM> gestion du ministère7 <NUM> soutien administratif—— — — — — <NUM> total des crédits mis à la disposition du ministre de la santé <NUM>
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre du travail, de l'emploi et de la sécurité sociale. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de huit cent soixante-trois milliards sept cent quatre-vingt-trois millions trois mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de huit cent soixante-deux milliards six cent quatre-vingt-trois millions trois mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre du travail, de l'emploi et de la sécurité sociale, sont répartis conformément au tableau annexé au présent décret.
+art. <NUM> . — le ministre des finances et le ministre du travail, de l'emploi et de la sécurité sociale sont chargés, fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre du travail, de l'emploi et de la sécurité sociale en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal inspection générale du travail2 <NUM> — — <NUM> contrôle de l'application des dispositions législatives et réglementaires du travail
+— — — — <NUM> — — <NUM> gestion administrative et financière2 <NUM> — — — — <NUM> soutien et promotion de l'emploi— — <NUM> accès au marché de l'emploi— — <NUM> dispositif d'emploi— — — — — — <NUM> système de protection sociale— — — — — — <NUM> mise en œuvre de la politique de sécurité sociale— — — — — — — — — — soutien au système de sécurité sociale— — — — — — <NUM> administration générale2 <NUM> gestion du ministère478 <NUM> soutien administratif2 <NUM> —— — — <NUM> total des crédits mis à la disposition du ministre du travail, de l'emploi et de la sécurité sociale <NUM>
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la ministre des relations avec le parlement. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de cinq cent quatre-vingt-huit millions neuf cent vingt-six mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de cinq cent quatre-vingt-huit millions neuf cent vingt-six mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la ministre des relations avec le parlement, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et la ministre des relations avec le parlement sont chargés, chacun en ce démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la ministre des relations avec le parlement en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal renforcement des relations entre le gouvernement et le parlement <NUM> —— <NUM> suivi du travail parlementaire78 <NUM> — — <NUM> etude de textes législatifs et réglementaires31 <NUM> —— — — <NUM> administration générale234 <NUM> — — <NUM> gestion du ministère92 <NUM> — — — — <NUM> soutien administratif142 <NUM> — — <NUM> total des crédits mis à la disposition de la ministre des relations avec le parlement <NUM>
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la ministre de l'environnement et des énergies renouvelables. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de huit milliards cent quatre-vingt-quatre millions neuf cent trente-cinq mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de douze milliards neuf cent trente-et-un millions sept cent trente-cinq mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la ministre de l'environnement et des énergies renouvelables, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et la ministre de l'environnement et des énergies renouvelables sont chargés, fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition de la ministre de l'environnement et des énergies renouvelables en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement — — — — — — <NUM> — <NUM> — — — — — — <NUM> — <NUM> — — <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — — <NUM> — <NUM> — <NUM> — — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal environnement et développement durable environnement urbain et industriel biodiversité et changement climatique education et sensibilisation environnementale energies renouvelables energies renouvelables non raccordées au réseau administration générale gestion du ministère soutien administratif total des crédits mis à la disposition de la ministre de l'environnement et des énergies renouvelables
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la pêche et des productions halieutiques. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de sept milliards trois cent quatre-vingt-deux millions cinq cent quinze mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de huit milliards quatre cent trente-huit millions huit cent soixante-cinq mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la pêche et des productions halieutiques, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre de la pêche et des productions halieutiques sont chargés, fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de la pêche et des productions halieutiques en da intitulés des programmes et sous-programmes
+titre <NUM> : dépenses de personnel autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal pêche maritime—— <NUM> développement des activités et des infrastructures liées à la pêche —— <NUM> aquaculture—— <NUM> —— <NUM> développement des activités et des infrastructures liées à l'aquaculture —— <NUM> —— <NUM> contrôle des activités et de la qualité des produits de la pêche et de l'aquaculture —— <NUM> contrôle des activités de la pêche et de l'aquaculture et de la salubrité des milieux et des produits halieutiques —— <NUM> administration générale2 <NUM> gestion du ministère —— <NUM> ———— <NUM> soutien administratif <NUM> total des crédits mis à la disposition du ministre de la pêche et des productions halieutiques <NUM>
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'économie de la connaissance, des start-up et des micro-entreprises. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> , modifié, portant nomination des membres du gouvernement ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de trente milliards cent soixante-dix-sept millions huit cent vingt-huit mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de trente milliards cent soixante-dix-sept millions huit cent vingt-huit mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'économie de la connaissance, des start-up et des micro-entreprises, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le ministre de l'économie de la connaissance, des start-up et des micro-entreprises sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera publié au fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du ministre de l'économie de la connaissance, des start-up et des micro-entreprises en da crédits de paiement — — — <NUM> — <NUM> — — — <NUM> — <NUM> — — — — — — — — — — — — — — <NUM> — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal promotion de l'économie de la connaissance, des start-up et de l'entrepreneuriat promotion de l'économie de la connaissance et des start-up promotion de l'entrepreneuriat et de la créativité administration générale gestion du ministère soutien administratif total des crédits mis à la disposition du ministre de l'économie de la connaissance, des start-up et des micro-entreprises intitulés des programmes et sous-programmes autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement
+titre <NUM> : dépenses de personnel
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de la cour des comptes. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de un milliard cinq cent quinze millions sept cent quarante-huit mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de un milliard cinq cent trente-neuf millions huit cent soixante-dix-sept mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de la cour des comptes, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le président de la cour des comptes sont chargés, chacun en ce qui le démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de la cour des comptes en da crédits de paiement <NUM> — — <NUM> — — <NUM> — — <NUM> — — <NUM> — — <NUM> — — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal contrôle du patrimoine et des fonds publics vérification et jugement des comptes de gestion contrôle de la qualité de gestion, de l'exécution de la loi de finances et l'évaluation des programmes publics administration générale total des crédits mis à la disposition du président de la cour des comptes intitulés des programmes et sous-programmes autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement
+titre <NUM> : dépenses de personnel
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de la haute autorité de transparence, de prévention et de lutte contre la corruption. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de deux cent vingt-six millions neuf cent soixante-seize mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de deux cent vingt-six millions neuf cent soixante-seize mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de la haute autorité de transparence, de prévention et de lutte contre la corruption, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le président de la haute autorité de transparence, de prévention et de lutte contre la corruption sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de la haute autorité de transparence, de prévention et de lutte contre la corruption en da crédits de paiement <NUM> — — — — — — — — <NUM> — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal prévention et lutte contre la corruption formation, sensibilisation, prévention et lutte contre la corruption administration générale total des crédits mis à la disposition du président de la haute autorité de transparence, de prévention et de lutte contre la corruption intitulés des programmes et sous-programmes autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement
+titre <NUM> : dépenses de personnel
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de l'autorité nationale indépendante des élections. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de douze milliards huit cent trente-quatre millions seize mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de treize milliards cinq cent quatre-vingt-cinq millions trois cent quatre-vingt-treize mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de l'autorité nationale indépendante des élections, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le président de l'autorité nationale indépendante des élections sont fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de l'autorité nationale indépendante des élections en da crédits de paiement <NUM> — — — <NUM> — — — <NUM> — — — <NUM> — — — <NUM> — — — — — — — — — — — — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal préparation, organisation, gestion et supervision de l'ensemble des opérations électorales et référendaires préparation de l'ensemble des opérations électorales et référendaires organisation, gestion et supervision de l'ensemble des opérations électorales et référendaires révision ordinaire des listes électorales administration générale total des crédits mis à la disposition du président de l'autorité nationale indépendante des élections intitulés des programmes et sous-programmes autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement
+titre <NUM> : dépenses de personnel
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil national économique, social et environnemental. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+décrète :
+article. <NUM> . — les autorisations d'engagement d'un montant de huit cent soixante millions de dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de huit cent soixante millions de dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil national économique, social et environnemental, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le président du conseil national économique, social et environnemental fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil national économique, social et environnemental en da crédits de paiement <NUM> — <NUM> — <NUM> — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal dialogue, concertation et évaluation dans le domaine économique, social et environnemental avis rendus et recommandations aux pouvoirs publics administration générale total des crédits mis à la disposition du président du conseil national économique, social et environnemental intitulés des programmes et sous-programmes autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement
+titre <NUM> : dépenses de personnel
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du haut conseil islamique. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de cent quatre-vingt-et-un millions deux cent trente mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de cent quatre-vingt-et-un millions deux cent trente mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du haut conseil islamique, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le président du haut conseil islamique sont chargés, chacun en ce qui le démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du haut conseil islamique en da crédits de paiement <NUM> — — — — — — — — — — — — — — — — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal promotion des prescriptions religieuses islamiques encouragement et promotion de l'ijtihad administration générale total des crédits mis à la disposition du président du haut conseil islamique intitulés des programmes et sous-programmes autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement
+titre <NUM> : dépenses de personnel
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du haut conseil de la langue arabe. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de deux cent sept millions deux cent soixante-douze mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de deux cent sept millions deux cent soixante-douze mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du haut conseil de la langue arabe, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le président du haut conseil de la langue arabe sont chargés, chacun en démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du haut conseil de la langue arabe en da <NUM> — <NUM> — <NUM> — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal promotion et généralisation de la langue arabe activités du haut conseil de la langue arabe administration générale total des crédits mis à la disposition du président du haut conseil de la langue arabe intitulés des programmes et sous-programmesautorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses de personnel
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil national des droits de l'homme. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de deux cent cinquante-six millions cinq cent quarante mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de deux cent cinquante-six millions cinq cent quarante mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil national des droits de l'homme, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le président du conseil national des droits de l'homme sont chargés, fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil national des droits de l'homme en da <NUM> — — — — — — — — <NUM> — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal droits de l'homme promotion et protection des droits de l'homme administration générale total des crédits mis à la disposition du président du conseil national des droits de l'homme intitulés des programmes et sous-programmes autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses de personnel
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de l'académie algérienne des sciences et des technologies. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de deux cent soixante-dix-sept millions quatre cent mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de deux cent soixante-dix-sept millions quatre cent mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de l'académie algérienne des sciences et des technologies, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le président de l'académie algérienne des sciences et des technologies fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de l'académie algérienne des sciences et des technologies en da <NUM> — <NUM> — <NUM> — <NUM> — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal promouvoir le développement national durable par les sciences et les technologies la consultation et l'expertise dans le domaine des sciences et des technologies administration générale total des crédits mis à la disposition du président de l'académie algérienne des sciences et des technologies intitulés des programmes et sous-programmes autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses de personnel
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil national de la recherche scientifique et des technologies. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de cent soixante-quinze millions deux cent huit mille dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de cent soixante-quinze millions deux cent huit mille dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil national de la recherche scientifique et des technologies, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le président du conseil national de la recherche scientifique et des fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil national de la recherche scientifique et des technologies en da <NUM> — — — — — — — — — — — — — — — — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal développement de la recherche scientifique et technologique activité du conseil administration générale total des crédits mis à la disposition du président du conseil national de la recherche scientifique et des technologies intitulés des programmes et sous-programmes autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses de personnel
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de l'observatoire national de la société civile. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de deux cent soixante-dix-sept millions de dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de deux cent soixante-dix-sept millions de dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de l'observatoire national de la société civile, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le président de l'observatoire national de la société civile sont chargés, fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président de l'observatoire national de la société civile en da <NUM> — — — — — — — — — — — — — — — — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal promotion de la société civile promotion de l'action de la société civile administration générale total des crédits mis à la disposition du président de l'observatoire national de la société civile intitulés des programmes et sous-programmes autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement
+titre <NUM> : dépenses de personnel
+décret_exécutif_n°_24- <NUM> du <DATE> portant répartition des autorisations d'engagement et des crédits de paiement ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil supérieur de la jeunesse. ———— le premier ministre, sur le rapport du ministre des finances,
+vu la constitution, notamment ses articles <NUM> - <NUM> ° et <NUM> (alinéa <NUM> ) ;
+vu la loi_organique_n°_18- <NUM> du <DATE> , modifiée et complétée, relative aux lois de finances ;
+vu la loi_n°_23- <NUM> du <DATE> portant loi de finances pour <NUM> ;
+vu le décret_présidentiel_n°_23- <NUM> du <DATE> portant nomination du premier ministre ;
+décrète :
+article <NUM> . — les autorisations d'engagement d'un montant de quatre cent vingt-huit millions de dinars ( <NUM> . <NUM> dinars ) et les crédits de paiement d'un montant de quatre cent vingt-huit millions de dinars ( <NUM> . <NUM> dinars ) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil supérieur de la jeunesse, sont répartis conformément au tableau annexé au présent décret.
+article_2 . — le ministre des finances et le président du conseil supérieur de la jeunesse sont chargés, chacun en démocratique et populaire.
+fait à alger, le <DATE> .
+mohamed ennadir larbaoui.
+tableau annexe répartition des autorisations d'engagement (ae) et des crédits de paiement (cp) ouverts, au titre du budget de l'etat, par la loi de finances pour <NUM> , mis à la disposition du président du conseil supérieur de la jeunesse en da intitulés des programmes et sous-programmesautorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement autorisations d'engagement crédits de paiement <NUM> — <NUM> — <NUM> — <NUM> — <NUM> — — — — — — — — <NUM>
+titre <NUM> : dépenses de fonctionnement des services
+titre <NUM> : dépenses d'investissementtitre <NUM> : dépenses de transferttotal promotion de la jeunesse activités du conseil administration générale total des crédits mis à la disposition du président du conseil supérieur de la jeunesse
+titre <NUM> : dépenses de personnel
