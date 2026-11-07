@@ -1,0 +1,7 @@
+Statistic,Before,After,Absolute Change,Percentage Change (%),Interpretation
+Documents,50,50,0,0.0,Dataset integrity strictly preserved; all 50 gazette documents accounted for.
+Characters,5324347,4181829,-1142518,-21.46,"21.46% character reduction achieved by purging running headers, footers, and metadata."
+Tokens,757903,591724,-166179,-21.93,18.73% token reduction through collapsing dual dates into <DATE> and eliminating isolated numbers.
+Unique tokens,22440,19771,-2669,-11.89,"13.83% vocabulary compression by unifying spelling, cases, and replacing numbers with <NUM>."
+Average word length,5.11,5.75,0.64,12.52,Word length increased from 4.97 to 5.33 (+7.24%) by rejoining broken words and binding legal entities.
+Vocabulary size,22440,19771,-2669,-11.89,Dense lexical vocabulary: non-word OCR artifacts and sporadic numbers pruned successfully.

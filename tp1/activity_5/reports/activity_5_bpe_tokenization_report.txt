@@ -1,0 +1,61 @@
+=====================================================================================
+ ACTIVITY V: CLASSICAL TOKENIZATION vs. BYTE PAIR ENCODING (BPE) REPORT
+       Ecole Militaire Polytechnique - Natural Language Processing
+=====================================================================================
+ Target Test Word : constitutionnalité
+ BPE Merges Learned: 300
+ Final BPE Vocabulary Size: 525
+
+ [1] SIMPLE BPE PEDAGOGICAL MERGE TRACE:
+--------------------------------------------------------------------
+ Iter  | Pair (c1, c2)            | Frequency   | Merged Subword  
+--------------------------------------------------------------------
+ 1     | ('e', '</w>')            | 1,072       | e</w>           
+ 2     | ('s', '</w>')            | 955         | s</w>           
+ 3     | ('t', '</w>')            | 771         | t</w>           
+ 4     | ('t', 'i')               | 672         | ti              
+ 5     | ('o', 'n')               | 517         | on              
+ 6     | ('e', 'n')               | 511         | en              
+ 7     | ('e', 's</w>')           | 460         | es</w>          
+ 8     | ('d', 'e</w>')           | 423         | de</w>          
+ 9     | ('u', '</w>')            | 407         | u</w>           
+ 10    | ('l', 'a')               | 351         | la              
+ 11    | ('ti', 'on')             | 343         | tion            
+ 12    | ('la', '</w>')           | 307         | la</w>          
+ 13    | ('a', 'n')               | 299         | an              
+ 14    | ('en', 't</w>')          | 297         | ent</w>         
+ 15    | ('n', 'u')               | 277         | nu              
+--------------------------------------------------------------------
+
+ [2] TARGET WORD EVALUATION ('constitutionnalité'):
+  • Input Word       : constitutionnalité
+  • Subwords         : con + stitu + tion + na + li + t + é</w>
+  • Subword Token IDs: [94, 293, 313, 214, 197, 297, 367]
+  • Reconstructed    : 'constitutionnalité'
+
+ [3] THREE-WAY COMPARATIVE EVALUATION:
+============================================================================================
+ ACTIVITY V: THREE-WAY TOKENIZATION COMPARISON ON ALGERIAN LEGAL VOCABULARY
+============================================================================================
+ Test Word              | Classical (Word)   | Simple BPE (Toy)       | Complete BPE (Corpus)   
+--------------------------------------------------------------------------------------------
+ constitutionnalité     | [constitutionnalité] | c + on + s + ti + t + u + tion + n + a + l + i + t + é</w> | con + stitu + tion + na + li + t + é</w>
+ inconstitutionnalité   | <UNK>              | i + n + c + on + s + ti + t + u + tion + n + a + l + i + t + é</w> | in + con + stitu + tion + na + li + t + é</w>
+ décret                 | [décret]           | d + é + c + r + e + t</w> | décret</w>              
+ anticonstitutionnel    | <UNK>              | an + ti + c + on + s + ti + t + u + tion + n + e + l</w> | an + ti + con + stitu + tion + n + el</w>
+ jurisprudence          | [jurisprudence]    | j + u + r + i + s + p + r + u + d + en + c + e</w> | j + ur + is + pr + u + d + en + ce</w>
+ loi_organique          | <UNK>              | l + o + i + _ + o + r + g + an + i + q + u + e</w> | loi + _ + organ + i + que</w>
+ superficie             | [superficie]       | s + u + p + e + r + f + i + c + i + e</w> | su + per + fi + ci + e</w>
+--------------------------------------------------------------------------------------------
+
+ PARADIGMATIC COMPARISON MATRIX:
+--------------------------------------------------------------------------------------------
+ Dimension                 | Classical Tokenization | Complete BPE Subword               
+--------------------------------------------------------------------------------------------
+ Vocabulary Size           | Explosive (> 20,000) | Fixed, bounded (~400-1000)         
+ Out-Of-Vocabulary (OOV)   | Fatal (<UNK> error)  | Zero OOV (falls back to chars)     
+ Morphological Awareness   | None (monolithic)    | High (identifies affixes/roots)    
+ Sequence Length           | 1 token per word     | 1.2 - 2.5 tokens per word          
+ Downstream Transformer Fit | Poor (sparse embeddings) | Optimal (dense embeddings)         
+============================================================================================
+=====================================================================================

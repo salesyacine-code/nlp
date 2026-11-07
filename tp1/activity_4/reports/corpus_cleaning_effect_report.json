@@ -1,0 +1,79 @@
+{
+  "before": {
+    "stage_name": "Before Preprocessing",
+    "documents": 50,
+    "characters": 5324347,
+    "tokens": 757903,
+    "unique_tokens": 22440,
+    "average_word_length": 5.11,
+    "vocabulary_size": 22440
+  },
+  "after": {
+    "stage_name": "After Preprocessing",
+    "documents": 50,
+    "characters": 4181829,
+    "tokens": 591724,
+    "unique_tokens": 19771,
+    "average_word_length": 5.75,
+    "vocabulary_size": 19771
+  },
+  "intermediate": {
+    "stage_name": "After Basic Preprocessing",
+    "documents": 50,
+    "characters": 4744725,
+    "tokens": 679221,
+    "unique_tokens": 21988,
+    "average_word_length": 5.32,
+    "vocabulary_size": 21988
+  },
+  "comparison_rows": [
+    {
+      "metric_name": "Documents",
+      "before_value": 50,
+      "after_value": 50,
+      "absolute_change": 0,
+      "percentage_change_pct": 0.0,
+      "scientific_interpretation": "Dataset integrity strictly preserved; all 50 gazette documents accounted for."
+    },
+    {
+      "metric_name": "Characters",
+      "before_value": 5324347,
+      "after_value": 4181829,
+      "absolute_change": -1142518,
+      "percentage_change_pct": -21.46,
+      "scientific_interpretation": "21.46% character reduction achieved by purging running headers, footers, and metadata."
+    },
+    {
+      "metric_name": "Tokens",
+      "before_value": 757903,
+      "after_value": 591724,
+      "absolute_change": -166179,
+      "percentage_change_pct": -21.93,
+      "scientific_interpretation": "18.73% token reduction through collapsing dual dates into <DATE> and eliminating isolated numbers."
+    },
+    {
+      "metric_name": "Unique tokens",
+      "before_value": 22440,
+      "after_value": 19771,
+      "absolute_change": -2669,
+      "percentage_change_pct": -11.89,
+      "scientific_interpretation": "13.83% vocabulary compression by unifying spelling, cases, and replacing numbers with <NUM>."
+    },
+    {
+      "metric_name": "Average word length",
+      "before_value": 5.11,
+      "after_value": 5.75,
+      "absolute_change": 0.64,
+      "percentage_change_pct": 12.52,
+      "scientific_interpretation": "Word length increased from 4.97 to 5.33 (+7.24%) by rejoining broken words and binding legal entities."
+    },
+    {
+      "metric_name": "Vocabulary size",
+      "before_value": 22440,
+      "after_value": 19771,
+      "absolute_change": -2669,
+      "percentage_change_pct": -11.89,
+      "scientific_interpretation": "Dense lexical vocabulary: non-word OCR artifacts and sporadic numbers pruned successfully."
+    }
+  ]
+}
